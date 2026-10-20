@@ -1,0 +1,43 @@
+Temperature and its Measurement
+125
+Compare whether your observations match with your 
+predictions. Did your right hand feel that the water in 
+container B is cool, while your left hand felt that 
+the same water is warm? What do you infer 
+from these observations?
+We cannot always rely upon our sense of 
+touch to decide correctly whether a body is 
+hot or cold. 
+7.2	 Temperature
+A reliable measure of hotness (or coldness) of a body is 
+its temperature. A hotter body has a higher temperature 
+than a colder body.  The difference in temperature between 
+the two bodies tells us how hot a body is in comparison to 
+another body.  A device that measures temperature is called 
+a thermometer.
+There are two kinds of thermometers that you are 
+likely 
+to 
+come 
+across—clinical 
+thermometers 
+and 
+laboratory thermometers. Clinical thermometers are used 
+to measure human body temperatures whereas laboratory 
+thermometers are used for many other purposes. Let us 
+now learn more about thermometers and how to use them 
+to measure temperature. 
+7.3 	 Measuring Temperature
+7.3.1	 Clinical thermometer
+You might be familiar with a thermometer, like that shown in 
+Fig. 7.2, which is used for measuring our body temperature. 
+It is called a clinical thermometer. Such thermometers show 
+temperatures digitally. These are also known as digital 
+clinical thermometers and run on batteries. These measure 
+Then how do we 
+find out how hot 
+or cold a body 
+is? 
+Fig.7.2: A digital clinical thermometer
+Tip
+Reprint 2026-27

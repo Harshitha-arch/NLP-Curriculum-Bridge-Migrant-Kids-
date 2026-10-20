@@ -1,0 +1,1859 @@
+{
+  "source_file": "data\\NCERT\\fecu108.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu108",
+  "num_pages": 20,
+  "extraction_method": "native",
+  "native_page_count": 20,
+  "ocr_page_count": 0,
+  "total_images": 80,
+  "images_with_text": 3,
+  "total_tables": 4,
+  "total_vector_figures": 17,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "A Journey through \nStates of Water\n8\nChapter\nOn a bright summer afternoon, Aavi and Thirav enjoy their \nshikanji (lemonade). After looking at the ice in the lemonade, \nThirav wonders about the nature of ice and water.  \nAavi has a counterview to Thirav. What do you think? Why? \nDo you think Thirav is right? How can you find out?\nIf it does not rain well, even the mighty ocean \nwill be drained.\n(Thirukkural)\nWe can put \nwater in the freezer \nof a refrigerator \nand check if it gets \nconverted\n into ice.  \nNo, \nthese are the \nsame substances.\nIce feels hard to \ntouch and we can \nhold it in our hands, \nwhereas, water \ncannot be held in the \nsame way. So, they \nmust be different \nsubstances.\nYes, I know when \nwater is left in \nthe freezer, it gets \nconverted into ice but \nprobably something \ngets added to the ice in \nthe freezer.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 853,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0001_img01",
+          "file": "images/NCERT_fecu108_page0001_img01.png",
+          "bbox": [
+            -18.600000381469727,
+            -18.083816528320312,
+            611.4000244140625,
+            186.48089599609375
+          ],
+          "width_px": 1315,
+          "height_px": 427,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0001_img02",
+          "file": "images/NCERT_fecu108_page0001_img02.png",
+          "bbox": [
+            437.2696533203125,
+            603.2841796875,
+            494.9523620605469,
+            680.9443359375
+          ],
+          "width_px": 121,
+          "height_px": 162,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0001_img03",
+          "file": "images/NCERT_fecu108_page0001_img03.png",
+          "bbox": [
+            50.12361145019531,
+            601.0601806640625,
+            115.8611831665039,
+            674.6513671875
+          ],
+          "width_px": 137,
+          "height_px": 154,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0001_img04",
+          "file": "images/NCERT_fecu108_page0001_img04.png",
+          "bbox": [
+            398.80474853515625,
+            425.69830322265625,
+            456.4874572753906,
+            502.3097229003906
+          ],
+          "width_px": 121,
+          "height_px": 160,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0001_img05",
+          "file": "images/NCERT_fecu108_page0001_img05.png",
+          "bbox": [
+            74.25582122802734,
+            426.0362854003906,
+            134.0798797607422,
+            502.647705078125
+          ],
+          "width_px": 125,
+          "height_px": 160,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "VIF®"
+        },
+        {
+          "image_id": "NCERT_fecu108_page0001_img06",
+          "file": "images/NCERT_fecu108_page0001_img06.png",
+          "bbox": [
+            471.89996337890625,
+            190.44003295898438,
+            556.8599853515625,
+            275.4000244140625
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0001_img07",
+          "file": "images/NCERT_fecu108_page0001_img07.png",
+          "bbox": [
+            26.399999618530273,
+            182.99960327148438,
+            466.6500244140625,
+            298.8581237792969
+          ],
+          "width_px": 918,
+          "height_px": 242,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0001_img08",
+          "file": "images/NCERT_fecu108_page0001_img08.png",
+          "bbox": [
+            106.7750015258789,
+            185.79995727539062,
+            386.2749938964844,
+            245.36260986328125
+          ],
+          "width_px": 583,
+          "height_px": 125,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": "OBOMISLaIb SeBFoow GoM Fig hAS Mer\nSMoTpHoSM FTA ailig.cct\n(AGsSMeN)"
+        },
+        {
+          "image_id": "NCERT_fecu108_page0001_img09",
+          "file": "images/NCERT_fecu108_page0001_img09.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0001_img10",
+          "file": "images/NCERT_fecu108_page0001_img10.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 2,
+      "text": "Curiosity | Textbook of Science | Grade 6\n144\nActivity 8.1: Let us observe\n\n\nPut an ice cube in a cup, leave it on the table and \nobserve. \nIce gets converted into water. \nWhat can you conclude from the observations? \nDoes this mean that ice and water are the same substance? \nYes, ice and water are the two forms of the same substance. \nThese forms are also called states. These different states \nof water show many differences in their behaviour. Water \nflows but ice does not. Water splashes but ice does not.  \n8.1\t Investigating Water’s Disappearing Act\nIt is a rainy morning. While going to school, Aavi and \nThirav observe that there are a lot of water puddles in the \nplayground. That evening, when they go to play, they are \nsurprised to observe that some of the water in the puddles \nhad disappeared. \nHave you ever noticed water \nin the puddles disappearing? \nWhere does it go? Discuss with \nyour friends. \nWhere else have you seen \nwater disappearing? Can you \nthink of a possible reason why this \t\n\t\n\t\n        happens? \nYou might have observed that after washing the \nutensils, water left on the surface of the utensils, dries \nup after some time. Does the reason you thought earlier \nto explain water disappearance apply in this case also? \nAavi wonders if water has seeped through the surface of \nthe utensils.\nThirav thinks that water does not seep through the \nsurface of the utensils. Design an activity to investigate \nwhose idea is correct. \nActivity 8.2: Let us investigate \n\n\nTake a tablespoon of water on a steel plate as shown in \nFig. 8.1.\nI think the water has \nbeen absorbed by the soil on \nthe playground. What do you \nthink about it? \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1684,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0002_img01",
+          "file": "images/NCERT_fecu108_page0002_img01.png",
+          "bbox": [
+            71.36235809326172,
+            407.0581359863281,
+            150.90679931640625,
+            508.9237365722656
+          ],
+          "width_px": 166,
+          "height_px": 213,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0002_img02",
+          "file": "images/NCERT_fecu108_page0002_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0002_img03",
+          "file": "images/NCERT_fecu108_page0002_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 3,
+      "text": "A Journey through States of Water\n145\n\n\nObserve whether water seeps through to \nthe other side of the plate or not.\n\n\nKeep observing this at regular intervals \nuntil the water completely disappears.\nWhat do you infer? Is this activity enough \nto come to the conclusion that water does \nnot seep through a steel plate? \nIf water does not seep through the steel \nplate. Then, where has the water gone? \nThis water gets converted into gaseous \nstate called water vapour. The water vapour is \nanother state of water. Let us think of another \nobservation where you notice the water \ndisappearing.\nWhile making dosa, we sprinkle some water \non the hot pan and it disappears. Where does \nit go?  \nFig. 8.1: Steel plate with  \na tablespoon of water\nThe water which is sprinkled on the hot \npan gets converted into steam. Steam is \nactually water vapour, some part of which \nconverts into water droplets. \nThe process of conversion of water into \nits vapour state is called evaporation. \nThe process of evaporation takes place continuously, \neven at room temperature. Can you think of other examples \nof evaporation? \nDrying of wet clothes, mopped floor, and sweat on our \nbody are some examples of it.\nNow what do you think is the reason for the disappearance \nof water from the puddles? Is it due to: (i) seeping of water \ninto the ground or (ii) evaporation of water or (iii) both of \nthese?\nHand sanitiser disappears as you rub it on your hands. \nWhat happens to it? \nWater vapour is \nactually invisible \nbut the \npresence of \ntiny droplets \nof water in the \nsteam makes it \nvisible.\nDo you \nknow?\nLet us draw\nDraw a detailed sketch (with labels and \ncaption) about what happens to the water.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1708,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0003_img01",
+          "file": "images/NCERT_fecu108_page0003_img01.png",
+          "bbox": [
+            358.6401062011719,
+            54.27021789550781,
+            546.93212890625,
+            234.99298095703125
+          ],
+          "width_px": 393,
+          "height_px": 377,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0003_img02",
+          "file": "images/NCERT_fecu108_page0003_img02.png",
+          "bbox": [
+            353.6400146484375,
+            292.08001708984375,
+            536.8031005859375,
+            481.12811279296875
+          ],
+          "width_px": 382,
+          "height_px": 394,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0003_img03",
+          "file": "images/NCERT_fecu108_page0003_img03.png",
+          "bbox": [
+            333.0430603027344,
+            301.0253601074219,
+            441.68072509765625,
+            470.2979736328125
+          ],
+          "width_px": 227,
+          "height_px": 353,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": ". ie a"
+        },
+        {
+          "image_id": "NCERT_fecu108_page0003_img04",
+          "file": "images/NCERT_fecu108_page0003_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0003_img05",
+          "file": "images/NCERT_fecu108_page0003_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0003_vecfig01",
+          "file": "images/NCERT_fecu108_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Observe whether water seeps through to\nthe other side of the plate or not.\n\nKeep observing this at regular intervals\nuntil the water completely disappears.\n\nWhat do you infer? Is this activity enough\nto come to the conclusion that water does\nnot seep through a steel plate?\n\nIf water does not seep through the steel\nplate. Then, where has the water gone?\n\nThis water gets converted into gaseous\nstate called water vapour. The water vapour is\nanother state of water. Let us think of another\nobservation where you notice the water\ndisappearing.\n\nWhile making dosa, we sprinkle some water\non the hot pan and it disappears. Where does\nit go?\n\nFig. 8.1: Steel plate with\na tablespoon of water\n\nWater vapour is\n\nactually invisible\n\nLet us draw Title ins\nDraw a detailed sketch (with labels and presence of\ncaption) about what happens to the water. tiny droplets\n\nof water in the\n\nThe water which is sprinkled on the hot steam makes it\n\npan gets converted into steam. Steam is visible.\nactually water vapour, some part ofwhich pg you\nconverts into water droplets. know?\n\nThe process of conversion of water into\nits vapour state is called evaporation.\n\nThe process of evaporation takes place continuously,\neven at room temperature. Can you think of other examples\nof evaporation?\n\nDrying of wet clothes, mopped floor, and sweat on our\nbody are some examples of it.\n\nNow what do youthinkis the reason for the disappearance\nof water from the puddles? Is it due to: (i) seeping of water\ninto the ground or (ii) evaporation of water or (iii) both of\nthese?\n\nHand sanitiser disappears as you rub it on your hands.\nWhat happens to it?\n\nReprint 2026-27\n\nA Journey through States of Water\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Curiosity | Textbook of Science | Grade 6\n146\n8.2\t Another Mystery \nNext day, Aavi, Thirav and their friends decide to make \nlemonade. During the preparation, they take cold water in a \nglass tumbler and add ice cubes into it. After a few minutes, \nthey notice something exciting about the outer surface of \nthe glass tumbler.\nLet us find out by conducting a similar activity ourselves. \nActivity 8.3: Let us experiment \n\n\nTake cold water in a glass tumbler.\n\n\nAdd a few ice cubes into it as shown in Fig. 8.2. \n\n\n\u0007Leave it undisturbed for five \nminutes and observe it. \n\n\n\u0007Record your observations and the \nquestions that arise in your mind \nin Table 8.1. You can also touch the \nouter surface of the glass tumbler to \nfeel if there is any change.\nFig. 8.2: A glass tumbler containing \ncold water and ice cubes\nOne observation that arises in Aavi’s mind is, “There are \nsome water droplets (tiny drops) appearing on the outer \nsurface of the glass tumbler.” Initially, water droplets are \ndeposited and these droplets combine together to form \nbigger drops. You can also try the above process with a \nmetal container. You may be curious about where the water \ndroplets come from. \nSuggest possible reasons explaining the appearance of \nwater droplets on the outer surface of the glass tumbler. \nI observe\nI wonder\nTable 8.1: Record the observations and questions\nYou may have many observations and questions here. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1440,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0004_img01",
+          "file": "images/NCERT_fecu108_page0004_img01.png",
+          "bbox": [
+            91.9004898071289,
+            265.5000915527344,
+            206.945556640625,
+            357.67816162109375
+          ],
+          "width_px": 240,
+          "height_px": 192,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0004_img02",
+          "file": "images/NCERT_fecu108_page0004_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0004_img03",
+          "file": "images/NCERT_fecu108_page0004_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0004_vecfig01",
+          "file": "images/NCERT_fecu108_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "es §. 2 Another Mystery\n\nNext day, Aavi, Thirav and their friends decide to make\nlemonade. During the preparation, they take cold water ina\nglass tumbler and add ice cubes into it. After a few minutes,\nthey notice something exciting about the outer surface of\nthe glass tumbler.\n\nLet us find out by conducting a similar activity ourselves.\n\nActivity 8.3:Letusexperinent =\n\n@ Take cold water in a glass tumbler.\n@ Adda few ice cubes into it as shown in Fig. 8.2.\n\n@ Leave it undisturbed for five\nminutes and observe it.\n\n¢ Record your observations and the\nquestions that arise in your mind\nin Table 8.1. You can also touch the\nouter surface of the glass tumbler to\nfeel if there is any change.\n\nFig. 8.2: A glass tumbler containing\ncold water and ice cubes\n\nYou may have many observations and questions here.\n\nTable 8.1: Record the observations and questions\n\nI observe I wonder\n\nOne observation that arises in Aavi’s mind is, “There are\nsome water droplets (tiny drops) appearing on the outer\nsurface of the glass tumbler.” Initially, water droplets are\ndeposited and these droplets combine together to form\nbigger drops. You can also try the above process with a\nmetal container. You may be curious about where the water\ndroplets come from.\n\nSuggest possible reasons explaining the appearance of\nwater droplets on the outer surface of the glass tumbler.\n\nCuriosity | Textbook of Science | Grade 6\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "A Journey through States of Water\n147\nDiscuss with your friends. Write down the possible \nreasons in Fig. 8.3.\nYou may have various possible reasons. You may agree \nor disagree with the reasons of others. Aavi and Thirav \nargued with a chain of reasons. What do you think about \nthe possible reasons mentioned in Fig. 8.4?\nFig. 8.4: Chain of reasoning\nWe can take water at room \ntemperature in another tumbler \nand find out whether any \nwater seeps out.\nNo, it cannot seep \nout. The level of water in \nthe glass tumbler has not \ndecreased.\nI think that some of \nthe water may have \nseeped out of the glass \ntumbler.\nIt might have \ndecreased, but may \nnot be significant \nenough to be seen. \nWith a tall and narrow \nbottle, even a slight change \nin the level of water is \nnoticeable. \nFig. 8.3: Provide your possible reasons explaining the appearance \nof water droplets on the outer surface of the glass tumbler \nMay be ice has come \nout of the glass \ntumbler and melted.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 987,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0005_img01",
+          "file": "images/NCERT_fecu108_page0005_img01.png",
+          "bbox": [
+            238.4524688720703,
+            519.361083984375,
+            315.1138000488281,
+            616.3447265625
+          ],
+          "width_px": 160,
+          "height_px": 202,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img02",
+          "file": "images/NCERT_fecu108_page0005_img02.png",
+          "bbox": [
+            422.2759704589844,
+            623.8048095703125,
+            484.25048828125,
+            705.214599609375
+          ],
+          "width_px": 130,
+          "height_px": 170,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img03",
+          "file": "images/NCERT_fecu108_page0005_img03.png",
+          "bbox": [
+            423.57965087890625,
+            428.60137939453125,
+            485.7876281738281,
+            503.4945373535156
+          ],
+          "width_px": 130,
+          "height_px": 156,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img04",
+          "file": "images/NCERT_fecu108_page0005_img04.png",
+          "bbox": [
+            70.3860092163086,
+            405.2984619140625,
+            141.94378662109375,
+            496.2991027832031
+          ],
+          "width_px": 150,
+          "height_px": 190,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img05",
+          "file": "images/NCERT_fecu108_page0005_img05.png",
+          "bbox": [
+            182.5582275390625,
+            498.3450927734375,
+            248.400146484375,
+            573.5379028320312
+          ],
+          "width_px": 138,
+          "height_px": 157,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img06",
+          "file": "images/NCERT_fecu108_page0005_img06.png",
+          "bbox": [
+            397.1873779296875,
+            197.1070098876953,
+            464.107666015625,
+            287.21832275390625
+          ],
+          "width_px": 140,
+          "height_px": 188,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img07",
+          "file": "images/NCERT_fecu108_page0005_img07.png",
+          "bbox": [
+            70.37786865234375,
+            197.94296264648438,
+            160.7924041748047,
+            287.21966552734375
+          ],
+          "width_px": 189,
+          "height_px": 186,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img08",
+          "file": "images/NCERT_fecu108_page0005_img08.png",
+          "bbox": [
+            182.40438842773438,
+            200.48556518554688,
+            249.36190795898438,
+            287.136474609375
+          ],
+          "width_px": 140,
+          "height_px": 181,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img09",
+          "file": "images/NCERT_fecu108_page0005_img09.png",
+          "bbox": [
+            287.63018798828125,
+            200.87362670898438,
+            382.4210205078125,
+            287.1744384765625
+          ],
+          "width_px": 198,
+          "height_px": 180,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img10",
+          "file": "images/NCERT_fecu108_page0005_img10.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0005_img11",
+          "file": "images/NCERT_fecu108_page0005_img11.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0005_vecfig01",
+          "file": "images/NCERT_fecu108_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Discuss with your friends. Write down the possible\nreasons in Fig. 8.3.\n\nMay be ice has come\nout of the glass\ntumbler and melted.\n\nFig. 8.3: Provide your possible reasons explaining the appearance\nof water droplets on the outer surface of the glass tumbler\n\nYou may have various possible reasons. You may agree\nor disagree with the reasons of others. Aavi and Thirav\nargued with a chain of reasons. What do you think about\nthe possible reasons mentioned in Fig. 8.4?\n\nI think that some of\nthe water may have\nseeped out of the glass\n\ntumbler No, it cannot seep\n\nout. The level of water in\nthe glass tumbler has not\ndecreased.\n\nIt might have\ndecreased, but may\nnot be significant\nenough to be seen.\n\nWith a tall and narrow\nbottle, even a slight change\nin the level of water is\nnoticeable.\n\nWe can take water at room\ntemperature in another tumbler %\nand find out whether any \\S4\n\nwater seeps out. , Ean\n\nFig. 8.4: Chain of reasoning\n\nReprint 2026-27\n\nA Journey through States of Water\n\noS"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Curiosity | Textbook of Science | Grade 6\n148\nContinue the discussion on the given reasons or conduct \nactivities to find evidence for the reasons given to help in \nthis discussion. Where else have you seen water droplets \nlike this?  \nYou might have seen dew drops on \nplants. Why do we see dew drops more \nin the morning? When we boil the \nwater in a half-filled utensil and cover \nit with a steel plate, some water drops \naccumulate on the inner side of the steel \nplate. Where do these water drops come \nfrom? What do you think? \nWhen the water vapour present in the \nair comes in contact with a cold surface, \nit forms water droplets. The process of conversion of water \nvapour into its liquid state is called condensation. \nAfter understanding the concept of condensation of water, \nlet us go back to Activity 8.3. Could the water appearing on \nthe outer surface of the glass tumbler in Activity 8.3 also be \ndue to condensation of water vapour present in the air? Let \nus investigate it.\nActivity 8.4: Let us measure   \nAavi and Thirav conduct an activity to find evidence for \ntheir reasons. You can also conduct the activity by following \nthe steps given below. Record your data in Table 8.2.\n\n\nTake a glass tumbler half-filled with water containing a \nfew ice cubes. Cover it with a small steel plate. Weigh it \non a digital weighing balance.\n\n\nObserve the reading on the balance and record the \nweight after every five minutes.\n\n\nContinue observing for 30 minutes. Record your \nobservations in Table 8.2.\nPredict what will happen to the mass of cold water kept on \nthe digital weighing balance. Will it increase or decrease or \nremain the same? \nDew drops on plants\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1699,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0006_img01",
+          "file": "images/NCERT_fecu108_page0006_img01.png",
+          "bbox": [
+            55.399993896484375,
+            136.60975646972656,
+            257.004150390625,
+            264.93218994140625
+          ],
+          "width_px": 421,
+          "height_px": 268,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0006_img02",
+          "file": "images/NCERT_fecu108_page0006_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0006_img03",
+          "file": "images/NCERT_fecu108_page0006_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0006_vecfig01",
+          "file": "images/NCERT_fecu108_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nDew drops on plants\n\nContinue the discussion on the given reasons or conduct\nactivities to find evidence for the reasons given to help in\nthis discussion. Where else have you seen water droplets\nlike this?\n\nYou might have seen dew drops on\nplants. Why do we see dew drops more\nin the morning? When we boil the\nwater in a half-filled utensil and cover\nit with a steel plate, some water drops\naccumulate on the inner side of the steel\nplate. Where do these water drops come\nfrom? What do you think?\n\nWhen the water vapour present in the\nair comes in contact with a cold surface,\nit forms water droplets. The process of conversion of water\nvapour into its liquid state is called condensation.\n\nAfter understanding the concept of condensation of water,\nlet us go back to Activity 8.3. Could the water appearing on\nthe outer surface of the glass tumbler in Activity 8.3 also be\ndue to condensation of water vapour present in the air? Let\nus investigate it.\n\nActivity 8.4; Let us measure ea,\n\nAavi and Thirav conduct an activity to find evidence for\n\ntheir reasons. You can also conduct the activity by following\n\nthe steps given below. Record your data in Table 8.2.\n\n¢ Take a glass tumbler half-filled with water containing a\nfew ice cubes. Cover it with a small steel plate. Weigh it\non a digital weighing balance.\n\n@ Observe the reading on the balance and record the\nweight after every five minutes.\n\n@ Continue observing for 30 minutes. Record your\nobservations in Table 8.2.\n\nPredict what will happen to the mass of cold water kept on\n\nthe digital weighing balance. Will it increase or decrease or\n\nremain the same?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "A Journey through States of Water\n149\nDo your findings match with \nyour predictions? Explain your \nobservations.\nYou may observe some water \ndroplets on the glass tumbler. \nWater vapour from the air \ncomes in contact with the cold \nsurface of the glass tumbler \nand gets converted into water \ndroplets on the glass tumbler \nthrough condensation. There is an increase in the reading \non the digital weighing balance. Can we conclude that water \nis not seeping through the wall of the tumbler? Can we also \nconclude that the water collected outside the tumbler is only \ndue to condensation? No, we cannot say that conclusively \nfrom Activity 8.4. What more can you do to show that water \nis not seeping from the glass tumbler? How would you \nmodify Activity 8.4 to find the answer?\nRepeat Activity 8.4 with the following modifications— \n\n\nMark the water level on the glass tumbler with a \npermanent marker or a visible tape. \nWhat do you observe? Water level in the glass tumbler \ndoes not go down but the extra water gets collected on the \nouter surface of the glass tumbler. What can you conclude \nTable 8.2: Measurement of mass in condensation \nexperiment using a digital weighing balance\nTime \nMass of water \n0 min\n5 min\n10 min\n15 min\n20 min\n25 min\n30 min\nThe amount of water vapour in \nthe air is also known as humidity. \nThe daily humidity data for \nyour area is reported in the \nnewspapers and other sources. \nCompile the data for the year and \nstudy any patterns, if present.\nMore to \ndo!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1513,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0007_img01",
+          "file": "images/NCERT_fecu108_page0007_img01.png",
+          "bbox": [
+            266.9200439453125,
+            310.994384765625,
+            543.0400390625,
+            467.3999938964844
+          ],
+          "width_px": 576,
+          "height_px": 326,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0007_img02",
+          "file": "images/NCERT_fecu108_page0007_img02.png",
+          "bbox": [
+            461.2222900390625,
+            297.44775390625,
+            552.142333984375,
+            379.52587890625
+          ],
+          "width_px": 190,
+          "height_px": 171,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0007_img03",
+          "file": "images/NCERT_fecu108_page0007_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0007_img04",
+          "file": "images/NCERT_fecu108_page0007_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0007_table01",
+          "bbox": [
+            95.4000015258789,
+            133.79498291015625,
+            413.99998474121094,
+            312.7818603515625
+          ],
+          "rows": [
+            [
+              "0 min",
+              ""
+            ],
+            [
+              "5 min",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "10 min",
+              ""
+            ],
+            [
+              "15 min",
+              ""
+            ],
+            [
+              "20 min",
+              ""
+            ],
+            [
+              "25 min",
+              ""
+            ],
+            [
+              "30 min",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0007_vecfig01",
+          "file": "images/NCERT_fecu108_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Table 8.2: Measurement of mass in condensation\nexperiment using a digital weighing balance\n\nTime Mass of water\n0 min\n5 min\n10 min\n15 min\n20 min\n25 min\n30 min\n\nDo your findings match with\nyour predictions? Explain your\n\nobservations. The amount of water vapour in\nYou may observe some water the air is also known as humidity.\n\nThe daily humidity data for\n\ndroplets on the glass tumbler. ;\nyour area is reported in the\n\nWater vapour from the air\ncomes in contact with the cold\n\nand gets converted into water\n\ndroplets on the glass tumbler\n\nthrough condensation. There is an increase in the reading\non the digital weighing balance. Can we conclude that water\nis not seeping through the wall of the tumbler? Can we also\nconclude that the water collected outside the tumbler is only\ndue to condensation? No, we cannot say that conclusively\nfrom Activity 8.4. What more can you do to show that water\nis not seeping from the glass tumbler? How would you\nmodify Activity 8.4 to find the answer?\n\nRepeat Activity 8.4 with the following modifications—\n\nMark the water level on the glass tumbler with a\npermanent marker or a visible tape.\n\nWhat do you observe? Water level in the glass tumbler\ndoes not go down but the extra water gets collected on the\nouter surface of the glass tumbler. What can you conclude\n\nReprint 2026-27\n\nnewspapers and other sources.\n\nCompile the data forthe yearand Moreto\nsurface of the glass tumbler study any patterns, if present.\n\n€3)\n\nA Journey through States of Water\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Curiosity | Textbook of Science | Grade 6\n150\nfrom this? This activity shows that water is not seeping from \nthe glass tumbler and the extra water is getting collected \nbecause of condensation.  \n8.3\t What are the different States of Water?\nWater is a substance that can be observed in three different \nstates in our daily life. In the solid state, it exists as ice. On \nheating, the ice melts and gets converted into its liquid state. \nOn further heating, water gets converted into its gaseous \nstate. Let us perform Activity 8.5 to identify the properties \nof different states of water.\nActivity 8.5: Let us identify \n\n\nPut an ice cube in one container and transfer it to \nanother container of different shape. What changes do \nyou notice in the shape of the ice cube? Record your \nobservations in Table 8.3. \n\n\nPour water from one container to another container of a \ndifferent shape. Observe how water behaves compared \nto the ice cube and make a record. Did you notice how \nwater flows from one container to the other? What \nhappens to its shape? \n\n\nPour water on a clean surface and observe how it \nspreads. \n\n\nWhen water gets converted into water vapour, how \ndoes this water vapour spread? Compare this with the \nspreading behaviour of water. \nTable 8.3: Compare different states of water  \nProperty\nIce  \n(Solid state)\nWater  \n(Liquid \nstate)\nWater  \nvapour \n(Gaseous \nstate)\nShape\nAbility to flow\nAbility to spread\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1449,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0008_img01",
+          "file": "images/NCERT_fecu108_page0008_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0008_img02",
+          "file": "images/NCERT_fecu108_page0008_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0008_table01",
+          "bbox": [
+            55.192176818847656,
+            192.1988525390625,
+            521.6099853515625,
+            706.8710327148438
+          ],
+          "rows": [
+            [
+              "On further heating, water gets converted into its gaseous\nstate. Let us perform Activity 8.5 to identify the properties\nof different states of water.\nActivity 8.5: Let us identify\n Put an ice cube in one container and transfer it to\nanother container of different shape. What changes do\nyou notice in the shape of the ice cube? Record your\nobservations in Table 8.3.\n Pour water from one container to another container of a\ndifferent shape. Observe how water behaves compared\nto the ice cube and make a record. Did you notice how\nwater flows from one container to the other? What\nhappens to its shape?\n Pour water on a clean surface and observe how it\nspreads.\n When water gets converted into water vapour, how\ndoes this water vapour spread? Compare this with the\nspreading behaviour of water.\nTable 8.3: Compare different states of water\nWater\nWater vapour\nIce (Liquid (Gaseous\nProperty (Solid state) state) state)\nShape\nAbility to flow",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "Shape",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Ability to flow",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Ability to spread",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0008_vecfig01",
+          "file": "images/NCERT_fecu108_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n©\n\nfrom this? This activity shows that water is not seeping from\nthe glass tumbler and the extra water is getting collected\nbecause of condensation.\n\n8.3. What are the Different States of Water?\n\nWater is a substance that can be observed in three different\nstates in our daily life. In the solid state, it exists as ice. On\nheating, the ice melts and gets converted into its liquid state.\nOn further heating, water gets converted into its gaseous\nstate. Let us perform Activity 8.5 to identify the properties\nof different states of water.\n\nActivity 8.5: Let us identify $e\n\n¢ Put an ice cube in one container and transfer it to\nanother container of different shape. What changes do\nyou notice in the shape of the ice cube? Record your\nobservations in Table 8.3.\n\n¢ Pour water from one container to another container ofa\ndifferent shape. Observe how water behaves compared\nto the ice cube and make a record. Did you notice how\nwater flows from one container to the other? What\nhappens to its shape?\n\n¢ Pour water on a clean surface and observe how it\nspreads.\n\n¢ When water gets converted into water vapour, how\ndoes this water vapour spread? Compare this with the\nspreading behaviour of water.\n\nTable 8.3: Compare different states of water\n\nWater\nWater vapour\nIce (Liquid (Gaseous\nProperty (Solid state) state) state)\n\nShape\nAbility to flow\n\nAbility to spread\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "A Journey through States of Water\n151\nWhat are the differences in the properties of water in \nsolid, liquid and gaseous states?\nIce (solid state) retains its shape irrespective of the \ncontainer in which it is placed while water takes the shape \nof the container. Ice does not flow or spread.  \nWater (liquid state) flows and changes its shape. Water \ndoes not have a fixed shape. It takes up the shape of the \ncontainer in which it is kept, but the volume of water remains \nconstant. Does water also possess the property to spread? \nYes, water also has the property to spread while keeping the \nvolume constant. \nWater vapour (gaseous state) exhibits a property of \nspreading out in the entire available space. Gases do not \npossess a fixed shape. Water vapour exists even at room \ntemperature; though it is invisible to us. It is present in the \nair around us. The water that evaporates during processes \nlike drying of clothes or mopping of floors contribute to the \nwater vapour in the air around us. \nYou are now familiar with the three states of water. Some \nother substances also exhibit these states. For example, wax, \noil and ghee. Let us look at some more examples of solids, \nliquids and gases.\nLook around and find some examples of solid substances. \nSome examples could be stones, wood and glass.\nWhat are the other examples of liquids you can think of? \nHere are two examples— milk and oil. Think of five more \nexamples.\nHave you ever noticed that you can smell the food being \ncooked even without entering the kitchen? How does this \nsmell reach us? \nIt is because the smell of yummy food from cooking \nspreads through the air and reaches our nostrils, even if we \nare not in the kitchen.\nWhat are the other examples of gases you can think of? \nWhat about oxygen and carbon dioxide? \n8.4\t How can we change the States of Water? \nSo far we have learnt that water can exist in solid, liquid \nand gaseous states. How can you change the state of water? \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1982,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0009_img01",
+          "file": "images/NCERT_fecu108_page0009_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0009_img02",
+          "file": "images/NCERT_fecu108_page0009_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0009_vecfig01",
+          "file": "images/NCERT_fecu108_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "What are the differences in the properties of water in\nsolid, liquid and gaseous states?\n\nIce (solid state) retains its shape irrespective of the\ncontainer in which it is placed while water takes the shape\nof the container. Ice does not flow or spread.\n\nWater (liquid state) flows and changes its shape. Water\ndoes not have a fixed shape. It takes up the shape of the\ncontainer in which itis kept, but the volume of water remains\nconstant. Does water also possess the property to spread?\nYes, water also has the property to spread while keeping the\nvolume constant.\n\nWater vapour (gaseous state) exhibits a property of\nspreading out in the entire available space. Gases do not\npossess a fixed shape. Water vapour exists even at room\ntemperature; though it is invisible to us. It is present in the\nair around us. The water that evaporates during processes\nlike drying of clothes or mopping of floors contribute to the\nwater vapour in the air around us.\n\nYou are now familiar with the three states of water. Some\nother substances also exhibit these states. For example, wax,\noil and ghee. Let us look at some more examples of solids,\nliquids and gases.\n\nLook around and find some examples of solid substances.\nSome examples could be stones, wood and glass.\n\nWhat are the other examples of liquids you can think of?\nHere are two examples—milk and oil. Think of five more\nexamples.\n\nHave you ever noticed that you can smell the food being\ncooked even without entering the kitchen? How does this\nsmell reach us?\n\nIt is because the smell of yummy food from cooking\nspreads through the air and reaches our nostrils, even if we\nare not in the kitchen.\n\nWhat are the other examples of gases you can think of?\nWhat about oxygen and carbon dioxide?\n\n8.4 How can We Change the States of Water?\n\nSo far we have learnt that water can exist in solid, liquid\nand gaseous states. How can you change the state of water?\n\nReprint 2026-27\n\nA Journey through States of Water\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Curiosity | Textbook of Science | Grade 6\n152\nHow can you quickly change ice \nto its liquid state, water? \nIf we have to change ice  into \nwater, and water into water \nvapour, we have to supply \nheat to it. If we want to change \nwater into ice, what should be \ndone?\nIt can be done by placing \nwater in a cold environment, \nsuch as a freezer. Water freezes and is \nconverted into ice. If we take the ice out of the freezer, \nit melts and is converted into water. \nCan you think of any other example, besides water, that \ncan change from solid to liquid? \nA candle, which is made of wax, is one such example. \nHow can we turn candle wax into liquid state? How can \nwe change the liquid wax back into solid state? We should \ncool the liquid wax to change it into a solid. What are the \nother liquids you have seen which get converted into a \nsolid? Have you ever seen coconut oil getting converted into \nits solid state during the winter season? \nHence, we can see that water and other substances change \ntheir states on heating or cooling. The process of conversion \nof a solid into liquid state is called melting. The process of \nconversion of liquid into solid state is called freezing.\nLet us check the connection between different states of \nwater through Activity 8.6. \nActivity 8.6: Let us complete the diagram \nFill up the blank boxes in Fig. 8.5 marked as A, B, C and 1, 2, \n3, 4 for conversion of different states of water using the \nwords given in the box. Two words have been filled for you.\nLiquid, Freezes, Evaporates, Gas, Condenses\n3.\n4.\nMelts\n1.\n2.\nSolid\nA.\nB.\nC.\nFig. 8.5: Conversion of different states of water \nAtmospheric Water Generator (AWG) \nmachines collect water from humid air \nto produce drinkable water. This is done \nthrough condensation of water vapour \nMore to \nknow!\nby cooling the air. This process \nis similar to the formation of \ndrops of water outside the \nglass tumbler filled with ice \ncold water.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1952,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0010_img01",
+          "file": "images/NCERT_fecu108_page0010_img01.png",
+          "bbox": [
+            42.0399169921875,
+            38.81071472167969,
+            329.159912109375,
+            230.3907470703125
+          ],
+          "width_px": 599,
+          "height_px": 400,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0010_img02",
+          "file": "images/NCERT_fecu108_page0010_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0010_img03",
+          "file": "images/NCERT_fecu108_page0010_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0010_vecfig01",
+          "file": "images/NCERT_fecu108_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nAtmospheric Water Generator (AWG) How can you quickly change ice\n\nmachines collect water from humid air to its liquid state, water?\nto produce drinkable water. This is done If we have to change ice Into\nthrough condensation of water vapour water, and water into water\nby cooling the air. This process  V@POur, we have to supply\nis similar to the formation of heat to it. If we want to change\nJ drops of water outside the water into ice, what should be\n?\n\nglass tumbler filled with ice done: ;\nMore to cold water. It can be done by placing\nknow! water in a cold environment,\n\nsuch as a freezer. Water freezes and is\nconverted into ice. If we take the ice out of the freezer,\nit melts and is converted into water.\n\nCan you think of any other example, besides water, that\ncan change from solid to liquid?\n\nA candle, which is made of wax, is one such example.\n\nHow can we turn candle wax into liquid state? How can\nwe change the liquid wax back into solid state? We should\ncool the liquid wax to change it into a solid. What are the\nother liquids you have seen which get converted into a\nsolid? Have you ever seen coconut oil getting converted into\nits solid state during the winter season?\n\nHence, we can see that water and other substances change\ntheir states on heating or cooling. The process of conversion\nof a solid into liquid state is called melting. The process of\nconversion of liquid into solid state is called freezing.\n\nLet us check the connection between different states of\nwater through Activity 8.6.\n\nActivity 8.6: Let us complete the diagram Se\n\nFill up the blank boxes in Fig. 8.5 marked as A, B, C and 1, 2,\n3, 4 for conversion of different states of water using the\nwords given in the box. Two words have been filled for you.\n\nLiquid, Freezes, Evaporates, Gas, Condenses\n\n1. Melts 2.\nno fs id\n3. 4.\n\nFig. 8.5: Conversion of different states of water\n\ne\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "A Journey through States of Water\n153\n8.5 \t How can Water be Evaporated Faster or \nSlower?\nIn section 8.1, we have learnt about evaporation. Let us \nexplore it more!\nObserve your surroundings. What are the conditions that \naffect how fast water evaporates? What differences do you \nsee in evaporation on a cold day versus a hot day? Discuss \nwith your friends. The following words may help in your \ndiscussion—fan, drying cloth, sweating, windy day, hot day, \nrainy day.\nLet us perform Activity 8.7 to investigate conditions that \nwill affect how fast water will evaporate. \nActivity 8.7: Let us investigate\n\n\nTake water in a small cap of a bottle (you may use \nsanitiser in place of water). \n\n\nTake the same amount of water in a plate. The exposed \narea of water in the bottle cap and the plate are different. \n\n\nKeep both of them near each other. \n\n\nRecord the time taken for the water to completely \nevaporate in each case in Table 8.4.\nWhat \nconditions did \nwe keep the same?\nWhat \ndid we change in \nthis investigation?\nWhat did we  \nmeasure?\nLet us investigate\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1090,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0011_img01",
+          "file": "images/NCERT_fecu108_page0011_img01.png",
+          "bbox": [
+            92.28812408447266,
+            479.0885009765625,
+            458.1488342285156,
+            688.7051391601562
+          ],
+          "width_px": 763,
+          "height_px": 437,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0011_img02",
+          "file": "images/NCERT_fecu108_page0011_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0011_img03",
+          "file": "images/NCERT_fecu108_page0011_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0011_vecfig01",
+          "file": "images/NCERT_fecu108_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "wus 8.5 How can Water be Evaporated Faster or\nSlower?\n\nIn section 8.1, we have learnt about evaporation. Let us\nexplore it more!\n\nObserve your surroundings. What are the conditions that\naffect how fast water evaporates? What differences do you\nsee in evaporation on a cold day versus a hot day? Discuss\nwith your friends. The following words may help in your\ndiscussion—fan, drying cloth, sweating, windy day, hot day,\nrainy day.\n\nLet us perform Activity 8.7 to investigate conditions that\nwill affect how fast water will evaporate.\n\nActivity 8.7: Let us investigate =§- =_\n@ Take water in a small cap of a bottle (you may use\nsanitiser in place of water).\n\n@ Take the same amount of water in a plate. The exposed\narea of water in the bottle cap and the plate are different.\n\n@ Keep both of them near each other.\n\n¢ Record the time taken for the water to completely\nevaporate in each case in Table 8.4.\n\nconditions did did we change in\n‘ measure?\n\nA Journey through States of Water\n\nLet us investigate\n\n©\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Curiosity | Textbook of Science | Grade 6\n154\nWhat can you conclude from this investigation? \nIf you spread out water on a plate, its area exposed to air \nis larger. Therefore, evaporation is faster. \nWhat would happen if milk is taken instead of water in \nthe above activity? \nOther conditions which affect how fast water evaporates \nDesign an activity similar to Activity 8.7 to find out what are \nthe other conditions which can affect how fast water will \nevaporate. What would you change? What would you keep \nthe same? Perform this activity, use Table 8.5 to record the \ndata and discuss your observations.\nOther than the conditions you have explored to find how \nwater can be made to evaporate faster or slower, you can \nalso conduct Activity 8.8 to explore it further.  \nTable 8.4: Findings of the investigation\nExposed area of water\nTime taken for  \ncomplete evaporation\nLess (bottle cap)\nMore (plate)\nReflect on \nwhat you \ndid really \nwell in this \nactivity. ?\nCondition that is kept the same:\nTable 8.5: Record the data of an investigation where one \ncondition is changed and other condition remains the same\nCondition that is changed\n...........................................\nTime taken for  \ncomplete evaporation\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1243,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0012_img01",
+          "file": "images/NCERT_fecu108_page0012_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0012_img02",
+          "file": "images/NCERT_fecu108_page0012_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0012_table01",
+          "bbox": [
+            55.192176818847656,
+            132.08001708984375,
+            521.2624456232244,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              null,
+              "Less (bottle cap)",
+              ""
+            ],
+            [
+              null,
+              "More (plate)",
+              ""
+            ],
+            [
+              "What can you conclude from this investigation?\nIf you spread out water on a plate, its area exposed to air\nis larger. Therefore, evaporation is faster.\nWhat would happen if milk is taken instead of water in\nthe above activity?\nOther conditions which affect how fast water evaporates\nDesign an activity similar to Activity 8.7 to find out what are\nthe other conditions which can affect how fast water will\nevaporate. What would you change? What would you keep\nthe same? Perform this activity, use Table 8.5 to record the\ndata and discuss your observations.\nTable 8.5: Record the data of an investigation where one\ncondition is changed and other condition remains the same\nCondition that is kept the same:\nCondition that is changed Time taken for\ncomplete evaporation\n...........................................\nOther than the conditions you have explored to find how\nwater can be made to evaporate faster or slower, you can",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0012_vecfig01",
+          "file": "images/NCERT_fecu108_page0012_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Reflect on\nwhat you\ndid really\nwell in this\nactivity.\n\nCuriosity | Textbook of Science | Grade 6\n\nTable 8.4: Findings of the investigation\n\nTime taken for\nExposed area of water\n\ncomplete evaporation\nLess (bottle cap)\nMore (plate)\n\nWhat can you conclude from this investigation?\n\nIf you spread out water on a plate, its area exposed to air\nis larger. Therefore, evaporation is faster.\n\nWhat would happen if milk is taken instead of water in\nthe above activity?\n\nOther conditions which affect how fast water evaporates\n\nDesign an activity similar to Activity 8.7 to find out what are\nthe other conditions which can affect how fast water will\nevaporate. What would you change? What would you keep\nthe same? Perform this activity, use Table 8.5 to record the\ndata and discuss your observations.\n\nTable 8.5: Record the data of an investigation where one\ncondition is changed and other condition remains the same\n\nCondition that is kept the same:\n\nCondition that is changed Time taken for\ncomplete evaporation\n\nOther than the conditions you have explored to find how\nwater can be made to evaporate faster or slower, you can\nalso conduct Activity 8.8 to explore it further.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "A Journey through States of Water\n155\nActivity 8.8: Let us explore  \n\n\nTake identical caps of two bottles.\n\n\nPour equal amount of water in each of the cap.\n\n\nPlace one of the cap in sunlight and keep the other in \nshade as shown in Fig. 8.6. \n\n\nObserve the two caps of bottles after every 15 minutes. \n\n\nRecord the time taken for the water to completely \nevaporate in each case.\n\n\nYou can also repeat this activity on a windy or a rainy \nday, and record your observations. \nFig. 8.6: Evaporation of water in sunlight and in shade\nWhat conclusions can you draw from Activity 8.8 and other \nsimilar experiences?\n\n\nWater evaporates faster from the cap kept in sunlight \ncompared to the cap kept in shade. \n\n\nIt is a common observation that clothes dry faster on \na hot sunny day. Do clothes dry faster or slower on a \nwindy day? It is once again a common observation that \nclothes dry faster on a windy day. With the increase in \nthe movement of air, water evaporates faster.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1005,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0013_img01",
+          "file": "images/NCERT_fecu108_page0013_img01.png",
+          "bbox": [
+            70.1045913696289,
+            268.1196594238281,
+            438.6000061035156,
+            500.9151611328125
+          ],
+          "width_px": 768,
+          "height_px": 485,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0013_img02",
+          "file": "images/NCERT_fecu108_page0013_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0013_img03",
+          "file": "images/NCERT_fecu108_page0013_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0013_vecfig01",
+          "file": "images/NCERT_fecu108_page0013_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Activity 8.8: Let us explore =\n\n¢ Take identical caps of two bottles.\n¢ Pour equal amount of water in each of the cap.\n\n@ Place one of the cap in sunlight and keep the other in\nshade as shown in Fig. 8.6.\n\n@ Observe the two caps of bottles after every 15 minutes.\n\n¢ Record the time taken for the water to completely\nevaporate in each case.\n\n¢ You can also repeat this activity on a windy or a rainy\nday, and record your observations.\n\nFig. 8.6: Evaporation of water in sunlight and in shade\n\nWhat conclusions can you draw from Activity 8.8 and other\nsimilar experiences?\n\n¢ Water evaporates faster from the cap kept in sunlight\ncompared to the cap kept in shade.\n\n¢ Itis acommon observation that clothes dry faster on\na hot sunny day. Do clothes dry faster or slower on a\nwindy day? It is once again a common observation that\nclothes dry faster on a windy day. With the increase in\nthe movement of air, water evaporates faster.\n\nA Journey through States of Water\n\ne |\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Curiosity | Textbook of Science | Grade 6\n156\n8.6 Cooling Effect \nAavi’s mother purchased a new matka (earthen pot) to \nreplace the stainless steel pot for storing drinking water. \nUpon returning from school, Aavi notices the earthen pot \nand drinks water from it. Aavi expresses surprise and \nasks, “Why is the water in the earthen pot so cold? I never \nobserved water getting cold in a stainless steel pot.” What \ndo you think is the reason?\n\t\nWater seeps through the surface of the \nearthen pot and evaporates, which imparts \na cooling effect on the water. What are the \nother examples of cooling effect? Sprinkling \nwater on the floor or the roof during summer \nto cool it, is another example.\nHow do you feel when you rub sanitiser on \nyour hands?\nLet us perform Activity 8.9 to observe the cooling effect \nby making a simple and electricity-free model of pot-in-pot \ncooler. \nActivity 8.9: Let us make a model  \n\n\nTake two earthen pots of different sizes. \n\n\nFill the bottom of the larger pot with a layer of sand.\n\n\nPlace the smaller pot into the centre of the larger one \nas shown in Fig. 8.7.\n\n\nFill the gap between the pots with more sand.\n\n\nPour water in the sand area.\nNow, \nI can understand \nwhy we feel cooler if we sit \nunder a fan! The wind helps \nthe sweat to evaporate \nand cools us.\nThe amount of water \nvapour in the air is \nmore on rainy days \nand hence rainy days \nare more humid.\n Do you \nknow?\n\n\nIt is also a common observation \nthat clothes dry slowly on a \nrainy day. On a rainy day, water \nevaporates slowly. If the amount \nof water in the air is already \nhigh (more humidity), water \nevaporates slowly.\nIf you want to dry your clothes on a \nrainy day, how can you make it faster? \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1737,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0014_img01",
+          "file": "images/NCERT_fecu108_page0014_img01.png",
+          "bbox": [
+            60.996253967285156,
+            451.8905944824219,
+            148.80450439453125,
+            551.9661865234375
+          ],
+          "width_px": 183,
+          "height_px": 209,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0014_img02",
+          "file": "images/NCERT_fecu108_page0014_img02.png",
+          "bbox": [
+            69.5601806640625,
+            63.1614990234375,
+            283.4001770019531,
+            215.00772094726562
+          ],
+          "width_px": 446,
+          "height_px": 317,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0014_img03",
+          "file": "images/NCERT_fecu108_page0014_img03.png",
+          "bbox": [
+            63.26348876953125,
+            48.77661895751953,
+            134.35733032226562,
+            158.35736083984375
+          ],
+          "width_px": 149,
+          "height_px": 229,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0014_img04",
+          "file": "images/NCERT_fecu108_page0014_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0014_img05",
+          "file": "images/NCERT_fecu108_page0014_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0014_vecfig01",
+          "file": "images/NCERT_fecu108_page0014_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n®\n\nThe amount of water\nvapour in the air is\nmore on rainy days\nand hence rainy days\nare more humid.\n\nIt is also a common observation\nthat clothes dry slowly on a\nrainy day. On a rainy day, water\nevaporates slowly. If the amount\nof water in the air is already\nhigh (more humidity), water\nevaporates slowly.\n\nIf you want to dry your clothes on a\nrainy day, how can you make it faster?\n\n8.6 Cooling Effect\n\nAavi’s mother purchased a new matka (earthen pot) to\nreplace the stainless steel pot for storing drinking water.\nUpon returning from school, Aavi notices the earthen pot\nand drinks water from it. Aavi expresses surprise and\nasks, “Why is the water in the earthen pot so cold? I never\nobserved water getting cold in a stainless steel pot.” What\ndo you think is the reason?\n\nNow,\n\nWater seeps through the surface of the\n\ni cam maglersiandl earthen pot and evaporates, which imparts\nwhy we feel cooler if we sit \\ a cooling effect on the water. What are the\nunder a fan! The wind helps _ other examples of cooling effect? Sprinkling\n\nthe sweat to evaporate ~~ _ water on the floor or the roof during summer\n\nand cools us.\n\nyour hands?\n\ncooler.\n\nto cool it, is another example.\nHow do you feel when you rub sanitiser on\n\nLet us perform Activity 8.9 to observe the cooling effect\nby making a simple and electricity-free model of pot-in-pot\n\nActivity 8.9:Letusmakeamodld EEE\n\nTake two earthen pots of different sizes.\n\n¢ Fill the bottom of the larger pot with a layer of sand.\n\nPlace the smaller pot into the centre of the larger one\nas shown in Fig. 8.7.\n\nFill the gap between the pots with more sand.\n\nPour water in\n\nthe sand area.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "A Journey through States of Water\n157\n\n\nPlace a lid or wet jute \nsack to cover the top of \nthe smaller pot.\n\n\nYou can also make \na drawing of the \npot-in-pot cooler once it \nis ready.\nAllow 4–5 hours for the mini pot-in-pot cooler to cool \ndown. The time range can be influenced by many conditions. \nObserve and discuss how it creates a cooling effect \ninside the pots. Keep some vegetables and fruits in \nit and observe for a week on a daily basis to check \nfor the freshness of the vegetables and fruits kept \ninside the cooler. You will have to add water regularly \nto keep the sand moist. For how many days can the \nvegetables and fruits be kept fresh in it? What are \nthe conditions which can affect the number of these \ndays? What else can be used in place of sand for \nbetter cooling? \nYou all may be familiar with this unique clay pot \nwhich is called Surahi (Fig. 8.8). In summers, surahi is \nused to keep the water cold.\n8.7\t How do Clouds give us Rain?  \nCondensation plays a significant \nrole in the process of bringing \nevaporated water back to the \nEarth’s \nsurface. \nHow \ndoes \nthis happen? When air moves \nhigher \nabove \nthe \nEarth’s \nsurface, it becomes cooler and \ncooler. At certain heights, the \nair gets so cool that the water \nvapour in it turns into droplets \nwhich are generally formed \naround dust particles. These small droplets float in the \nair and form clouds. Many droplets join together to form \nbigger drops of water. Some drops get so heavy that they \nstart falling. These falling water drops are what we call rain. \nFig. 8.8: A surahi\nWhy does air containing \nwater vapour go up in the \natmosphere (thin layer of air \nthat surrounds the Earth)? \nAs we know, gas balloons \ncontaining lighter gases go \nup in the air. Similarly, water \nvapour is lighter than air, \ncausing it to rise.  \n Do you \nknow?\nLarge pot\nSmall pot\nLid\nLayer of sand\nWet jute \nsack\n Fig. 8.7: A pot-in-pot cooler\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1938,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0015_img01",
+          "file": "images/NCERT_fecu108_page0015_img01.png",
+          "bbox": [
+            405.6980895996094,
+            223.72003173828125,
+            530.2470092773438,
+            403.73248291015625
+          ],
+          "width_px": 260,
+          "height_px": 376,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0015_img02",
+          "file": "images/NCERT_fecu108_page0015_img02.png",
+          "bbox": [
+            261.5703430175781,
+            436.107177734375,
+            524.5886840820312,
+            639.8572998046875
+          ],
+          "width_px": 549,
+          "height_px": 426,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0015_img03",
+          "file": "images/NCERT_fecu108_page0015_img03.png",
+          "bbox": [
+            254.29669189453125,
+            58.88440704345703,
+            436.62188720703125,
+            166.26434326171875
+          ],
+          "width_px": 380,
+          "height_px": 224,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0015_img04",
+          "file": "images/NCERT_fecu108_page0015_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0015_img05",
+          "file": "images/NCERT_fecu108_page0015_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0015_vecfig01",
+          "file": "images/NCERT_fecu108_page0015_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "¢  Placea lid or wet jute — Wet jute\nsack to cover the top of ana sack\nthe smaller pot. Layer of sand\nLarge pot\n¢ Youcan also make\n\na drawing of the Lid\n\npot-in-pot cooler once it\nis ready. Fig. 8.7: A pot-in-pot cooler\nAllow 4-5 hours for the mini pot-in-pot cooler to cool\ndown. The time range can be influenced by many conditions.\nObserve and discuss how it creates a cooling effect\ninside the pots. Keep some vegetables and fruits in\nit and observe for a week on a daily basis to check\nfor the freshness of the vegetables and fruits kept\ninside the cooler. You will have to add water regularly\nto keep the sand moist. For how many days can the\nvegetables and fruits be kept fresh in it? What are\nthe conditions which can affect the number of these\ndays? What else can be used in place of sand for\nbetter cooling?\nYou all may be familiar with this unique clay pot\nwhich is called Surahi (Fig. 8.8). In summers, surahi is\nused to keep the water cold.\n\n8.7 How Do Clouds Give Us Rain?\n\nCondensation plays a significant\n\nFig. 8.8: A surahi\n\nrole in the process of bringing’\nevaporated water back to the\n\nEarth’s surface. How does\nthis happen? When air moves\nhigher above the _ Earth’s\n\nsurface, it becomes cooler and\ncooler. At certain heights, the\nair gets so cool that the water\nvapour in it turns into droplets\nwhich are generally formed\n\nWhy does air containing\nwater vapour go up in the\natmosphere (thin layer of air\nthat surrounds the Earth)?\n\nAs we know, gas balloons\ncontaining lighter gases go\nup in the air. Similarly, water\nvapour is lighter than air,\ncausing it to rise.\n\n7)\n\nDo you\nknow?\n\naround dust particles. These small droplets float in the\n\nair and form clouds. Many droplets join together to form\nbigger drops of water. Some drops get so heavy that they\nstart falling. These falling water drops are what we call rain.\n\n8\n\nReprint 2026-27\n\nA Journey through States of Water"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Curiosity | Textbook of Science | Grade 6\n158\nUnder special conditions, it might also fall as hail or snow. \nAavi enjoys the rain and creates a poem. You can complete \nthe poem and present it in your class. \nI wonder, oh! I wonder so,\nWhich path does water choose to go?\nI wonder, oh! I wonder so,\nWhen does it snow?\nI wonder, oh! I got a wonder call, \nHow does rain fall? \n………………………………………………\n………………………………………………\nI wonder, ponder and dream each day,\nAs water's journey takes its way.\nActivity 8.10 demonstrates the role of dust particles in the \nformation of clouds.\nActivity 8.10: Let us engage in a group activity\n\n\nTake an empty discarded one litre plastic bottle. Pour \nabout one cup of water into it. \n\n\nClose the lid tightly. Now quickly squeeze and release \nthe bottle continuously for about 2–3 minutes. Observe \nthe space above the water in the bottle. \n\n\nRepeat the same activity after adding a small burnt \npiece of newspaper into the water.\n\n\nWhat will you observe?\n\n\nIn this case, you will observe some haziness (clouds) \nabove the water in the bottle. \n\n\nThe burnt newspaper provides very small invisible dust \nparticles, around which water vapour condenses and \nforms clouds. \nLet us perform Activity 8.11 to represent our understanding \nof how water changes its state and its movement. \nCaution  \nHandle burning \npaper carefully.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1373,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0016_img01",
+          "file": "images/NCERT_fecu108_page0016_img01.png",
+          "bbox": [
+            153.92626953125,
+            123.59480285644531,
+            522.4853515625,
+            368.759765625
+          ],
+          "width_px": 768,
+          "height_px": 511,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0016_img02",
+          "file": "images/NCERT_fecu108_page0016_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0016_img03",
+          "file": "images/NCERT_fecu108_page0016_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0016_table01",
+          "bbox": [
+            38.388999938964844,
+            401.58001708984375,
+            150.3489990234375,
+            519.300048828125
+          ],
+          "rows": [
+            [
+              "",
+              "Caution\nHandle burning\npaper carefully."
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0016_vecfig01",
+          "file": "images/NCERT_fecu108_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "A\n\nCaution\nHandle burning\npaper carefully.\n\nCuriosity | Textbook of Science | Grade 6\n\nUnder special conditions, it might also fall as hail or snow.\nAavi enjoys the rain and creates a poem. You can complete\nthe poem and present it in your class.\n\nI wonder, oh! I wonder so,\nWhich path does water choose to go?\nI wonder, oh! I wonder so, m\nWhen does it snow?\n\nI wonder, oh! I got a wonder call,\nHow does rain fall?\n\nI wonder, ponder and nec day, _\n\nI,\n\nAs water * Lousy Re ak\n\nActivity 8.10 demonstrates the role of dust particles in the\nformation of clouds.\n\nActivity 8.10: Letus engageinagroup activity ee\n\n¢ Take an empty discarded one litre plastic bottle. Pour\nabout one cup of water into it.\n\n@ Close the lid tightly. Now quickly squeeze and release\nthe bottle continuously for about 2-3 minutes. Observe\nthe space above the water in the bottle.\n\n@ Repeat the same activity after adding a small burnt\npiece of newspaper into the water.\n\n@ What will you observe?\n\n¢ In this case, you will observe some haziness (clouds)\nabove the water in the bottle.\n\n¢ The burnt newspaper provides very small invisible dust\nparticles, around which water vapour condenses and\nforms clouds.\n\nLet us perform Activity 8.11 to represent our understanding\n\nof how water changes its state and its movement.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "A Journey through States of Water\n159\nActivity 8.11: Let us understand the process  \nLabel Fig. 8.9 using arrows shown and the words given in \nthe box to show where water is stored, how water changes \nits state and where it moves. \nCloud, Lake, Ocean, River, Groundwater, Evaporation, \nCondensation, Rain, Snow\nFig. 8.9: Change of states and movement of water\nThe water from the ocean and the Earth’s \nsurface evaporates into the atmosphere as \nvapour and returns as rain, hail or snow, \nultimately \nflowing \nback \nto \nthe \noceans. \nThis circulation of water is known as the \nwater cycle. \nOnly a small portion of water available on the Earth is \nfit for use by plants, animals and humans. Most of the water \nis in the oceans and it cannot be used directly. We use water \nfor drinking and also for many other activities. The number \nof people using water is increasing with a rise in population. \nThe increasing demand for water causes its shortage in \nmany parts of the world. Hence, it is very important to use \nwater wisely and avoid wasting it. Let us keep our water \nbodies free from pollution. You will learn more about water \nand its conservation in the chapter ‘Nature’s Treasures’. \nWhat did I do well? \nWas I able to label all \nthe parts of the water \ncycle? Which parts of \nthe water cycle were \nunclear to me? ?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1340,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0017_img01",
+          "file": "images/NCERT_fecu108_page0017_img01.png",
+          "bbox": [
+            71.89163970947266,
+            197.16941833496094,
+            476.7283020019531,
+            431.181884765625
+          ],
+          "width_px": 844,
+          "height_px": 488,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0017_img02",
+          "file": "images/NCERT_fecu108_page0017_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0017_img03",
+          "file": "images/NCERT_fecu108_page0017_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0017_vecfig01",
+          "file": "images/NCERT_fecu108_page0017_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Activity 8.11: Let us understand the process LS\n\nLabel Fig. 8.9 using arrows shown and the words given in\nthe box to show where water is stored, how water changes\nits state and where it moves.\n\nCloud, Lake, Ocean, River, Groundwater, Evaporation,\nCondensation, Rain, Snow\n\nWhat did I do well?\nFig. 8.9: Change of states and movement of water Was I able to label all\n\nThe water from the ocean and the Earth’s ‘© Parts of the water\n\nsurface evaporates into the atmosphere as vee hails [BEY Gi\nvapour and returns as rain, hail or snow, “~~ “@ter cycle were ?\nultimately flowing back to the oceans. HEISE SY @\nThis circulation of water is known as the\nwater cycle.\n\nOnly a small portion of water available on the Earth is\nfit for use by plants, animals and humans. Most of the water\nis in the oceans and it cannot be used directly. We use water\nfor drinking and also for many other activities. The number\nof people using water is increasing with a rise in population.\nThe increasing demand for water causes its shortage in\nmany parts of the world. Hence, it is very important to use\nwater wisely and avoid wasting it. Let us keep our water\nbodies free from pollution. You will learn more about water\nand its conservation in the chapter ‘Nature’s Treasures’.\n\nA Journey through States of Water\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Curiosity | Textbook of Science | Grade 6\n160\n\n\nThe process of conversion of water into its vapour state is \ncalled evaporation.\n\n\nThe process of conversion of water vapour into its liquid \nstate is called condensation. \n\n\nWater is found in different states—solid, liquid and gas.\n\n\nWater changes its state on heating or cooling.\n\n\nConditions which make the evaporation faster or slower are \nexposed area, humidity, air movement, etc.\n\n\nEvaporation causes cooling effect. \nSummary\nKeywords\nExperiment\nRecord\nObserve\nInvestigate\nReason\nQuestion\nPredict\nCondensation\nFreezing \nEvaporation\nGas\nSolid\t\nLiquid\nWater cycle \nWater vapour \nMelting\t\nHumidity\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 678,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0018_img01",
+          "file": "images/NCERT_fecu108_page0018_img01.png",
+          "bbox": [
+            235.74496459960938,
+            472.8800354003906,
+            439.8649597167969,
+            521.1650390625
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0018_img02",
+          "file": "images/NCERT_fecu108_page0018_img02.png",
+          "bbox": [
+            228.62107849121094,
+            64.20002746582031,
+            432.7410888671875,
+            112.48504638671875
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0018_img03",
+          "file": "images/NCERT_fecu108_page0018_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0018_img04",
+          "file": "images/NCERT_fecu108_page0018_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 19,
+      "text": "A Journey through States of Water\n161\n1.\t\nWhich of the following best describes condensation?\n  (i)\t\tThe conversion of water into its vapour state.\n (ii)\t\tThe process of water changing from a liquid into \ngaseous state.\n(iii) \tThe formation of clouds from tiny water droplets.\n(iv) \tThe conversion of water vapour into its liquid state.\n2. \t Identify in which of the given processes, evaporation is very \nimportant—\n(i) \t Colouring with \n\t\n(a)\t crayons \t\t\n\t\n(b)\t water colours \n\t\n(c)\t acrylic colours \t\n(d)\t pencil colours \n(ii) \tWriting on paper with \n\t\n(a)\t pencil  \t \t\n(b)\t ink pen\t \t\n(c)\t ball point pen\n3. \t We see green coloured plastic grass at many places these \ndays. Space around natural grass feels cooler than space \naround the plastic grass. Can you find out why?\n4. \t Give examples of liquids other than water that evaporate. \n5. \t Fans move air around, creating a cooling sensation. It might \nseem strange  to use a fan to dry wet clothes since fans \nusually make things cooler, not warmer. Normally, when \nwater evaporates, it requires  heat, not cold air. What do \nyou think about this?\n6. \t Usually, when sludge is removed from drains, it is left \nin heaps next to the drain for 3–4 days. Afterward, it is \ntransported to a garden or a field where it can be used as \nLet us enhance our learning\n\n\nThe water vapour in the air condenses to form tiny droplets \nof water, which appear as clouds. Many tiny water droplets \ncome together and fall down as rain, hail or snow.\n\n\nThe circulation of water between the Earth surface and \natmosphere is known as the water cycle. \n\n\nWe have used the process of observation, questioning, \npossible reason and experimenting to find out the concepts \nof evaporation and condensation. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1759,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0019_img01",
+          "file": "images/NCERT_fecu108_page0019_img01.png",
+          "bbox": [
+            71.4000015258789,
+            194.08311462402344,
+            438.6000061035156,
+            283.9058837890625
+          ],
+          "width_px": 765,
+          "height_px": 187,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0019_img02",
+          "file": "images/NCERT_fecu108_page0019_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0019_img03",
+          "file": "images/NCERT_fecu108_page0019_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0019_vecfig01",
+          "file": "images/NCERT_fecu108_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "The water vapour in the air condenses to form tiny droplets\nof water, which appear as clouds. Many tiny water droplets\ncome together and fall down as rain, hail or snow.\n\nThe circulation of water between the Earth surface and\natmosphere is known as the water cycle.\n\nWe have used the process of observation, questioning,\npossible reason and experimenting to find out the concepts\nof evaporation and condensation.\n\nLet us enhance our learning\n\nWhich of the following best describes condensation?\n(i) The conversion of water into its vapour state.\n\n(ii) The process of water changing from a liquid into\ngaseous state.\n\n(iii) The formation of clouds from tiny water droplets.\n\n(iv) The conversion of water vapour into its liquid state.\nIdentify in which of the given processes, evaporation is very\nimportant—\n\n(i) Colouring with\n\n(a) crayons (b) water colours\n(c) acryliccolours (d) pencil colours\n\n(ii) Writing on paper with\n(a) pencil (b) ink pen (c) ball point pen\n\nWe see green coloured plastic grass at many places these\ndays. Space around natural grass feels cooler than space\naround the plastic grass. Can you find out why?\n\nGive examples of liquids other than water that evaporate.\n\nFans move air around, creating a cooling sensation. It might\nseem strange to use a fan to dry wet clothes since fans\nusually make things cooler, not warmer. Normally, when\nwater evaporates, it requires heat, not cold air. What do\nyou think about this?\n\nUsually, when sludge is removed from drains, it is left\nin heaps next to the drain for 3-4 days. Afterward, it is\ntransported to a garden or a field where it can be used as\n\nReprint 2026-27\n\nA Journey through States of Water\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Curiosity | Textbook of Science | Grade 6\n162\nmanure. This approach reduces transportation cost of the \nsludge and enhances the safety of individuals handling it. \nReflect upon it and explain how.\n7. \t Observe the activities in your house for a day. Identify the \nactivities that involve evaporation. How does understanding \nthe process of evaporation help us in our daily activities?\n8. \t How is water present in the solid state in nature? \n9. \t Reflect on the statement “Water is our responsibility before \nit is our right.” Share your thoughts.\n10. \t The seat of a two-wheeler parked on a sunny day has become \nvery hot. How can you cool it down?\n\n\nWet one hand with water and leave the other dry. Blow air \nacross both hands and feel the cooling effect. Find out the \nreasons for it.\n\n\nMake a game to navigate through different states of water \nand water related concepts to reach the finish line. Challenge \ncards with questions related to water cycle, evaporation, \ncondensation, etc., can be some game elements.\n\n\nDiscuss with your teacher and act out the stages of the water \ncycle through a role-playing activity in your school assembly.\nLearning further\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1186,
+      "images": [
+        {
+          "image_id": "NCERT_fecu108_page0020_img01",
+          "file": "images/NCERT_fecu108_page0020_img01.png",
+          "bbox": [
+            165.40927124023438,
+            258.7894592285156,
+            510.1906433105469,
+            323.30230712890625
+          ],
+          "width_px": 719,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0020_img02",
+          "file": "images/NCERT_fecu108_page0020_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu108_page0020_img03",
+          "file": "images/NCERT_fecu108_page0020_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu108_page0020_vecfig01",
+          "file": "images/NCERT_fecu108_page0020_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nmanure. This approach reduces transportation cost of the\nsludge and enhances the safety of individuals handling it.\nReflect upon it and explain how.\n\nObserve the activities in your house for a day. Identify the\nactivities that involve evaporation. How does understanding\nthe process of evaporation help us in our daily activities?\n\nHow is water present in the solid state in nature?\n\nReflect on the statement “Water is our responsibility before\nit is our right.” Share your thoughts.\n\n. The seat of atwo-wheeler parked ona sunny day has become\n\nvery hot. How can you cool it down?\n\nLearning further\n\nWet one hand with water and leave the other dry. Blow air\nacross both hands and feel the cooling effect. Find out the\nreasons for it.\n\nMake a game to navigate through different states of water\nand water related concepts to reach the finish line. Challenge\ncards with questions related to water cycle, evaporation,\ncondensation, etc., can be some game elements.\n\nDiscuss with your teacher and act out the stages of the water\ncycle through a role-playing activity in your school assembly.\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}

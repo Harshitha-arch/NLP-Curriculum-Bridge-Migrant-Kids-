@@ -1,0 +1,55 @@
+8 8
+1. Desktop
+2. Laptop
+3. Tablet
+7.1.3 Connecting the Computer
+You must have seen tube light and fan 
+working by connection through electric wire. 
+Likewise various parts of the computer are 
+linked through connecting cables. We call 
+computer as system as it is connected with 
+one another. Do you know how these parts 
+are connected? There are many cables 
+used to connect these parts.  These cables 
+are called as connecting cables.  These 
+cables are found in different sizes. Each 
+cable has its own specific use.  Let us see 
+the different types of cables and its uses. 
+Types of Cables
+ Video Graphics Array (VGA)
+ High Definition Multimedia Interface 
+(HDMI)
+ Universal Serial Bus (USB)
+ Data cable
+ Power Cord
+ Mic cable
+ Ethernet cable
+called as Bit.  A Bit has a single binary value 
+either 0 or 1.
+Classification of Computer 
+The computers can be classified as 
+follows based on their design, shape, 
+speed,  efficiency, working of the memory 
+unit and their applications.
+ Mainframe Computer
+ Mini Computer
+ Micro or Personal Computer
+ Super Computer
+Personal computer and its types
+Personal computer comes under the 
+microcomputer. Based on the memory and 
+efficiency in PC they can be classified as
+Mainframe computer
+Mini computer
+Micro personal computer
+Super computer
+A DVD is capable of 
+storing 6 times more 
+data than a CD.
+Desktop
+Laptop
+Tablet
+6th Science_IInd Term English Book_Unit_7.indd   88
+6th Science_IInd Term English Book_Unit_7.indd   88
+27/06/2023   12:02:43
+27/06/2023   12:02:43

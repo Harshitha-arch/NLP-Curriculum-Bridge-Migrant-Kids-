@@ -1,0 +1,70 @@
+25
+A bus takes three hours to cover 
+a distance of 180 kilometres. Then its 
+speed is given as:
+Speed (s) 	
+= Distance travelled (d) / 
+Time taken (t)
+	
+= 180 kilometre/ 3 hour
+	
+= 60 kilometre / hour
+Note that metre/second or kilometre/
+hour comes next to our answer for 
+speed. What is it?
+Observe the formula for speed. If 
+we denote the distance in metre and 
+time by second then the unit of speed 
+is metre/second. If we denote the 
+distance in kilometre and time in hour 
+then the unit of speed is kilometre/
+hour. Sometimes we use units like 
+centimetre/second.
+In science we generally use SI units. 
+In SI units the unit of distance is metre 
+and the unit of time is second. So, the SI 
+unit of speed is metre/second.
+Let us calculate
+1. A car travelled 150 metre in 10 second. 
+What is its speed?
+2. Priya rides her bicycle 40 km in two 
+hours. What is her speed?
+Let us calculate how long they 
+travelled in one hour?
+•	 Distance travelled by the car in 
+one hour =     80     km (160/2)
+•	 Distance travelled by the bus in 
+one hour =            km
+•	 Distance travelled by the truck in 
+one hour =           km
+Have you found out? Say now.
+Who is fast?            , 
+Who is slow?          
+Have you noticed that saying who 
+is fast or slow is easy when we 
+calculate the distance they travelled 
+in one hour? In other words, you divide 
+the distance travelled by the time taken 
+to get the speed. 
+Suppose a car travels 300 km in one 
+hour. Then we say that the speed of the 
+car is ‘300 kmph’ (We read it as ‘three 
+hundred kilometres per hour’). 
+If an object travelled 10 metre in 
+2 second, then its speed is given as: 
+Speed (s) 	
+= Distance travelled (d) / 
+Time taken (t)
+	
+= 10 metre/ 2 second
+	
+= 5 metre / second
+The distance travelled by an object 
+in unit time is called speed of the 
+object.
+If an object travelled a distance 'd' in 
+time 't' then, its speed is given as: 
+Speed (s) = Distance travelled 
+Time taken
+ = d 
+t

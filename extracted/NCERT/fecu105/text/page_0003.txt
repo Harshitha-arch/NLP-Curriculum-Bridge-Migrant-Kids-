@@ -1,0 +1,41 @@
+Measurement of Length and Motion
+81
+Padma says, “Oh, the number of handspans is different for 
+all of us. So, what can we say about the length of the table?”
+“But why should the number be different?” Hardeep 
+asked thoughtfully.
+Tasneem says, “I can guess. Our handspans are of 
+different sizes.”
+Anish gives an idea, “Let us check this.”
+So, all five of them put their handspans along each 
+other and arrive at the conclusion that the lengths of their 
+handspans are different.
+Deepa says thoughtfully, “No wonder people use scales 
+and measuring tapes.”
+Deepa and her friends compare the length of the table 
+with the length of their handspans. The length of the table is 
+expressed in terms of their handspans. Here, the handspan 
+used for measurement is an example of a unit. And the length 
+is expressed in two parts, a number and a unit. For example, 
+if the length of the table is found to be 13 handspans, then 
+13 is the number and ‘handspan’ is the unit selected for the 
+measurement.
+However, handspans and other similar units, such as 
+length of hand, foot, fist or fingers, differ from person to 
+person. Thus, there is a need for such a unit for which 
+measurements of the same length made by different people 
+do not differ.
+Table 5.1: Measuring the length of the table
+Name of the Student
+Number of Handspans
+Anish
+Slightly more than 13
+Padma
+13
+Tasneem
+Slightly less than 13
+Deepa
+Between 13 and 14
+Hardeep
+14
+Reprint 2026-27

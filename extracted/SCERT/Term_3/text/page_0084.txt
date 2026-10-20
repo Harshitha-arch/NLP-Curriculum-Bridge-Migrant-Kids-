@@ -1,0 +1,51 @@
+80
+Introduction
+Computer is a device comprising both 
+hardware and software. The functions 
+of hardware and software combines 
+together to make the Computer functional. 
+A hardware device helps to enter input 
+information. The software processes the 
+input data and gives the output in the 
+monitor, a hardware device. Thus computer 
+is like a human body, where human body is 
+the hardware and soul is the software.
+6.1 Hardware
+possible but we can see the functions of 
+the software in the form of output. 
+Email existed before 
+the World Wide Web.
+Hardware
+Software
+Hardware is the parts of the computer 
+which we can touch and feel. Hardware 
+includes Input and Output devices, Cabinet, 
+Hard Disk, Mother Board, SMPS, CPU, RAM, 
+CD Drive and Graphics Card.
+6.2 Software
+Hardware is lifeless without software 
+in a computer.  Software are programmed 
+and coded applications to process the input 
+information. The software processes the 
+data by converting the input information 
+into coding or programmed language. 
+Touching and feeling the software is not 
+6.3 Types of Software
+The software is divided into two types 
+based on the process. They are 
+1. System Software (Operating System) 
+2. Application software 
+6.3.1 System Software 
+System Software (Operating system) 
+is software that makes the hardware 
+devices process the data inputted by 
+the user and to display the result on the 
+output devices like Monitor.  Without 
+the operating system, computer cannot 
+function on its own. Some of the popular 
+operating system are Linux, Windows, 
+Mac, Android etc.
+6th Science_IIIrd Term English Book_Unit_6.indd   80
+6th Science_IIIrd Term English Book_Unit_6.indd   80
+27-09-2023   17:47:52
+27-09-2023   17:47:52

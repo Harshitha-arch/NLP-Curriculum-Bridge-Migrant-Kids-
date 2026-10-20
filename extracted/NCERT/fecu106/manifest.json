@@ -1,0 +1,2059 @@
+{
+  "source_file": "data\\NCERT\\fecu106.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu106",
+  "num_pages": 22,
+  "extraction_method": "native",
+  "native_page_count": 22,
+  "ocr_page_count": 0,
+  "total_images": 89,
+  "images_with_text": 2,
+  "total_tables": 6,
+  "total_vector_figures": 14,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Materials Around Us\n6\nChapter\n6.1 Observing Objects Around Us \nGhulan and Sheeta are thrilled to go to their new class \nafter the summer break. They enter their classroom and \nstart talking. “What have you brought to school today?” \nasks Sheeta.\nAfter some time, Madam Vidya, their science teacher, \nenters the class and starts interacting with the students to \ndraw their attention to many things they use in their daily \nlife. She asks, “How are they similar to or different from \neach other? What are their shapes and colours? How does it \nfeel when you touch them? Are some of them heavier than \n \nउपादानं भवेत्तस्ा (मूषाया:) मृत्ति‍का लोहमेव च ।\n\b\n(रसरतनसमुच्चय–१०.३)\nThe materials used to make the crucible  \n(a vessel used to melt substances) are clay and iron.\n\b\n(Rasaratnasamuchchaya–10.3)\nLook, I \nhave a new \nnotebook.\nI also have a \nnew notebook \nand a pen.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 886,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0001_img01",
+          "file": "images/NCERT_fecu106_page0001_img01.png",
+          "bbox": [
+            -17.879974365234375,
+            -18.599960327148438,
+            612.1199951171875,
+            196.48004150390625
+          ],
+          "width_px": 1315,
+          "height_px": 448,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0001_img02",
+          "file": "images/NCERT_fecu106_page0001_img02.png",
+          "bbox": [
+            167.6797637939453,
+            493.3975830078125,
+            341.52685546875,
+            624.448486328125
+          ],
+          "width_px": 363,
+          "height_px": 273,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0001_img03",
+          "file": "images/NCERT_fecu106_page0001_img03.png",
+          "bbox": [
+            471.14996337890625,
+            201.30007934570312,
+            556.1099853515625,
+            286.26007080078125
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": "0677CHO6"
+        },
+        {
+          "image_id": "NCERT_fecu106_page0001_img04",
+          "file": "images/NCERT_fecu106_page0001_img04.png",
+          "bbox": [
+            55.231842041015625,
+            191.71978759765625,
+            463.5528564453125,
+            334.91998291015625
+          ],
+          "width_px": 851,
+          "height_px": 299,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0001_img05",
+          "file": "images/NCERT_fecu106_page0001_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0001_img06",
+          "file": "images/NCERT_fecu106_page0001_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 2,
+      "text": "102\nTable 6.1: Identify materials\nI observe\nMaterials they are  \nmade up of\nThe earliest pottery found in the Indian subcontinent dates \nback to 7,000 to 8,000 years in the Ganga plains (Lahuradewa) \nand in Baluchistan (Mehrgarh). About 4000 BCE onwards, \nSindhu-Sarasvatī \ndeveloped \ntechniques \nof \nwheel-\nturned pottery production, pigmentation, application \nof protective or decorative coats (called ‘slips’) of \nmultiple \ncolours, \ndecorative \npainting, \netc. \nThese \ntechniques became further sophisticated during the \nSindhu-Sarasvatī (also known as ‘Harappan’) Civilisation \n(2600–1900 BCE), with a bright red surface \npainted with black-coloured designs displaying \ngeometric patterns, and aquatic and terrestrial \nanimals. The clay used for making pots, dishes, \nbowls and other items was carefully selected \nand cleaned, sieved, kneaded, turned over a \nwheel and finally baked in kilns (baked clay \nis called ‘terracotta’). Pots were used for various \npurposes, from cooking to storage of food grains, \noil, ghee, and so on. Some very large storage \njars and other pottery items are exhibited at the \nNational Museum, New Delhi.\nothers?” All things are made up of some materials like paper, \nwood, cloth, glass, metal, plastic, clay, and so on.\nAny substance that is used to create an object is referred to \nas material. \nActivity 6.1: Let us identify\nMake a list of objects you see around and also write the \nnames of the materials they are made up of in Table 6.1.\nBased on everyday observations, one can conclude that \nobjects are made up of various materials. \n Do you \nknow?\nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1649,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0002_img01",
+          "file": "images/NCERT_fecu106_page0002_img01.png",
+          "bbox": [
+            98.4000244140625,
+            361.50006103515625,
+            554.4000244140625,
+            753.3743286132812
+          ],
+          "width_px": 950,
+          "height_px": 817,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0002_img02",
+          "file": "images/NCERT_fecu106_page0002_img02.png",
+          "bbox": [
+            62.48072052001953,
+            442.8255310058594,
+            194.31927490234375,
+            563.9744873046875
+          ],
+          "width_px": 275,
+          "height_px": 253,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0002_img03",
+          "file": "images/NCERT_fecu106_page0002_img03.png",
+          "bbox": [
+            411.2931823730469,
+            539.0108032226562,
+            551.5186157226562,
+            657.4000244140625
+          ],
+          "width_px": 293,
+          "height_px": 247,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0002_img04",
+          "file": "images/NCERT_fecu106_page0002_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0002_img05",
+          "file": "images/NCERT_fecu106_page0002_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0002_vecfig01",
+          "file": "images/NCERT_fecu106_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\ne\n\nothers?” All things are made up of some materials like paper,\nwood, cloth, glass, metal, plastic, clay, and so on.\n\nAny substance that is used to create an object is referred to\nas material.\n\nActivity 6.1: Let us identify) §\n\nMake a list of objects you see around and also write the\nnames of the materials they are made up of in Table 6.1.\n\nTable 6.1: Identify materials\n\nMaterials they are\n\nI\nobserve TEER UDG\n\nBased on everyday observations, one can conclude that\nobjects are made up of various materials.\n\nThe earliest pottery found in the Indian subcontinent dates\nback to 7,000 to 8,000 years in the Ganga plains (Lahuradewa)\nand in Baluchistan (Mehrgarh). About 4000 BCE onwards,\nSindhu-Sarasvati developed techniques of wheel-\nturned pottery production, pigmentation, application\nof protective or decorative coats (called ‘slips’) of\nmultiple colours, decorative painting, etc. These\ntechniques became further sophisticated during the\nSindhu-Sarasvati (also known as ‘Harappan’) Civilisation\n(2600-1900 BCE), with a bright red surface\npainted with black-coloured designs displaying\ngeometric patterns, and aquatic and terrestrial X\nanimals. The clay used for making pots, dishes, :\nbowls and other items was carefully selected\nand cleaned, sieved, kneaded, turned over a\nwheel and finally baked in kilns (baked clay\nis called ‘terracotta’). Pots were used for various\npurposes, from cooking to storage of food grains,\noil, ghee, and so on. Some very large storage\njars and other pottery items are exhibited at the Do you\nNational Museum, New Delhi. know?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "103\nFig. 6.1: Objects around us\nLet us explore materials further.\n6.2\t How to Group Materials? \nActivity 6.2: Let us group\n\n\nGroup the objects shown in Fig. 6.1 based on any common \nproperty, such as shape, colour, hardness, softness, shine, \ndullness or materials they are made up of.\n\n\nWhich property did you use to group the objects in \nActivity 6.2? \n\n\nDid your friends group objects based on similar \nproperties? \n\n\nWhat did you learn from this activity? \nYou must have noticed that an object can be made from \ndifferent materials and some materials can be used to make \nmore than one object.\nThe method of arranging the objects into groups is called \nclassification. Objects can be classified on the basis of a \ncommon property that they have. \nSimilarly, we can classify materials based on certain \nproperties.\nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 862,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0003_img01",
+          "file": "images/NCERT_fecu106_page0003_img01.png",
+          "bbox": [
+            75.90148162841797,
+            213.1682586669922,
+            424.8360290527344,
+            460.904541015625
+          ],
+          "width_px": 727,
+          "height_px": 517,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0003_img02",
+          "file": "images/NCERT_fecu106_page0003_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0003_img03",
+          "file": "images/NCERT_fecu106_page0003_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0003_vecfig01",
+          "file": "images/NCERT_fecu106_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Let us explore materials further.\n\nmus 6.2 How to Group Materials?\n\nActivity 6.2: Let US gQrOUP 9\n\n¢ Group the objects shown in Fig. 6.1 based on any common\nproperty, such as shape, colour, hardness, softness, shine,\ndullness or materials they are made up of.\n\nFig. 6.1: Objects around us\n\n@ Which property did you use to group the objects in\nActivity 6.2?\n\n¢ Did your friends group objects based on similar\nproperties?\n\n@ What did you learn from this activity?\n\nYou must have noticed that an object can be made from\ndifferent materials and some materials can be used to make\nmore than one object.\n\nThe method of arranging the objects into groups is called\nclassification. Objects can be classified on the basis of a\ncommon property that they have.\n\nSimilarly, we can classify materials based on certain\nproperties.\n\nMaterials Around Us\n\nSe\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "104\nActivity 6.3: Let us think \nLet us think what materials we can use to make a tumbler. \nFill in the names of the materials in the spaces provided in \nFig. 6.2.\nFig. 6.2: Materials used to make a tumbler\nTumbler\nThe materials that are required to make a tumbler should \nbe capable of holding water.\nWhat decides which material should be used for making \nan object? We choose a material to make an object depending \non its properties and the purpose for which the object is to \nbe used. \nWe may use different materials for making different \nparts of an object. For example, a pen may be made up of \ndifferent materials like plastic, metal and ink.\nWould it be a \ngood idea to \nuse paper-like \nmaterials for \nmaking cooking \nutensils? \n?\nWhy cannot a \ntumbler made of \ncloth be used for \nstoring water?\nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 861,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0004_img01",
+          "file": "images/NCERT_fecu106_page0004_img01.png",
+          "bbox": [
+            154.13739013671875,
+            144.81808471679688,
+            521.462646484375,
+            345.3999328613281
+          ],
+          "width_px": 766,
+          "height_px": 418,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0004_img02",
+          "file": "images/NCERT_fecu106_page0004_img02.png",
+          "bbox": [
+            398.69158935546875,
+            397.2857360839844,
+            513.14990234375,
+            543.50537109375
+          ],
+          "width_px": 239,
+          "height_px": 305,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0004_img03",
+          "file": "images/NCERT_fecu106_page0004_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0004_img04",
+          "file": "images/NCERT_fecu106_page0004_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 5,
+      "text": "105\nActivity 6.4: Let us explore \nFig. 6.3 illustrates a variety of balls that are of the same size \nbut made up of different materials. \n\n\nTake each ball and drop it from a fixed height. \n\n\nNote the height to which the ball bounces and record it \nin Table 6.2. \n\n\nIdentify the ball that achieves the highest bounce.\nFig. 6.3: Different types of balls used for various purposes \nTennis ball\nCricket ball\nHand exercise ball\nCan a cricket ball \nbe used to play \ntennis?\nTable 6.2: Bouncing level of the balls\nBall\nBounce (high, medium or low)\nTennis ball\nCricket ball\nHand exercise ball\nAny other\nWhy are different \nmaterials used for \nmaking balls for \nvarious sports? \nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 711,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0005_img01",
+          "file": "images/NCERT_fecu106_page0005_img01.png",
+          "bbox": [
+            98.66863250732422,
+            368.29608154296875,
+            191.68289184570312,
+            460.2806396484375
+          ],
+          "width_px": 194,
+          "height_px": 192,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0005_img02",
+          "file": "images/NCERT_fecu106_page0005_img02.png",
+          "bbox": [
+            210.9771728515625,
+            368.29608154296875,
+            308.6249694824219,
+            460.2806396484375
+          ],
+          "width_px": 204,
+          "height_px": 192,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0005_img03",
+          "file": "images/NCERT_fecu106_page0005_img03.png",
+          "bbox": [
+            326.2223815917969,
+            368.29608154296875,
+            418.7218017578125,
+            460.2806396484375
+          ],
+          "width_px": 193,
+          "height_px": 192,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0005_img04",
+          "file": "images/NCERT_fecu106_page0005_img04.png",
+          "bbox": [
+            187.3782196044922,
+            91.84953308105469,
+            265.17974853515625,
+            196.07147216796875
+          ],
+          "width_px": 162,
+          "height_px": 217,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0005_img05",
+          "file": "images/NCERT_fecu106_page0005_img05.png",
+          "bbox": [
+            261.6445007324219,
+            89.84899139404297,
+            419.1555480957031,
+            197.033935546875
+          ],
+          "width_px": 329,
+          "height_px": 224,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0005_img06",
+          "file": "images/NCERT_fecu106_page0005_img06.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0005_img07",
+          "file": "images/NCERT_fecu106_page0005_img07.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0005_table01",
+          "bbox": [
+            72.52889082166884,
+            577.625,
+            437.5111151801215,
+            703.8477783203125
+          ],
+          "rows": [
+            [
+              "Tennis ball",
+              ""
+            ],
+            [
+              "Cricket ball",
+              ""
+            ],
+            [
+              "Hand exercise ball",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "Any other",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": []
+    },
+    {
+      "page_number": 6,
+      "text": "106\nFig. 6.4: Grouping of objects\nDiscuss in class other properties of sports balls, such as size, \ncolour, texture and how high they bounce and understand \nwhy balls are made up of specific materials for specific sports.\nObserve Fig. 6.4 and group the objects in as many different \nways as possible.\nYou might have grouped \nthese objects according to \ntheir shapes or by their \ncolour or materials they are \nmade up of.\nWe \nhave \nlearnt \nthat \nmaterials may be classified on \nthe basis of their properties. \nFor \nexample, \nin \nthe \nkitchen, we usually store \nthings in such a manner \nwhere similar utensils are \nplaced together. Similarly, a grocer usually keeps all types \nof spices in one corner, pulses and grains in another corner \nand so on. You may also visit any chemist shop and enquire \nabout how medicines are arranged.\n6.3\t What are the different Properties of \nMaterials?\nLet us learn some more properties of materials.\n6.3.1 \u0007Observe and identify appearance of materials\nMaterials often look different from each other. Freshly cut \nwood, which is unpolished, has a distinct appearance, quite \ndifferent from that of iron. Similarly, iron looks different \nfrom copper or aluminium. However, there might be some \nsimilarities among iron, copper and aluminium that make \nthem different from wood.\nLet us do a sorting challenge! Collect small pieces of paper, \ncardboard, wood, chalk, copper wire, aluminium foil and any \narticle made up of brass, bronze, steel, etc. Take a look at the \npieces you have collected. Do any of these materials shine \nwhen light falls on them? Observe their texture (whether \nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1674,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0006_img01",
+          "file": "images/NCERT_fecu106_page0006_img01.png",
+          "bbox": [
+            341.3999938964844,
+            148.03729248046875,
+            521.4000244140625,
+            303.6726379394531
+          ],
+          "width_px": 375,
+          "height_px": 325,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "pia\nBn ie"
+        },
+        {
+          "image_id": "NCERT_fecu106_page0006_img02",
+          "file": "images/NCERT_fecu106_page0006_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0006_img03",
+          "file": "images/NCERT_fecu106_page0006_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0006_vecfig01",
+          "file": "images/NCERT_fecu106_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\ne\n\nDiscuss in class other properties of sports balls, such as size,\ncolour, texture and how high they bounce and understand\nwhy balls are made up of specific materials for specific sports.\nObserve Fig. 6.4 and group the objects in as many different\nways as possible.\n\nYou might have grouped foi\nthese objects according to al\n\ntheir shapes or by their\ncolour or materials they are\nmade up of.\n\nWe have learnt that\nmaterials may be classified on\nthe basis of their properties.\n\nFor example, in_ the\nkitchen, we usually store\nthings in such a manner Fig. 6.4: Grouping of objects\nwhere similar utensils are\nplaced together. Similarly, a grocer usually keeps all types\nof spices in one corner, pulses and grains in another corner\nand so on. You may also visit any chemist shop and enquire\nabout how medicines are arranged.\n\nNN\n[~\n\nPeer\nB > Se\nFi & jee\n\n;\n\n6.3 What are the Different Properties of\nMaterials?\n\nLet us learn some more properties of materials.\n\n6.3.1 Observe and identify appearance of materials\n\nMaterials often look different from each other. Freshly cut\nwood, which is unpolished, has a distinct appearance, quite\ndifferent from that of iron. Similarly, iron looks different\nfrom copper or aluminium. However, there might be some\nsimilarities among iron, copper and aluminium that make\nthem different from wood.\n\nLet us do asorting challenge! Collect small pieces of paper,\ncardboard, wood, chalk, copper wire, aluminium foil and any\narticle made up of brass, bronze, steel, etc. Take a look at the\npieces you have collected. Do any of these materials shine\nwhen light falls on them? Observe their texture (whether\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "107\nrough or smooth), colour and other noticeable features, \nand record your observations in the notebook. Group the \ncollected pieces based on their appearance.\nMaterials that typically have shiny surfaces are said to \nhave a lustrous appearance. Such materials with lustre are \nusually metals. Examples of metals include iron, copper, zinc, \naluminium, gold, etc. However, some metals may lose their \nlustre and start to look dull or non-lustrous due \nto the effect of air and moisture on them. As \na result, we often notice the lustre only on \ntheir freshly cut surfaces. Non-lustrous \nmaterials are those that do not have a shiny \nsurface. Some examples of non-lustrous \nmaterials are paper, wood, rubber, jute, etc.\n“All that glitters is not gold” goes an old \nsaying! Not all the materials that shine are metals. \nSurfaces of some materials are made shiny by \npolishing or coating them with thin layers of plastic, \nwax or any other material which makes them look \nshiny. These materials may not be metals. \n6.3.2 Which materials are hard?\nWhen you press different objects or materials with your \nhands, some of them like stones, may be hard to compress, \nwhile others, like an eraser, can be easily compressed. Take \na metal key and use it to scratch the surface of a piece of \nwood, aluminium, stone, iron, candle, chalk and any other \nmaterial or object. Can some materials be scratched more \neasily than others? Materials which can be compressed or \nscratched easily are soft, while other materials which are \ndifficult to compress or scratch are hard. However, these \nproperties are relative in nature. For example, rubber is \nharder than sponge but softer than iron.\nActivity 6.5: Let us observe \n\n\nHold the objects given in Table 6.3 with your hands.\nFeel whether the objects are hard or soft. Find out the \nmaterials they are made up of. Enter your observations \nin Table 6.3.\nAre all lustrous \nmaterials metals?\nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1965,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0007_img01",
+          "file": "images/NCERT_fecu106_page0007_img01.png",
+          "bbox": [
+            407.2875061035156,
+            252.75241088867188,
+            535.2230224609375,
+            368.2408142089844
+          ],
+          "width_px": 267,
+          "height_px": 241,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0007_img02",
+          "file": "images/NCERT_fecu106_page0007_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0007_img03",
+          "file": "images/NCERT_fecu106_page0007_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 8,
+      "text": "108\n\n\nCompare your observations with the observations of \nyour friends and discuss.\nYou have learnt that materials can have different properties, \nlike lustre, hardness, softness and colour. Can you think of \nany other properties that are shown by materials? Let us \nexplore it further.\n6.3.3\tExplore materials through which one can  \nsee or cannot see\nGhulan, Sheeta and Sara are playing hide and seek with \ntheir friends. Ghulan hides behind a wall, Sheeta hides \nbehind a big tree in the garden while Sara hides behind \nthe frosted glass door (which has a hazy surface). Sheeta’s \nyounger brother can see all of this happening through a \nglass window of his house. \nThe materials, through which things can be seen clearly, \nare called transparent. Glass, water, air, cellophane paper, \netc., are some examples of transparent materials.\nWhy did Ghulan, Sheeta and Sara choose these places to hide?\nDo you think it would be possible for Sheeta’s brother to \nsee her and her friends through a closed wooden window of \nthe house?\nObject\nHard/Soft\nMaterial(s)\nBrick\nHard\nBaked clay\nWater bottle\nPillow\nTumbler\nTable\nSweater\nAny other\nTable 6.3: Hard or soft objects and the materials \nthey are made up of\nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1263,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0008_img01",
+          "file": "images/NCERT_fecu106_page0008_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0008_img02",
+          "file": "images/NCERT_fecu106_page0008_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0008_table01",
+          "bbox": [
+            55.192176818847656,
+            135.9732666015625,
+            520.4248161315918,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              null,
+              "Brick",
+              "Hard",
+              "Baked clay"
+            ],
+            [
+              null,
+              "Water bottle",
+              "",
+              ""
+            ],
+            [
+              "Pillow\nTumbler\nTable\nSweater\nAny other\n Compare your observations with the observations of\nyour friends and discuss.\nYou have learnt that materials can have different properties,\nlike lustre, hardness, softness and colour. Can you think of\nany other properties that are shown by materials? Let us\nexplore it further.\n6.3.3 Explore materials through which one can\nsee or cannot see\nGhulan, Sheeta and Sara are playing hide and seek with\ntheir friends. Ghulan hides behind a wall, Sheeta hides\n6\nbehind a big tree in the garden while Sara hides behind Grade\nthe frosted glass door (which has a hazy surface). Sheeta’s\n|\nScience\nyounger brother can see all of this happening through a\nglass window of his house.\nof\nThe materials, through which things can be seen clearly, Textbook\nare called transparent. Glass, water, air, cellophane paper,\netc., are some examples of transparent materials.\n|\nWhy did Ghulan, Sheeta and Sara choose these places to hide? sity",
+              "Pillow",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Tumbler",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Table",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Sweater",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Any other",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0008_vecfig01",
+          "file": "images/NCERT_fecu106_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nTable 6.3: Hard or soft objects and the materials\nthey are made up of\n\nObject Hard/Soft Material(s)\n\nBrick Hard Baked clay\nWater bottle\n\nPillow\n\nTumbler\n\nTable\n\nSweater\n\nAny other\n\nCompare your observations with the observations of\nyour friends and discuss.\n\nYou have learnt that materials can have different properties,\nlike lustre, hardness, softness and colour. Can you think of\nany other properties that are shown by materials? Let us\nexplore it further.\n\n6.3.3 Explore materials through which one can\nsee or cannot see\n\nGhulan, Sheeta and Sara are playing hide and seek with\ntheir friends. Ghulan hides behind a wall, Sheeta hides\nbehind a big tree in the garden while Sara hides behind\nthe frosted glass door (which has a hazy surface). Sheeta’s\nyounger brother can see all of this happening through a\nglass window of his house.\n\nThe materials, through which things can be seen clearly,\nare called transparent. Glass, water, air, cellophane paper,\netc., are some examples of transparent materials.\n\nWhy did Ghulan, Sheeta and Sara choose these places to hide?\n\nDo you think it would be possible for Sheeta’s brother to\nsee her and her friends through a closed wooden window of\nthe house?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "109\nThere are many materials through which you are not \nable to see at all. These materials are called opaque. Wood, \ncardboard and metals are examples of opaque materials.\nThe materials through which objects can be seen, but not \nclearly, are known as translucent. Butter paper and frosted \nglass are examples of translucent materials.\nLook at Fig. 6.5. Identify and label the nature of materials \nused by Ghulan (A), Sheeta (B), Sara (C) and Sheeta’s \nbrother (D). \nFig. 6.5: Identify the nature of different materials \n(A) \n  (B)\n  (C) \n  (D) \n .\nC\nA\nB\nD\nActivity 6.6: Let us classify \nClassify the following objects as transparent, translucent or \nopaque in Table 6.4.\nGlass tumbler\nButter paper\nEraser\nFrosted glass\nWooden board\nWindow glass\nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 783,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0009_img01",
+          "file": "images/NCERT_fecu106_page0009_img01.png",
+          "bbox": [
+            72.79996490478516,
+            211.55653381347656,
+            439.99993896484375,
+            410.16900634765625
+          ],
+          "width_px": 765,
+          "height_px": 414,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0009_img02",
+          "file": "images/NCERT_fecu106_page0009_img02.png",
+          "bbox": [
+            99.60446166992188,
+            527.5443725585938,
+            149.88084411621094,
+            596.6493530273438
+          ],
+          "width_px": 105,
+          "height_px": 144,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0009_img03",
+          "file": "images/NCERT_fecu106_page0009_img03.png",
+          "bbox": [
+            216.15220642089844,
+            530.1567993164062,
+            293.7866516113281,
+            596.6678466796875
+          ],
+          "width_px": 162,
+          "height_px": 139,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0009_img04",
+          "file": "images/NCERT_fecu106_page0009_img04.png",
+          "bbox": [
+            340.0523376464844,
+            530.1567993164062,
+            414.70526123046875,
+            596.6678466796875
+          ],
+          "width_px": 156,
+          "height_px": 139,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0009_img05",
+          "file": "images/NCERT_fecu106_page0009_img05.png",
+          "bbox": [
+            90.70586395263672,
+            624.5712890625,
+            160.3131103515625,
+            691.0823364257812
+          ],
+          "width_px": 146,
+          "height_px": 139,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0009_img06",
+          "file": "images/NCERT_fecu106_page0009_img06.png",
+          "bbox": [
+            217.02391052246094,
+            624.52783203125,
+            291.10345458984375,
+            691.153564453125
+          ],
+          "width_px": 155,
+          "height_px": 139,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0009_img07",
+          "file": "images/NCERT_fecu106_page0009_img07.png",
+          "bbox": [
+            344.26251220703125,
+            619.7893676757812,
+            410.5170593261719,
+            691.080810546875
+          ],
+          "width_px": 139,
+          "height_px": 149,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0009_img08",
+          "file": "images/NCERT_fecu106_page0009_img08.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0009_img09",
+          "file": "images/NCERT_fecu106_page0009_img09.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0009_vecfig01",
+          "file": "images/NCERT_fecu106_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "There are many materials through which you are not\nable to see at all. These materials are called opaque. Wood,\ncardboard and metals are examples of opaque materials.\n\nThe materials through which objects can be seen, but not\nclearly, are known as translucent. Butter paper and frosted\nglass are examples of translucent materials.\n\nLook at Fig. 6.5. Identify and label the nature of materials\nused by Ghulan (A), Sheeta (B), Sara (C) and Sheeta’s\nbrother (D).\n\n=\n\nActivity 6.6: Let us.classify\n\nClassify the following objects as transparent, translucent or\nopaque in Table 6.4.\n\nGlass tumbler Butter paper Eraser\n\nFrosted glass Wooden board Window glass\n\nReprint 2026-27\n\nMaterials Around Us\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "110\n6.3.4  What is soluble in water; what is not?\nGhulan was sweating when he came home after \nplaying in the evening. He was feeling tired and \nthirsty. Ghulan’s mother mixed a spoonful of sugar, \na pinch of salt and some lemon juice in a glass \ntumbler of water and offered him this shikanji \n(lemonade) to drink.\nGhulan noticed that while his mother was \nmixing sugar and salt in water, the salt and the \nsugar disappeared after a while. \nLet us try a simple activity to explore how \ndifferent materials behave when we mix them \nin water!\nActivity 6.7: Let us explore \n\n\nCollect small amounts of sugar, salt, chalk powder, sand \nand sawdust. \n\n\nTake five glass tumblers and fill them about two-third \nwith water. \n\n\nPut a teaspoonful of sugar in the first glass tumbler, salt \nin the second one, chalk powder in the third, sand in the \nfourth and sawdust in the fifth glass tumbler. \n\n\nOn stirring, predict what will happen in each case.\n\n\nUse a spoon to stir well the contents of each glass tumbler. \n\n\nWait for a few minutes and watch what happens. \n\n\nWrite down your observations in Table 6.5.\nTransparent\nTranslucent\nOpaque\nTable 6.4: Classification of objects\nIs water \ntransparent? \nCan it \nbe made \nopaque? ?\nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1291,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0010_img01",
+          "file": "images/NCERT_fecu106_page0010_img01.png",
+          "bbox": [
+            114.31934356689453,
+            242.1830291748047,
+            196.1363067626953,
+            422.0736389160156
+          ],
+          "width_px": 171,
+          "height_px": 375,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0010_img02",
+          "file": "images/NCERT_fecu106_page0010_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0010_img03",
+          "file": "images/NCERT_fecu106_page0010_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0010_table01",
+          "bbox": [
+            55.192176818847656,
+            130.07000732421875,
+            520.4811299641927,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              null,
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "",
+              "",
+              ""
+            ],
+            [
+              "6.3.4 What is soluble in water; what is not?\nGhulan was sweating when he came home after\nplaying in the evening. He was feeling tired and\nthirsty. Ghulan’s mother mixed a spoonful of sugar,\na pinch of salt and some lemon juice in a glass\ntumbler of water and offered him this shikanji\n(lemonade) to drink.\nGhulan noticed that while his mother was\nmixing sugar and salt in water, the salt and the\nsugar disappeared after a while.\nLet us try a simple activity to explore how\ndifferent materials behave when we mix them\nin water!\nActivity 6.7: Let us explore\n Collect small amounts of sugar, salt, chalk powder, sand\nand sawdust.\n Take five glass tumblers and fill them about two-third 6\nGrade\nwith water.\n|\n Put a teaspoonful of sugar in the first glass tumbler, salt Science\nin the second one, chalk powder in the third, sand in the\nfourth and sawdust in the fifth glass tumbler. of\nTextbook\n On stirring, predict what will happen in each case.\n Use a spoon to stir well the contents of each glass tumbler.\n|\nsity\n Wait for a few minutes and watch what happens.",
+              null,
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0010_vecfig01",
+          "file": "images/NCERT_fecu106_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Table 6.4: Classification of objects\nIs water\n\ncansparent? Transparent Translucent Opaque\nan it\n\nbe made\nOpaque? ?\n\n6.3.4 What is soluble in water; what is not?\n\nGhulan was sweating when he came home after\nplaying in the evening. He was feeling tired and\nthirsty. Ghulan’s mother mixed a spoonful of sugar,\na pinch of salt and some lemon juice in a glass\ntumbler of water and offered him this shikanji\n(lemonade) to drink.\n\nGhulan noticed that while his mother was\nmixing sugar and salt in water, the salt and the\nsugar disappeared after a while.\n\nLet us try a simple activity to explore how\ndifferent materials behave when we mix them\nin water!\n\nActivity 6.7: Let us explore =‘\n\n¢ Collect small amounts of sugar, salt, chalk powder, sand\nand sawdust.\n\n@ Take five glass tumblers and fill them about two-third\nwith water.\n\n@ Puta teaspoonful of sugar in the first glass tumbler, salt\nin the second one, chalk powder in the third, sand in the\nfourth and sawdust in the fifth glass tumbler.\n\nOn stirring, predict what will happen in each case.\nUse aspoontostir well the contents of each glass tumbler.\nWait for a few minutes and watch what happens.\n\nCuriosity | Textbook of Science | Grade 6\n\n¢-¢ ¢ ¢\n\nWrite down your observations in Table 6.5.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "111\nYou might have noticed that some materials \ncompletely disappear when mixed in water. \nWe say that these materials dissolve in \nwater or, in other words, they are soluble \nin water (Fig. 6.6a). Some materials do not \nmix with water and do not disappear even \nafter we stir them for a long time. These \nmaterials are insoluble in water (Fig. 6.6b). \nWater plays an important role in the functioning \nof our body because it can dissolve a large number of \nmaterials. \nMaterial\nPrediction\nObservation\nWill disappear \nin water/will not \ndisappear in water\nDisappears in water/\ndoes not disappear \nin water\nSugar\nSalt\nChalk powder\nSand\nSawdust\nAny other\nTable 6.5: Mixing different materials in water\n Fig. 6.6: What disappears, what does not?\n(a) Soluble material in water\n(b) Insoluble material in water\nDoes \neverything you \nput in water \ndisappear? ?\nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 890,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0011_img01",
+          "file": "images/NCERT_fecu106_page0011_img01.png",
+          "bbox": [
+            101.86162567138672,
+            544.3764038085938,
+            229.98480224609375,
+            677.54833984375
+          ],
+          "width_px": 267,
+          "height_px": 278,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0011_img02",
+          "file": "images/NCERT_fecu106_page0011_img02.png",
+          "bbox": [
+            265.4188537597656,
+            544.3909912109375,
+            390.73046875,
+            677.53271484375
+          ],
+          "width_px": 262,
+          "height_px": 278,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0011_img03",
+          "file": "images/NCERT_fecu106_page0011_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0011_img04",
+          "file": "images/NCERT_fecu106_page0011_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0011_table01",
+          "bbox": [
+            72.4892325768104,
+            119.1368408203125,
+            438.96185302734375,
+            349.399169921875
+          ],
+          "rows": [
+            [
+              null,
+              "Will disappear\nin water/will not\ndisappear in water",
+              "Disappears in water/\ndoes not disappear\nin water"
+            ],
+            [
+              "Sugar",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "Salt",
+              "",
+              ""
+            ],
+            [
+              "Chalk powder",
+              "",
+              ""
+            ],
+            [
+              "Sand",
+              "",
+              ""
+            ],
+            [
+              "Sawdust",
+              "",
+              ""
+            ],
+            [
+              "Any other",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0011_vecfig01",
+          "file": "images/NCERT_fecu106_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Table 6.5: Mixing different materials in water\n\nPrediction Observation\nMaterial Willdisappear Disappears in water/\nin water/willnot does not disappear\ndisappear in water in water\nSugar\nSalt\nChalk powder\nSand\nSawdust\nAny other\nYou might have noticed that some materials .\noes\n\ncompletely disappear when mixed in water.\nWe say that these materials dissolve in\nwater or, in other words, they are soluble\nin water (Fig. 6.6a). Some materials do not\nmix with water and do not disappear even\nafter we stir them for a long time. These\n\nmaterials are insoluble in water (Fig. 6.6b).\n\neverything you\nput in water\ndisappear?\n\nWater plays an important role in the functioning\nof our body because it can dissolve a large number of\n\nmaterials.\nr q\n}\n. |\n:\n|\n(a) Soluble material in water (b) Insoluble material in water\n\nFig. 6.6: What disappears, what does not?\n\nReprint 2026-27\n\nMaterials Around Us\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "112\nMake your own ORS!\nORS—Oral Rehydration Solution— is used to treat dehydration due \nto diarrhoea or other illnesses. These ready-made ORS packets are \navailable in primary health centres and also in the market. Each packet \nis dissolved in a litre of water before use. If these are not available, \nORS can be prepared at home by mixing six teaspoons of sugar and \nhalf a teaspoon of common salt in one litre of boiled and cooled water.\nSome liquids get completely mixed with water. Some do \nnot mix with water and form a separate layer when left \nundisturbed for some time. Similarly, some gases are soluble \nin water whereas others are not. For example, oxygen gas \ndissolves in water. It is very important for the survival of \nanimals and plants that live in water.\n6.3.5 How heavy or light?\nActivity 6.8: Let us measure \n\n\nLet us take three identical paper cups (or bowls). Fill \neach cup half with the provided materials. \n\n\nFill one with water and mark it as ‘A’, second with sand \nand mark it as ‘B’, and the third with pebbles and mark \nit as ‘C’. \n\n\nPredict which one would be heavier and which one \nwould be lighter?  \nDo liquids like oil, \nvinegar and honey \ndissolve in water? \nExplore.\nWhat about the gases \npresent in water?\nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1306,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0012_img01",
+          "file": "images/NCERT_fecu106_page0012_img01.png",
+          "bbox": [
+            219.4141845703125,
+            282.54119873046875,
+            306.4803466796875,
+            396.27056884765625
+          ],
+          "width_px": 182,
+          "height_px": 237,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0012_img02",
+          "file": "images/NCERT_fecu106_page0012_img02.png",
+          "bbox": [
+            385.2669677734375,
+            261.3847351074219,
+            482.930908203125,
+            317.4151611328125
+          ],
+          "width_px": 204,
+          "height_px": 117,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0012_img03",
+          "file": "images/NCERT_fecu106_page0012_img03.png",
+          "bbox": [
+            289.68182373046875,
+            297.2158203125,
+            410.04913330078125,
+            415.7927551269531
+          ],
+          "width_px": 251,
+          "height_px": 247,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0012_img04",
+          "file": "images/NCERT_fecu106_page0012_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0012_img05",
+          "file": "images/NCERT_fecu106_page0012_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 13,
+      "text": "113\n\n\nWeigh each cup using a balance (Fig. 6.7) \nand record the readings in your notebook. \n\n\nCompare the data and infer which is \nheavier or lighter.\nFrom Activity 6.8, we can say that any object \nwhich is heavier or lighter can be measured in \nterms of a property called mass.\nThe one which is heavier has more mass \nand the one which is lighter has less mass.\nFig. 6.7: Weighing a paper  \ncup containing water\n(a) Half-filled\n(b) Fully-filled \nFig. 6.8: Glass tumblers with varying levels of water\nWeight is sometimes used in common language for mass as it is \ndetermined by weighing. You will learn more about mass and weight \nand their relation in higher classes.\n6.3.6 Space and volume\nNext day, Madam Vidya enters the class. All the students \nstand up to greet her. She reciprocates and deliberately \nsays, “Please keep your bags on your seats and sit down.” \nStudents are not able to sit because bags are kept on their \nseats. Madam Vidya asks, “Why are you not sitting?” The \nstudents reply that there is no place to sit because the bags \nhave occupied that space.\nContinuing the conversation, \nshe provides two identical glass \ntumblers to two students and \nencourages them to pour the \nremaining water from their \ndrinking \nwater \nbottles \ninto \nthe respective glass tumblers. \nOn pouring water in the glass \ntumblers, the students observe \nthat one glass tumbler gets half-\nfilled with water (Fig. 6.8a) while \nthe other is almost completely \nfilled with water (Fig. 6.8b).\nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1526,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0013_img01",
+          "file": "images/NCERT_fecu106_page0013_img01.png",
+          "bbox": [
+            401.3450012207031,
+            64.19953918457031,
+            477.8550109863281,
+            213.02496337890625
+          ],
+          "width_px": 160,
+          "height_px": 311,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0013_img02",
+          "file": "images/NCERT_fecu106_page0013_img02.png",
+          "bbox": [
+            285.85009765625,
+            466.67523193359375,
+            506.4598083496094,
+            651.9636840820312
+          ],
+          "width_px": 460,
+          "height_px": 386,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0013_img03",
+          "file": "images/NCERT_fecu106_page0013_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0013_img04",
+          "file": "images/NCERT_fecu106_page0013_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0013_vecfig01",
+          "file": "images/NCERT_fecu106_page0013_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "@ Weigh each cup using a balance (Fig. 6.7)\nand record the readings in your notebook.\n\nCompare the data and infer which is\nheavier or lighter.\n\nFrom Activity 6.8, we can say that any object\nwhich is heavier or lighter can be measured in\nterms of a property called mass.\n\nThe one which is heavier has more mass\nand the one which is lighter has less mass.\n\nFig. 6.7: Weighing a paper\ncup containing water\n\nWeight is sometimes used in common language for mass as it is\ndetermined by weighing. You will learn more about mass and weight\nand their relation in higher classes.\n\n6.3.6 Space and volume\n\nNext day, Madam Vidya enters the class. All the students\nstand up to greet her. She reciprocates and deliberately\nsays, “Please keep your bags on your seats and sit down.”\nStudents are not able to sit because bags are kept on their\nseats. Madam Vidya asks, “Why are you not sitting?” The\nstudents reply that there is no place to sit because the bags\nhave occupied that space.\nContinuing the conversation,\nshe provides two identical glass\ntumblers to two students and\nencourages them to pour the\nremaining water from their\ndrinking water bottles into\nthe respective glass tumblers.\nOn pouring water in the glass\ntumblers, the students observe\nthat one glass tumbler gets half-\nfilled with water (Fig. 6.8a) while\nthe other is almost completely (a) Half-filled (b) Fully-filled\nfilled with water (Fig. 6.8b).\n\nFig. 6.8: Glass tumblers with varying levels of water\n\nReprint 2026-27\n\nMaterials Around Us"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "114\nWhy is the level of water different in the two tumblers?\nMadam Vidya elaborates that both tumblers have the \nsame capacity. The water levels differ in each case, which \nindicates that the amount of water in each tumbler is \ndifferent. \nThe water in the first tumbler occupies less space, \nindicating that the volume of water in this tumbler is less \nthan the water in the other tumbler. The space occupied by \nwater represents its volume.\nYou may have noticed drinking water bottles of different \nsizes being sold in the market. Have you noticed 1 L, 500 mL, \n200 mL, etc., written as net quantity on the bottles? These \nindicate the volume of water in the bottles.\nThe bottles of drinking \nwater and milk are \nlabelled as 500 mL, \nindicating the volume.\nDrinking\n water\n500 mL\nMilk\n500 mL\nWhy was I not able to \ntransfer water from the \njug into an empty water \nbottle completely? \nNow I know the reason \nbehind it …\nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 980,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0014_img01",
+          "file": "images/NCERT_fecu106_page0014_img01.png",
+          "bbox": [
+            193.87229919433594,
+            219.9373321533203,
+            379.90765380859375,
+            386.24163818359375
+          ],
+          "width_px": 388,
+          "height_px": 347,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0014_img02",
+          "file": "images/NCERT_fecu106_page0014_img02.png",
+          "bbox": [
+            285.4715576171875,
+            574.7144775390625,
+            384.025146484375,
+            699.9945068359375
+          ],
+          "width_px": 206,
+          "height_px": 261,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0014_img03",
+          "file": "images/NCERT_fecu106_page0014_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0014_img04",
+          "file": "images/NCERT_fecu106_page0014_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 15,
+      "text": "115\nNow you have become familiar with many properties \nof \nmaterials. \nHowever, \nall \nmaterials do not possess all \nthese properties. \nAre there any \nproperties which \ncan be shown by all \nmaterials? If yes, \nwhat are those?\n?\n6.4 What is Matter?\nMass and volume are the two \nproperties that are possessed \nby all materials. Can we give a \ngeneral name to anything that \npossesses these two properties? \nAnything that occupies space and has \nmass is called matter. The mass gives the quantity of matter, \nand the units to measure it are gram (g) and kilogram (kg). \nThe space occupied by matter is its volume. The units to \nmeasure the volume are litre (L) and millilitre (mL).\nKilogram is the unit of mass in the International System \nof Units (SI). Kilogram is abbreviated in lower case as kg. \nThere is no space between ‘k’ and ‘g’ in kg, and no full \nstop after the symbol, except at the end of a sentence. \nWhile writing the mass, always leave a space between \nthe number (numerical value) and the unit. For example, \nif we have mass of 7 kilograms, it would be written as \n7 kg and not as 7 kgs.\nSimilarly, litre is abbreviated as capital L and \nmillilitre as mL. There is no space between ‘m’ and ‘L’ \nin mL. For example, if you have 500 millilitres of water, \nit would be written as 500 mL, m will be in lower \ncase and L will be in upper case. The SI unit for \nvolume is cubic metre, abbreviated as m3. The \nabbreviation is written with a superscript 3 to \ndenote cubic metre. For example, if you have \nvolume of 2 cubic metres, it would be written \nas 2 m3. Always leave a space between number \n(numerical value) and the unit. 1 m3 =1000 L.\nDo you \nknow?\nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1701,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0015_img01",
+          "file": "images/NCERT_fecu106_page0015_img01.png",
+          "bbox": [
+            37.230506896972656,
+            335.91357421875,
+            497.5190734863281,
+            716.4361572265625
+          ],
+          "width_px": 960,
+          "height_px": 794,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0015_img02",
+          "file": "images/NCERT_fecu106_page0015_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0015_img03",
+          "file": "images/NCERT_fecu106_page0015_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0015_vecfig01",
+          "file": "images/NCERT_fecu106_page0015_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Now you have become familiar with many properties\nof materials. However, all\nmaterials do not possess all\n\nthese properties. Are there any\nProperties which\n6.4 What is Matter? can be shown by all\nMaterials? If yes\nMass and volume are the two What are those? °?\n\nproperties that are possessed\nby all materials. Can we give a\ngeneral name to anything that\npossesses these two properties?\nAnything that occupies space and has\n\nmass is called matter. The mass gives the quantity of matter,\nand the units to measure it are gram (g) and kilogram (kg).\nThe space occupied by matter is its volume. The units to\nmeasure the volume are litre (L) and millilitre (mL).\n\nKilogram is the unit of mass in the International System\nof Units (SI). Kilogram is abbreviated in lower case as kg.\nThere is no space between ‘k’ and ‘g’ in kg, and no full\nstop after the symbol, except at the end of a sentence.\nWhile writing the mass, always leave a space between\nthe number (numerical value) and the unit. For example,\nif we have mass of 7 kilograms, it would be written as\n7 kg and not as 7 kgs.\n\nSimilarly, litre is abbreviated as capital L and\nmillilitre as mL. There is no space between ‘m’ and ‘L’\nin mL. For example, if you have 500 millilitres of water,\nit would be written as 500 mL, m will be in lower\ncase and L will be in upper case. The SI unit for\nvolume is cubic metre, abbreviated as m*. The\nabbreviation is written with a superscript 3 to\ndenote cubic metre. For example, if you have\nvolume of 2 cubic metres, it would be written Do you\nas 2 m’. Always leave a space between number know?\n(numerical value) and the unit. 1 m?=1000 L.\n\nReprint 2026-27\n\nMaterials Around Us\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "116\nCan all the materials around us be \nconsidered as different examples of \nmatter? Discuss with your friends.\nFor example, water is matter, sand and \npebbles are matter and so is the cup.\nMaterials are types of matter used in the \ncreation or making of objects.\nWe learnt that materials look different \nand behave differently. We grouped materials \non the basis of  similarities or differences in \ntheir properties. \nWe find grouping useful as it helps us study and \nobserve patterns in the properties of things. Humans have \nbeen classifying not only things, but also rocks, plants and \nanimals. We have learnt about the classification of the living \nworld in the chapter ‘Diversity in the Living World’. Just like \nin the living world, classification of the non-living world is \nalso done on the basis of their properties.\nIs air \nmatter?\nYes! But most of the materials \nthat we see today would have \nalso existed earlier. I am \ncurious to know how people \nclassified them then.\nWe have explored \nand understood the \nvarious properties of \nmaterials.\nCan you think about what changes the \ninvention of plastic brought to humans? \nIs it a boon or a bane? \nThink it \nover!\nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1233,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0016_img01",
+          "file": "images/NCERT_fecu106_page0016_img01.png",
+          "bbox": [
+            121.41960906982422,
+            108.83525848388672,
+            234.50039672851562,
+            234.412841796875
+          ],
+          "width_px": 236,
+          "height_px": 262,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0016_img02",
+          "file": "images/NCERT_fecu106_page0016_img02.png",
+          "bbox": [
+            406.9176330566406,
+            577.402587890625,
+            491.8823547363281,
+            709.0571899414062
+          ],
+          "width_px": 177,
+          "height_px": 275,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0016_img03",
+          "file": "images/NCERT_fecu106_page0016_img03.png",
+          "bbox": [
+            213.26495361328125,
+            600.4444580078125,
+            356.01690673828125,
+            709.021728515625
+          ],
+          "width_px": 298,
+          "height_px": 227,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0016_img04",
+          "file": "images/NCERT_fecu106_page0016_img04.png",
+          "bbox": [
+            162.26162719726562,
+            364.41259765625,
+            523.2396240234375,
+            451.46258544921875
+          ],
+          "width_px": 753,
+          "height_px": 182,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0016_img05",
+          "file": "images/NCERT_fecu106_page0016_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0016_img06",
+          "file": "images/NCERT_fecu106_page0016_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 17,
+      "text": "117\nKeywords\nOpaque\nNon-lustrous\nVolume\nTransparent\nTranslucent\nSoluble\nSoft\nExplore\nClassify\nRecord\nPredict\nObserve\nIdentify\nHard\nInsoluble \nLustrous\nMaterial\nMatter\nMass\t\nClassification\nA similar classification system existed in ancient India. \nAyurveda, one of the Indian medical systems, too has a \nsystem of grouping things.\nगुŁ मन्द हिम स्निग्ध श्‍लक्ष्ण सान्द्र मृददु स्थिराः|\nगुणणाः ससूक्म विशददा: विंशतिः स विपर्ययाः||\n(Aṣhtanga hṛidaya Sūtra sthāna 1.18)\nThe shloka precisely talks about the 20 properties (guṇa—ten \npairs of opposite properties), which are used to describe all \nphysical matter in Ayurveda. These properties can also be used \nto describe all living systems (plants, animals and humans), the \nenvironment and also food.\nThese properties are:\n(i) \t\nguru (heavy) \t\n\t\nlaghu (light in weight)\n(ii)\t\nmanda (slow)\t\n\t\ntīkṣhṇa (quick, fast) \n(iii) \t hima (cold) \t\n\t\nuṣhṇa (hot)\n(iv)\t\nsnigdha (unctous) \t\n\t\nrukṣha (dry)\n(v) \t\nśhlakṣhaṇa (smooth) \t\n\t\nkhara (rough)\n(vi)\t\nsāndra (solid) \t\n\t\ndrava (liquid)\n(vii)\t mṛidu (soft) \t\n\t\nkaṭhina (hard)\n(viii)\t sthira (stable)\t\n\t\nkhāla (moving, unstable)\n(ix)\t\nsūkṣhma (subtle, small)  \t\n\t\nsthūla (big, gross)\n(x)\t\nviśhada (non slimy)  \t\n \npicchhila (slimy)\nDo you \nknow?\nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1276,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0017_img01",
+          "file": "images/NCERT_fecu106_page0017_img01.png",
+          "bbox": [
+            154.17337036132812,
+            445.85772705078125,
+            358.2933654785156,
+            494.1427307128906
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0017_img02",
+          "file": "images/NCERT_fecu106_page0017_img02.png",
+          "bbox": [
+            26.39996337890625,
+            28.337646484375,
+            485.39996337890625,
+            446.10797119140625
+          ],
+          "width_px": 957,
+          "height_px": 871,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0017_img03",
+          "file": "images/NCERT_fecu106_page0017_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0017_img04",
+          "file": "images/NCERT_fecu106_page0017_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0017_table01",
+          "bbox": [
+            311.92010498046875,
+            658.029541015625,
+            407.55201721191406,
+            669.7792053222656
+          ],
+          "rows": [
+            [
+              "Record",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": []
+    },
+    {
+      "page_number": 18,
+      "text": "118\n\n\nObjects are made from a large variety of materials. An object \ncan be made up of a single material or a combination of \ndifferent materials.\n\n\nWe can use different materials to make objects with similar \nfunctions.\n\n\nThe method of arranging objects into groups is called \nclassification.\n\n\nMaterials possess different properties which determine \ntheir use.\n\n\nMaterials are grouped or classified based on their similarities \nor differences in their properties.\n\n\nMaterials can be grouped based on appearance, such as \nlustrous or non-lustrous and based on the feel, such as hard \nor soft.\n\n\nMaterials are grouped as transparent, translucent or opaque \ndepending on how much we can see through them.\n\n\nSome materials are soluble in water, while others remain \ninsoluble.\n\n\nAnything that occupies space and has mass is called matter.\n\n\nThe space occupied by matter is its volume.\n\n\nMass quantifies the amount of matter present in an object.\nSummary\nIron\nTransparent\nCopper\nSolid\nBottle\nPlastic\nLustrous\nWood\nOpaque\nGlass\n1.\t\nFind the companion.\n\t\nLink the following words by putting arrows between words \nthat have a connection.\nLet us play\nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1224,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0018_img01",
+          "file": "images/NCERT_fecu106_page0018_img01.png",
+          "bbox": [
+            238.14010620117188,
+            64.19998931884766,
+            442.2601013183594,
+            112.529541015625
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0018_img02",
+          "file": "images/NCERT_fecu106_page0018_img02.png",
+          "bbox": [
+            154.71994018554688,
+            462.39453125,
+            521.919921875,
+            526.7957763671875
+          ],
+          "width_px": 765,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0018_img03",
+          "file": "images/NCERT_fecu106_page0018_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0018_img04",
+          "file": "images/NCERT_fecu106_page0018_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0018_vecfig01",
+          "file": "images/NCERT_fecu106_page0018_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nObjects are made from a large variety of materials. An object\ncan be made up of a single material or a combination of\ndifferent materials.\n\nWe can use different materials to make objects with similar\nfunctions.\n\nThe method of arranging objects into groups is called\nclassification.\n\nMaterials possess different properties which determine\ntheir use.\n\nMaterials are grouped or classified based on their similarities\nor differences in their properties.\n\nMaterials can be grouped based on appearance, such as\nlustrous or non-lustrous and based on the feel, such as hard\nor soft.\n\nMaterials are grouped as transparent, translucent or opaque\ndepending on how much we can see through them.\n\nSome materials are soluble in water, while others remain\ninsoluble.\n\nAnything that occupies space and has mass is called matter.\n\nThe space occupied by matter is its volume.\n\nMass quantifies the amount of matter present in an object.\n@) Zi gS\n\nFind the companion.\n\nLink the following words by putting arrows between words\nthat have a connection.\n\nIron\nTransparent Copper\nSolid Bottle\nPlastic Lustrous\nWood Opaque\nGlass\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "119\n2. \t Win the ‘Word-hub’\n\t\nThe following words from the chapter like lustrous, \nnon-lustrous, soluble, insoluble, hard, soft, matter, mass, \ntransparent, opaque, volume and translucent are picked up.\nGrid\n\n\nStudents should randomly choose nine words from the given \nlist and write them in the grid.\n\n\nThen, the facilitator either reads the definition of a word or \nthe word itself (randomly) from the given list.\n\n\nThe learners have to tick if the particular word is there in \nthe grid.\n\n\nWhoever finishes ticking off all nine words first will shout \nout ‘Hurray!’ That person will be the winner if his/her words \nare marked correctly.\n1.\t\nVisit your kitchen and observe how your parents have \norganised various edibles. Can you suggest a better sorting \nmethod? Write it in your notebook. \n2.\t\nUnscramble the letters (Column I) and match with their \nproperties (Column II).\nColumn I\nColumn II\n  (i) \tT R E M A T\n(a) \t Objects can be seen \nclearly through it\n (ii) \tU L S B E L O\n(b) \t Occupies space and  \nhas mass\n(iii) \tT N E R P A S N A R T\n(c)\t Shiny surface\n(iv) \tE R U S T L\n(d) \t Mixes completely in water\nLet us enhance our learning \nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1190,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0019_img01",
+          "file": "images/NCERT_fecu106_page0019_img01.png",
+          "bbox": [
+            72.4000015258789,
+            384.26507568359375,
+            439.6000061035156,
+            463.63677978515625
+          ],
+          "width_px": 765,
+          "height_px": 166,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0019_img02",
+          "file": "images/NCERT_fecu106_page0019_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0019_img03",
+          "file": "images/NCERT_fecu106_page0019_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0019_table01",
+          "bbox": [
+            71.94545607133345,
+            556.6279907226562,
+            438.05455155806106,
+            705.1119995117188
+          ],
+          "rows": [
+            [
+              "Column I",
+              "Column II"
+            ],
+            [
+              "(i) T R E M A T",
+              "(a) Objects can be seen\nclearly through it"
+            ],
+            [
+              "(ii) U L S B E L O",
+              "(b) Occupies space and\nhas mass"
+            ],
+            [
+              "(iii) T N E R P A S N A R T",
+              "(c) Shiny surface"
+            ],
+            [
+              "(iv) E R U S T L",
+              "(d) Mixes completely in water"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0019_vecfig01",
+          "file": "images/NCERT_fecu106_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Win the ‘Word-hub’\n\nThe following words from the chapter like lustrous,\nnon-lustrous, soluble, insoluble, hard, soft, matter, mass,\ntransparent, opaque, volume and translucent are picked up.\n\nGrid\n\nStudents should randomly choose nine words from the given\nlist and write them in the grid.\n\nThen, the facilitator either reads the definition of a word or\nthe word itself (randomly) from the given list.\n\nThe learners have to tick if the particular word is there in\nthe grid.\n\nWhoever finishes ticking off all nine words first will shout\nout ‘Hurray!’ That person will be the winner if his/her words\nare marked correctly.\n\nLet us enhance our learning\n\nVisit your kitchen and observe how your parents have\norganised various edibles. Can you suggest a better sorting\nmethod? Write it in your notebook.\n\nUnscramble the letters (Column J) and match with their\nproperties (Column IJ).\n\nColumn I Column II\n(Gi) TREMAT (a) Objects can be seen\nclearly through it\n(ii) ULSBELO (b) Occupies space and\nhas mass\n(iii) TNERPASNART (c) Shiny surface\n(iv) ERUSTL (d) Mixes completely in water\n\nReprint 2026-27\n\nMaterials Around Us\n\nSe"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "120\n3.\t\nThe containers which are used to store materials in shops and \nat home are usually transparent. Give your reasons for this.\n4. \t State whether the statements given below are True [T] or \nFalse [F]. Correct the False statement(s).\n  (i)\t\tWood is translucent while glass is opaque.\t\n[    ]\n (ii) \tAluminium foil has lustre while an eraser  \ndoes not.\t\n[    ]\n(iii) \tSugar dissolves in water whereas sawdust  \ndoes not.\t\n[    ]\n(iv) \tAn apple is a matter because it occupies no  \nspace and has mass.\t\n[    ]\n5.\t\nWe see chairs made up of various materials, such as wood, \niron, plastic, bamboo, cement and stones. Following are \nsome desirable properties of materials which can be used \nto make chairs. Which materials used to make chairs fulfil \nthese properties the most?\n  (i)\t\tHardness (does not bend or shake on sitting even after \nlong use).\n (ii)\t\tLightweight (easy to lift or to take from one place to \nanother).\n(iii)\t\tDoes not feel very cold when sitting during winters.\n(iv)\t\tCan be cleaned regularly and made to look new even \nafter long use.\n6.\t\nYou need to have containers for collection of: (i) food waste, \n(ii) broken glass and (iii) wastepaper. Which materials will \nyou choose for containers of these types of waste? What \nproperties of materials do you need to think of?\n7. \t Air is all around us but does not hinder us from seeing each \nother. Whereas, if a wooden door comes in between, we \ncannot see each other. It is because air is \n \nand the wooden door is \n . Choose the most \nappropriate option:\n  (i)\t transparent, opaque \n (ii)\t translucent, transparent\n(iii)\t opaque, translucent\n(iv)\t transparent, translucent\n8. \t Imagine you have two mysterious materials, X and Y. When \nyou try to press material X, it feels rigid and does not change \nits shape easily. On the other hand, material Y easily changes \nits shape when you press it. Now, when you mix both \nmaterials in water, only material X dissolves completely, \nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2008,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0020_img01",
+          "file": "images/NCERT_fecu106_page0020_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0020_img02",
+          "file": "images/NCERT_fecu106_page0020_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0020_vecfig01",
+          "file": "images/NCERT_fecu106_page0020_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n6\n\nThe containers which are used to store materials in shops and\nat home are usually transparent. Give your reasons for this.\n\nState whether the statements given below are True [T] or\nFalse [F]. Correct the False statement(s).\n\n(i) Wood is translucent while glass is opaque. [ ]\n(ii) Aluminium foil has lustre while an eraser\ndoes not. [ ]\n(iii) Sugar dissolves in water whereas sawdust\ndoes not. [ ]\n(iv) An apple is a matter because it occupies no\nspace and has mass. [ ]\n\nWe see chairs made up of various materials, such as wood,\niron, plastic, bamboo, cement and stones. Following are\nsome desirable properties of materials which can be used\nto make chairs. Which materials used to make chairs fulfil\nthese properties the most?\n\n(i) Hardness (does not bend or shake on sitting even after\nlong use).\n(ii) Lightweight (easy to lift or to take from one place to\nanother).\n(iii) Does not feel very cold when sitting during winters.\n(iv) Can be cleaned regularly and made to look new even\nafter long use.\nYou need to have containers for collection of: (i) food waste,\n(ii) broken glass and (iii) wastepaper. Which materials will\n\nyou choose for containers of these types of waste? What\nproperties of materials do you need to think of?\n\nAir is all around us but does not hinder us from seeing each\nother. Whereas, if a wooden door comes in between, we\ncannot see each other. It is because air is ___.._.-.-_-_---_-\nand the wooden door is ____--------------- . Choose the most\n\nappropriate option:\n(i) transparent, opaque\n\n(ii) translucent, transparent\n\n(iii) opaque, translucent\n\n(iv) transparent, translucent\nImagine you have two mysterious materials, X and Y. When\nyou try to press material X, it feels rigid and does not change\nits shape easily. On the other hand, material Y easily changes\n\nits shape when you press it. Now, when you mix both\nmaterials in water, only material X dissolves completely,\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "121\nwhile material Y remains unchanged. What can materials \nX and Y be? Can you identify whether material X is hard or \nsoft? What about material Y? Justify your answer. \n9. \t (i) \t\u0007Who am I? Identify me on the basis of the given \nproperties.\n(a)\t\nI have lustre.  \b\n(b)\t\nI can be easily compressed.\b\n(c)\t\nI am hard and soluble in water.\b\n(d)\t\nYou cannot see clearly through me.  \b\n(e)\t\n\u0007I have mass and volume but you  \ncannot see me.\b\n\t\n(ii)\tMake your own ‘Who am I?’\n10. \t You are provided with the following materials—vinegar, \nhoney, mustard oil, water, glucose and wheat flour.\n\t\nMake any two pairs of materials where one material is \nsoluble in the other. Now, make two pairs of materials where \none material remains insoluble in the other material.\n\n\nGather information on different materials which can be \nrecycled. You can take help from various sources, such as \nnewspapers, magazines, elders in your community, and the \ninternet.\n\n\nRecyclers buy old objects based on properties of the \nmaterials and do not bother even if an object is broken. \nConduct a survey with recyclers near you and find out what \nproperties of materials do they check before buying objects \nfrom households. Which materials do they not buy and why?\n\n\nCollect 20–30 objects from your household and classify \nthem based on the properties of the materials they are \nmade up of. Were you able to put them in separate groups? \nWhat relationship do you see between the properties of the \nmaterials and the use of the objects?\n\n\nCreate and decorate a useful object of your choice using \ndiscarded materials and bring it to the class. Discuss with your \nfriends what they have made and the materials they have \nused. Additionally, provide constructive feedback on areas for \nimprovement, considering functionality and any other points. \nLearning further \nMaterials Around Us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1876,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0021_img01",
+          "file": "images/NCERT_fecu106_page0021_img01.png",
+          "bbox": [
+            92.5093765258789,
+            347.0534973144531,
+            437.29071044921875,
+            411.5119323730469
+          ],
+          "width_px": 719,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0021_img02",
+          "file": "images/NCERT_fecu106_page0021_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0021_img03",
+          "file": "images/NCERT_fecu106_page0021_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0021_vecfig01",
+          "file": "images/NCERT_fecu106_page0021_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "10.\n\nwhile material Y remains unchanged. What can materials\nX and Y be? Can you identify whether material X is hard or\nsoft? What about material Y? Justify your answer.\n\n(i) Who am I? Identify me on the basis of the given\nproperties.\n(a) Ihavelustre £2 2 2 2 2 2 Lie a eee neeee\n(b) Icanbeeasilycompressed. — -------------\n(c) TIamhardandsolubleinwater. — -~------------\n(d) Youcannot see clearly throughme. — -~------------\n\n(e) Ihave mass and volume but you\ncannotseeme. 2 2 heen ee\n\n(ii) Make your own ‘Who am I?’\n\nYou are provided with the following materials—vinegar,\nhoney, mustard oil, water, glucose and wheat flour.\nMake any two pairs of materials where one material is\n\nsoluble in the other. Now, make two pairs of materials where\none material remains insoluble in the other material.\n\nLearning further ‘_;\n\nGather information on different materials which can be\nrecycled. You can take help from various sources, such as\nnewspapers, magazines, elders in your community, and the\ninternet.\n\nRecyclers buy old objects based on properties of the\nmaterials and do not bother even if an object is broken.\nConduct a survey with recyclers near you and find out what\nproperties of materials do they check before buying objects\nfrom households. Which materials do they not buy and why?\n\nCollect 20-30 objects from your household and classify\nthem based on the properties of the materials they are\nmade up of. Were you able to put them in separate groups?\nWhat relationship do you see between the properties of the\nmaterials and the use of the objects?\n\nCreate and decorate a useful object of your choice using\ndiscarded materials and bring it to the class. Discuss with your\nfriends what they have made and the materials they have\nused. Additionally, provide constructive feedback on areas for\nimprovement, considering functionality and any other points.\n\nReprint 2026-27\n\nMaterials Around Us\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "Notes\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 22,
+      "images": [
+        {
+          "image_id": "NCERT_fecu106_page0022_img01",
+          "file": "images/NCERT_fecu106_page0022_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu106_page0022_img02",
+          "file": "images/NCERT_fecu106_page0022_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu106_page0022_vecfig01",
+          "file": "images/NCERT_fecu106_page0022_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Notes\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}

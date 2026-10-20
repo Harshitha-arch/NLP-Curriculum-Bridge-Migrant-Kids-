@@ -1,0 +1,18 @@
+81
+6.3.2 Application Software 
+Application software is a program or a group of programs designed for the benefit of 
+end user to work on computer. The application programs can be installed in the hard disk for 
+the usage on a particular computer. This type of application program completes one or more 
+than two works of the end user. The following are the examples of application program: 
+Video player, Audio player, Word processing software, Drawing tools, Editing software, etc.
+6.4 System and Application Software types
+The operating system and application software are available in two forms. They are:
+1. Free and Open source
+2. Paid and Proprietary  Software
+6.4.1 Free and Open source
+Free and open software is available at free of cost and can be shared to many end 
+users. Free software is editable and customizable by the user and this leads to updation 
+6th Science_IIIrd Term English Book_Unit_6.indd   81
+6th Science_IIIrd Term English Book_Unit_6.indd   81
+27-09-2023   17:47:53
+27-09-2023   17:47:53

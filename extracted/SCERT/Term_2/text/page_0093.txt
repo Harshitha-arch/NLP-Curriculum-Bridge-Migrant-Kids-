@@ -1,0 +1,49 @@
+8 7
+Output Unit
+The output unit converts, command 
+received by the computer in the form of 
+binary signals into easily understandable 
+characters. 
+Monitor, 
+Printer, 
+Speaker, 
+scanner are some of the output devices. 
+Of the various output devices, monitor 
+is the important output device because 
+it is link to the computer. Monitor screen 
+looks like TV screen. The input data in the 
+form of Alphabets, Numbers, Pictures or 
+Cartoons and Videos it will be displayed on 
+a monitor. There are two types of monitor 
+namely,
+1. Cathode Ray Tube Monitors (CRT) 
+2. Thin Film Transistor Monitors (TFT) 
+Now a days computer system has TFT 
+monitor as they occupy less space and emit 
+less heat than CRT monitors.
+7.1.2 Memory Units
+The data is measured in units which is 
+data is processed in the CPU. The CPU has 
+namely three parts.
+1. Memory Unit
+2. Arithmetic Logic Unit (ALU)
+3. Control Unit
+Control Unit
+The control unit controls the functions 
+of all parts of the computer.
+Arithmetic Logic Unit
+Arithmetic and Logic unit performs 
+all arithmetic computations like addition, 
+subtraction, multiplication and division.
+Memory Unit
+The memory unit in the computer 
+saves all data and information temporarily. 
+We can classify memory unit into two types 
+namely primary and secondary memory. 
+Memory can be expanded externally with 
+the help of Compact Disk (CD), Pendrive, 
+etc.
+6th Science_IInd Term English Book_Unit_7.indd   87
+6th Science_IInd Term English Book_Unit_7.indd   87
+27/06/2023   12:02:43
+27/06/2023   12:02:43

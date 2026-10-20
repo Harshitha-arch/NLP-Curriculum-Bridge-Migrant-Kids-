@@ -1,0 +1,2363 @@
+{
+  "source_file": "data\\NCERT\\fecu111.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu111",
+  "num_pages": 24,
+  "extraction_method": "native",
+  "native_page_count": 24,
+  "ocr_page_count": 0,
+  "total_images": 105,
+  "images_with_text": 1,
+  "total_tables": 4,
+  "total_vector_figures": 20,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Nature’s Treasures\n11\nChapter\nSchool vacations are always fun for Bhoomi and Surya. This \nvacation, they visit their Ajji (grandmother). Ajji lives in a \nvillage on the edge of a forest in the Western Ghats. The air \nin the village is fresh and cooler than in the city. They can \nsee beautiful hills, streams, and many interesting plants, \nanimals and birds around them. \nOne afternoon, Bhoomi and Surya ask Ajji to tell them \nmore about the place. Ajji says, “Children, do you know that \nthis place has several treasures of nature that enrich our \nlives?  The pure air is refreshing and the soil is so fertile \nthat it supports a variety of living beings. Moreover, this \nplace gets plenty of sunlight which is useful in many ways. \nDifferent varieties of trees provide food and shelter to \nanimals including various birds and insects. Can you think \nof more such treasures of nature?” \nA village\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 914,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0001_img01",
+          "file": "images/NCERT_fecu111_page0001_img01.png",
+          "bbox": [
+            70.28083801269531,
+            434.1575927734375,
+            436.8946533203125,
+            740.4179077148438
+          ],
+          "width_px": 764,
+          "height_px": 639,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0001_img02",
+          "file": "images/NCERT_fecu111_page0001_img02.png",
+          "bbox": [
+            -17.879974365234375,
+            -18.5999755859375,
+            612.1199951171875,
+            189.6480712890625
+          ],
+          "width_px": 1315,
+          "height_px": 434,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0001_img03",
+          "file": "images/NCERT_fecu111_page0001_img03.png",
+          "bbox": [
+            465.89996337890625,
+            202.05007934570312,
+            550.8599853515625,
+            287.01007080078125
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": "(0677CH11"
+        },
+        {
+          "image_id": "NCERT_fecu111_page0001_img04",
+          "file": "images/NCERT_fecu111_page0001_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0001_img05",
+          "file": "images/NCERT_fecu111_page0001_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0001_vecfig01",
+          "file": "images/NCERT_fecu111_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "1 Nature’s Treasures\n\nSchool vacations are always fun for Bhoomi and Surya. This\nvacation, they visit their Ajji (grandmother). Ajji lives in a\nvillage on the edge of a forest in the Western Ghats. The air\nin the village is fresh and cooler than in the city. They can\nsee beautiful hills, streams, and many interesting plants,\nanimals and birds around them.\n\nOne afternoon, Bhoomi and Surya ask Ajji to tell them\nmore about the place. Ajji says, “Children, do you know that\nthis place has several treasures of nature that enrich our\nlives? The pure air is refreshing and the soil is so fertile\nthat it supports a variety of living beings. Moreover, this\nplace gets plenty of sunlight which is useful in many ways.\nDifferent varieties of trees provide food and shelter to\nanimals including various birds and insects. Can you think\nof more such treasures of nature?”\n\nReprint 2026-27\n\n0677CH11"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Curiosity | Textbook of Science | Grade 6\n208\nBhoomi replies, “Ajji, we use water for drinking and \ngrowing vegetables.” Ajji says, “Yes. We need these treasures \nfor our survival and for making our lives more comfortable. \nWithout these treasures of nature, any form of life on Earth \nis not possible.” We all are a part of nature.\nAjji explains the importance of air around us and how it \nis essential for our survival. Let us find out more about air.\n11.1\tAir\nOne morning, Bhoomi and Surya see \nAjji performing some breathing \nexercises. Ajji asks them to join her. \nShe says, “I am taking deep breaths \nin, and letting them out. This helps \nin getting more fresh air in the \nlungs to stay healthy.” Bhoomi and \nSurya sit with Ajji and start taking \ndeep breaths. \nLet us also perform a breathing \nexercise. \nActivity 11.1: Let us experience\n\n\nTake a deep breath in, and then breathe out slowly.\n\n\nTake a deeper breath in again.\n\n\nHold your breath for as long as you can and then \nbreathe out slowly.\n\n\nHow long can you hold your breath?\n\n\nHow do you feel when you hold your breath?\nFrom this activity, we find that it is difficult to \nhold our breath for a long time. The air which \nwe breathe in has oxygen. Our body needs \noxygen to perform its functions. When we hold \nour breath for a long time, the body does not get \nenough oxygen to perform its functions. Thus, \nwe need oxygen for our survival. Similarly, \nmost of the living beings also need oxygen for \ntheir survival.  \nBreathing exercise\nCaution  \nDo not hold your \nbreath for so long \nthat you start feeling \nuncomfortable.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1617,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0002_img01",
+          "file": "images/NCERT_fecu111_page0002_img01.png",
+          "bbox": [
+            365.53973388671875,
+            205.3906707763672,
+            533.3995971679688,
+            395.5743713378906
+          ],
+          "width_px": 350,
+          "height_px": 397,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0002_img02",
+          "file": "images/NCERT_fecu111_page0002_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0002_img03",
+          "file": "images/NCERT_fecu111_page0002_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0002_vecfig01",
+          "file": "images/NCERT_fecu111_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nBhoomi replies, “Ajjii we use water for drinking and\ngrowing vegetables.” Ajji says, “Yes. We need these treasures\nfor our survival and for making our lives more comfortable.\nWithout these treasures of nature, any form of life on Earth\nis not possible.” We all are a part of nature.\n\nAjji explains the importance of air around us and how it\nis essential for our survival. Let us find out more about air.\n\nes || | ir\n\nOne morning, Bhoomi and Surya see\nAjji performing some _ breathing\nexercises. Ajji asks them to join her.\nShe says, “I am taking deep breaths\nin, and letting them out. This helps\nin getting more fresh air in the\nlungs to stay healthy.” Bhoomi and\nSurya sit with Ajji and start taking\ndeep breaths.\n\nLet us also perform a breathing a ;\nexercise. a\n\nBreathing exercise\n\nActivity 11.1: Let usexperienCe) [EE\n\n@ Take a deep breath in, and then breathe out slowly.\n\n@ Take a deeper breath in again.\n\n¢ Hold your breath for as long as you can and then\nbreathe out slowly.\n\n¢ How long can you hold your breath?\n\n@ How do you feel when you hold your breath?\n\nFrom this activity, we find that it is difficult to\nA hold our breath for a long time. The air which\n\nwe breathe in has oxygen. Our body needs\noxygen to perform its functions. When we hold\nour breath for a long time, the body does not get\nenough oxygen to perform its functions. Thus,\nwe need oxygen for our survival. Similarly,\nmost of the living beings also need oxygen for\ntheir survival.\n\nCaution\nDo not hold your\nbreath for so long\nthat you start feeling\nuncomfortable.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Nature’s Treasures\n209\nWe can survive without food or water for a few \ndays, but we cannot survive without oxygen for \neven a few minutes.\nDo you \nknow?\nFig. 11.1: Composition of air\nYou notice the presence of air when the leaves of a tree \nrustle, the clothes hanging on a clothes line sway, or the pages \nof an open book begin to flutter once a fan is switched on.\nMoving air is called wind. Sometimes it blows fast, for \nexample, during a storm, and sometimes it blows gently as a \nbreeze. You must have played with a firki (paper pinwheel) \nmany times. Let us make a firki by performing Activity 11.2.\nThe air which surrounds the Earth is a mixture of gases. \nCan you name some gases which are present in the air? Air \ncontains nitrogen, oxygen, argon, carbon dioxide and other \ngases in small quantities. Fig. 11.1 gives the composition of air \nin percentage. Notice that in Fig. 11.1 there are 100 squares. \nOut of 100 squares, 78 are occupied by nitrogen, \n21 are occupied by oxygen, and 1 by argon, carbon \ndioxide and other gases. \nPercentage is the number of parts in 100. It is \ndenoted by the symbol ‘%’.\nMore to \nknow!\nComposition of air\nNitrogen (78%)\nOxygen (21%) \nArgon, carbon dioxide \nand other gases (1%) \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1241,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0003_img01",
+          "file": "images/NCERT_fecu111_page0003_img01.png",
+          "bbox": [
+            51.640045166015625,
+            75.1201171875,
+            424.6000671386719,
+            156.72012329101562
+          ],
+          "width_px": 778,
+          "height_px": 170,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0003_img02",
+          "file": "images/NCERT_fecu111_page0003_img02.png",
+          "bbox": [
+            38.615814208984375,
+            300.445556640625,
+            458.2998962402344,
+            360.0245361328125
+          ],
+          "width_px": 875,
+          "height_px": 125,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0003_img03",
+          "file": "images/NCERT_fecu111_page0003_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0003_img04",
+          "file": "images/NCERT_fecu111_page0003_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 4,
+      "text": "Curiosity | Textbook of Science | Grade 6\n210\nActivity 11.2: Let us make and decorate\n\n\nTake a square paper of size 15 cm x 15 cm, a pair of \nscissors, an all-pin and a soft stick.\n\n\nFollow the instructions shown in Fig. 11.2 to make a \nfirki.\t\n \nNow, you can hold the firki in your hand and run. \nYou can also blow air on it. What do you observe? \nDoes the firki rotate? When you move it a little back \nand forth, the firki rotates. What makes a firki \nrotate? It is the wind that makes a firki rotate. \nThe working of a windmill is similar to that \nof a firki. Wind rotates the wings of a windmill. \nWindmills can be used to run flour mills, to pull \nup water from a well, or to generate electricity. \nIn India, there are many windmill farms. \nA windmill farm is an area that has a large \nnumber of windmills which use the energy of \nthe wind to generate electricity (Fig. 11.3).\nFig 11.3: A windmill farm \nMuppandal Wind Farm in Tamil Nadu, Jaisalmer \nWind Park in Rajasthan and Brahmanvel Wind \nFarm in Maharashtra are some of the leading \nwindmill farms in our country. Find out more \nother windmill farms in our country.\nMore to \nknow!\nFig. 11.2: Firki\n1\n3\n2\n4\n5\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1189,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0004_img01",
+          "file": "images/NCERT_fecu111_page0004_img01.png",
+          "bbox": [
+            61.30805969238281,
+            395.13409423828125,
+            234.94027709960938,
+            585.989990234375
+          ],
+          "width_px": 362,
+          "height_px": 398,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0004_img02",
+          "file": "images/NCERT_fecu111_page0004_img02.png",
+          "bbox": [
+            109.239990234375,
+            599.4594116210938,
+            494.3999938964844,
+            725.1600341796875
+          ],
+          "width_px": 803,
+          "height_px": 262,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0004_img03",
+          "file": "images/NCERT_fecu111_page0004_img03.png",
+          "bbox": [
+            132.1154327392578,
+            160.06826782226562,
+            240.9750213623047,
+            254.6756591796875
+          ],
+          "width_px": 227,
+          "height_px": 197,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0004_img04",
+          "file": "images/NCERT_fecu111_page0004_img04.png",
+          "bbox": [
+            115.0454330444336,
+            259.88909912109375,
+            245.81118774414062,
+            391.32000732421875
+          ],
+          "width_px": 273,
+          "height_px": 274,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0004_img05",
+          "file": "images/NCERT_fecu111_page0004_img05.png",
+          "bbox": [
+            281.2738952636719,
+            160.04449462890625,
+            368.7474670410156,
+            254.66400146484375
+          ],
+          "width_px": 183,
+          "height_px": 197,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0004_img06",
+          "file": "images/NCERT_fecu111_page0004_img06.png",
+          "bbox": [
+            273.2119140625,
+            262.058349609375,
+            384.5329895019531,
+            357.228515625
+          ],
+          "width_px": 232,
+          "height_px": 199,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0004_img07",
+          "file": "images/NCERT_fecu111_page0004_img07.png",
+          "bbox": [
+            399.3420715332031,
+            160.00180053710938,
+            522.5060424804688,
+            355.5967712402344
+          ],
+          "width_px": 257,
+          "height_px": 408,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0004_img08",
+          "file": "images/NCERT_fecu111_page0004_img08.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0004_img09",
+          "file": "images/NCERT_fecu111_page0004_img09.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0004_vecfig01",
+          "file": "images/NCERT_fecu111_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nActivity 11.2: Let us make and decorate a\n\n¢ Take a square paper of size 15 cm x 15 cm, a pair of\nscissors, an all-pin and a soft stick.\n\n¢ Follow the instructions shown in Fig. 11.2 to make a\nfirkt.\n\nFig. 11.2: Firki\n\nNow, you can hold the firki in your hand and run.\nYou can also blow air on it. What do you observe?\nDoes the firki rotate? When you move it a little back\nand forth, the firki rotates. What makes a firki\nrotate? It is the wind that makes a firki rotate.\n\nThe working of a windmill is similar to that\nof a firki. Wind rotates the wings of a windmill.\n\nWindmills can be used to run flour mills, to pull\n\nup water from a well, or to generate electricity.\n\nIn India, there are many windmill farms.\n\nA windmill farm is an area that has a large\n\nnumber of windmills which use the energy of\nthe wind to generate electricity (Fig. 11.3).\n\nFig 11.3: A windmill farm\n\nWind Park in Rajasthan and Brahmanvel Wind\n\nFarm in Maharashtra are some of the leading\n\nwindmill farms in our country. Find out more More to\nother windmill farms in our country. know!\n\nMuppandal Wind Farm in Tamil Nadu, Jaisalmer }\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Nature’s Treasures\n211\nWe have learnt that air is very important for us. Water too \nis essential and precious for us. How do you feel when you \ncannot get water to drink, especially when you are thirsty? \nLet us find out more about water.\n11.2\tWater \nBhoomi and Surya help Ajji in \nfilling the troughs of water for \nthe cows. They also help her in \nwatering plants such as vegetables \nand medicinal herbs in the garden. \nAjji teaches them how to water the \nplants so that every drop is used \nand none of it goes waste. \nCan you think of some more \nuses of water in your daily life? \nWrite down your responses in the \nblank bubble. \nWe need water for many daily activities, such as drinking, \ncooking, bathing, washing and cleaning. It is also used for \ngrowing crops and for industrial purposes. Where do we get \nwater from? Make a list of the different sources of water.\nWater covers about two-thirds of the Earth’s surface. \nMost of the water is found in oceans and seas. However, \nthis water is saline or salty. This saline water is not fit for \ndomestic, agricultural and industrial use. For all these \nactivities, we need freshwater, which is present in the form \nof ice sheets or snow, rivers or lakes on the surface of the \nEarth, and underground. Freshwater present in ice sheets \n..................................\n..................................\nWe need \nwater for \ndrinking.\nWatering the plants\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1425,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0005_img01",
+          "file": "images/NCERT_fecu111_page0005_img01.png",
+          "bbox": [
+            97.07231903076172,
+            399.40765380859375,
+            170.10964965820312,
+            516.23876953125
+          ],
+          "width_px": 152,
+          "height_px": 244,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0005_img02",
+          "file": "images/NCERT_fecu111_page0005_img02.png",
+          "bbox": [
+            344.7599792480469,
+            401.61688232421875,
+            464.2772216796875,
+            511.8575439453125
+          ],
+          "width_px": 249,
+          "height_px": 230,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0005_img03",
+          "file": "images/NCERT_fecu111_page0005_img03.png",
+          "bbox": [
+            288.1319885253906,
+            140.24652099609375,
+            544.66796875,
+            343.5934753417969
+          ],
+          "width_px": 535,
+          "height_px": 424,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0005_img04",
+          "file": "images/NCERT_fecu111_page0005_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0005_img05",
+          "file": "images/NCERT_fecu111_page0005_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 6,
+      "text": "Curiosity | Textbook of Science | Grade 6\n212\nand snow, or underground water is difficult to access. A very \nsmall fraction of the freshwater present in ponds, rivers, \nlakes and wells is easily accessible. Water is precious, that is \nwhy Ajji guides them to use it with care.\nDo you feel that water is being used efficiently in our \ndaily activities? Have you observed water being wasted in \nyour daily activities? Let us find out activities where water \nis wasted and how this wastage can be reduced.\nActivity 11.3: Let us find out\nFill the Column II and Column III in Table 11.1.\nTable 11.1: Wastage of water in your daily activities\nColumn I\nColumn II\nColumn III\nActivity\nHow is water \nwasted?\nSuggest ways to reduce \nwastage of water.\n1.\t Hand washing\n2.\t Washing clothes\n3.\t Washing utensils\n4.\t Taking shower\n5.\t Cooking\n6.\t Gardening\n7.\t Brushing teeth\nWhat conclusion can you draw from the information \nyou gathered in the table? What can you and your family \ndo to reduce this wastage of water? There are many ways \nto reduce wastage of water. For example, turning off taps \nwhen not in use and fixing water leakages. Recycling water \nand water harvesting also help in saving water.\nOur country is blessed with numerous rivers, streams \nand lakes. Have you ever noticed plastic bags and wrappers \nfloating on the surface of water? We pollute freshwater \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1380,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0006_img01",
+          "file": "images/NCERT_fecu111_page0006_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0006_img02",
+          "file": "images/NCERT_fecu111_page0006_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0006_table01",
+          "bbox": [
+            137.85587086397058,
+            276.83612060546875,
+            522.3362426757812,
+            535.4968566894531
+          ],
+          "rows": [
+            [
+              "Column I",
+              "Column II",
+              "Column III"
+            ],
+            [
+              "Activity",
+              "How is water\nwasted?",
+              "Suggest ways to reduce\nwastage of water."
+            ],
+            [
+              "1. Hand washing",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "2. Washing clothes",
+              "",
+              ""
+            ],
+            [
+              "3. Washing utensils",
+              "",
+              ""
+            ],
+            [
+              "4. Taking shower",
+              "",
+              ""
+            ],
+            [
+              "5. Cooking",
+              "",
+              ""
+            ],
+            [
+              "6. Gardening",
+              "",
+              ""
+            ],
+            [
+              "7. Brushing teeth",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0006_vecfig01",
+          "file": "images/NCERT_fecu111_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nand snow, or underground water is difficult to access. A very\nsmall fraction of the freshwater present in ponds, rivers,\nlakes and wells is easily accessible. Water is precious, that is\nwhy Ajji guides them to use it with care.\n\nDo you feel that water is being used efficiently in our\ndaily activities? Have you observed water being wasted in\nyour daily activities? Let us find out activities where water\nis wasted and how this wastage can be reduced.\n\nActivity 11.3: Let us find OUt =\n\nFill the Column II and Column III in Table 11.1.\nTable 11.1: Wastage of water in your daily activities\nColumn I Column II Column III\n\nHowis water Suggest ways to reduce\n\nActivit\ny wasted? wastage of water.\n\n. Hand washing\n\n. Washing clothes\n. Washing utensils\n. Taking shower\n\n. Cooking\n\n. Gardening\n\n. Brushing teeth\n\nWhat conclusion can you draw from the information\nyou gathered in the table? What can you and your family\ndo to reduce this wastage of water? There are many ways\nto reduce wastage of water. For example, turning off taps\nwhen not in use and fixing water leakages. Recycling water\nand water harvesting also help in saving water.\n\nOur country is blessed with numerous rivers, streams\nand lakes. Have you ever noticed plastic bags and wrappers\nfloating on the surface of water? We pollute freshwater\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Nature’s Treasures\n213\nsources by throwing trash (waste materials) in them. Waste \nfrom homes and industries pollute our water sources when \nit is dumped into them. Identify other human activities that \nlead to water pollution. Discuss with your friends in the class \nwhat you can do to reduce water pollution. Polluted water is \nnot fit for consumption by living beings.\nAs freshwater sources are limited, there is a shortage of \nwater in many parts of India. At some places, people have to \nwalk long distances to fetch drinking water. Everyone does \nnot have the same kind of access to water. It is important \nfor us to conserve water and use it judiciously. We must \nalso prevent it from being polluted so that water remains fit \nfor consumption by all living beings. In what ways can you \nconserve water? \nWater harvesting is one of the \nmethods for conserving water. In many \nbuildings, \nrainwater \nis \ncollected \nand stored in large quantities for \nlater use. This is called rainwater \nharvesting (Fig. 11.4a). Do you know \nthat rainwater is also harvested in \nmany homes, residential societies or \nschools? It is an age-old practice in \nIndia. \nFor example, stepwells (Fig. 11.4b), \ncommonly known as Bawadi in \nRajasthan and Vav in Gujarat are \nbuilt for water harvesting as a \nresponse to the scarcity of water in \nthese regions. These stepwells have \na unique system of water harvesting. \nThey store not only rainwater but \nalso water seeping from nearby \nlakes, ponds and rivers. The walls of \nthe trenches (long deep holes dug in \nthe ground) are lined with blocks of \nstones that allow seepage of water. \nFind traditional water harvesting \npractices in your locality. Discuss \nwith your teachers and parents to \nlearn more about it. \nFig. 11.4 (b): Bawadi (Toorji ka Jhalra, \nJodhpur in Rajasthan) \nFig. 11.4 (a): Rainwater harvesting\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1865,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0007_img01",
+          "file": "images/NCERT_fecu111_page0007_img01.png",
+          "bbox": [
+            304.4733581542969,
+            500.529296875,
+            520.2957763671875,
+            672.892578125
+          ],
+          "width_px": 586,
+          "height_px": 468,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0007_img02",
+          "file": "images/NCERT_fecu111_page0007_img02.png",
+          "bbox": [
+            301.5856628417969,
+            271.819580078125,
+            540.5765991210938,
+            446.33050537109375
+          ],
+          "width_px": 498,
+          "height_px": 364,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0007_img03",
+          "file": "images/NCERT_fecu111_page0007_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0007_img04",
+          "file": "images/NCERT_fecu111_page0007_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0007_vecfig01",
+          "file": "images/NCERT_fecu111_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "sources by throwing trash (waste materials) in them. Waste\nfrom homes and industries pollute our water sources when\nit is dumped into them. Identify other human activities that\nlead to water pollution. Discuss with your friends in the class\nwhat you can do to reduce water pollution. Polluted water is\nnot fit for consumption by living beings.\n\nAs freshwater sources are limited, there is a shortage of\nwater in many parts of India. At some places, people have to\nwalk long distances to fetch drinking water. Everyone does\nnot have the same kind of access to water. It is important\nfor us to conserve water and use it judiciously. We must\nalso prevent it from being polluted so that water remains fit\nfor consumption by all living beings. In what ways can you\nconserve water?\n\nWater harvesting is one of the\nmethods for conserving water. In many\nbuildings, rainwater is collected\nand stored in large quantities for\nlater use. This is called rainwater\nharvesting (Fig. 11.4a). Do you know\nthat rainwater is also harvested in\nmany homes, residential societies or\nschools? It is an age-old practice in\nIndia.\n\nFor example, stepwells (Fig. 11.4),\ncommonly known as Bawadi in\nRajasthan and Vav in Gujarat are\nbuilt for water harvesting as a\nresponse to the scarcity of water in\nthese regions. These stepwells have\na unique system of water harvesting.\nThey store not only rainwater but\nalso water seeping from nearby\nlakes, ponds and rivers. The walls of\nthe trenches (long deep holes dug in\nthe ground) are lined with blocks of\nstones that allow seepage of water.\nFind traditional water harvesting\npractices in your locality. Discuss\nwith your teachers and parents to\nlearn more about it.\n\nReprint 2026-27\n\nFig. 11.4 (b): Bawadi (Toorji ka Jhatra,\nJodhpur in Rajasthan)\n\nNature’s Treasures\n\nSs"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Curiosity | Textbook of Science | Grade 6\n214\nIn the chapter ‘A Journey through States of Water’, we \nhave learnt about the water cycle, where the Sun plays an \nimportant role in the evaporation of water. Have you ever \nobserved your mother or grandmother cut raw mangoes \nand expose them to the hot sun for several days to dry? Let \nus explore more about energy from the Sun.\n11.3\tEnergy from the Sun\nOn a sunny day, Bhoomi and Surya are helping Ajji dry \nchillies in the Sun. Ajji says, “We use the heat from the Sun \nto dry it. We can use dried chillies when fresh ones are not \navailable. I will give you some to take home. Do you know \nthat the Sun is the main source of energy on Earth? All plants \nand animals are dependent on it.”\nWe use heat and light from the Sun for various purposes. \nWhat are some of the activities for which we need heat and \nlight? Bhoomi draws some pictures to show the uses of heat \nand light from the Sun. Help her by adding more examples. \nDraw the pictures and write their descriptions in the \nspace provided.\nPlants make food\nDrying of clothes \nOne afternoon, Bhoomi and Surya pass by the field near \nAjji’s house, where they see a cow grazing the grass. They \ntalk about the Sun being the main source of energy. Read \nthe conversation carefully and answer.\t\nWorld Water Day is observed on 22nd March every year. \nFind out its importance. \nDo you \nknow?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1408,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0008_img01",
+          "file": "images/NCERT_fecu111_page0008_img01.png",
+          "bbox": [
+            77.37356567382812,
+            497.23687744140625,
+            162.42657470703125,
+            594.7600708007812
+          ],
+          "width_px": 177,
+          "height_px": 204,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0008_img02",
+          "file": "images/NCERT_fecu111_page0008_img02.png",
+          "bbox": [
+            178.06954956054688,
+            497.2370910644531,
+            252.42477416992188,
+            593.8643188476562
+          ],
+          "width_px": 155,
+          "height_px": 202,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0008_img03",
+          "file": "images/NCERT_fecu111_page0008_img03.png",
+          "bbox": [
+            135.6357421875,
+            64.60004425048828,
+            542.9999389648438,
+            140.9200439453125
+          ],
+          "width_px": 849,
+          "height_px": 159,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0008_img04",
+          "file": "images/NCERT_fecu111_page0008_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0008_img05",
+          "file": "images/NCERT_fecu111_page0008_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0008_vecfig01",
+          "file": "images/NCERT_fecu111_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\ne\n\nDo you\nknow?\n\nWorld Water Day is observed on 22nd March every year.\nFind out its importance.\n\nIn the chapter ‘A Journey through States of Water’, we\nhave learnt about the water cycle, where the Sun plays an\nimportant role in the evaporation of water. Have you ever\nobserved your mother or grandmother cut raw mangoes\nand expose them to the hot sun for several days to dry? Let\nus explore more about energy from the Sun.\n\n11.3 Energy from the Sun\n\nOn a sunny day, Bhoomi and Surya are helping Ajji dry\nchillies in the Sun. Ajji says, “We use the heat from the Sun\nto dry it. We can use dried chillies when fresh ones are not\navailable. I will give you some to take home. Do you know\nthat the Sun is the main source of energy on Earth? All plants\nand animals are dependent on it.”\n\nWe use heat and light from the Sun for various purposes.\nWhat are some of the activities for which we need heat and\nlight? Bhoomi draws some pictures to show the uses of heat\nand light from the Sun. Help her by adding more examples.\nDraw the pictures and write their descriptions in the\nspace provided.\n\nPlants make food Drying ofclothes  -------------- 9 -------------- --------------\n\nOne afternoon, Bhoomi and Surya pass by the field near\nAjji’s house, where they see a cow grazing the grass. They\ntalk about the Sun being the main source of energy. Read\nthe conversation carefully and answer.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Nature’s Treasures\n215\nSunlight helps plants prepare food. The Sun also provides \nall the living beings on Earth with heat and light. It is their \nmain source of energy. \nHave you seen solar panels on \nrooftops, on top of street lights or \non traffic signals? The solar panels \ncapture the Sun’s energy and \nproduce electricity. Energy from \nthe Sun can also be directly used \nfor cooking in a solar cooker or \nfor heating water in a solar water \nheater.\nThe \ncow is standing \nin the Sun. But it \ndoes not mean that it \nis getting energy from \nthe Sun.  \nThe \ncow is eating \ngrass. Grass leaves \nneed sunlight to grow. So, \nthe main source of energy \nis the Sun.  This way the \ncow gets energy from \nthe Sun.\nIn many households in India, water is offered to the Sun early \nin the morning as an expression of gratitude to the Sun.\nDo you \nknow?\nAccording to you, \nwhose statement \nis correct and \nwhy?\n?\nUses of solar energy\nSolar panels\nSolar water heater\nNo, I think \nthis cow \nis getting \nenergy from \nthe Sun.  \nLook at this \ncow. It is \ngrazing the \ngrass and \ngetting energy \nfrom it. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1107,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0009_img01",
+          "file": "images/NCERT_fecu111_page0009_img01.png",
+          "bbox": [
+            158.90997314453125,
+            158.8448486328125,
+            365.9534912109375,
+            322.47601318359375
+          ],
+          "width_px": 432,
+          "height_px": 341,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0009_img02",
+          "file": "images/NCERT_fecu111_page0009_img02.png",
+          "bbox": [
+            393.1752624511719,
+            321.80340576171875,
+            522.5035400390625,
+            429.2698974609375
+          ],
+          "width_px": 270,
+          "height_px": 224,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0009_img03",
+          "file": "images/NCERT_fecu111_page0009_img03.png",
+          "bbox": [
+            44.456390380859375,
+            497.02410888671875,
+            487.6269226074219,
+            558.43505859375
+          ],
+          "width_px": 924,
+          "height_px": 128,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0009_img04",
+          "file": "images/NCERT_fecu111_page0009_img04.png",
+          "bbox": [
+            59.01190948486328,
+            321.69512939453125,
+            178.3016357421875,
+            429.2404479980469
+          ],
+          "width_px": 249,
+          "height_px": 225,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0009_img05",
+          "file": "images/NCERT_fecu111_page0009_img05.png",
+          "bbox": [
+            302.4808349609375,
+            565.43408203125,
+            503.3056335449219,
+            685.173828125
+          ],
+          "width_px": 419,
+          "height_px": 250,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0009_img06",
+          "file": "images/NCERT_fecu111_page0009_img06.png",
+          "bbox": [
+            393.1752624511719,
+            74.72732543945312,
+            522.5035400390625,
+            187.96630859375
+          ],
+          "width_px": 270,
+          "height_px": 236,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0009_img07",
+          "file": "images/NCERT_fecu111_page0009_img07.png",
+          "bbox": [
+            68.36640167236328,
+            80.46725463867188,
+            187.6561279296875,
+            187.84478759765625
+          ],
+          "width_px": 249,
+          "height_px": 224,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0009_img08",
+          "file": "images/NCERT_fecu111_page0009_img08.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0009_img09",
+          "file": "images/NCERT_fecu111_page0009_img09.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0009_vecfig01",
+          "file": "images/NCERT_fecu111_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Look at this\n\ncow. It is No, I think\ngrazing the this cow\ngrass and 1S ae\ngetting energy ay rom\nfrom it. the Sun.\n\nThe\ncow is eating\ngrass. Grass leaves\n), need sunlight to grow. So,\n4 the main source of energy\n* isthe Sun. This way the\ncow gets energy from\nthe Sun.\n\ncow is standing\n\nin the Sun. But it\n\ndoes not mean that it\n\nis getting energy from\nthe Sun.\n\nAccording to you,\nwhose statement\n\nis correct and )\n\nwhy? e\n\nSunlight helps plants prepare food. The Sun also provides\nall the living beings on Earth with heat and light. It is their\nmain source of energy.\n\nIn many households in India, water is offered to the Sun early Do you\nin the morning as an expression of gratitude to the Sun. know?\nHave you seen solar panels on AQ Solar water heater gyi Solar panels)\n\nrooftops, on top of street lights or\non traffic signals? The solar panels\ncapture the Sun’s energy and\nproduce electricity. Energy from\nthe Sun can also be directly used\nfor cooking in a solar cooker or\nfor heating water in a solar water\nheater. Uses of solar energy\n\nReprint 2026-27\n\nNature’s Treasures\n\nSo"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Curiosity | Textbook of Science | Grade 6\n216\nOne cannot imagine life on \nEarth without the Sun. The Sun is \nthe main source of energy on the \nEarth. Plants get energy from the \nSun and produce food. Animals eat \nplants and grow. We get food from \nboth plants and animals. This cycle \non Earth is possible due to the Sun. \nSo, we all are dependent on the \nSun as the main source of energy. \nWhere do we find a large variety of \nplants or animals? Let us explore. \n11.4 Forests \nOne morning, Ajji takes Bhoomi and Surya for a walk in \nthe forest. They find a variety of herbs, shrubs and trees in \nthe forest. Ajji explains, “Forests are large areas with dense \ngrowth of various types of plants.” On the way, they collect \nsome nellikai (Kannada term for Indian gooseberries) \nthat have fallen on the ground. Ajji tells them, “We have a \ntradition in the village not to pluck fruits from the trees; \nthey are left for animals and birds to eat.”\nWhat will happen if the Sun \nis not visible for a few days?\n1. \u0007We may have to depend \non artificial lighting \nduring day time also.\n2.  \n3.   \n?\nA forest\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1116,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0010_img01",
+          "file": "images/NCERT_fecu111_page0010_img01.png",
+          "bbox": [
+            88.36817932128906,
+            441.150634765625,
+            522.56689453125,
+            683.8218383789062
+          ],
+          "width_px": 905,
+          "height_px": 507,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0010_img02",
+          "file": "images/NCERT_fecu111_page0010_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0010_img03",
+          "file": "images/NCERT_fecu111_page0010_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0010_vecfig01",
+          "file": "images/NCERT_fecu111_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "One cannot imagine life on\nEarth without the Sun. The Sun is\nthe main source of energy on the\n\nWhat will happen if the Sun\nis not visible for a few days?\n\n1. We may have to depend Earth. Plants get energy from the\non artificial lighting Sun and produce food. Animals eat\nduring day time also. plants and grow. We get food from\n\n2... both plants and animals. This cycle\n\n2 a on Earth is possible due to the Sun.\n\neee e So, we all are dependent on the\n\nSun as the main source of energy.\nWhere do we find a large variety of\nplants or animals? Let us explore.\n\nMs || 4 Forests\n\nOne morning, Ajji takes Bhoomi and Surya for a walk in\nthe forest. They find a variety of herbs, shrubs and trees in\nthe forest. Ajji explains, “Forests are large areas with dense\ngrowth of various types of plants.” On the way, they collect\nsome nellikai (Kannada term for Indian gooseberries)\nthat have fallen on the ground. Ajji tells them, “We have a\ntradition in the village not to pluck fruits from the trees;\nthey are left for animals and birds to eat.”\n\nCuriosity | Textbook of Science | Grade 6\n\nA forest\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Nature’s Treasures\n217\nDiscuss with your friends and make a list of at least five \nproducts that we get from forests. \nForests are a natural home for many wild animals, \nincluding birds and insects. Forests provide food and shelter \nto them. In nature, every animal depends on other life forms \nfor survival. The diversity of life forms ensures food for every \nliving being. However, over the years, the forest cover has \nbeen decreasing, mainly due to human activities like large \nscale cutting of trees. It takes many years to grow a new \nforest or restore lost forests. Therefore, we must preserve \nand use forests responsibly so that they get enough time \nto regenerate.\nVan Mahotsav is a week-\nlong event celebrated across \nthe country during the month \nof July. It is a forest festival \nduring \nwhich \nnew \nplants \nand trees are planted, and \nawareness about respecting \nforests is raised. The aim of the \nevent is to increase the green \ncover. You too can plan a Van \nMahotsav in your community.\nFrom ancient times, India had a tradition \nof respecting, protecting and preserving \nforests. You have already learnt about \nsacred groves in the chapter ‘Diversity \nin the Living World’. Many efforts \nhave been made by common people \nto prevent the cutting of trees, and \nthus, saving forests. One such \neffort is the famous Chipko \nmovement. It started in the \nearly 1970s in Uttarakhand (previously part of Uttar \nPradesh). Local women actively participated in this \nmovement. They encircled and hugged the trees to \nprotect them from being felled. \nDo you \nknow?\nWhat are the consequences of \ncutting a large forest area? Make \na presentation or do a role play, \nor write a story or a poem that \n?\nshows what could happen \nif we continue to cut down \ntrees in our forests.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1796,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0011_img01",
+          "file": "images/NCERT_fecu111_page0011_img01.png",
+          "bbox": [
+            64.00009155273438,
+            452.2801208496094,
+            516.1600952148438,
+            734.5201416015625
+          ],
+          "width_px": 943,
+          "height_px": 588,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0011_img02",
+          "file": "images/NCERT_fecu111_page0011_img02.png",
+          "bbox": [
+            343.1807861328125,
+            492.3868408203125,
+            492.8977355957031,
+            621.97802734375
+          ],
+          "width_px": 312,
+          "height_px": 270,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0011_img03",
+          "file": "images/NCERT_fecu111_page0011_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0011_img04",
+          "file": "images/NCERT_fecu111_page0011_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0011_vecfig01",
+          "file": "images/NCERT_fecu111_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Discuss with your friends and make a list of at least five\nproducts that we get from forests.\n\nForests are a natural home for many wild animals,\nincluding birds and insects. Forests provide food and shelter\nto them. In nature, every animal depends on other life forms\nfor survival. The diversity of life forms ensures food for every\nliving being. However, over the years, the forest cover has\nbeen decreasing, mainly due to human activities like large\nscale cutting of trees. It takes many years to grow a new\nforest or restore lost forests. Therefore, we must preserve\nand use forests responsibly so that they get enough time\nto regenerate.\n\nVan Mahotsav is a week-\n\nlong event celebrated across What are the consequences of\nthe country during the month cutting a large forest area? Make\nof July. It is a forest festival a presentation ordo arole play,\nduring which new plants or write a story or apoem that\nand trees are planted, and shows what\\could happen\nawareness about respecting if we continue tocut down a\nforests is raised. The aim of the trees in our forests.\n\nevent is to increase the green\ncover. You too can plan a Van\nMahotsav in your community.\n\nFrom ancient times, India had a tradition\nof respecting, protecting and preserving\nforests. You have already learnt about\nsacred groves in the chapter ‘Diversity\nin the Living World’. Many efforts\nhave been made by common people\nto prevent the cutting of trees, and\nthus, saving forests. One such\neffort is the famous Chipko\nmovement. It started in the\nearly 1970s in Uttarakhand (previously part of Uttar\nPradesh). Local women actively participated in this\nDo you movement. They encircled and hugged the trees to\nknow? protect them from being felled.\n\nReprint 2026-27\n\nNature’s Treasures\n\n9"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Curiosity | Textbook of Science | Grade 6\n218\nDuring their walk in the forests, Bhoomi and Surya notice \nthat there are a lot of leaves on the ground and the soil feels \ndamp. Ajji explains, “The roots of plants hold on to the soil \nand prevent it from being washed away. The leaves that \nfall from the trees decay and enrich the soil with nutrients. \nThis soil is used by new plants and trees to grow. This is an \nexample of recycling in nature.” Let us investigate the soil in \nmore detail.\n11.5\tSoil, Rocks and Minerals \nBhoomi, Surya and Ajji come back \nhome from the forest. Bhoomi \nand Surya help Ajji in preparing \nthe soil in the garden for planting \nsome vegetables (Fig. 11.5). Ajji \nasks them to dig the soil gently \nand loosen the lumps. You have \nalready learnt in the chapter \n‘Living Creatures: Exploring their \nCharacteristics’ that for plants \nto grow,  the space between the \nsoil particles not only provides \nsufficient air but also space for the \nroots to grow easily. Bhoomi and Surya could see small \npebbles, the roots of plants and a few earthworms too in the \nsoil. Do you realise that earthworms are natural agents that \nhelp in turning and loosening the soil?\nWhile Bhoomi and Surya help Ajji, let us do our own \nexperiment by performing Activity 11.4.\nActivity 11.4:  Let us investigate\nFig. 11.5: Soil preparation for \nplanting vegetables\nCaution  \nRemember to wash your hands \nthoroughly after touching the \nsoil collected from different \nplaces. Sometimes soil that has \ngarbage carries germs  \nthat may be harmful to us.\n\n\nCollect \nsamples \nof \nsoils \nfrom \ndifferent areas around your home \nand school. \n\n\nGuess what could be there in \ndifferent soils. \n\n\nObserve carefully each soil sample \nand note its colour.\n\n\nTouch each soil sample and feel its \ntexture. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1819,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0012_img01",
+          "file": "images/NCERT_fecu111_page0012_img01.png",
+          "bbox": [
+            53.924415588378906,
+            237.26881408691406,
+            300.19720458984375,
+            386.22412109375
+          ],
+          "width_px": 514,
+          "height_px": 311,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0012_img02",
+          "file": "images/NCERT_fecu111_page0012_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0012_img03",
+          "file": "images/NCERT_fecu111_page0012_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0012_vecfig01",
+          "file": "images/NCERT_fecu111_page0012_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "During their walk in the forests, Bhoomi and Surya notice\nthat there are a lot of leaves on the ground and the soil feels\ndamp. Ajji explains, “The roots of plants hold on to the soil\nand prevent it from being washed away. The leaves that\nfall from the trees decay and enrich the soil with nutrients.\nThis soil is used by new plants and trees to grow. This is an\nexample of recycling in nature.” Let us investigate the soil in\nmore detail.\n\nes 1] 5 Soil, Rocks and Minerals\n\nBhoomi, Surya and Ajji come back\nhome from the forest. Bhoomi\nand Surya help Ajji in preparing\nthe soil in the garden for planting\nsome vegetables (Fig. 11.5). Ajji\nasks them to dig the soil gently\nand loosen the lumps. You have\nalready learnt in the chapter\n‘Living Creatures: Exploring their\nCharacteristics’ that for plants\nFig. 11.5: Soil preparation for to grow, the space between the\nplanting vegetables soil particles not only provides\nsufficient air but also space for the\nroots to grow easily. Bhoomi and Surya could see small\npebbles, the roots of plants and a few earthworms too in the\nsoil. Do you realise that earthworms are natural agents that\nhelp in turning and loosening the soil?\n\nWhile Bhoomi and Surya help Ajji, let us do our own\n\nexperiment by performing Activity 11.4.\n\nActivity.11.4: Let usinvestigate [=e\n\n¢ Collect samples of soils from\nA different areas around your home\nCaution and school.\n\ntee fo was your hanes Guess what could be there in\noroughly after touching the . .\nsoil collected from different different soils.\n\nplaces. Sometimes soil that has @ Observe carefully each soil sample\ngarbage carries germs and note its colour.\n\nthat may be harmful to us.\nTouch each soil sample and feel its\ntexture.\n\nCuriosity | Textbook of Science | Grade 6\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Nature’s Treasures\n219\n\n\nObserve the soil samples with your naked eye. If you \nhave a magnifying lens, look at the soil through it.\n\n\nRecord your observations in Table 11.2.\n\n\nIs there any difference between your guess and what \nyou can actually observe when you look closely?\n\n\nDo you see any differences in the soil samples taken \nfrom different places?\n\n\nDo you see differences in what you are able to observe \nwith your naked eye and what you can observe with a \nmagnifying lens?\nThere are many things in the soil, such as sand, insects \nand worms. There may be many small organisms that we \ncannot see with our naked eyes.  Plants and animals also \nbecome part of the soil as they decompose and decay. The \nsoil samples collected from different \nplaces may be of different colours \nbecause they may contain different \nmaterials. \nHave you ever wondered how \nsoil is formed? Soil is formed by the \ndisintegration (breaking apart) of \nrocks by actions of the Sun, water \nand living organisms over a long \ntime (thousands of years). There \nare different types of soils. Some \nare good for growing certain types of \nLocation from \nwhich soil \nsample was \ncollected\nWhat I \nguessed \nabout the  \nsoil?\nObservation of soil with \nnaked eye including its \ncolour and texture\nObservation \nof soil with \nmagnifying \nlens\nSoil from a farm \nafter ploughing\nTable 11.2: Soil samples\nPloughing\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1410,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0013_img01",
+          "file": "images/NCERT_fecu111_page0013_img01.png",
+          "bbox": [
+            300.0235290527344,
+            527.7833251953125,
+            520.4000244140625,
+            685.8013916015625
+          ],
+          "width_px": 460,
+          "height_px": 330,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0013_img02",
+          "file": "images/NCERT_fecu111_page0013_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0013_img03",
+          "file": "images/NCERT_fecu111_page0013_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0013_table01",
+          "bbox": [
+            72.56571633475167,
+            192.1988525390625,
+            491.3951721191406,
+            331.5
+          ],
+          "rows": [
+            [
+              "sample was\ncollected",
+              "about the\nsoil?",
+              "colour and texture",
+              "magnifying\nlens"
+            ],
+            [
+              "Soil from a farm\nafter ploughing",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0013_vecfig01",
+          "file": "images/NCERT_fecu111_page0013_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "@ Observe the soil samples with your naked eye. If you\nhave a magnifying lens, look at the soil through it.\n\n¢ Record your observations in Table 11.2.\n\nTable 11.2: Soil samples\n\nLocation from What I Observation of soil with Observation\n\nwhich soil guessed naked eye including its of soil with\n\nsample was about the colour and texture magnifying\ncollected soil? lens\n\nSoil from a farm\nafter ploughing\n\n¢ Is there any difference between your guess and what\nyou can actually observe when you look closely?\n\n@ Do you see any differences in the soil samples taken\nfrom different places?\n\n¢ Do you see differences in what you are able to observe\nwith your naked eye and what you can observe with a\nmagnifying lens?\n\nThere are many things in the soil, such as sand, insects\nand worms. There may be many small organisms that we\ncannot see with our naked eyes. Plants and animals also\nbecome part of the soil as they decompose and decay. The\nsoil samples collected from different\nplaces may be of different colours\nbecause they may contain different\nmaterials.\n\nHave you ever wondered how\nsoil is formed? Soil is formed by the\ndisintegration (breaking apart) of\nrocks by actions of the Sun, water\nand living organisms over a long\ntime (thousands of years). There\nare different types of soils. Some\nare good for growing certain types of Ploughing\n\nReprint 2026-27\n\nNature’s Treasures\n\nSe"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Curiosity | Textbook of Science | Grade 6\n220\nplants while some are good for making bricks for buildings. \nForests have a variety of soils. Soil is a precious treasure \nthat supports biodiversity. \nYou may have seen rocks in your surroundings. Rocks \nare used in the construction of houses, buildings, temples, \nroads, dams and table tops. Some rocks, like slate, are used \nfor roofing (Fig. 11.6) and laterite can be used as a building \nmaterial, like bricks (Fig. 11.7). Some of the important rocks \nare granite, sandstone and marble. Human beings have been \nusing rocks to make tools such as hand axes (Fig. 11.8a) and \narrowheads (Fig. 11.8b) since thousands of years. \nFig. 11.6: Rocks used for roofing\nFig. 11.7: Laterite rocks used as bricks \nFig. 11.8 (a): Hand axes\nMining of marble\nWhat are rocks made up of? \nThey are made up of minerals. \nImportant metals, such as \naluminium, \ngold, \ncopper \nand iron are extracted from \nminerals. Minerals are used in \nthe manufacturing of airplanes, \ncars, jewellery, cosmetics, and \nFig. 11.8 (b): Arrowheads made from stone\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1090,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0014_img01",
+          "file": "images/NCERT_fecu111_page0014_img01.png",
+          "bbox": [
+            116.72144317626953,
+            252.44546508789062,
+            313.4135437011719,
+            383.3389587402344
+          ],
+          "width_px": 559,
+          "height_px": 372,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0014_img02",
+          "file": "images/NCERT_fecu111_page0014_img02.png",
+          "bbox": [
+            324.39202880859375,
+            253.55999755859375,
+            523.127197265625,
+            382.2243957519531
+          ],
+          "width_px": 329,
+          "height_px": 213,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0014_img03",
+          "file": "images/NCERT_fecu111_page0014_img03.png",
+          "bbox": [
+            138.11746215820312,
+            414.1885681152344,
+            292.0174560546875,
+            540.9235229492188
+          ],
+          "width_px": 300,
+          "height_px": 319,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0014_img04",
+          "file": "images/NCERT_fecu111_page0014_img04.png",
+          "bbox": [
+            116.59473419189453,
+            571.9039306640625,
+            313.3809814453125,
+            684.8421020507812
+          ],
+          "width_px": 460,
+          "height_px": 264,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0014_img05",
+          "file": "images/NCERT_fecu111_page0014_img05.png",
+          "bbox": [
+            339.79229736328125,
+            414.39947509765625,
+            412.7130126953125,
+            540.969482421875
+          ],
+          "width_px": 152,
+          "height_px": 264,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0014_img06",
+          "file": "images/NCERT_fecu111_page0014_img06.png",
+          "bbox": [
+            423.0823974609375,
+            414.39947509765625,
+            507.760009765625,
+            540.969482421875
+          ],
+          "width_px": 177,
+          "height_px": 264,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0014_img07",
+          "file": "images/NCERT_fecu111_page0014_img07.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0014_img08",
+          "file": "images/NCERT_fecu111_page0014_img08.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0014_vecfig01",
+          "file": "images/NCERT_fecu111_page0014_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nplants while some are good for making bricks for buildings.\nForests have a variety of soils. Soil is a precious treasure\nthat supports biodiversity.\n\nYou may have seen rocks in your surroundings. Rocks\nare used in the construction of houses, buildings, temples,\nroads, dams and table tops. Some rocks, like slate, are used\nfor roofing (Fig. 11.6) and laterite can be used as a building\nmaterial, like bricks (Fig. 11.7). Some of the important rocks\nare granite, sandstone and marble. Human beings have been\nusing rocks to make tools such as hand axes (Fig. 11.8a) and\narrowheads (Fig. 11.8b) since thousands of years.\n\nFig. 11.7: Laterite rocks used as bricks\n\nFig. 11.8 (b): Arrowheads made from stone\n\nWhat are rocks made up of?\nThey are made up of minerals.\nImportant metals, such as\naluminium, gold, copper\nand iron are extracted from\nminerals. Minerals are used in\nthe manufacturing of airplanes,\ncars, jewellery, cosmetics, and\n\nMining of marble\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Nature’s Treasures\n221\nelectrical and electronic equipment. For example, the basic \nmobile phones that we use contain about a dozen minerals \nlike gold, silver, copper, cobalt, etc.\n Naturally occurring gold  \nSome minerals found in nature\nRocks play a vital role in our lives. It takes thousands to \nmillions of years to form rocks. Therefore, it is important to \nconserve and use them responsibly. Do you know how rocks \nand minerals are transported from one location to another? \nMost vehicles that we use for transportation use fossil fuels. \nLet us explore more about fossil fuels.\n11.6\tFossil Fuels\nFuel Station\nSurya, why do \ndifferent types \nof vehicles go \nto different \nfilling stations?\nThe reason is \nthat they use \ndifferent types \nof fuels. For \nexample, petrol \nand diesel.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 805,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0015_img01",
+          "file": "images/NCERT_fecu111_page0015_img01.png",
+          "bbox": [
+            70.73025512695312,
+            118.76686096191406,
+            279.94189453125,
+            253.21356201171875
+          ],
+          "width_px": 482,
+          "height_px": 350,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0015_img02",
+          "file": "images/NCERT_fecu111_page0015_img02.png",
+          "bbox": [
+            295.3184814453125,
+            118.72607421875,
+            504.65380859375,
+            253.04083251953125
+          ],
+          "width_px": 319,
+          "height_px": 440,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0015_img03",
+          "file": "images/NCERT_fecu111_page0015_img03.png",
+          "bbox": [
+            71.4000015258789,
+            435.15496826171875,
+            438.6000061035156,
+            600.6911010742188
+          ],
+          "width_px": 765,
+          "height_px": 345,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0015_img04",
+          "file": "images/NCERT_fecu111_page0015_img04.png",
+          "bbox": [
+            412.3936767578125,
+            588.1283569335938,
+            499.1957092285156,
+            706.003173828125
+          ],
+          "width_px": 181,
+          "height_px": 246,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0015_img05",
+          "file": "images/NCERT_fecu111_page0015_img05.png",
+          "bbox": [
+            70.79237365722656,
+            604.1318969726562,
+            170.34286499023438,
+            711.5651245117188
+          ],
+          "width_px": 208,
+          "height_px": 224,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0015_img06",
+          "file": "images/NCERT_fecu111_page0015_img06.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0015_img07",
+          "file": "images/NCERT_fecu111_page0015_img07.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 16,
+      "text": "Curiosity | Textbook of Science | Grade 6\n222\nLet us explore more about it by performing Activity 11.5.\nActivity 11.5: Let us conduct a survey\n\n\nConduct a survey of vehicles in your neighbourhood.\n\n\nWhich types of vehicles are there? What types of fuels \ndo they use? \n\n\nRecord the information that you collect in Table 11.3.\nEarlier, coal, wood and dung cakes were used \nas fuels for cooking. Nowadays, less polluting \nnatural gas and Liquefied Petroleum Gas (LPG) \nhave gradually replaced these domestic fuels. \nDo you \nknow?\nType of vehicle\nType of fuel used\nTable 11.3: Types of vehicles and fuels used\nWhat are the most common types of fuels used? Petrol \nand diesel are the two most widely used fuels for vehicles. \nPetrol, diesel and kerosene are obtained from petroleum. \nPetroleum along with natural gas and coal are commonly \ncalled fossil fuels. They are formed essentially from the \nremains of microorganisms and plants that got buried deep \ninside the earth, and were converted to petroleum, natural \ngas and coal. It takes millions of years for these fuels to form.\nNatural gas is used for cooking and generating electricity. \nNowadays, it is also used in the form of Compressed Natural \nGas (CNG) as a fuel for vehicles. It is a cleaner fuel than \npetrol or diesel. Coal is mainly used for the production of \nelectricity. It is found in several parts of India. Find out the \nmajor coal-producing states and mark them in a map of \nIndia.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1474,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0016_img01",
+          "file": "images/NCERT_fecu111_page0016_img01.png",
+          "bbox": [
+            119.27127075195312,
+            620.2950439453125,
+            539.400146484375,
+            717.466796875
+          ],
+          "width_px": 876,
+          "height_px": 203,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0016_img02",
+          "file": "images/NCERT_fecu111_page0016_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0016_img03",
+          "file": "images/NCERT_fecu111_page0016_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0016_vecfig01",
+          "file": "images/NCERT_fecu111_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\ne\n\nLet us explore more about it by performing Activity 11.5.\n\nActivity 11.5: Letus conduct a Survey =\n\nConduct a survey of vehicles in your neighbourhood.\n\nWhich types of vehicles are there? What types of fuels\ndo they use?\n\nRecord the information that you collect in Table 11.3.\n\nTable 11.3: Types of vehicles and fuels used\n\nType of vehicle Type of fuel used\n\nWhat are the most common types of fuels used? Petrol\nand diesel are the two most widely used fuels for vehicles.\nPetrol, diesel and kerosene are obtained from petroleum.\nPetroleum along with natural gas and coal are commonly\ncalled fossil fuels. They are formed essentially from the\nremains of microorganisms and plants that got buried deep\ninside the earth, and were converted to petroleum, natural\ngas and coal. It takes millions of years for these fuels to form.\n\nNatural gas is used for cooking and generating electricity.\nNowadays, it is also used in the form of Compressed Natural\nGas (CNG) as a fuel for vehicles. It is a cleaner fuel than\npetrol or diesel. Coal is mainly used for the production of\nelectricity. It is found in several parts of India. Find out the\nmajor coal-producing states and mark them in a map of\nIndia.\n\nEarlier, coal, wood and dung cakes were used\nas fuels for cooking. Nowadays, less polluting\nDo you natural gas and Liquefied Petroleum Gas (LPG)\n\nknow? have gradually replaced these domestic fuels.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Nature’s Treasures\n223\nFossil fuels are found in limited quantities. Hence, we \nwill soon run out of fossil fuels if we continue to use them in \nthe manner that we currently do. To avoid such a situation, \nwe need to explore alternate sources of energy. When fossil \nfuels are burnt, smoke and carbon dioxide gas are produced \nwhich pollutes the air. Over-dependence on fossil fuels for \ntransportation and as domestic fuels has resulted in large \nscale air pollution.  \n11.7\tNatural Resources: renewable and  \nnon-renewable \nNature’s treasures fulfill our needs. They are essential \nresources to sustain all life forms on the Earth. For example, \nwe get heat and light from the Sun, water from rivers, and \nfood from plants and animals. These resources which we \nget from nature are called natural resources. We also \nuse natural resources to make many useful things for \nour convenience. For example, electric bulbs, furniture, \nsolar panels, bicycles, etc., make our lives comfortable. \nAll such resources created by human beings are called \nhuman-made resources. \nYou have learnt about various natural resources, such \nas air, water, energy from the Sun, forests, soil, rocks, \nminerals and fossil fuels. Some of these natural resources \nCoal\nPetrol\nNatural gas\nLet us do our bit to conserve the fossil fuels by—\n\n\nWalking or cycling to nearby places.\n\n\nUsing public transport.\nSuggest some more ways.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1426,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0017_img01",
+          "file": "images/NCERT_fecu111_page0017_img01.png",
+          "bbox": [
+            70.27179718017578,
+            71.11168670654297,
+            189.67892456054688,
+            176.1812744140625
+          ],
+          "width_px": 249,
+          "height_px": 219,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0017_img02",
+          "file": "images/NCERT_fecu111_page0017_img02.png",
+          "bbox": [
+            223.23684692382812,
+            63.05706787109375,
+            349.66839599609375,
+            174.18719482421875
+          ],
+          "width_px": 264,
+          "height_px": 232,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0017_img03",
+          "file": "images/NCERT_fecu111_page0017_img03.png",
+          "bbox": [
+            339.3572998046875,
+            75.54959869384766,
+            470.34698486328125,
+            172.5633544921875
+          ],
+          "width_px": 274,
+          "height_px": 202,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0017_img04",
+          "file": "images/NCERT_fecu111_page0017_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0017_img05",
+          "file": "images/NCERT_fecu111_page0017_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0017_vecfig01",
+          "file": "images/NCERT_fecu111_page0017_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Coal Petrol Natural gas\n\nFossil fuels are found in limited quantities. Hence, we\nwill soon run out of fossil fuels if we continue to use them in\nthe manner that we currently do. To avoid such a situation,\nwe need to explore alternate sources of energy. When fossil\nfuels are burnt, smoke and carbon dioxide gas are produced\nwhich pollutes the air. Over-dependence on fossil fuels for\ntransportation and as domestic fuels has resulted in large\nscale air pollution.\n\nLet us do our bit to conserve the fossil fuels by—\n@ Walking or cycling to nearby places.\n\n@ Using public transport.\nSuggest some more ways.\n\n11.7 Natural Resources: Renewable and\nNon-renewable\n\nNature’s treasures fulfill our needs. They are essential\nresources to sustain all life forms on the Earth. For example,\nwe get heat and light from the Sun, water from rivers, and\nfood from plants and animals. These resources which we\nget from nature are called natural resources. We also\nuse natural resources to make many useful things for\nour convenience. For example, electric bulbs, furniture,\nsolar panels, bicycles, etc.. make our lives comfortable.\nAll such resources created by human beings are called\nhuman-made resources.\n\nYou have learnt about various natural resources, such\nas air, water, energy from the Sun, forests, soil, rocks,\nminerals and fossil fuels. Some of these natural resources\n\nReprint 2026-27\n\nNature’s Treasures\n\n9"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Curiosity | Textbook of Science | Grade 6\n224\nget replenished through natural processes over a period \nof time. If you remember, Ajji told Bhoomi and Surya that \nthey could collect only those nellikai that had fallen on the \nground. This makes sure that there would be enough fruits \nfor other animals and birds. The seeds from the droppings of \nanimals and birds would enable new trees to grow, though \nit would take some years before we get fruits from these \nnew trees. Thus, resources which get renewed, replenished \nor restored within a reasonable period of time are called \nrenewable resources. Air, water and forest are some of the \nexamples of renewable natural resources. Nature renews \nthem. We should use our natural resources judiciously. \nOn the other hand, fossil fuels take millions of years to \nform. They are found in limited quantities and once used, \nthey get exhausted. They are not produced or replenished \nwithin a reasonable period of time. These resources are called \nnon-renewable resources. Examples of non-renewable \nnatural resources are minerals, soil, rocks, coal, petroleum \nand natural gas.\n11.8 Resources we use\nIt is time for Bhoomi and Surya to go back home after a \nwonderful holiday at their Ajji’s home. Their Amma (mother) \ncomes to pick them up. Bhoomi and Surya show her the \nvegetable plants that have started to grow in the garden and \nthe dried chillies given by Ajji to take home.\nThey notice changes in the colour of the skyline and the \nsmell of the air once they reach the city. There are very few \ntrees. The air does not smell as good as the air at Ajji’s place. \nThey can smell smoke from the vehicles. The air is polluted. \nAmma says, “Yes. When we use fossil fuels in our vehicles, \nsmoke is generated. Now, there are vehicles which cause \nless pollution. For example, there are electric vehicles that \ndo not release any smoke. So, people are making an effort to \ncreate alternatives.” \nCan you list some alternatives for reducing air pollution?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2016,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0018_img01",
+          "file": "images/NCERT_fecu111_page0018_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0018_img02",
+          "file": "images/NCERT_fecu111_page0018_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0018_vecfig01",
+          "file": "images/NCERT_fecu111_page0018_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nget replenished through natural processes over a period\nof time. If you remember, Ajji told Bhoomi and Surya that\nthey could collect only those nellikai that had fallen on the\nground. This makes sure that there would be enough fruits\nfor other animals and birds. The seeds from the droppings of\nanimals and birds would enable new trees to grow, though\nit would take some years before we get fruits from these\nnew trees. Thus, resources which get renewed, replenished\nor restored within a reasonable period of time are called\nrenewable resources. Air, water and forest are some of the\nexamples of renewable natural resources. Nature renews\nthem. We should use our natural resources judiciously.\n\nOn the other hand, fossil fuels take millions of years to\nform. They are found in limited quantities and once used,\nthey get exhausted. They are not produced or replenished\nwithin a reasonable period of time. These resources are called\nnon-renewable resources. Examples of non-renewable\nnatural resources are minerals, soil, rocks, coal, petroleum\nand natural gas.\n\n11.8 Resources We Use\n\nIt is time for Bhoomi and Surya to go back home after a\nwonderful holiday at their Ajji’s home. Their Amma (mother)\ncomes to pick them up. Bhoomi and Surya show her the\nvegetable plants that have started to grow in the garden and\nthe dried chillies given by Ajji to take home.\n\nThey notice changes in the colour of the skyline and the\nsmell of the air once they reach the city. There are very few\ntrees. The air does not smell as good as the air at Ajji’s place.\nThey can smell smoke from the vehicles. The air is polluted.\nAmma says, “Yes. When we use fossil fuels in our vehicles,\nsmoke is generated. Now, there are vehicles which cause\nless pollution. For example, there are electric vehicles that\ndo not release any smoke. So, people are making an effort to\ncreate alternatives.”\n\nCan you list some alternatives for reducing air pollution?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "Nature’s Treasures\n225\nWe use many natural resources in our everyday life. \nLet us identify some resources that we use by performing \nActivity 11.6. \nActivity 11.6: Let us make a list of natural  \nresources used\nMake a list of activities you do in your daily life and write \ndown the natural resources used directly or indirectly for \neach activity. In Table 11.4, some items are already filled in. \nUsing them as a guide, fill the remaining blank rows.\nTable 11.4: Natural resources used\nActivity\nNatural resource \nWashing clothes\nWater\nMaking clay toys\nCollecting firewood\nMaking kites\nHaving breakfast\nHow many natural resources did you list? Compare your \nlist with that of your friend.\nYou and your friends have listed many natural resources \nthat we use everyday. These resources are air, water, soil, and \nfood from plants and animals. We get these resources from \nnature and also make things using them for our consumption. \nTherefore, we must conserve our natural resources and use \nthem responsibly without wasting them. This way, we can \ncontinue to fulfill our present needs while also saving for \nthe future, without harming the environment. \n“Earth provides enough to satisfy every man’s need but not \nfor every man’s greed.”\n– M. K. Gandhi\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1271,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0019_img01",
+          "file": "images/NCERT_fecu111_page0019_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0019_img02",
+          "file": "images/NCERT_fecu111_page0019_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0019_table01",
+          "bbox": [
+            72.4892325768104,
+            300.08001708984375,
+            437.5480063302176,
+            441.83885192871094
+          ],
+          "rows": [
+            [
+              "",
+              ""
+            ],
+            [
+              "Washing clothes",
+              "Water"
+            ],
+            [
+              "Making clay toys",
+              ""
+            ],
+            [
+              "Collecting firewood",
+              ""
+            ],
+            [
+              "Making kites",
+              ""
+            ],
+            [
+              "Having breakfast",
+              ""
+            ],
+            [
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0019_vecfig01",
+          "file": "images/NCERT_fecu111_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "We use many natural resources in our everyday life.\nLet us identify some resources that we use by performing\nActivity 11.6.\n\nActivity 11.6: Let us make a list of natural\nF@SOULCES USCC RRR\n\nMake a list of activities you do in your daily life and write\ndown the natural resources used directly or indirectly for\neach activity. In Table 11.4, some items are already filled in.\nUsing them as a guide, fill the remaining blank rows.\n\nTable 11.4: Natural resources used\n\nActivity Natural resource\nWashing clothes Water\nMaking clay toys\n\nCollecting firewood\nMaking kites\n\nHaving breakfast\n\nHow many natural resources did you list? Compare your\nlist with that of your friend.\n\nYou and your friends have listed many natural resources\nthat we use everyday. These resources are air, water, soil, and\nfood from plants and animals. We get these resources from\nnature andalso make things using them for our consumption.\nTherefore, we must conserve our natural resources and use\nthem responsibly without wasting them. This way, we can\ncontinue to fulfill our present needs while also saving for\nthe future, without harming the environment.\n\n“Earth provides enough to satisfy every man’s need but not\nfor every man’s greed.”\n\nNature’s Treasures\n\n— M. K. Gandhi\n\n@\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Curiosity | Textbook of Science | Grade 6\n226\n\n\nResources required for our survival are provided by nature.\n\n\nResources provided by nature are called natural resources. \n\n\nSome important natural resources are air, water, energy \nfrom the Sun, forests, soil, rocks, minerals and fossil fuels. \n\n\nResources created by human beings to meet their needs are \ncalled human-made resources. \n\n\nNatural resources can be classified as renewable resources \nand non-renewable resources. \n\n\nResources that get renewed, replenished or restored by \nnatural processes within a reasonable period are called \nrenewable resources. \n\n\nResources that are in limited quantities and do not \nget replenished within a reasonable period are called \nnon-renewable resources. \n\n\nAll living beings, including humans, depend on natural \nresources for their survival so we should use them \njudiciously.\nSummary\nKeywords\nPetroleum\nResources\nRenewable resources\nRocks\nSoil\nWater\nRainwater harvesting\nSun\nAir\nForests\nCoal\nFossil fuels\nHuman-made resources\nNatural resources\nNon-renewable resources\nNatural gas\nClassify\nExplore\nExperience\nInvestigate\nObserve\nSurvey\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1163,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0020_img01",
+          "file": "images/NCERT_fecu111_page0020_img01.png",
+          "bbox": [
+            235.54806518554688,
+            394.4400634765625,
+            439.6680603027344,
+            442.7250671386719
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0020_img02",
+          "file": "images/NCERT_fecu111_page0020_img02.png",
+          "bbox": [
+            221.0900421142578,
+            53.39998245239258,
+            425.21002197265625,
+            101.68499755859375
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0020_img03",
+          "file": "images/NCERT_fecu111_page0020_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0020_img04",
+          "file": "images/NCERT_fecu111_page0020_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 21,
+      "text": "Nature’s Treasures\n227\nLet us enhance our learning\nItem\nJumbled up name\nocrk\nrefost\nndiw\natwre\nFig. 11.9: Natural resources\n1.\t\nFig. 11.9 shows items related to natural resources. Match \nthem with their jumbled up names. Make another table and \nwrite the names of these resources. Classify these resources \nas renewable or non-renewable.\n2.\t\nState whether the following statements are True [T] or \nFalse [F]. If False, correct them. \n(i)\t \tNature has all the resources to meet human needs. [   ]\n(ii)\t \tMachines are a resource found in nature. \t\n[   ]\n(iii)\t\tNatural gas is a non-renewable resource. \t\n[   ]\n(iv)\t\tAir is a renewable resource. \t\n[   ]\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 667,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0021_img01",
+          "file": "images/NCERT_fecu111_page0021_img01.png",
+          "bbox": [
+            92.5600357055664,
+            54.17918395996094,
+            435.760009765625,
+            123.927978515625
+          ],
+          "width_px": 715,
+          "height_px": 146,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0021_img02",
+          "file": "images/NCERT_fecu111_page0021_img02.png",
+          "bbox": [
+            110.01998138427734,
+            495.2191162109375,
+            217.0999755859375,
+            568.0307006835938
+          ],
+          "width_px": 223,
+          "height_px": 152,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0021_img03",
+          "file": "images/NCERT_fecu111_page0021_img03.png",
+          "bbox": [
+            114.8470230102539,
+            223.09002685546875,
+            212.27296447753906,
+            316.549072265625
+          ],
+          "width_px": 203,
+          "height_px": 195,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0021_img04",
+          "file": "images/NCERT_fecu111_page0021_img04.png",
+          "bbox": [
+            122.26624298095703,
+            310.0738830566406,
+            206.2999725341797,
+            406.10369873046875
+          ],
+          "width_px": 175,
+          "height_px": 200,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0021_img05",
+          "file": "images/NCERT_fecu111_page0021_img05.png",
+          "bbox": [
+            114.62633514404297,
+            403.02337646484375,
+            212.51022338867188,
+            489.6529235839844
+          ],
+          "width_px": 204,
+          "height_px": 181,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0021_img06",
+          "file": "images/NCERT_fecu111_page0021_img06.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0021_img07",
+          "file": "images/NCERT_fecu111_page0021_img07.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0021_table01",
+          "bbox": [
+            71.9000015258789,
+            223.62484741210938,
+            438.5399407280816,
+            567.4730224609375
+          ],
+          "rows": [
+            [
+              "",
+              "ocrk"
+            ],
+            [
+              "",
+              "refost"
+            ],
+            [
+              "",
+              "ndiw"
+            ],
+            [
+              "",
+              "atwre"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0021_vecfig01",
+          "file": "images/NCERT_fecu111_page0021_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Let us enhance our learning\n\n1. Fig. 11.9 shows items related to natural resources. Match\nthem with their jumbled up names. Make another table and\nwrite the names of these resources. Classify these resources\nas renewable or non-renewable.\n\nJumbled up name\n\nFig. 11.9: Natural resources\n\n2. State whether the following statements are True [T] or\nFalse [F]. If False, correct them.\nGi) Nature has all the resources to meet human needs\n\n|\n(ii) Machines are a resource found in nature. [ ]\n(iii) Natural gas is a non-renewable resource. [ ]\n(iv) Air is a renewable resource. [ ]\n\nReprint 2026-27\n\nNature’s Treasures\n\n§"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "Curiosity | Textbook of Science | Grade 6\n228\n3.\t\nFill in the blanks using the most appropriate option—\n(i)\t \tA fuel that is commonly used in two wheelers like \nscooters or bikes is......... \n\t\n\t(a)\t Kerosene \n\t\n\t(b)\t Petrol \n\t\n\t(c)\t Diesel \n\t\n\t(d)\t LPG \n(ii)\t An example of a renewable resource is .................. \n\t\n\t(a)\t Coal \n\t\n\t(b)\t Water\n\t\n\t(c)\t Natural gas \n\t\n\t(d)\t Petrol \n4.\t\nClassify the following as renewable or non-renewable \nresources—coal, natural gas, forests and minerals. \n5.\t\nWhy do we say that petroleum is a non-renewable resource? \n6.\t\nIt is difficult to regrow forests. Justify this statement. \n7.\t\nMake a list of five daily activities in which you use natural \nresources. Suggest ways by which you can reduce their use. \n8.\t\nList four activities that are possible due to the presence  \nof air.\n9.\t\nHow can you contribute towards enhancing the green \ncover of your locality? Make a list of actions to be taken. \n10.\t In the given illustration, we see that food is \nbeing cooked. \n\t\nAnswer the following questions—\n(i)\t \tWhat type of energy is being \nused for cooking? \n(ii)\t \tName one benefit \nand one drawback \nof using this type of \nenergy for cooking.\n11.\t Cutting down trees on a large \nscale impacts the quality of the \nsoil. Why do you think it is so?\n12.\t Explain two ways in which human activities pollute the air. \nPropose one action which can help in reducing air pollution.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1427,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0022_img01",
+          "file": "images/NCERT_fecu111_page0022_img01.png",
+          "bbox": [
+            347.50732421875,
+            484.4000244140625,
+            540.9976196289062,
+            657.6325073242188
+          ],
+          "width_px": 404,
+          "height_px": 361,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0022_img02",
+          "file": "images/NCERT_fecu111_page0022_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0022_img03",
+          "file": "images/NCERT_fecu111_page0022_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0022_vecfig01",
+          "file": "images/NCERT_fecu111_page0022_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\ne\n\n3.\n\n10.\n\n11.\n\n12.\n\nFill in the blanks using the most appropriate option—\n\n(i) A fuel that is commonly used in two wheelers like\nscooters or bikes is.........\n\n(a) Kerosene\n(b) Petrol\n(c) Diesel\n(d) LPG\n(ii) An example of a renewable resource is .............00+\n(a) Coal\n(b) Water\n(c) Natural gas\n(d) Petrol\n\nClassify the following as renewable or non-renewable\nresources—coal, natural gas, forests and minerals.\n\nWhy do we say that petroleum is a non-renewable resource?\nIt is difficult to regrow forests. Justify this statement.\n\nMake a list of five daily activities in which you use natural\nresources. Suggest ways by which you can reduce their use.\n\nList four activities that are possible due to the presence\nof air.\n\nHow can you contribute towards enhancing the green\ncover of your locality? Make a list of actions to be taken.\n\nIn the given illustration, we see that food is\nbeing cooked.\n\nAnswer the following questions—\n\n(i) What type of energy is being\nused for cooking?\n\n(ii) Name one benefit\nand one drawback\nof using this type of\nenergy for cooking.\n\nCutting down trees on a large\nscale impacts the quality of the\nsoil. Why do you think it is so?\n\nExplain two ways in which human activities pollute the air.\nPropose one action which can help in reducing air pollution.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "Nature’s Treasures\n229\n13.\t A family uses solar panels to generate electricity, a gas stove \nto cook food and a windmill for pumping water from a well. \nWhat would happen if there were no sunlight for a week?\n14.\t Fill up the blanks using the following terms—  \n(fossil fuels, forest, air, petroleum, coal, water and non-\nrenewable resource)\n15.\t There is an increasing demand of trees to meet the \nrequirements of industries and for housing. Therefore, trees \nare being felled. Is it justified? Discuss and prepare a brief \nreport.\n16.\t Propose a plan to use less water in your school. What steps \nwould you take to make this plan happen and how would it \nhelp the environment?\nNatural \nResources \nRenewable \nResources \nNatural  \ngas\nLearning further \n\n\nRainwater harvesting is an age-old practice in India. Find \nout some of the traditional rainwater harvesting techniques \nbeing used in your state or in other parts of the country.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 953,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0023_img01",
+          "file": "images/NCERT_fecu111_page0023_img01.png",
+          "bbox": [
+            94.4000015258789,
+            541.5702514648438,
+            439.18133544921875,
+            605.9598388671875
+          ],
+          "width_px": 719,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0023_img02",
+          "file": "images/NCERT_fecu111_page0023_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0023_img03",
+          "file": "images/NCERT_fecu111_page0023_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0023_vecfig01",
+          "file": "images/NCERT_fecu111_page0023_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "13.\n\n14.\n\n15.\n\n16.\n\nA family uses solar panels to generate electricity, a gas stove\nto cook food and a windmill for pumping water from a well.\nWhat would happen if there were no sunlight for a week?\n\nFill up the blanks using the following terms—\n\n(fossil fuels, forest, air, petroleum, coal, water and non-\nrenewable resource)\n\nNatural\nResources\n\nRenewable\nResources\n\nNatural\ngas\n\nThere is an increasing demand of trees to meet the\nrequirements of industries and for housing. Therefore, trees\nare being felled. Is it justified? Discuss and prepare a brief\nreport.\n\nPropose a plan to use less water in your school. What steps\nwould you take to make this plan happen and how would it\n\nhelp the environment?\n\nios\n7%\nsZ\n: 7\nRainwater harvesting is an age-old practice in India. Find\nout some of the traditional rainwater harvesting techniques\nbeing used in your state or in other parts of the country.\n\nReprint 2026-27\n\nNature’s Treasures\n\n9"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "Curiosity | Textbook of Science | Grade 6\n230\n\n\nInvestigate the effect of air pollution on human health by \ninteracting with your elders or community members and \nidentify the main sources of air pollution in your local area. \nBased on your findings, suggest two practical steps that your \nschool or community could take to help reduce air pollution.\n\n\nPrepare a list of the names and uses of important \nminerals and rocks that are used in your village/town/city \nfor various purposes.\n\n\nYou are an eco-club monitor. Organise a tree plantation \ndrive in your school with the help of your teacher. List \nthe steps required for organising this activity. Prepare a \none-page report listing the names of the trees planted along \nwith their importance.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 770,
+      "images": [
+        {
+          "image_id": "NCERT_fecu111_page0024_img01",
+          "file": "images/NCERT_fecu111_page0024_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu111_page0024_img02",
+          "file": "images/NCERT_fecu111_page0024_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu111_page0024_vecfig01",
+          "file": "images/NCERT_fecu111_page0024_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\ne\n\nInvestigate the effect of air pollution on human health by\ninteracting with your elders or community members and\nidentify the main sources of air pollution in your local area.\nBased on your findings, suggest two practical steps that your\nschool or community could take to help reduce air pollution.\n\nPrepare a list of the names and uses of important\nminerals and rocks that are used in your village/town/city\nfor various purposes.\n\nYou are an eco-club monitor. Organise a tree plantation\ndrive in your school with the help of your teacher. List\nthe steps required for organising this activity. Prepare a\none-page report listing the names of the trees planted along\nwith their importance.\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}

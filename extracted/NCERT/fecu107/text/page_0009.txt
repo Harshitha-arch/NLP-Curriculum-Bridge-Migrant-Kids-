@@ -1,0 +1,57 @@
+Temperature and its Measurement
+131
+Activity 7.4: Let us observe and calculate
+Let us now try to find the smallest value that a given 
+laboratory thermometer can read.
+
+
+Again, take the same laboratory thermometer which 
+you used in Activity 7.3 and observe it carefully. 
+
+
+Note down the following:
+—
+—
+How much is the temperature difference indicated 
+between the two bigger marks? 
+—
+—
+How many divisions (shown by smaller  marks) 
+are there between these two bigger  marks? 
+—
+—
+How much temperature does one small division 
+indicate? 
+—
+—
+So, the smallest value that the thermometer can 
+read is 
+Fig. 7.3b shows a closeup of a part of the  thermometer 
+shown in Fig. 7.3a. Can you now find the smallest value that 
+this thermometer can read?
+For the thermometer shown in Fig. 7.3b, the 
+temperature difference indicated between 0 °C and 
+10 °C or between 10 °C and 20 °C is 10 °C. And the 
+number of divisions between these marks are 10 
+divisions. So, one small division can read 10/10 = 1 °C. 
+That is, the smallest value that this thermometer 
+can read is 1 °C.
+Your school laboratory may have thermometers 
+for which the range and the value of the smallest 
+division may be different. It is, therefore, always 
+necessary to look carefully at the thermometer you 
+are about to use.
+You have learnt how to find the temperature range 
+of a given laboratory thermometer. You have 
+also learnt how to find the smallest value that a 
+given laboratory thermometer can read. We will 
+now learn how to measure temperature using a 
+laboratory thermometer. But, let us first learn 
+how to use a laboratory thermometer correctly.
+Fig. 7.3(b): 
+Closeup of a 
+part of the 
+thermometer 
+shown in 
+Fig. 7.3a.
+Reprint 2026-27

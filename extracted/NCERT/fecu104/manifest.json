@@ -1,0 +1,2536 @@
+{
+  "source_file": "data\\NCERT\\fecu104.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu104",
+  "num_pages": 18,
+  "extraction_method": "native",
+  "native_page_count": 18,
+  "ocr_page_count": 0,
+  "total_images": 119,
+  "images_with_text": 3,
+  "total_tables": 5,
+  "total_vector_figures": 17,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "4\nChapter\nReshma lives in a coastal town of \nKerala and is very fond of writing \nshort stories. Her grandmother \nloves listening to her stories, so \nReshma was writing a new story \nto share with her grandmother \non her 60th birthday. \nExploring Magnets\nThe story was based on a ship \ncarrying spices from Kerala for \ntrade in the olden days. Reshma \nwas aware that in those days, \nthe sailors used stars to find \ndirections at night. But in her \nstory, a situation arose wherein \nthe sailors got caught in a storm \nwith an overcast sky and stars \nwere not visible. Reshma could not take her story forward \nas she could not think of a way for sailors to find directions. \nShe searched for information on the internet and her \nschool library. She learnt that the travellers used a device, \nknown as a magnetic compass, for finding \ndirections.  \nReshma had seen pencil boxes and \npurses which had magnets to keep them \nclosed. A writing board in her school \nalso had a duster with a magnet. But \nshe had never looked at those carefully. \nShe now became curious to learn more \nabout magnets and magnetic compasses.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1128,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0001_img01",
+          "file": "images/NCERT_fecu104_page0001_img01.png",
+          "bbox": [
+            47.39873504638672,
+            193.3695068359375,
+            220.3994140625,
+            334.5703430175781
+          ],
+          "width_px": 361,
+          "height_px": 295,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0001_img02",
+          "file": "images/NCERT_fecu104_page0001_img02.png",
+          "bbox": [
+            -18.600000381469727,
+            -19.67645263671875,
+            611.4000244140625,
+            183.9000244140625
+          ],
+          "width_px": 1315,
+          "height_px": 425,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0001_img03",
+          "file": "images/NCERT_fecu104_page0001_img03.png",
+          "bbox": [
+            271.3468017578125,
+            325.81976318359375,
+            529.2338256835938,
+            485.3619384765625
+          ],
+          "width_px": 538,
+          "height_px": 333,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0001_img04",
+          "file": "images/NCERT_fecu104_page0001_img04.png",
+          "bbox": [
+            62.74787902832031,
+            572.1637573242188,
+            193.52285766601562,
+            700.8699951171875
+          ],
+          "width_px": 273,
+          "height_px": 269,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0001_img05",
+          "file": "images/NCERT_fecu104_page0001_img05.png",
+          "bbox": [
+            468.44000244140625,
+            212.3798828125,
+            553.4000244140625,
+            297.3398742675781
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "0677CHO4"
+        },
+        {
+          "image_id": "NCERT_fecu104_page0001_img06",
+          "file": "images/NCERT_fecu104_page0001_img06.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0001_img07",
+          "file": "images/NCERT_fecu104_page0001_img07.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0001_vecfig01",
+          "file": "images/NCERT_fecu104_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Exploring Magnets\n\nReshma lives in a coastal town of\nKerala and is very fond of writing\nshort stories. Her grandmother\nloves listening to her stories, so\nReshma was writing a new story\nto share with her grandmother\non her 60th birthday.\n\nThe story was based onaship\ncarrying spices from Kerala for\ntrade in the olden days. Reshma\nwas aware that in those days, “\"7\"m\nthe sailors used stars to find\ndirections at night. But in her\nstory, a situation arose wherein\nthe sailors got caught in a storm\nwith an overcast sky and stars\nwere not visible. Reshma could not take her story forward\nas she could not think of a way for sailors to find directions.\n\nShe searched for information on the internet and her\nschool library. She learnt that the travellers used a device,\n\nknown as a magnetic compass, for finding\ndirections.\n\nReshma had seen pencil boxes and\npurses which had magnets to keep them\nclosed. A writing board in her school\nalso had a duster with a magnet. But\nshe had never looked at those carefully.\n\nShe now became curious to learn more\nabout magnets and magnetic compasses.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "The magnets used by sailors in the olden days were based \non naturally occurring magnets, known as lodestones which \nwere discovered in ancient times. Later on, people found \nout that magnets could also be made from pieces of iron. \nNowadays, we have magnets made of different materials. \nThe magnets that you find in your school laboratory and \nthose used in pencil boxes, stickers, toys are all artificial \nmagnets (Fig. 4.1). The magnets can be of various shapes, \nsome of which are shown in Fig. 4.2.\nFig. 4.1: Some common items that have magnets attached to them\n4.1 Magnetic and Non-magnetic Materials \nActivity 4.1: Let us explore\n\n\nCollect a few objects made of different materials and \nalso a magnet. \n\n\nPredict which of the objects will stick to the magnet. \nWrite your prediction in Table 4.1. \n\n\nNow hold a magnet in your hand and bring it near \nthe objects one by one (Fig. 4.3). Observe which of the \nobjects stick to the magnet. \nDo magnets \nstick to objects \nmade of certain \nmaterials only??\nBar \nmagnet\nU-shaped \nmagnet\n Ring \nmagnet\nFig. 4.2: Magnets of different shapes\nCuriosity | Textbook of Science | Grade 6\n62\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1157,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0002_img01",
+          "file": "images/NCERT_fecu104_page0002_img01.png",
+          "bbox": [
+            59.084205627441406,
+            75.80848693847656,
+            108.54020690917969,
+            137.2021484375
+          ],
+          "width_px": 104,
+          "height_px": 128,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img02",
+          "file": "images/NCERT_fecu104_page0002_img02.png",
+          "bbox": [
+            144.9893798828125,
+            47.008243560791016,
+            248.46849060058594,
+            152.89306640625
+          ],
+          "width_px": 312,
+          "height_px": 346,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img03",
+          "file": "images/NCERT_fecu104_page0002_img03.png",
+          "bbox": [
+            249.8970947265625,
+            70.2449951171875,
+            319.4606018066406,
+            129.6566162109375
+          ],
+          "width_px": 145,
+          "height_px": 124,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img04",
+          "file": "images/NCERT_fecu104_page0002_img04.png",
+          "bbox": [
+            444.2372131347656,
+            63.74390411376953,
+            524.6522827148438,
+            136.157470703125
+          ],
+          "width_px": 168,
+          "height_px": 151,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img05",
+          "file": "images/NCERT_fecu104_page0002_img05.png",
+          "bbox": [
+            328.46063232421875,
+            68.4898910522461,
+            431.911376953125,
+            136.93743896484375
+          ],
+          "width_px": 216,
+          "height_px": 143,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img06",
+          "file": "images/NCERT_fecu104_page0002_img06.png",
+          "bbox": [
+            117.54024505615234,
+            83.16421508789062,
+            158.4940185546875,
+            116.7373046875
+          ],
+          "width_px": 86,
+          "height_px": 70,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img07",
+          "file": "images/NCERT_fecu104_page0002_img07.png",
+          "bbox": [
+            141.9903106689453,
+            325.36651611328125,
+            161.07806396484375,
+            427.87353515625
+          ],
+          "width_px": 428,
+          "height_px": 80,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img08",
+          "file": "images/NCERT_fecu104_page0002_img08.png",
+          "bbox": [
+            193.2036590576172,
+            325.3664855957031,
+            238.85711669921875,
+            427.8735046386719
+          ],
+          "width_px": 428,
+          "height_px": 191,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img09",
+          "file": "images/NCERT_fecu104_page0002_img09.png",
+          "bbox": [
+            261.7244873046875,
+            338.39434814453125,
+            338.4746398925781,
+            414.3857421875
+          ],
+          "width_px": 161,
+          "height_px": 159,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img10",
+          "file": "images/NCERT_fecu104_page0002_img10.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0002_img11",
+          "file": "images/NCERT_fecu104_page0002_img11.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0002_vecfig01",
+          "file": "images/NCERT_fecu104_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Fig. 4.1: Some common items that have magnets attached to them\n\nThe magnets used by sailors in the olden days were based\non naturally occurring magnets, known as lodestones which\nwere discovered in ancient times. Later on, people found\nout that magnets could also be made from pieces of iron.\nNowadays, we have magnets made of different materials.\nThe magnets that you find in your school laboratory and\nthose used in pencil boxes, stickers, toys are all artificial\nmagnets (Fig. 4.1). The magnets can be of various shapes,\nsome of which are shown in Fig. 4.2.\n\n1Yo\n\nU-shaped Ring\nmagnet magnet magnet\n\nDo magnets\n\nstick to objects\nmade of certain\nmaterials only?\n\nFig. 4.2: Magnets of different shapes\n\nne 4 | Magnetic and Non-magnetic Materials\n\nActivity 4.1: Let us explore a\n\n@ Collect a few objects made of different materials and\nalso a magnet.\n\n@ Predict which of the objects will stick to the magnet.\nWrite your prediction in Table 4.1.\n¢ Now hold a magnet in your hand and bring it near\n\nthe objects one by one (Fig. 4.3). Observe which of the\nobjects stick to the magnet.\n\nCuriosity | Textbook of Science | Grade\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Name of the \nobject\nMaterial which the \nobject is made of  \n(plastic/wood/glass/\niron/any other)\nAttracted by the  \nmagnet (Yes/No)\nPrediction\nObservation\nPencil\nWood\nEraser\nRubber\nFig. 4.3: Identifying the materials attracted by a magnet\n\n\nRecord your observations in Table 4.1.   \nTable 4.1: Identifying the materials attracted by a magnet\nExploring Magnets\n63\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 381,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0003_img01",
+          "file": "images/NCERT_fecu104_page0003_img01.png",
+          "bbox": [
+            166.61412048339844,
+            165.57394409179688,
+            217.08680725097656,
+            236.60888671875
+          ],
+          "width_px": 296,
+          "height_px": 211,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img02",
+          "file": "images/NCERT_fecu104_page0003_img02.png",
+          "bbox": [
+            230.10470581054688,
+            153.747314453125,
+            241.9197540283203,
+            235.6070556640625
+          ],
+          "width_px": 25,
+          "height_px": 171,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img03",
+          "file": "images/NCERT_fecu104_page0003_img03.png",
+          "bbox": [
+            128.15032958984375,
+            74.91583251953125,
+            154.5963134765625,
+            116.75250244140625
+          ],
+          "width_px": 175,
+          "height_px": 111,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img04",
+          "file": "images/NCERT_fecu104_page0003_img04.png",
+          "bbox": [
+            245.8880615234375,
+            68.9859848022461,
+            331.9031982421875,
+            134.78082275390625
+          ],
+          "width_px": 179,
+          "height_px": 138,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img05",
+          "file": "images/NCERT_fecu104_page0003_img05.png",
+          "bbox": [
+            254.93763732910156,
+            150.7226104736328,
+            276.28619384765625,
+            236.67864990234375
+          ],
+          "width_px": 359,
+          "height_px": 89,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img06",
+          "file": "images/NCERT_fecu104_page0003_img06.png",
+          "bbox": [
+            370.91021728515625,
+            162.16278076171875,
+            441.7852783203125,
+            235.6067352294922
+          ],
+          "width_px": 148,
+          "height_px": 153,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img07",
+          "file": "images/NCERT_fecu104_page0003_img07.png",
+          "bbox": [
+            110.34188842773438,
+            162.16317749023438,
+            153.59628295898438,
+            235.60711669921875
+          ],
+          "width_px": 91,
+          "height_px": 153,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img08",
+          "file": "images/NCERT_fecu104_page0003_img08.png",
+          "bbox": [
+            465.64227294921875,
+            71.98594665527344,
+            503.2958068847656,
+            122.794677734375
+          ],
+          "width_px": 79,
+          "height_px": 106,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img09",
+          "file": "images/NCERT_fecu104_page0003_img09.png",
+          "bbox": [
+            449.2969055175781,
+            161.18905639648438,
+            503.2958068847656,
+            235.60699462890625
+          ],
+          "width_px": 311,
+          "height_px": 225,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img10",
+          "file": "images/NCERT_fecu104_page0003_img10.png",
+          "bbox": [
+            289.3649597167969,
+            161.1890411376953,
+            328.8556213378906,
+            235.60699462890625
+          ],
+          "width_px": 83,
+          "height_px": 155,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img11",
+          "file": "images/NCERT_fecu104_page0003_img11.png",
+          "bbox": [
+            70.4000015258789,
+            162.79127502441406,
+            97.32405853271484,
+            236.61358642578125
+          ],
+          "width_px": 57,
+          "height_px": 154,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img12",
+          "file": "images/NCERT_fecu104_page0003_img12.png",
+          "bbox": [
+            216.87220764160156,
+            68.98603820800781,
+            240.1849365234375,
+            113.916015625
+          ],
+          "width_px": 49,
+          "height_px": 94,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img13",
+          "file": "images/NCERT_fecu104_page0003_img13.png",
+          "bbox": [
+            379.9205322265625,
+            77.98605346679688,
+            403.2332458496094,
+            109.35791015625
+          ],
+          "width_px": 49,
+          "height_px": 66,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img14",
+          "file": "images/NCERT_fecu104_page0003_img14.png",
+          "bbox": [
+            346.6023864746094,
+            68.986083984375,
+            364.2118225097656,
+            122.46235656738281
+          ],
+          "width_px": 223,
+          "height_px": 74,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img15",
+          "file": "images/NCERT_fecu104_page0003_img15.png",
+          "bbox": [
+            177.12222290039062,
+            88.98616027832031,
+            195.84286499023438,
+            122.9874267578125
+          ],
+          "width_px": 39,
+          "height_px": 71,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img16",
+          "file": "images/NCERT_fecu104_page0003_img16.png",
+          "bbox": [
+            407.2752990722656,
+            68.98600769042969,
+            479.0260009765625,
+            136.27098083496094
+          ],
+          "width_px": 237,
+          "height_px": 197,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img17",
+          "file": "images/NCERT_fecu104_page0003_img17.png",
+          "bbox": [
+            346.4010925292969,
+            153.7471923828125,
+            353.36456298828125,
+            235.60693359375
+          ],
+          "width_px": 15,
+          "height_px": 171,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img18",
+          "file": "images/NCERT_fecu104_page0003_img18.png",
+          "bbox": [
+            69.91729736328125,
+            66.69357299804688,
+            108.47158813476562,
+            139.971435546875
+          ],
+          "width_px": 81,
+          "height_px": 153,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img19",
+          "file": "images/NCERT_fecu104_page0003_img19.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0003_img20",
+          "file": "images/NCERT_fecu104_page0003_img20.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0003_table01",
+          "bbox": [
+            72.3558406000552,
+            380.1913146972656,
+            503.91002091117525,
+            704.0
+          ],
+          "rows": [
+            [
+              null,
+              null,
+              "Prediction",
+              "Observation"
+            ],
+            [
+              "Pencil",
+              "Wood",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "",
+              ""
+            ],
+            [
+              "Eraser",
+              "Rubber",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0003_vecfig01",
+          "file": "images/NCERT_fecu104_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Fig. 4.3: Identifying the materials attracted by a magnet\n\n@ Record your observations in Table 4.1.\n\nTable 4.1: Identifying the materials attracted by a magnet\n\nMaterial which the Attracted by the\nName of the object is made of magnet (Yes/No)\nobject (plastic/wood/glass/\niron/any other) Prediction Observation\nPencil Wood\nEraser Rubber\n\nReprint 2026-27\n\nExploring Magnets"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Was your prediction correct for all objects? Which \nmaterials stuck to the magnet? What conclusion can you \ndraw?\nThrough this activity, we found out that some of the \nobjects were attracted to the magnet and stuck to it, while \nothers were not. The materials which are attracted towards \na magnet are called magnetic materials. \nThe metal iron is a magnetic material. \nNickel and cobalt are other metals that are \nalso magnetic. Some of their combinations \nwith other metals are also attracted \ntowards magnets. The materials which are \nnot attracted towards a magnet are called \nnon-magnetic materials. \nWhich materials listed in Table 4.1 were \nfound to be non-magnetic? \n4.2 Poles of Magnet\nActivity 4.2: Let us investigate\n\n\nSpread some iron filings (very small pieces of iron) on a \nsheet of paper. \n\n\nPlace a bar magnet over them. Tap the paper and \nobserve carefully what happens to the iron filings. \nDo you observe anything special about the way they stick \nto the magnet? Do the iron filings stick all over the magnet \nuniformly? Or do the iron filings stick more at some places? \nWe find that maximum iron filings stick near the ends of \nthe bar magnet, as shown in Fig. 4.4, while a very few iron \nfilings stick at the remaining part of the magnet.\nFig. 4.4: Iron filings sticking \nto a bar magnet \nDo all parts of a \nmagnet attract \nmagnetic \nmaterials \nequally?\n?\nIf we repeat this \nactivity with \nmagnets of other \nshapes, do we get \nthe same result?\nCuriosity | Textbook of Science | Grade 6\n64\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1532,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0004_img01",
+          "file": "images/NCERT_fecu104_page0004_img01.png",
+          "bbox": [
+            129.7200164794922,
+            589.7469482421875,
+            308.05078125,
+            655.584228515625
+          ],
+          "width_px": 372,
+          "height_px": 138,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0004_img02",
+          "file": "images/NCERT_fecu104_page0004_img02.png",
+          "bbox": [
+            455.58697509765625,
+            580.9800415039062,
+            522.2906494140625,
+            731.8038330078125
+          ],
+          "width_px": 139,
+          "height_px": 315,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0004_img03",
+          "file": "images/NCERT_fecu104_page0004_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0004_img04",
+          "file": "images/NCERT_fecu104_page0004_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0004_vecfig01",
+          "file": "images/NCERT_fecu104_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Was your prediction correct for all objects? Which\nmaterials stuck to the magnet? What conclusion can you\ndraw?\n\nThrough this activity, we found out that some of the\nobjects were attracted to the magnet and stuck to it, while\nothers were not. The materials which are attracted towards\n\na magnet are called magnetic materials.\nThe metal iron is a magnetic material.\n\nDo all parts of a Nickel and cobalt are other metals that are\nmagnet attract also magnetic. Some of their combinations\nmagnetic with other metals are also attracted\nmaterials > towards magnets. The materials which are\nequally? e not attracted towards a magnet are called\n\nnon-magnetic materials.\nWhich materials listed in Table 4.1 were\nfound to be non-magnetic?\n\nes 4 2 Poles of Magnet\n\nActivity 4.2: Let us investigate a\n\n¢ Spread some iron filings (very small pieces of iron) ona\nsheet of paper.\n\nPlace a bar magnet over them. Tap the paper and\nobserve carefully what happens to the iron filings.\n\nDo you observe anything special about the way they stick\nto the magnet? Do the iron filings stick all over the magnet\nuniformly? Or do the iron filings stick more at some places?\n\nWe find that maximum iron filings stick near the ends of\nthe bar magnet, as shown in Fig. 4.4, while a very few iron\nfilings stick at the remaining part of the magnet.\n\nIf we repeat this\nactivity with\nmagnets of other\nshapes, do we get\nthe same result?\n\nCuriosity | Textbook of Science | Grade 6\n\nFig. 4.4: Iron filings sticking\nto a bar magnet\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "If we have noticed the direction \nwhere the Sun rises or sets, we \nhave an approximate idea of \nwhere East or West is. Hence, we \ncan locate the direction along \nwhich the magnet rests.\nThese ends of the magnet are called the \ntwo poles of the magnet—the North pole and \nthe South pole. Most of the iron filings stick \nto the poles of a magnet of any shape. \nIt is not possible to obtain a magnet with \na single pole. If a magnet is broken into \nsmaller pieces, North and South poles always \nexist in pairs even in the smallest piece of the magnet. \nA single North pole or a South pole cannot exist.\n4.3 Finding Directions\nActivity 4.3: Let us experiment\n\n\nSuspend a bar magnet with a thread tied to the middle of \nthe magnet as shown in Fig. 4.5. You may need to adjust \nthe position of the string till the magnet is balanced \nhorizontally.\n\n\nNow rotate the magnet gently in the \nhorizontal direction and let it come to rest. \n\n\nMark the position corresponding to the \nends of the magnet on the ground (or on \na piece of paper stuck to the ground). Join \nthese two points on the ground with a \nline. This line indicates the direction along \nwhich the magnet comes to rest. \n\n\nNow again rotate the magnet by giving a \ngentle push at its one end and wait till it \ncomes to rest. Does the magnet rest along \nthe same line?\nFig. 4.5: A freely suspended \nbar magnet\nCan we find \na magnet \nwith a \nsingle pole? ?\nWhat direction does \nthis line indicate \nalong which the \nmagnet rests? How \ncan we find it out?\nExploring Magnets\n65\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1550,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0005_img01",
+          "file": "images/NCERT_fecu104_page0005_img01.png",
+          "bbox": [
+            376.2721862792969,
+            346.5238037109375,
+            525.6616821289062,
+            481.89996337890625
+          ],
+          "width_px": 312,
+          "height_px": 283,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0005_img02",
+          "file": "images/NCERT_fecu104_page0005_img02.png",
+          "bbox": [
+            70.08887481689453,
+            560.29833984375,
+            156.53207397460938,
+            695.8599853515625
+          ],
+          "width_px": 180,
+          "height_px": 283,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0005_img03",
+          "file": "images/NCERT_fecu104_page0005_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0005_img04",
+          "file": "images/NCERT_fecu104_page0005_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0005_vecfig01",
+          "file": "images/NCERT_fecu104_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "These ends of the magnet are called the\n\nCan we find\ntwo poles of the magnet—the North pole and a magnet\nthe South pole. Most of the iron filings stick with a\n\nto the poles of a magnet of any shape.\n\nIt is not possible to obtain a magnet with\na single pole. If a magnet is broken into\nsmaller pieces, North and South poles always\nexist in pairs even in the smallest piece of the magnet.\nA single North pole or a South pole cannot exist.\n\nsingle pole? @\n\n4.3 Finding Directions\n\nActivity 4.3: Let us experiment es Oe\n\n Suspenda bar magnet with a thread tied to the middle of\nthe magnet as shown in Fig. 4.5. You may need to adjust\nthe position of the string till the magnet is balanced\nhorizontally.\n\nNow rotate the magnet gently in the\nhorizontal direction and let it come to rest.\n\n@ Mark the position corresponding to the\nends of the magnet on the ground (or on\na piece of paper stuck to the ground). Join\nthese two points on the ground with a\nline. This line indicates the direction along\n\nwhich the magnet comes to rest. z- ‘\n¢ Now again rotate the magnet by giving a . - -\ngentle push at its one end and wait till it Fig. 4.5: A freely suspended\n\nbar magnet\n\ncomes to rest. Does the magnet rest along\nthe same line?\n\nIf we have noticed the direction\nwhere the Sun rises or sets, we\nhave an approximate idea of\n\nwhere East or West is. Hence, we\ncan locate the direction along\nwhich the magnet rests.\n\nExploring Magnets\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "A freely suspended magnet comes to rest along the \nnorth-south direction. The end of the magnet that points \ntowards north direction is called the North-seeking pole or \nthe North pole of the magnet. The other end that points \ntowards the South direction is called the South-seeking \npole or the South pole of the magnet. A freely suspended \nmagnet rests along the north-south direction because our \nEarth itself behaves like a giant magnet.\nRepeat this activity with a small iron bar in place of \nthe bar magnet. What do you observe? Does it always rest \nalong north-south direction? It does not. It can rest along \nany direction. This implies that only magnets rest along \nnorth-south direction. This activity provides us with a way \nto test whether a piece of metal is a magnet or not. \nThe property of a freely suspended magnet to always rest \nalong the north-south direction is used to find directions. \nBased on this, a small device called a magnetic compass was \ndeveloped in olden days for finding directions. It \nhas a magnet in the shape of a needle which can \nrotate freely (Fig. 4.6). The needle of a magnetic \ncompass indicates the north-south direction.\nThe compass is kept at the place where we \nwish to know the directions. After some time, the \nneedle comes to rest in the north-south direction. \nThe compass box is then gently rotated until the \nnorth and south marked on the dial are aligned \nwith the needle. Now all directions at that place \nare as indicated on the dial.\nA magnetic compass is usually a small circular box \nwith a transparent cover on it, as shown in Fig. 4.6. \nThe magnet, in the shape of a needle, is mounted \non a pin standing on the bottom of the box. This \nneedle is balanced on the pin in such a \nmanner that it can move around this point \neasily, that is, it can rotate freely. The end of \nthe needle which rests in the North direction \nis usually painted red. Below the needle, \nthere is a dial with directions marked on it. \nHow can we \nmake our \nown magnetic \ncompass?\nMore to \nknow!\nFig. 4.6: A magnetic \ncompass\nCuriosity | Textbook of Science | Grade 6\n66\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2123,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0006_img01",
+          "file": "images/NCERT_fecu104_page0006_img01.png",
+          "bbox": [
+            81.70342254638672,
+            535.4839477539062,
+            484.2464599609375,
+            734.4089965820312
+          ],
+          "width_px": 839,
+          "height_px": 415,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0006_img02",
+          "file": "images/NCERT_fecu104_page0006_img02.png",
+          "bbox": [
+            461.01287841796875,
+            598.6439208984375,
+            538.3416748046875,
+            710.547607421875
+          ],
+          "width_px": 161,
+          "height_px": 234,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0006_img03",
+          "file": "images/NCERT_fecu104_page0006_img03.png",
+          "bbox": [
+            61.278907775878906,
+            345.3280029296875,
+            210.35409545898438,
+            496.3812255859375
+          ],
+          "width_px": 311,
+          "height_px": 315,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0006_img04",
+          "file": "images/NCERT_fecu104_page0006_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0006_img05",
+          "file": "images/NCERT_fecu104_page0006_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0006_vecfig01",
+          "file": "images/NCERT_fecu104_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "A freely suspended magnet comes to rest along the\nnorth-south direction. The end of the magnet that points\ntowards north direction is called the North-seeking pole or\nthe North pole of the magnet. The other end that points\ntowards the South direction is called the South-seeking\npole or the South pole of the magnet. A freely suspended\nmagnet rests along the north-south direction because our\nEarth itself behaves like a giant magnet.\n\nRepeat this activity with a small iron bar in place of\nthe bar magnet. What do you observe? Does it always rest\nalong north-south direction? It does not. It can rest along\nany direction. This implies that only magnets rest along\nnorth-south direction. This activity provides us with a way\nto test whether a piece of metal is a magnet or not.\n\nThe property of a freely suspended magnet to always rest\nalong the north-south direction is used to find directions.\nBased on this, a small device called a magnetic compass was\ndeveloped in olden days for finding directions. It\nhas a magnet in the shape of a needle which can\nrotate freely (Fig. 4.6). The needle of a magnetic\ncompass indicates the north-south direction.\n\nThe compass is kept at the place where we\nwish to know the directions. After some time, the\nneedle comes to rest in the north-south direction.\nThe compass box is then gently rotated until the\n\nnorth and south marked on the dial are aligned\nwith the needle. Now all directions at that place\n\nFig. 4.6: A magnetic are as indicated on the dial.\ncompass\n\nF : : How can we\nA magnetic compass is usually a small circular box\nmake our\n\nwith a transparent cover on it, as shown in Fig. 4.6. own magnetic\n\nThe magnet, in the shape of a needle, is mounted compass?\n\non a pin standing on the bottom of the box. This\n\nneedle is balanced on the pin in sucha\nmanner that it can move around this point\neasily, that is, it can rotate freely. The end of\nthe needle which rests in the North direction\nis usually painted red. Below the needle,\nthere is a dial with directions marked on it.\n\nCuriosity | Textbook of Science | Grade 6\n\nMore to\nknow!\n\n9\nSS —\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Activity 4.4: Let us construct\n\n\nCollect a few materials like a cork piece, iron sewing \nneedle, a permanent bar magnet, a glass bowl, and water.\n\n\nPlace the iron sewing needle on a wooden table. Then \nkeep any one pole of the magnet at one end of \nthe needle. Move the magnet over the needle \nalong its length as shown in Fig. 4.7a. When it \nreaches the other end of the needle, lift it up. \n\n\nBring the same pole of the magnet you started \nwith to the same end of the sewing needle from \nwhich you began, and repeat the previous \nstep. Repeat this process at least 30 to 40 times. \n\n\nBring some iron filings or steel pins near the needle. \nIf the pins or iron filings get attracted to the needle, \nthen that means that the needle has become \na magnet.  \n\n\nPass this needle through the cork horizontally. \nFloat the cork in a glass bowl filled with water, \nsuch that the needle always remains above the \nlevel of water as shown in Fig. 4.7b. \n\n\nWhen the needle comes to rest, your magnetic \ncompass is ready for use. Note the direction in \nwhich either side of the needle points. \n\n\nRotate the cork gently and wait till it stops rotating. \nRepeat this a few more times. Do the ends of the needle \nalways point in the same direction?\nFig. 4.7(a): Making an iron \nneedle a magnet\nFig. 4.7(b): A compass needle \nin a bowl of water\nMuch before the widespread use of the modern \nmagnetic compass (Fig. 4.6), a device similar to \nthe compass needle made by you (Fig. 4.7b) was \nused by Indians for navigation at \nsea. It consisted of a magnetised \nfish-shaped iron piece, kept \nin a vessel of oil. It was called \nmatsya-yantra (or machchh-\nyantra).  \nWhat happens \nwhen we bring \ntwo magnets \ncloser to each \nother?\nDo you \nknow?\nExploring Magnets\n67\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1776,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0007_img01",
+          "file": "images/NCERT_fecu104_page0007_img01.png",
+          "bbox": [
+            382.810546875,
+            108.84095764160156,
+            538.0244140625,
+            199.47283935546875
+          ],
+          "width_px": 324,
+          "height_px": 189,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0007_img02",
+          "file": "images/NCERT_fecu104_page0007_img02.png",
+          "bbox": [
+            392.283203125,
+            307.9916687011719,
+            524.1226806640625,
+            406.6571044921875
+          ],
+          "width_px": 275,
+          "height_px": 206,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0007_img03",
+          "file": "images/NCERT_fecu104_page0007_img03.png",
+          "bbox": [
+            38.609649658203125,
+            519.9237060546875,
+            372.35986328125,
+            709.3121948242188
+          ],
+          "width_px": 696,
+          "height_px": 395,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0007_img04",
+          "file": "images/NCERT_fecu104_page0007_img04.png",
+          "bbox": [
+            340.3599548339844,
+            546.8792724609375,
+            432.506591796875,
+            693.836181640625
+          ],
+          "width_px": 192,
+          "height_px": 307,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0007_img05",
+          "file": "images/NCERT_fecu104_page0007_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0007_img06",
+          "file": "images/NCERT_fecu104_page0007_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0007_vecfig01",
+          "file": "images/NCERT_fecu104_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Activity 4.4: Let us construct a\n\n@ Collect a few materials like a cork piece, iron sewing\nneedle, a permanent bar magnet, a glass bowl, and water.\n\n@ Place the iron sewing needle on a wooden table. Then\nkeep any one pole of the magnet at one end of “7\nthe needle. Move the magnet over the needle a\nalong its length as shown in Fig. 4.7a. When it\nreaches the other end of the needle, lift it up.\n\n¢ Bring the same pole of the magnet you started Fig. 4.7(a): Making an iron\nwith to the same end of the sewing needle from needle a magnet\nwhich you began, and repeat the previous\nstep. Repeat this process at least 30 to 40 times.\n\n¢ Bring some iron filings or steel pins near the needle.\nIf the pins or iron filings get attracted to the needle,\nthen that means that the needle has become\na magnet.\n\n@ Pass this needle through the cork horizontally.\nFloat the cork in a glass bow! filled with water,\nsuch that the needle always remains above the\nlevel of water as shown in Fig. 4.7b.\n\n@ When the needle comes to rest, your magnetic\ncompass is ready for use. Note the direction in\nwhich either side of the needle points.\n\n@ Rotate the cork gently and wait till it stops rotating.\n\nRepeat this a few more times. Do the ends of the needle\nalways point in the same direction?\n\nFig. 4.7(b): A compass needle\nin a bowl of water\n\nWhat happens\nwhen we bring\ntwo magnets\ncloser to each\nother?\n\nMuch before the widespread use of the modern\nmagnetic compass (Fig. 4.6), a device similar to\nthe compass needle made by you (Fig. 4.7b) was\nused by Indians for navigation at\nsea. It consisted of a magnetised\nfish-shaped iron piece, kept\nin a vessel of oil. It was called\nDo you matsya-yantra (or machchh-\nknow? —-yantra).\n\nExploring Magnets\n\n9\n= Z\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "4.4 Attraction and Repulsion between Magnets\nActivity 4.5: Let us experiment\n\n\nTake a pair of bar magnets on which North and South \npoles have been marked. Mark the two bar magnets as \nA and B. \n\n\nPlace the longer side of magnet A over 5–6 round shaped \npencils as shown in Fig. 4.8a. \n\n\nNow bring one end of magnet B near the end of magnet \nA placed on the pencils. Make sure that the two magnets \ndo not touch each other. Observe what happens.       \n\n\nNext, bring the other end of magnet B near the same end \nof magnet A (Fig. 4.8b). Does the magnet A on the pencils \nbegin to move? Does it always move in the direction of \nthe approaching magnet? What do these observations \nsuggest?\nYou will see that unlike poles of two magnets, that is, the \nNorth pole of one magnet and the South pole of another \nmagnet, attract each other. The like poles, that is, either \nthe North poles or the South poles of both magnets, repel \neach other. \nMagnet A\nMagnet B\nMagnet A\nMagnet B\nFig. 4.8: Interaction between two bar magnets\n  (a)\n  (b)\nCuriosity | Textbook of Science | Grade 6\n68\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1101,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0008_img01",
+          "file": "images/NCERT_fecu104_page0008_img01.png",
+          "bbox": [
+            161.07589721679688,
+            341.800048828125,
+            317.89190673828125,
+            576.9369506835938
+          ],
+          "width_px": 327,
+          "height_px": 490,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0008_img02",
+          "file": "images/NCERT_fecu104_page0008_img02.png",
+          "bbox": [
+            356.75,
+            340.75189208984375,
+            515.7000122070312,
+            577.9852294921875
+          ],
+          "width_px": 332,
+          "height_px": 495,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0008_img03",
+          "file": "images/NCERT_fecu104_page0008_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0008_img04",
+          "file": "images/NCERT_fecu104_page0008_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0008_vecfig01",
+          "file": "images/NCERT_fecu104_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Ts 44 Attraction and Repulsion between Magnets\n\nActivity 4.5: Let us experiment a\n\n¢ Take a pair of bar magnets on which North and South\npoles have been marked. Mark the two bar magnets as\nA and B.\n\n@ Place the longer side of magnet A over 5-6 round shaped\npencils as shown in Fig. 4.8a.\n\n Nowbring one end of magnet B near the end of magnet\nA placed on the pencils. Make sure that the two magnets\ndo not touch each other. Observe what happens.\n\n@ Next, bring the other end of magnet B near the same end\nof magnet A (Fig. 4.8b). Does the magnet A on the pencils\nbegin to move? Does it always move in the direction of\nthe approaching magnet? What do these observations\nsuggest?\n\nMagnet A\n\nMagnet A =\n\nMagnet B | Magnet B |\n(a) (b)\n\nFig. 4.8: Interaction between two bar magnets\n\nYou will see that unlike poles of two magnets, that is, the\nNorth pole of one magnet and the South pole of another\nmagnet, attract each other. The like poles, that is, either\nthe North poles or the South poles of both magnets, repel\n\nca | each other.\n\nCuriosity | Textbook of Science | Grade 6\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "\n\nRepeat the activity by using an iron bar in place of one \nof the magnets. What do you observe this time? \n\t\nYou will find that both the ends of the iron bar will be \nattracted by both the North and South poles of the magnet. \n\t\nFrom this activity, we find that a magnet can be identified \nby its property of repulsion.\nActivity 4.6: Let us experiment\n\n\nTake a magnetic compass and a bar \nmagnet. \n\n\nPlace the magnetic compass over \na horizontal surface and wait \nfor its needle to come to rest. \n\n\nNow slowly bring North pole of \nthe bar magnet close to the North \npole of the compass needle as shown in \nFig. 4.9a. Observe the compass needle carefully. \nWhat do you observe? Does the needle deflect? If yes, in \nwhich direction?\n\n\nNow repeat the above step with the South pole of the \nbar magnet. Do you observe any difference this time?\n  (b)\n  (a)\nFig. 4.9: A compass needle and a magnet\nThe compass needle \nis also a magnet. Will \nit show the same \nbehaviour if a magnet is \nbrought closer to it?\nExploring Magnets\n69\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1050,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0009_img01",
+          "file": "images/NCERT_fecu104_page0009_img01.png",
+          "bbox": [
+            105.15817260742188,
+            440.7314147949219,
+            403.8128356933594,
+            560.0092163085938
+          ],
+          "width_px": 623,
+          "height_px": 249,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0009_img02",
+          "file": "images/NCERT_fecu104_page0009_img02.png",
+          "bbox": [
+            105.15817260742188,
+            566.6737060546875,
+            403.8128356933594,
+            685.9514770507812
+          ],
+          "width_px": 623,
+          "height_px": 249,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0009_img03",
+          "file": "images/NCERT_fecu104_page0009_img03.png",
+          "bbox": [
+            445.2066955566406,
+            253.94105529785156,
+            546.2034912109375,
+            404.29144287109375
+          ],
+          "width_px": 211,
+          "height_px": 314,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0009_img04",
+          "file": "images/NCERT_fecu104_page0009_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0009_img05",
+          "file": "images/NCERT_fecu104_page0009_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0009_vecfig01",
+          "file": "images/NCERT_fecu104_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "@ Repeat the activity by using an iron bar in place of one\nof the magnets. What do you observe this time?\n\nYou will find that both the ends of the iron bar will be\nattracted by both the North and South poles of the magnet.\n\nFrom this activity, we find that a magnet can be identified\nby its property of repulsion.\n\nActivity 4.6: Let us experiment\n\n¢ Take a magnetic compass and a bar\nmagnet.\n\n@  Placethe magnetic compass over\na horizontal surface and wait\nfor its needle to come to rest.\n\n¢ Now slowly bring North pole of\nthe bar magnet close to the North\npole of the compass needle as shown in\nFig. 4.9a. Observe the compass needle carefully.\nWhat do you observe? Does the needle deflect? If yes, in\nwhich direction?\n\n@ Now repeat the above step with the South pole of the\nbar magnet. Do you observe any difference this time?\n\nThe compass needle\nis also a magnet. Will\nit show the same\n\nbrought closer to it?\n\n(a)\n\n(b)\n\nFig. 4.9: A compass needle and a magnet\n\nReprint 2026-27\n\nbehaviour if a magnet is\n\n£\nIS\n&\nS\nzg\n£\na\na\nS\nAy"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "When the North pole of a magnet is brought closer to the \nNorth pole of the compass needle, it moves away as shown \nin Fig. 4.9a. When the South pole of the magnet is brought \ncloser to the North pole of the compass needle, it moves \ncloser (Fig. 4.9b).\nActivity 4.7: Let us investigate\n\n\nIs there any effect on the deflection of compass needle \ndue to the piece of wood? Record your observation in \nTable 4.2.\n\n\nRepeat the process by replacing the piece of wood \nwith a cardboard sheet, thin plastic sheet, and a thin \nglass sheet. \nSuppose we place a piece \nof wood between the \ncompass needle and the \nmagnet. Will this affect the \ndeflection of the compass \nneedle?\nFig. 4.10: Compass needle and a magnet  \nwith a piece of wood in between\nWood\n\n\nRepeat the first \nor second part of \nActivity 4.6. \n\n\nWithout \ndisturbing the \nbar magnet \nand magnetic \ncompass, place \na piece of wood \nbetween them, \nperpendicular \nto the table as \nshown in Fig. \n4.10. Observe the \ncompass needle \ncarefully.\nCuriosity | Textbook of Science | Grade 6\n70\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1065,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0010_img01",
+          "file": "images/NCERT_fecu104_page0010_img01.png",
+          "bbox": [
+            380.9562072753906,
+            170.8594207763672,
+            481.06500244140625,
+            298.5010070800781
+          ],
+          "width_px": 209,
+          "height_px": 266,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0010_img02",
+          "file": "images/NCERT_fecu104_page0010_img02.png",
+          "bbox": [
+            79.6460952758789,
+            343.97149658203125,
+            369.81951904296875,
+            543.8026733398438
+          ],
+          "width_px": 606,
+          "height_px": 417,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0010_img03",
+          "file": "images/NCERT_fecu104_page0010_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0010_img04",
+          "file": "images/NCERT_fecu104_page0010_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0010_vecfig01",
+          "file": "images/NCERT_fecu104_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nWhen the North pole of a magnet is brought closer to the\nNorth pole of the compass needle, it moves away as shown\nin Fig. 4.9a. When the South pole of the magnet is brought\ncloser to the North pole of the compass needle, it moves\ncloser (Fig. 4.9)).\n\nSuppose we place a piece\nof wood between the\ncompass needle and the\nmagnet. Will this affect the\ndeflection of the compass\nneedle?\n\nActivity 4.7: Let us investigate\n\n@ Repeat the first\nor second part of\nWood Activity 4.6.\n\n@ Without\ndisturbing the\nbar magnet\nand magnetic\ncompass, place\na piece of wood\nbetween them,\nperpendicular\nto the table as\nshown in Fig.\n\nFig. 4.10: Compass needle and a magnet 4.10. Observe the\nwith a piece of wood in between compass needle\ncarefully.\n\n¢ Is there any effect on the deflection of compass needle\ndue to the piece of wood? Record your observation in\nTable 4.2.\n\n@ Repeat the process by replacing the piece of wood\nwith a cardboard sheet, thin plastic sheet, and a thin\nglass sheet.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "You would observe that there is no appreciable change in \nthe deflection of the needle when a sheet of any of the above \nmaterial is placed between the magnet and the compass \nneedle. Therefore, we can conclude that the magnetic effect \ncan act through non-magnetic materials.\n4.5 Fun with Magnets\nAfter learning about magnets, Reshma was excited and \ndecided to set up some fun activities using magnets at her \nschool fair. You may try making these yourself and may also \nthink of some more fun ideas.\nCan we make a garland? (Fig. 4.11)\nTable 4.2: Observing the effect of magnet through  \nnon-magnetic materials\nFig. 4.11: Magnetic garland\nMagnets can move \nsome objects without \ntouching them! Is \nthat not amazing?\nS. no.\nMaterial placed \nbetween the magnet  \nand the compass needle\nObservations\n1.\nWood\n2.\nCardboard\n3.\nPlastic\n4.\nGlass \nExploring Magnets\n71\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 878,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0011_img01",
+          "file": "images/NCERT_fecu104_page0011_img01.png",
+          "bbox": [
+            86.87847900390625,
+            494.5826416015625,
+            224.39993286132812,
+            651.468994140625
+          ],
+          "width_px": 287,
+          "height_px": 327,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0011_img02",
+          "file": "images/NCERT_fecu104_page0011_img02.png",
+          "bbox": [
+            259.0152587890625,
+            559.780029296875,
+            318.4584655761719,
+            679.59521484375
+          ],
+          "width_px": 124,
+          "height_px": 250,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0011_img03",
+          "file": "images/NCERT_fecu104_page0011_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0011_img04",
+          "file": "images/NCERT_fecu104_page0011_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0011_table01",
+          "bbox": [
+            72.51206800672743,
+            161.22488403320312,
+            439.46207004123266,
+            269.6328430175781
+          ],
+          "rows": [
+            [
+              "1.",
+              "Wood",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "2.",
+              "Cardboard",
+              ""
+            ],
+            [
+              "3.",
+              "Plastic",
+              ""
+            ],
+            [
+              "4.",
+              "Glass",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0011_vecfig01",
+          "file": "images/NCERT_fecu104_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Table 4.2: Observing the effect of magnet through\nnon-magnetic materials\n\nMaterial placed\nS. no. between the magnet Observations\nand the compass needle\n\n1. Wood\n\n2. Cardboard\n3. Plastic\n\n4, Glass\n\nYou would observe that there is no appreciable change in\nthe deflection of the needle when a sheet of any of the above\nmaterial is placed between the magnet and the compass\nneedle. Therefore, we can conclude that the magnetic effect\ncan act through non-magnetic materials.\n\n4.5 Fun with Magnets\n\nAfter learning about magnets, Reshma was excited and\ndecided to set up some fun activities using magnets at her\nschool fair. You may try making these yourself and may also\nthink of some more fun ideas.\n\nCan we make a garland? (Fig. 4.11)\n\nMagnets can move\nsome objects without\ntouching them! Is\nthat not amazing?\n\nFig. 4.11: Magnetic garland\n\nReprint 2026-27\n\nExploring Magnets"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Can we take the steel balls out of the maze by moving a \nmagnet below the cardboard tray? (Fig. 4.12)\nCan we pick out a steel \npaper clip fallen in water using \na magnet, without getting our \nfingers or the magnet wet? \n(Fig. 4.13)\nFig. 4.14: Two matchbox-magnet cars with \nlike poles of the magnets facing each other\nIn some magnets, the North and South poles are \nmarked as N and S. In some other magnets, the \nNorth pole is indicated by a white dot. Sometimes, \nthe North pole of a magnet is painted red and \nSouth pole is painted blue.\nWill the two cars speed towards each other or run away \nfrom each other when brought closer? (Fig. 4.14)\nFig. 4.13: Steel paperclip in water\nFig. 4.12: Steel balls in a maze\nMore to \nknow!\nCuriosity | Textbook of Science | Grade 6\n72\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 790,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0012_img01",
+          "file": "images/NCERT_fecu104_page0012_img01.png",
+          "bbox": [
+            154.2000274658203,
+            444.5302429199219,
+            331.73638916015625,
+            541.5052490234375
+          ],
+          "width_px": 370,
+          "height_px": 202,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0012_img02",
+          "file": "images/NCERT_fecu104_page0012_img02.png",
+          "bbox": [
+            342.3955383300781,
+            444.5302429199219,
+            519.931884765625,
+            541.5052490234375
+          ],
+          "width_px": 370,
+          "height_px": 202,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0012_img03",
+          "file": "images/NCERT_fecu104_page0012_img03.png",
+          "bbox": [
+            92.468017578125,
+            572.4000244140625,
+            521.4000854492188,
+            697.5092163085938
+          ],
+          "width_px": 894,
+          "height_px": 261,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0012_img04",
+          "file": "images/NCERT_fecu104_page0012_img04.png",
+          "bbox": [
+            339.96990966796875,
+            212.65647888183594,
+            522.4138793945312,
+            369.72674560546875
+          ],
+          "width_px": 381,
+          "height_px": 328,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0012_img05",
+          "file": "images/NCERT_fecu104_page0012_img05.png",
+          "bbox": [
+            154.44232177734375,
+            109.44839477539062,
+            324.92034912109375,
+            369.9975891113281
+          ],
+          "width_px": 356,
+          "height_px": 543,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0012_img06",
+          "file": "images/NCERT_fecu104_page0012_img06.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0012_img07",
+          "file": "images/NCERT_fecu104_page0012_img07.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0012_vecfig01",
+          "file": "images/NCERT_fecu104_page0012_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n8\ni\n\nCan we take the steel balls out of the maze by moving a\nmagnet below the cardboard tray? (Fig. 4.12)\n\nCan we pick out a steel\npaper clip fallen in water using\na magnet, without getting our\nfingers or the magnet wet?\n(Fig. 4.13)\n\n= ay\nFig. 4.12: Steel balls in a maze Fig. 4.13: Steel paperclip in water\n\nWill the two cars speed towards each other or run away\nfrom each other when brought closer? (Fig. 4.14)\n\nFig. 4.14: Two matchbox-magnet cars with\nlike poles of the magnets facing each other\n\nIn some magnets, the North and South poles are\nmarked as N and S. In some other magnets, the\nNorth pole is indicated by a white dot. Sometimes,\nthe North pole of a magnet is painted red and\n\nMore to _ South pole is painted blue.\nknow!\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Keywords\nAttraction\nConclude\nNon-magnetic materials\nExperiment\nMagnetic compass\nBar magnet\nConstruct\nMagnetic materials\nInvestigate\nObserve\nNorth pole of a magnet\nExplore\nSouth pole of a magnet\nU-shaped magnet\nRepulsion\nPredict\nRing magnet\nRecord\n“Do not heat me or drop me \nor hammer me.\nDo not keep me near mobile \nphones or remote controls.”\nCaution  \nHave fun, \nbut treat \nmagnets \nwith care.\nHow to keep the magnets safe? \nMagnet says,\n“Store me properly. Keep \nme in pairs with unlike \npoles on the same side. \nKeep a piece of wood \nin between. Place two \npieces of soft iron across \nthe ends.”\nN\nS\nS\nWooden \npiece\nIron \npiece\nMore to \nknow!\nN\nExploring Magnets\n73\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 687,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0013_img01",
+          "file": "images/NCERT_fecu104_page0013_img01.png",
+          "bbox": [
+            152.94003295898438,
+            310.6938171386719,
+            357.0600280761719,
+            358.97882080078125
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0013_img02",
+          "file": "images/NCERT_fecu104_page0013_img02.png",
+          "bbox": [
+            71.39999389648438,
+            16.2501220703125,
+            500.3320617675781,
+            323.5353698730469
+          ],
+          "width_px": 894,
+          "height_px": 641,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0013_img03",
+          "file": "images/NCERT_fecu104_page0013_img03.png",
+          "bbox": [
+            452.2070007324219,
+            186.7135772705078,
+            485.12091064453125,
+            217.97027587890625
+          ],
+          "width_px": 69,
+          "height_px": 66,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0013_img04",
+          "file": "images/NCERT_fecu104_page0013_img04.png",
+          "bbox": [
+            386.85638427734375,
+            188.5521240234375,
+            417.3255615234375,
+            290.54736328125
+          ],
+          "width_px": 64,
+          "height_px": 213,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "OO)"
+        },
+        {
+          "image_id": "NCERT_fecu104_page0013_img05",
+          "file": "images/NCERT_fecu104_page0013_img05.png",
+          "bbox": [
+            115.02001190185547,
+            77.40058898925781,
+            154.4954833984375,
+            189.30596923828125
+          ],
+          "width_px": 83,
+          "height_px": 234,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "(Qo)"
+        },
+        {
+          "image_id": "NCERT_fecu104_page0013_img06",
+          "file": "images/NCERT_fecu104_page0013_img06.png",
+          "bbox": [
+            298.4549865722656,
+            53.10108947753906,
+            438.18304443359375,
+            182.5634765625
+          ],
+          "width_px": 467,
+          "height_px": 363,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0013_img07",
+          "file": "images/NCERT_fecu104_page0013_img07.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0013_img08",
+          "file": "images/NCERT_fecu104_page0013_img08.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 14,
+      "text": "Let us enhance our learning\n1.\t\nFill in the blanks\n  (i)\t \tUnlike poles of two magnets \n each other, \nwhereas like poles \n each other.\n (ii)\t \tThe materials that are attracted towards a magnet are \ncalled \n.\n(iii)\t \tThe needle of a magnetic compass rests along the \n direction. \n(iv)\t \tA magnet always has \n poles.\n2.\t\nState whether the following statements are True (T) or \nFalse (F).\n  (i)\t A magnet can be broken into pieces to  \nobtain a single pole. \t\n[   ]\n (ii)\t Similar poles of a magnet repel each other.\t\n[   ]         \n(iii)\t Iron filings mostly stick in the middle of a bar  \nmagnet when it is brought near them.\t\n[   ]        \n(iv)\t A freely suspended bar magnet always  \naligns with the north-south direction.\t\n[   ]\n\n\n­A magnet has two poles—the North pole and the South pole.\n\n\nThe poles of a magnet always exist in pairs. A single North \npole or a single South pole cannot exist.\n\n\nMagnetic materials are the materials that are attracted \ntowards a magnet. \n\n\nNon-magnetic materials are the materials that are not \nattracted towards a magnet. \n\n\nA freely suspended magnet rests along the north-south \ndirection. \n\n\nThe needle of a magnetic compass indicates the north-south \ndirection.\n\n\nWhen two magnets are brought close to each other, like poles \n(North-North, South-South) repel each other while unlike \npoles (North-South) attract each other.\nSummary\nCuriosity | Textbook of Science | Grade 6\n74\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1448,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0014_img01",
+          "file": "images/NCERT_fecu104_page0014_img01.png",
+          "bbox": [
+            154.20004272460938,
+            348.78009033203125,
+            521.4000244140625,
+            442.8680419921875
+          ],
+          "width_px": 765,
+          "height_px": 196,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0014_img02",
+          "file": "images/NCERT_fecu104_page0014_img02.png",
+          "bbox": [
+            235.73995971679688,
+            55.20003128051758,
+            439.8599548339844,
+            103.48504638671875
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0014_img03",
+          "file": "images/NCERT_fecu104_page0014_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0014_img04",
+          "file": "images/NCERT_fecu104_page0014_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0014_vecfig01",
+          "file": "images/NCERT_fecu104_page0014_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nP)\nKey rails\n\nA magnet has two poles—the North pole and the South pole.\n\nThe poles of a magnet always exist in pairs. A single North\npole or a single South pole cannot exist.\n\nMagnetic materials are the materials that are attracted\ntowards a magnet.\n\nNon-magnetic materials are the materials that are not\nattracted towards a magnet.\n\nA freely suspended magnet rests along the north-south\ndirection.\n\nThe needle of a magnetic compass indicates the north-south\ndirection.\n\nWhen two magnets are brought close to each other, like poles\n(North-North, South-South) repel each other while unlike\npoles (North-South) attract each other.\n\nvale\n\nLet us enhance our learning\n\nFill in the blanks\n(i) Unlike poles of two magnets -_--------------- each other,\nwhereas like poles -_--------------- each other.\n\n(ii) The materials that are attracted towards a magnet are\ncalled ___--------------.\n\n(iii) The needle of a magnetic compass rests along the\n-@€..\\_........- direction.\n\n(iv) A magnet always has ____-.----------- poles.\nState whether the following statements are True (T) or\nFalse (F).\n\n(i) A magnet can be broken into pieces to\nobtain a single pole.\n(ii) Similar poles of a magnet repel each other.\n(iii) Iron filings mostly stick in the middle of a bar\n\n[ ]\n[ ]\n\nmagnet when it is brought near them. [ ]\n(iv) A freely suspended bar magnet always\naligns with the north-south direction. [ ]\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Column I\nColumn II\nN – N\nN – \nAttraction\nS – N\n – S\nRepulsion\n4.\t\nAtharv performed an experiment in \nwhich he took a bar magnet and \nrolled it over a heap of steel U-clips \n(Fig. 4.15). \n\t\nAccording to you, which of the \noptions given in Table 4.3 is likely \nto be his observation?\nPosition A\nPosition B\nPosition C\n(i)\n10\n2\n10\n(ii)\n10\n10\n2\n(iii)\n2\n10\n10\n(iv)\n10\n10\n10\nTable 4.3: Number of pins attracted by the magnet  \nat its various positions\n3.\t\nColumn I shows different positions in which one pole of a \nmagnet is placed near that of the other. Column II indicates \nthe resulting interaction between them for different \nsituations. Fill in the blanks.\n5.\t\nReshma bought three identical metal bars from the market. \nOut of these bars, two were magnets and one was just a \npiece of iron. How will she identify which two amongst the \nthree could be magnets (without using any other material)?\n6.\t\nYou are given a magnet which does not have the poles \nmarked. How can you find its poles with the help of another \nmagnet which has its poles marked? \nFig. 4.15: Bar magnet and heap  \nof steel U-clips\nA\nC\nB\nExploring Magnets\n75\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1142,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0015_img01",
+          "file": "images/NCERT_fecu104_page0015_img01.png",
+          "bbox": [
+            322.1138916015625,
+            279.0780944824219,
+            525.1539306640625,
+            336.0015869140625
+          ],
+          "width_px": 424,
+          "height_px": 119,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0015_img02",
+          "file": "images/NCERT_fecu104_page0015_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0015_img03",
+          "file": "images/NCERT_fecu104_page0015_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0015_table01",
+          "bbox": [
+            73.50831017127403,
+            157.84005737304688,
+            437.4894493950738,
+            258.64007568359375
+          ],
+          "rows": [
+            [
+              "N – N",
+              ""
+            ],
+            [
+              "",
+              ""
+            ],
+            [
+              "N –",
+              "Attraction"
+            ],
+            [
+              "S – N",
+              ""
+            ],
+            [
+              "– S",
+              "Repulsion"
+            ]
+          ]
+        },
+        {
+          "table_id": "page0015_table02",
+          "bbox": [
+            73.50831017127403,
+            463.0888453892299,
+            437.4894493950738,
+            586.4000244140625
+          ],
+          "rows": [
+            [
+              "(i)",
+              "10",
+              "2",
+              "10"
+            ],
+            [
+              "(ii)",
+              "10",
+              "10",
+              "2"
+            ],
+            [
+              "(iii)",
+              "2",
+              "10",
+              "10"
+            ],
+            [
+              "(iv)",
+              "10",
+              "10",
+              "10"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0015_vecfig01",
+          "file": "images/NCERT_fecu104_page0015_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Column I shows different positions in which one pole of a\nmagnet is placed near that of the other. Column II indicates\nthe resulting interaction between them for different\nsituations. Fill in the blanks.\n\nColumn I Column II\nN-N eee eee\nN - ---------------- Attraction\nS-N eee eee eee eee\na =o - nn n----- eee -§S Repulsion\n\nAtharv performed an experiment in\nwhich he took a bar magnet and\nrolled it over a heap of steel U-clips\n(Fig. 4.15).\n\nAccording to you, which of the\noptions given in Table 4.3 is likely FIG 4 Aa Owe hen and heap\nto be his observation? of steel U-clips\n\nTable 4.3: Number of pins attracted by the magnet\nat its various positions\n\nPosition A Position B Position C\n(i) 10 2 10\n(ii) 10 10 2\n(iii) 2 10 10\n(iv) 10 10 10\n\nReshma bought three identical metal bars from the market.\nOut of these bars, two were magnets and one was just a\npiece of iron. How will she identify which two amongst the\nthree could be magnets (without using any other material)?\n\nExploring Magnets\n\nYou are given a magnet which does not have the poles\nmarked. How can you find its poles with the help of another\nmagnet which has its poles marked?\n\n©\na al\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Learning further \n\n\nUsing 3–4 different magnets, try to lift steel pins or U-clips \nand check which magnet picks up the largest number of \npins. Discuss with your friends why different magnets might \nhave picked up different numbers of pins.\n\n\nMake a toy ‘Hopping Frog’ as a combined class activity \nwith the help of your teacher. For constructing the toy, fix \nring magnets in an alternate North-South fashion along the \nFig. 4.17: Three bar magnets\nFig. 4.16: Two ring magnets\nX\nY\n7.\t\nA bar magnet has no markings to indicate its poles. How would \nyou find out near which end its North pole is located without \nusing another magnet?\n8.\t\nIf the earth is itself a magnet, can you guess the poles of earth’s \nmagnet by looking at the direction of the magnetic compass?\n9.\t\nWhile a mechanic was repairing a \ngadget using a screw driver, the steel \nscrews kept falling down. Suggest a way \nto solve the problem of the mechanic on \nthe basis of what you have learnt in this \nchapter.\n10.\t Two ring magnets X and Y are arranged as \nshown in Fig. 4.16. It is observed that the \nmagnet X does not move down further. \nWhat could be the possible reason? \nSuggest a way to bring the magnet X in \ncontact with magnet Y, without pushing \neither of the magnets.\n11.\t Three magnets are arranged on \na table in the form of the shape \nshown in Fig. 4.17. What is the \npolarity, N or S, at the ends 1, 2, 3, \n4 and 6 of the magnets? Polarity \nof one end (5) is given for you.\n1\n2\n3\nN\n4\n5\n6\nCuriosity | Textbook of Science | Grade 6\n76\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1538,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0016_img01",
+          "file": "images/NCERT_fecu104_page0016_img01.png",
+          "bbox": [
+            177.80465698242188,
+            500.814208984375,
+            498.8022766113281,
+            565.2037963867188
+          ],
+          "width_px": 669,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0016_img02",
+          "file": "images/NCERT_fecu104_page0016_img02.png",
+          "bbox": [
+            433.6916198730469,
+            157.702392578125,
+            505.5251770019531,
+            293.67779541015625
+          ],
+          "width_px": 150,
+          "height_px": 284,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0016_img03",
+          "file": "images/NCERT_fecu104_page0016_img03.png",
+          "bbox": [
+            344.25421142578125,
+            337.90277099609375,
+            527.314208984375,
+            468.262451171875
+          ],
+          "width_px": 382,
+          "height_px": 272,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0016_img04",
+          "file": "images/NCERT_fecu104_page0016_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0016_img05",
+          "file": "images/NCERT_fecu104_page0016_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0016_vecfig01",
+          "file": "images/NCERT_fecu104_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n10.\n\n11.\n\nA bar magnet has no markings to indicate its poles. How would\nyou find out near which end its North pole is located without\nusing another magnet?\n\nIf the earth is itself a magnet, can you guess the poles of earth’s\nmagnet by looking at the direction of the magnetic compass?\n\nWhile a mechanic was repairing a\ngadget using a screw driver, the steel\nscrews kept falling down. Suggest a way\nto solve the problem of the mechanic on\nthe basis of what you have learnt in this\nchapter.\n\nTworing magnets Xand Y are arrangedas\nshown in Fig. 4.16. It is observed that the\nmagnet X does not move down further.\nWhat could be the possible reason?\nSuggest a way to bring the magnet Xin = Fig. 4.16: Two ring magnets\ncontact with magnet Y, without pushing\neither of the magnets.\n\n1\n\nThree magnets are arranged on\na table in the form of the shape\nshown in Fig. 4.17. What is the\npolarity, N or S, at the ends 1, 2, 3,\n4 and 6 of the magnets? Polarity\nof one end (5) is given for you.\n\nUsing 3-4 different magnets, try to lift steel pins or U-clips\nand check which magnet picks up the largest number of\npins. Discuss with your friends why different magnets might\nhave picked up different numbers of pins.\n\nMake a toy ‘Hopping Frog’ as a combined class activity\nwith the help of your teacher. For constructing the toy, fix\nring magnets in an alternate North-South fashion along the\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "When you slide the plastic strip (with frog) over the \nscale (Fig. 4.18b), you can observe the frog hopping. \n(a)\n(b)\nFig. 4.18: My hopping frog\nlength of a scale using glue (Fig. 4.18a). Paint a frog on \npaper, cut along the outline and glue a ring magnet \nat its base. Take a transparent, flexible plastic strip \n(Fig. 4.18a) of a smaller size and glue it to the ring magnet \nwhich is attached to the frog. \n\n\nFind out about the Maglev Train and try to make its \nmodel.\n\n\nTry to find out why there is a need to make magnets of \ndifferent shapes.\n\n\nCollect information related to the use of magnets in the \nfield of medicine.\nExploring Magnets\n77\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 670,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0017_img01",
+          "file": "images/NCERT_fecu104_page0017_img01.png",
+          "bbox": [
+            94.50127410888672,
+            188.82550048828125,
+            235.24752807617188,
+            449.1802978515625
+          ],
+          "width_px": 294,
+          "height_px": 543,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0017_img02",
+          "file": "images/NCERT_fecu104_page0017_img02.png",
+          "bbox": [
+            311.91485595703125,
+            166.52618408203125,
+            423.4940185546875,
+            448.13897705078125
+          ],
+          "width_px": 1638,
+          "height_px": 649,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0017_img03",
+          "file": "images/NCERT_fecu104_page0017_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0017_img04",
+          "file": "images/NCERT_fecu104_page0017_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0017_vecfig01",
+          "file": "images/NCERT_fecu104_page0017_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "length of a scale using glue (Fig. 4.18a). Paint a frog on\npaper, cut along the outline and glue a ring magnet\nat its base. Take a transparent, flexible plastic strip\n(Fig. 4.18a) ofa smaller size and glue it to the ring magnet\nwhich is attached to the frog.\n\n(a)\nFig. 4.18: My hopping frog\n\nWhen you slide the plastic strip (with frog) over the\nscale (Fig. 4.18b), you can observe the frog hopping.\n\nFind out about the Maglev Train and try to make its\nmodel.\n\nTry to find out why there is a need to make magnets of\ndifferent shapes.\n\nCollect information related to the use of magnets in the\nfield of medicine.\n\nReprint 2026-27\n\nExploring Magnets"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Magnet says “Humans have made me in \ndifferent shapes and sizes as per their \nrequirements. However, my poles always \noccur in pairs, no matter my shape”.\nMore to \nknow!\nBar  \nMagnet\nDisc \n Magnet\nCylindrical \nMagnet\nRing \n Magnet\nSpherical \nMagnet\nN\nS\nN\nS\nN\nN\nN\nS\nS\nS\nS\nN\nS\nN\nS\nN\nS\nN\nS\nN\nCuriosity | Textbook of Science | Grade 6\n78\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 350,
+      "images": [
+        {
+          "image_id": "NCERT_fecu104_page0018_img01",
+          "file": "images/NCERT_fecu104_page0018_img01.png",
+          "bbox": [
+            -19.61248779296875,
+            31.600067138671875,
+            612.4324340820312,
+            532.2000732421875
+          ],
+          "width_px": 1317,
+          "height_px": 1043,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img02",
+          "file": "images/NCERT_fecu104_page0018_img02.png",
+          "bbox": [
+            436.28558349609375,
+            107.43358612060547,
+            501.4288024902344,
+            199.4542236328125
+          ],
+          "width_px": 136,
+          "height_px": 192,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img03",
+          "file": "images/NCERT_fecu104_page0018_img03.png",
+          "bbox": [
+            360.4023132324219,
+            381.960693359375,
+            422.559814453125,
+            427.2392272949219
+          ],
+          "width_px": 130,
+          "height_px": 95,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img04",
+          "file": "images/NCERT_fecu104_page0018_img04.png",
+          "bbox": [
+            454.3999938964844,
+            314.7669982910156,
+            512.6896362304688,
+            376.79998779296875
+          ],
+          "width_px": 122,
+          "height_px": 130,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img05",
+          "file": "images/NCERT_fecu104_page0018_img05.png",
+          "bbox": [
+            71.19791412353516,
+            294.1600341796875,
+            162.49972534179688,
+            323.0887451171875
+          ],
+          "width_px": 191,
+          "height_px": 61,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img06",
+          "file": "images/NCERT_fecu104_page0018_img06.png",
+          "bbox": [
+            181.1378936767578,
+            290.44769287109375,
+            244.76939392089844,
+            319.59552001953125
+          ],
+          "width_px": 133,
+          "height_px": 61,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img07",
+          "file": "images/NCERT_fecu104_page0018_img07.png",
+          "bbox": [
+            274.8480529785156,
+            278.7200927734375,
+            320.8104248046875,
+            345.3432922363281
+          ],
+          "width_px": 96,
+          "height_px": 139,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img08",
+          "file": "images/NCERT_fecu104_page0018_img08.png",
+          "bbox": [
+            357.3511962890625,
+            265.452392578125,
+            425.94012451171875,
+            310.45611572265625
+          ],
+          "width_px": 143,
+          "height_px": 94,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img09",
+          "file": "images/NCERT_fecu104_page0018_img09.png",
+          "bbox": [
+            178.75755310058594,
+            361.423583984375,
+            243.1573486328125,
+            387.570556640625
+          ],
+          "width_px": 135,
+          "height_px": 55,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img10",
+          "file": "images/NCERT_fecu104_page0018_img10.png",
+          "bbox": [
+            70.31999969482422,
+            360.1199951171875,
+            156.4578399658203,
+            386.4745788574219
+          ],
+          "width_px": 180,
+          "height_px": 55,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img11",
+          "file": "images/NCERT_fecu104_page0018_img11.png",
+          "bbox": [
+            277.531494140625,
+            359.3831787109375,
+            313.9123840332031,
+            429.24005126953125
+          ],
+          "width_px": 76,
+          "height_px": 146,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img12",
+          "file": "images/NCERT_fecu104_page0018_img12.png",
+          "bbox": [
+            360.240478515625,
+            323.3533020019531,
+            427.41033935546875,
+            372.1056213378906
+          ],
+          "width_px": 140,
+          "height_px": 102,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img13",
+          "file": "images/NCERT_fecu104_page0018_img13.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu104_page0018_img14",
+          "file": "images/NCERT_fecu104_page0018_img14.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0018_table01",
+          "bbox": [
+            62.170633951822914,
+            257.88006591796875,
+            531.615966796875,
+            440.86000061035156
+          ],
+          "rows": [
+            [
+              "N\nS\nN S",
+              "N\nS\nN S",
+              "N\nS\nN S",
+              "S\nN\nN\nS\nN S",
+              "N S",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu104_page0018_vecfig01",
+          "file": "images/NCERT_fecu104_page0018_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "N S\n\nCuriosity | Textbook of Science | Grade 6\n\noe\n\nx0 Magnet says “Humans have made me in\nwo at different shapes and sizes as per their\nno requirements. However, my poles always\noccur in pairs, no matter my shape”.\nBar Disc Cylindrical Ring Spherical\nMagnet Magnet Magnet Magnet Magnet\n\nS\nN\n: — &\nS S N\nS\n‘©\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}

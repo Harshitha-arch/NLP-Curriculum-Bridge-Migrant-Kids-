@@ -1,0 +1,2146 @@
+{
+  "source_file": "data\\NCERT\\fecu107.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu107",
+  "num_pages": 20,
+  "extraction_method": "native",
+  "native_page_count": 20,
+  "ocr_page_count": 0,
+  "total_images": 87,
+  "images_with_text": 2,
+  "total_tables": 8,
+  "total_vector_figures": 19,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Temperature and  \nits Measurement\n7\nChapter\nLambok and his elder sister \nPhiban live in Shillong. One day \nthey came home from school. \nTheir parents were away at \nwork and Lambok complained \nthat he was feeling feverish. \nPhiban touched his forehead \nand felt that he might be having \na fever. To confirm this, she \ntook out the thermometer kept \nin the almirah. She washed \nits tip with soap and water, \nand \nmeasured \nLambok’s \ntemperature. To her relief, she \nfound that his temperature \nwas normal. She washed the \nthermometer tip again, dried \nWrong measurements are worse than \nno measurements at all. \n— Anna Mani\n7.1\t Hot or Cold?\nWe know from experience that some bodies are hotter than \nothers. For example, during summers, the tap water may be \nhotter than the cold water from a matka (earthen pot) or a \nit and put it back. She then asked \nLambok to change his school \nuniform, eat his lunch, and rest for \nsome time. \nCan it always be \ncorrectly judged, that \na person has fever, \nonly by touching the \nperson?\n?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1043,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0001_img01",
+          "file": "images/NCERT_fecu107_page0001_img01.png",
+          "bbox": [
+            -17.8799991607666,
+            -13.51995849609375,
+            612.1199951171875,
+            196.48004150390625
+          ],
+          "width_px": 1315,
+          "height_px": 439,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0001_img02",
+          "file": "images/NCERT_fecu107_page0001_img02.png",
+          "bbox": [
+            69.79964447021484,
+            264.2065734863281,
+            234.49383544921875,
+            545.4093017578125
+          ],
+          "width_px": 344,
+          "height_px": 587,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0001_img03",
+          "file": "images/NCERT_fecu107_page0001_img03.png",
+          "bbox": [
+            467.89996337890625,
+            192.99496459960938,
+            552.8599853515625,
+            277.9549560546875
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0001_img04",
+          "file": "images/NCERT_fecu107_page0001_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0001_img05",
+          "file": "images/NCERT_fecu107_page0001_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0001_vecfig01",
+          "file": "images/NCERT_fecu107_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Temperature and\n\nits Measurement\n\nWrong measurements are worse than\nno measurements at all.\n\n— Anna Mani\n\nLambok and his elder sister\nPhiban live in Shillong. One day\nthey came home from school.\nTheir parents were away at\nwork and Lambok complained\nthat he was feeling feverish.\nPhiban touched his forehead\nand felt that he might be having\na fever. To confirm this, she\ntook out the thermometer kept\nin the almirah. She washed\nits tip with soap and water,\nand measured Lambok’s\ntemperature. To her relief, she\nfound that his temperature\nwas normal. She washed the\nthermometer tip again, dried\n\nit and put it back. She then asked Can it always be\nLambok to change his school correctly judged, that\nuniform, eat his lunch, and rest for a person has fever,\n\nsome time.\n\n7.1 Hot or Cold?\n\nonly by touching the\nperson?\n\nWe know from experience that some bodies are hotter than\nothers. For example, during summers, the tap water may be\nhotter than the cold water from a matka (earthen pot) or a\n\nReprint 2026-27\n\n067 7CHO7"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": " Curiosity | Textbook of Science| Grade 6\n124\nrefrigerator. We can realise this by merely touching the two \nsamples of water. But can we always rely upon our sense of \ntouch? Let us find out.\nActivity 7.1: Let us investigate\n\n\nTake three large containers and label them A, B and C, \nas shown in Fig. 7.1.\n\n\nPour warm water in container A, tap water in B and ice-\ncold water in C. \n\n\nWe will conduct this activity in two parts — prediction \nand observation.\n\n\nFirstly, predict what will you feel if you \n—\n—\ndip your right hand in A and left hand in C and \nkeep them there for 1–2 minutes.\n—\n—\ntake out your hands from containers A and C, and \nplace both hands simultaneously in B.\n\n\nWrite down your predictions.\n—\n—\nWhat will my right hand feel on dipping it in B? \n\t\n  \n—\n—\nWhat will my left hand feel on dipping it in B? \n\t\n  \n\n\nNow, conduct the activity and write your observations.\n               \nFig. 7.1: Feeling hotness or coldness of water by dipping hands\nA\nB\nC\nA\nB\nC\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1006,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0002_img01",
+          "file": "images/NCERT_fecu107_page0002_img01.png",
+          "bbox": [
+            80.8760757446289,
+            363.439697265625,
+            304.2887268066406,
+            529.2686767578125
+          ],
+          "width_px": 466,
+          "height_px": 346,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0002_img02",
+          "file": "images/NCERT_fecu107_page0002_img02.png",
+          "bbox": [
+            311.0510559082031,
+            363.4857177734375,
+            534.4637451171875,
+            529.314697265625
+          ],
+          "width_px": 466,
+          "height_px": 346,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0002_img03",
+          "file": "images/NCERT_fecu107_page0002_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0002_img04",
+          "file": "images/NCERT_fecu107_page0002_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0002_vecfig01",
+          "file": "images/NCERT_fecu107_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "refrigerator. We can realise this by merely touching the two\nsamples of water. But can we always rely upon our sense of\ntouch? Let us find out.\n\nActivity 7.1: Let us investigate\n\n4\n\n4\n\nTake three large containers and label them A, B and C,\nas shown in Fig. 7.1.\n\nPour warm water in container A, tap water in B and ice-\ncold water in C.\n\nWe will conduct this activity in two parts — prediction\nand observation.\n\nFirstly, predict what will you feel if you\n\n— dip your right hand in A and left hand in C and\nkeep them there for 1-2 minutes.\n\n— take out your hands from containers A and C, and\nplace both hands simultaneously in B.\n\nCuriosity | Textbook of Science| Grade 6\n\n4\n\nFig. 7.1: Feeling hotness or coldness of water by dipping hands\n\nWrite down your predictions.\n— What will my right hand feel on dipping it in B?\n\n— What will my left hand feel on dipping it in B?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Temperature and its Measurement\n125\nCompare whether your observations match with your \npredictions. Did your right hand feel that the water in \ncontainer B is cool, while your left hand felt that \nthe same water is warm? What do you infer \nfrom these observations?\nWe cannot always rely upon our sense of \ntouch to decide correctly whether a body is \nhot or cold. \n7.2\t Temperature\nA reliable measure of hotness (or coldness) of a body is \nits temperature. A hotter body has a higher temperature \nthan a colder body.  The difference in temperature between \nthe two bodies tells us how hot a body is in comparison to \nanother body.  A device that measures temperature is called \na thermometer.\nThere are two kinds of thermometers that you are \nlikely \nto \ncome \nacross—clinical \nthermometers \nand \nlaboratory thermometers. Clinical thermometers are used \nto measure human body temperatures whereas laboratory \nthermometers are used for many other purposes. Let us \nnow learn more about thermometers and how to use them \nto measure temperature. \n7.3 \t Measuring Temperature\n7.3.1\t Clinical thermometer\nYou might be familiar with a thermometer, like that shown in \nFig. 7.2, which is used for measuring our body temperature. \nIt is called a clinical thermometer. Such thermometers show \ntemperatures digitally. These are also known as digital \nclinical thermometers and run on batteries. These measure \nThen how do we \nfind out how hot \nor cold a body \nis? \nFig.7.2: A digital clinical thermometer\nTip\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1515,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0003_img01",
+          "file": "images/NCERT_fecu107_page0003_img01.png",
+          "bbox": [
+            438.371826171875,
+            180.41583251953125,
+            506.0281677246094,
+            295.4488525390625
+          ],
+          "width_px": 141,
+          "height_px": 240,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0003_img02",
+          "file": "images/NCERT_fecu107_page0003_img02.png",
+          "bbox": [
+            104.43002319335938,
+            606.35009765625,
+            471.6300354003906,
+            671.3699951171875
+          ],
+          "width_px": 765,
+          "height_px": 136,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0003_img03",
+          "file": "images/NCERT_fecu107_page0003_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0003_img04",
+          "file": "images/NCERT_fecu107_page0003_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0003_vecfig01",
+          "file": "images/NCERT_fecu107_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Compare whether your observations match with your\n\npredictions. Did your right hand feel that the water in\n\ncontainer B is cool, while your left hand felt that\n\nthe same water is warm? What do you infer\n\nfrom these observations? fn now do we\nWe cannot always rely upon our sense of or old nite he\n\ntouch to decide correctly whether a body is is? y\n\nhot or cold.\n\n7.2 Temperature\n\nA reliable measure of hotness (or coldness) of a body is\nits temperature. A hotter body has a higher temperature\nthan a colder body. The difference in temperature between\nthe two bodies tells us how hot a body is in comparison to\nanother body. A device that measures temperature is called\na thermometer.\n\nThere are two kinds of thermometers that you are\nlikely to come _  across—clinical thermometers and\nlaboratory thermometers. Clinical thermometers are used\nto measure human body temperatures whereas laboratory\nthermometers are used for many other purposes. Let us\nnow learn more about thermometers and how to use them\nto measure temperature.\n\n7.3. Measuring Temperature\n7.3.1 Clinical thermometer\n\nYou might be familiar with a thermometer, like that shown in\nFig. 7.2, which is used for measuring our body temperature.\nIt is called a clinical thermometer. Such thermometers show\ntemperatures digitally. These are also known as digital\nclinical thermometers and run on batteries. These measure\n\nTip\n\nFig.7.2: A digital clinical thermometer\n\nReprint 2026-27\n\nTemperature and its Measurement\n\nSS"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": " Curiosity | Textbook of Science| Grade 6\n126\nDo you \nknow?\nEarlier, mercury thermometers were used for measuring \nthe body temperature. But mercury is an extremely toxic \nsubstance and is difficult to dispose of if the thermometer \nbreaks accidently. \nDigital thermometers pose no such risk and also the \nnumbers in its display are easier to read. Therefore, \nmercury thermometers are being replaced by digital \nthermometers. Temperature in a digital thermometer \nis determined with the help of heat sensors. \ntemperature when the thermometer is placed in contact \nwith a person’s body.\nFor measuring temperature, the clinical thermometers \ngenerally use a scale called the Celsius scale. On this \nscale, the unit of temperature is degree Celsius and is \ndenoted by °C.  \nThey are non-contact thermometers, \nalso called infrared \nthermometers. Such \nthermometers can \nmeasure temperature \nwithout touching a \nperson’s body and \nthus reduce the risk of \nspreading disease.\nDuring the COVID-19 \npandemic, some special \nthermometers were used, \nwhich could measure the \ntemperature of a person \nfrom a distance. What were \nthose?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1144,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0004_img01",
+          "file": "images/NCERT_fecu107_page0004_img01.png",
+          "bbox": [
+            87.97599029541016,
+            183.34912109375,
+            522.39990234375,
+            418.46380615234375
+          ],
+          "width_px": 906,
+          "height_px": 490,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0004_img02",
+          "file": "images/NCERT_fecu107_page0004_img02.png",
+          "bbox": [
+            160.4334259033203,
+            264.3623352050781,
+            500.4267578125,
+            307.7572021484375
+          ],
+          "width_px": 709,
+          "height_px": 91,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0004_img03",
+          "file": "images/NCERT_fecu107_page0004_img03.png",
+          "bbox": [
+            133.44772338867188,
+            516.35400390625,
+            258.5863952636719,
+            657.0081787109375
+          ],
+          "width_px": 261,
+          "height_px": 294,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0004_img04",
+          "file": "images/NCERT_fecu107_page0004_img04.png",
+          "bbox": [
+            431.4487609863281,
+            578.2772216796875,
+            516.4203491210938,
+            679.1907958984375
+          ],
+          "width_px": 177,
+          "height_px": 211,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0004_img05",
+          "file": "images/NCERT_fecu107_page0004_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0004_img06",
+          "file": "images/NCERT_fecu107_page0004_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0004_vecfig01",
+          "file": "images/NCERT_fecu107_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science| Grade 6\n\n6\n\ntemperature when the thermometer is placed in contact\nwith a person’s body.\n\nFor measuring temperature, the clinical thermometers\ngenerally use a scale called the Celsius scale. On this\nscale, the unit of temperature is degree Celsius and is\ndenoted by °C.\n\nEarlier, mercury thermometers were used for measuring\n\nthe body temperature. But mercury is an extremely toxic\n\nsubstance and is difficult to dispose of if the thermometer\nbreaks accidently.\n\nDigital thermometers pose no such risk and also the\nnumbers in its display are easier to read. Therefore,\nmercury thermometers are being replaced by digital\nthermometers. Temperature in a digital thermometer\nis determined with the help of heat sensors.\n\nDo you\n\nDur;\nPanden’ the Coy, know?\ntherm, IC, SO ‘ ID-19\nWhich cgi tes wo, PSial\nfro Mera meas, ® “ed\nrom a ature O 4Sure th ?\nstance reper son.\n\nhoser hat Were\n\nThey are non-contact thermometers,\nalso called infrared\nthermometers. Such\nthermometers can\nmeasure temperature\nwithout touching a\nperson’s body and\nthus reduce the risk of\nspreading disease.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Temperature and its Measurement\n127\nActivity 7.2: Let us measure\nLet us now use a digital clinical thermometer \nto measure body temperature. You may \nmeasure your own temperature as well as \nthe temperature of some of your friends. \nTalk to your friends to find out who would \nbe willing to get their body temperatures \nmeasured by you.\n\n\nWash your hands and the tip of the \ndigital thermometer with soap and \nwater.\n\n\nReset the thermometer by pressing the \nreset button. \n\n\nPlace the thermometer under the \ntongue and close your mouth. \n\n\nWait till the thermometer makes a \nbeeping sound or flashes a light.\n\n\nTake it out from the mouth and read \nthe temperature on the digital display. \n\n\nRecord the temperature in Table 7.1.\n\n\nClean the tip of the thermometer with soap and water, \nand dry it.\n\n\nRepeat the above steps for measuring the temperatures \nof your friends. \nTable 7.1: Body temperatures of 10 persons\nPrecautions  \nto be taken while  \nusing a digital clinical \nthermometer\n•\t\nTo be used after reading the \ninstruction manual of the \nthermometer. \n•\t\nTip of the thermometer to \nbe washed with soap and \nwater before and after use.\n•\t\nWhile washing, care to be \ntaken to keep the digital \nportion such as the display \nout of water.  \n•\t\nDo not hold the thermometer \nby the tip.  \nS. no.\nName\nTemperature (°C)\n1.\n.\n.\n.\n.\n10.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1368,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0005_img01",
+          "file": "images/NCERT_fecu107_page0005_img01.png",
+          "bbox": [
+            429.31365966796875,
+            98.94943237304688,
+            462.2275695800781,
+            130.20611572265625
+          ],
+          "width_px": 72,
+          "height_px": 69,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0005_img02",
+          "file": "images/NCERT_fecu107_page0005_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0005_img03",
+          "file": "images/NCERT_fecu107_page0005_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0005_table01",
+          "bbox": [
+            55.192176818847656,
+            103.7550048828125,
+            554.2880249023438,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              null,
+              "Precautions\nto be taken while\nusing a digital clinical\nthermometer\n• To be used after reading the\ninstruction manual of the\nthermometer.\n• Tip of the thermometer to\nbe washed with soap and\nwater before and after use.\n• While washing, care to be\ntaken to keep the digital\nportion such as the display\nout of water.\n• Do not hold the thermometer\nby the tip."
+            ],
+            [
+              "measured by you.\n• To be used after reading th\n Wash your hands and the tip of the instruction manual of th\ndigital thermometer with soap and thermometer.\nwater.\n• Tip of the thermometer t\n Reset the thermometer by pressing the be washed with soap an\nreset button. water before and after use\n• While washing, care to b\n Place the thermometer under the\ntaken to keep the digit\ntongue and close your mouth.\nportion such as the displa\n Wait till the thermometer makes a out of water.\nbeeping sound or flashes a light.\n• Do not hold the thermomete\n Take it out from the mouth and read by the tip.\nthe temperature on the digital display.\n Record the temperature in Table 7.1.\n Clean the tip of the thermometer with soap and water,\nand dry it.\n Repeat the above steps for measuring the temperatures\nof your friends.\nTable 7.1: Body temperatures of 10 persons\nMeasurement\nS. no. Name Temperature (°C)\n1.\nits\n. and\nperature\n.",
+              "• To be used after reading th\ninstruction manual of th\nthermometer.\n• Tip of the thermometer t\nbe washed with soap an\nwater before and after use\n• While washing, care to b\ntaken to keep the digit\nportion such as the displa\nout of water.\n• Do not hold the thermomete\nby the tip."
+            ]
+          ]
+        },
+        {
+          "table_id": "page0005_table02",
+          "bbox": [
+            72.47815528282753,
+            573.2572326660156,
+            437.5274331229074,
+            719.3446655273438
+          ],
+          "rows": [
+            [
+              "1.",
+              "",
+              ""
+            ],
+            [
+              ".",
+              "",
+              ""
+            ],
+            [
+              ".",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              ".",
+              "",
+              ""
+            ],
+            [
+              ".",
+              "",
+              ""
+            ],
+            [
+              "10.",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0005_vecfig01",
+          "file": "images/NCERT_fecu107_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Activity 7.2: Let us measure\n\nLetusnowuseadigitalclinicalthermometer\nto measure body temperature. You may\nmeasure your own temperature as well as\nthe temperature of some of your friends.\nTalk to your friends to find out who would\nbe willing to get their body temperatures\nmeasured by you.\n\nWash your hands and the tip of the\ndigital thermometer with soap and\nwater. ,\n\nReset the thermometer by pressing the\nreset button.\n\nPlace the thermometer under the\ntongue and close your mouth.\n\nWait till the thermometer makes a\nbeeping sound or flashes a light.\n\nTake it out from the mouth and read\nthe temperature on the digital display.\n\nRecord the temperature in Table 7.1.\n\na\n\nPrecautions\nto be taken while\nusing a digital clinical\nthermometer\nTo be used after reading the\ninstruction manual of the\nthermometer.\n\nTip of the thermometer to\nbe washed with soap and\nwater before and after use.\n\nWhile washing, care to be\ntaken to keep the digital\nportion such as the display\nout of water.\n\nDonotholdthe thermometer\nby the tip.\n\nClean the tip of the thermometer with soap and water,\n\nand dry it.\n\nRepeat the above steps for measuring the temperatures\n\nof your friends.\n\nTable 7.1: Body temperatures of 10 persons\n\n2\n\nS. no. Name Temperature (°C)\nQS\n\n=\n\n<4\n\n8\n\nS\n\n3S\n\n5\n\nQ.\n\n5\n\nBR\n\n10. 127)\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": " Curiosity | Textbook of Science| Grade 6\n128\nThe normal temperature of a healthy human body is taken \nto be 37.0 °C. But in this activity, did you find that the normal \ntemperature of every person was 37.0 °C? Or did you find the \ntemperature slightly higher or lower for some people?  \nThe temperature of every person may not \nbe 37.0 °C. What we call normal temperature \nis the average body temperature of a large \nnumber of healthy people. A perfectly \nhealthy person may, therefore, have a \nnormal temperature slightly different from \n37.0 °C. The body temperature is influenced \nby several factors, such as age, time of the \nday and activity level.\nYou may try measuring your own \ntemperature at different times of the day and \non different days. Record the thermometer \nreadings in your notebook. After a month, \nanalyse your temperature record and see if \nthere are any variations. If yes, try to think \nwhat might be the reasons for that. \nThe temperature of human beings does \nnot normally go below 35 °C or above 42 °C. \nFor measuring the body temperature \nof small children or old people, the digital \nthermometer can also be placed in the \narmpit. The temperature measured this way \nis about 0.5 °C to 1 °C lower than the actual \nbody temperature.\nThere is another scale of temperature \nknown as Fahrenheit scale. On this scale, the \nunit of temperature is degree Fahrenheit and \nis denoted by °F.  A temperature measured as \n37.0 °C on Celsius scale is equivalent to 98.6 °F \non Fahrenheit scale. The Fahrenheit scale is \nnot used in most scientific studies anymore. \nIn scientific work, there is another scale of \ntemperature known as Kelvin scale. On this \nscale, the unit for temperature is kelvin and \nis denoted by K. The SI unit of temperature \nis kelvin.\nDo small children \ngenerally have \nslightly higher body \ntemperatures as \ncompared to adults? ?\nDo old people, even \nwhen healthy, generally \nhave lower body \ntemperatures than \nyoung adults?\n?\nI have seen a friend of mine \nusing a digital thermometer \nthat reads temperature on \na different scale. It shows \nthe normal temperature of \na healthy human body as \n98.6 °F.  What is the reason \nfor this difference?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2204,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0006_img01",
+          "file": "images/NCERT_fecu107_page0006_img01.png",
+          "bbox": [
+            125.9269790649414,
+            548.4000854492188,
+            218.62698364257812,
+            674.4219970703125
+          ],
+          "width_px": 193,
+          "height_px": 263,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0006_img02",
+          "file": "images/NCERT_fecu107_page0006_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0006_img03",
+          "file": "images/NCERT_fecu107_page0006_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0006_vecfig01",
+          "file": "images/NCERT_fecu107_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Do small chi\n\nThe normal temperature of a healthy human body is taken\nto be 37.0 °C. But in this activity, did you find that the normal\ntemperature of every person was 37.0 °C? Or did you find the\ntemperature slightly higher or lower for some people?\n\nIdren\n\ngenerally have\nslightly higher body\ntemperatures as\ncompared to adults?\n\nDo old people, even\n\nwhen health\n\ny, generally\n\nhave lower body\ntemperatures than\nyoung adults?\n\nI have Seen\nUSINE a digi\n\nthat reads\na differen\n\nCuriosity | Textbook of Science| Grade 6\n\n6\n\n?\n\n?\n\na friend of mine\n\ntemperature on\n\nThe temperature of every person may not\nbe 37.0 °C. What we call normal temperature\nis the average body temperature of a large\nnumber of healthy people. A_ perfectly\nhealthy person may, therefore, have a\nnormal temperature slightly different from\n37.0 °C. The body temperature is influenced\nby several factors, such as age, time of the\nday and activity level.\n\nYou may try measuring your own\ntemperature at different times of the day and\non different days. Record the thermometer\nreadings in your notebook. After a month,\nanalyse your temperature record and see if\nthere are any variations. If yes, try to think\nwhat might be the reasons for that.\n\nThe temperature of human beings does\nnot normally go below 35 °C or above 42 °C.\n\nFor measuring the body temperature\nof small children or old people, the digital\nthermometer can also be placed in the\narmpit. The temperature measured this way\nis about 0.5 °C to 1 °C lower than the actual\nbody temperature.\n\nThere is another scale of temperature\nknown as Fahrenheit scale. On this scale, the\nunit oftemperatureis degree Fahrenheit and\nis denoted by °F. Atemperature measured as\n37.0 °C on Celsius scale is equivalent to 98.6 °F\non Fahrenheit scale. The Fahrenheit scale is\nnot used in most scientific studies anymore.\nIn scientific work, there is another scale of\ntemperature known as Kelvin scale. On this\nscale, the unit for temperature is kelvin and\nis denoted by K. The SI unit of temperature\nis kelvin.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Temperature and its Measurement\n129\nThe names of temperature scales—Celsius scale, \nFahrenheit scale and Kelvin scale—start with a capital \nletter. For the units for temperature, degree Celsius and degree \nFahrenheit, the word degree starts with a lower-case letter while \nCelsius and Fahrenheit start with a capital letter. The unit kelvin \nstarts with a lower-case letter. The symbols of all units (°C, °F, K) are \ncapital letters. Note that degree sign (°) is not written with K. A full \nstop is not written after the symbol, except at the end of a sentence. \nWhile writing the temperature, a space is left between the number \nand the unit. For temperatures more than one degree, use the plural \nof ‘degree’, that is, ‘degrees’, while writing the full form of the unit.\nWe can easily convert the \ntemperature from Celsius scale to \nKelvin scale by using:\nTemperature in Kelvin  \nscale = Temperature in  \nCelsius scale + 273.15\nMore to \nknow!\nAll three temperature \nscales, Celsius, Fahrenheit \nand Kelvin are named in \nhonour of the scientists who \ndeveloped these scales.\nHow was fever detected before \nthermometers were developed? Fever \naffects the pulse rate of a person. This \nwas known even in olden days \nin India. However, apart from \nfever, some other situations \nalso affect the pulse rate. \nHence, pulse rate alone is not \na reliable indicator of fever.\nDo you \nknow?\nNo, the \ntemperatures of \nboiling water and \nice are outside the \nrange of a clinical \nthermometer. \nCan a clinical \nthermometer be \nused for measuring \nthe temperature of \nboiling water? Or \nfor measuring the \ntemperature of ice?\n?\nHow can we measure \ntemperatures beyond \nthe range of a clinical \nthermometer?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1710,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0007_img01",
+          "file": "images/NCERT_fecu107_page0007_img01.png",
+          "bbox": [
+            246.4954833984375,
+            604.559814453125,
+            323.8145751953125,
+            724.447021484375
+          ],
+          "width_px": 161,
+          "height_px": 250,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0007_img02",
+          "file": "images/NCERT_fecu107_page0007_img02.png",
+          "bbox": [
+            39.67962646484375,
+            184.98324584960938,
+            490.3133850097656,
+            401.7737121582031
+          ],
+          "width_px": 940,
+          "height_px": 452,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0007_img03",
+          "file": "images/NCERT_fecu107_page0007_img03.png",
+          "bbox": [
+            246.11859130859375,
+            59.641448974609375,
+            478.9198913574219,
+            189.6722412109375
+          ],
+          "width_px": 486,
+          "height_px": 271,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0007_img04",
+          "file": "images/NCERT_fecu107_page0007_img04.png",
+          "bbox": [
+            204.2684326171875,
+            387.13470458984375,
+            510.0734558105469,
+            596.5130615234375
+          ],
+          "width_px": 637,
+          "height_px": 437,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0007_img05",
+          "file": "images/NCERT_fecu107_page0007_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0007_img06",
+          "file": "images/NCERT_fecu107_page0007_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0007_vecfig01",
+          "file": "images/NCERT_fecu107_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "All three temperature\nscales, Celsius, Fahrenheit\nand Kelvin are named in\nhonour of the scientists who\ndeveloped these scales.\n\nWe can easily convert the\ntemperature from Celsius scale to\nKelvin scale by using:\n\nTemperature in Kelvin\nscale = Temperature in\nCelsius scale + 273.15\n\nMore to\n\nThe names of temperature scales—Celsius scale, know!\nFahrenheit scale and Kelvin scale—start with a capital\n\nletter. For the units for temperature, degree Celsius and degree\nFahrenheit, the word degree starts with a lower-case letter while\nCelsius and Fahrenheit start with a capital letter. The unit kelvin\nstarts with a lower-case letter. The symbols of all units (°C, °F, K) are\ncapital letters. Note that degree sign (°) is not written with K, A full\nstop 1s not written after the symbol, except at the end of a sentence\nWhile writing the temperature, a space is left between the number.\nand the unit. For temperatures more than one degree, use the plural\nof ‘degree’, that is, ‘degrees’, while writing the full form of the unit.\n\nHow was fever detected before\n\nCana clinical > thermometers were developed? Fever\nthermometer be \\ affects the pulse rate of a person. This\nused for measuring @ was known even in olden days\nthe temperature of in India. However, apart from\nboiling water? Or fever, some other situations\nfor measuring the also affect the pulse rate.\n\n—_\ntemperature of Ice! Hence, pulse rate alone is not\n\nLO a reliable indicator of fever.\nknow?\n\nNo, the\ntemperatures of\nboiling water and\nice are outside the\nrange of a clinical\nthermometer.\n\nHow can we measure\n\ntemperatures beyond\n\nthe range of a clinical\nthermometer?\n\nReprint 2026-27\n\nTemperature and its Measurement\n\nSe"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": " Curiosity | Textbook of Science| Grade 6\n130\nFig.7.3(a): \nA laboratory \nthermometer\nBulb\n7.3.2 Laboratory thermometer\nThere are many types of laboratory thermometers but the \none that might be available in your school laboratory may \nlook like the one shown in Fig. 7.3a. It consists of a long, \nnarrow, uniform glass tube which is sealed. At one end of \nthe tube is a bulb which contains a liquid. Outside the bulb, \nin the tube, a narrow column of liquid can be seen. There \nis a Celsius scale marked along the tube. The liquid column \nrises or falls with change in temperature. The mark of the \nCelsius scale with which the top level of the liquid column \ncoincides is the temperature reading.\nThe liquid used in the laboratory \nthermometer is generally alcohol (coloured \nred to make it easily seen) or mercury. \nDo you \nknow?\nActivity 7.3: Let us observe\nLet us try to find the temperature range of a given laboratory \nthermometer. \n\n\nTake a laboratory \nthermometer and observe it \ncarefully. \n\n\nNote down the following:\n—\n—\nWhat is the lowest \ntemperature it \ncan measure? \n—\n—\nWhat is the highest \ntemperature it \ncan measure? \n—\n—\nSo, the range of this \nthermometer is \nNow look at the thermometer shown in Fig. 7.3a carefully. \nCan you tell its range? Its range is from –10 °C to 110 °C.\nPrecautions  \nto be taken while  \nusing a laboratory \nthermometer\n•\t\nHandle with care. If \nit hits against some \nhard object, it can \nbreak.\n•\t\nDo not hold it by the \nbulb.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1491,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0008_img01",
+          "file": "images/NCERT_fecu107_page0008_img01.png",
+          "bbox": [
+            102.5528793334961,
+            69.8568115234375,
+            134.76776123046875,
+            618.7157592773438
+          ],
+          "width_px": 68,
+          "height_px": 1144,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0008_img02",
+          "file": "images/NCERT_fecu107_page0008_img02.png",
+          "bbox": [
+            153.18280029296875,
+            261.77850341796875,
+            528.5874633789062,
+            345.4000244140625
+          ],
+          "width_px": 783,
+          "height_px": 175,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0008_img03",
+          "file": "images/NCERT_fecu107_page0008_img03.png",
+          "bbox": [
+            434.7310485839844,
+            421.72412109375,
+            467.64495849609375,
+            452.9808044433594
+          ],
+          "width_px": 72,
+          "height_px": 69,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0008_img04",
+          "file": "images/NCERT_fecu107_page0008_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0008_img05",
+          "file": "images/NCERT_fecu107_page0008_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0008_table01",
+          "bbox": [
+            361.7232666015625,
+            419.509521484375,
+            536.2066040039062,
+            648.82958984375
+          ],
+          "rows": [
+            [
+              "Precautions\nto be taken while\nusing a laboratory\nthermometer\n• Handle with care. If\nit hits against some\nhard object, it can\nbreak.\n• Do not hold it by the\nbulb.",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0008_vecfig01",
+          "file": "images/NCERT_fecu107_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science| Grade 6\n\n6\n\nFig.7.3(a):\nA laboratory\nthermometer\n\n7.3.2 Laboratory thermometer\n\nThere are many types of laboratory thermometers but the\none that might be available in your school laboratory may\nlook like the one shown in Fig. 7.3a. It consists of a long,\nnarrow, uniform glass tube which is sealed. At one end of\nthe tube is a bulb which contains a liquid. Outside the bulb,\nin the tube, a narrow column of liquid can be seen. There\nis a Celsius scale marked along the tube. The liquid column\nrises or falls with change in temperature. The mark of the\nCelsius scale with which the top level of the liquid column\ncoincides is the temperature reading.\n\n)\nThe liquid used in the laboratory |\nthermometer is generally alcohol (coloured\nred to make it easily seen) or mercury. Do you\nknow?\n\nActivity 7.3: Let us observe\n\nLet us try to find the temperature range of a given laboratory\nthermometer.\n\n@ Take a laboratory A\nthermometer and observe it\ncarefully. Precautions\n¢ Note down the following: to be taken while\n\nusing a laboratory\n\n— What is the lowest thermometer\n\ntemperature it\n\ncan measure? ¢ Handle with care. If\n\nit hits against some\nhard object, it can\n\n— What is the highest break.\ntemperature it * Do not hold it by the\ncan measure? bulb.\n\n— So, the range of this\nthermometer is _____-__-_-__-____-\n\nNow look at the thermometer shown in Fig. 7.3a carefully.\nCan you tell its range? Its range is from —10 °C to 110 °C.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Temperature and its Measurement\n131\nActivity 7.4: Let us observe and calculate\nLet us now try to find the smallest value that a given \nlaboratory thermometer can read.\n\n\nAgain, take the same laboratory thermometer which \nyou used in Activity 7.3 and observe it carefully. \n\n\nNote down the following:\n—\n—\nHow much is the temperature difference indicated \nbetween the two bigger marks? \n—\n—\nHow many divisions (shown by smaller  marks) \nare there between these two bigger  marks? \n—\n—\nHow much temperature does one small division \nindicate? \n—\n—\nSo, the smallest value that the thermometer can \nread is \nFig. 7.3b shows a closeup of a part of the  thermometer \nshown in Fig. 7.3a. Can you now find the smallest value that \nthis thermometer can read?\nFor the thermometer shown in Fig. 7.3b, the \ntemperature difference indicated between 0 °C and \n10 °C or between 10 °C and 20 °C is 10 °C. And the \nnumber of divisions between these marks are 10 \ndivisions. So, one small division can read 10/10 = 1 °C. \nThat is, the smallest value that this thermometer \ncan read is 1 °C.\nYour school laboratory may have thermometers \nfor which the range and the value of the smallest \ndivision may be different. It is, therefore, always \nnecessary to look carefully at the thermometer you \nare about to use.\nYou have learnt how to find the temperature range \nof a given laboratory thermometer. You have \nalso learnt how to find the smallest value that a \ngiven laboratory thermometer can read. We will \nnow learn how to measure temperature using a \nlaboratory thermometer. But, let us first learn \nhow to use a laboratory thermometer correctly.\nFig. 7.3(b): \nCloseup of a \npart of the \nthermometer \nshown in \nFig. 7.3a.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1723,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0009_img01",
+          "file": "images/NCERT_fecu107_page0009_img01.png",
+          "bbox": [
+            71.36538696289062,
+            404.98114013671875,
+            98.86038208007812,
+            630.7911376953125
+          ],
+          "width_px": 58,
+          "height_px": 471,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0009_img02",
+          "file": "images/NCERT_fecu107_page0009_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0009_img03",
+          "file": "images/NCERT_fecu107_page0009_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0009_vecfig01",
+          "file": "images/NCERT_fecu107_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Activity 7.4: Let us observe and calculate SS\n\nLet us now try to find the smallest value that a given\nlaboratory thermometer can read.\n\n¢ Again, take the same laboratory thermometer which\nyou used in Activity 7.3 and observe it carefully.\n\n¢ Note down the following:\n\n— How muchis the temperature difference indicated\nbetween the two bigger marks? _______----------------\n\n— How many divisions (shown by smaller marks)\nare there between these two bigger marks?\n\n— How much temperature does one small division\nindicate?\n\n— So, the smallest value that the thermometer can\nread is ______________-__-_------- 2-2 - eee.\n\nFig. 7.3b shows a closeup of a part of the thermometer\nshown in Fig. 7.3a. Can you now find the smallest value that\nthis thermometer can read?\n\n“Ay For the thermometer shown in Fig. 7.3b, the\ntemperature difference indicated between 0 °C and\n10 °C or between 10 °C and 20 °C is 10 °C. And the\nnumber of divisions between these marks are 10\ndivisions. So, one small division can read 10/10 = 1 °C.\n\nThat is, the smallest value that this thermometer\ncan read is 1 °C.\n\nYour school laboratory may have thermometers\nfor which the range and the value of the smallest\ndivision may be different. It is, therefore, always\nnecessary to look carefully at the thermometer you\nare about to use.\n\nYou have learnt how to find the temperature range\n\nof a given laboratory thermometer. You have\n\nFig. 7.3(b): also learnt how to find the smallest value that a\nCloseup ofa givenlaboratory thermometer can read. We will\npartofthe nowlearn how to measure temperature using a\nthermometer Jaboratory thermometer. But, let us first learn\n\nMie 730 how to use a laboratory thermometer correctly.\n\n—\n-_\n\nTemperature and its Measurement\n\n8\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": " Curiosity | Textbook of Science| Grade 6\n132\nCorrect way of measuring temperature using a \nlaboratory thermometer\n\n\n\u0007When the thermometer \nis immersed in water, its \nbulb should not touch \nthe bottom or the sides \nof the beaker.\n\n\n\u0007The thermometer \nshould be held \nvertically (Fig. 7.4). It \nshould not be tilted.\n\n\n\u0007The temperature \nmust be read while \nthe thermometer is \nimmersed in water.\n\n\n\u0007While \nreading \nthe \nthermometer, the eye \nActivity 7.5: Let us measure \n\n\nTake some warm water in a beaker. \n\n\nDip the thermometer in water so that the bulb is \nimmersed in water (Fig. 7.4).\n\n\nObserve the rise of liquid column in the thermometer. \nWait till the column stops rising and note the \ntemperature (do not wait too long; otherwise, \nthe water itself will start to cool).\nWhat is the temperature of water \nmeasured by you? Compare it with the \nreadings of your friends.\nDo you notice that, as soon as you take the \nthermometer out of the water, the level of liquid \ncolumn begins to fall?\nThis means that the temperature must be read \nwhile the thermometer is immersed in water.\nFig.7.4: Measuring temperature of warm water\nLaboratory thermometer\nCloseup of a part of \nlaboratory thermometer\nWarm water\nBeaker\nCan \nwe use \na laboratory \nthermometer for \nmeasuring body \ntemperature of a \nperson?\nshould be directly in line with the level of the liquid column \nto be read (Fig. 7.\u00074).\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1421,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0010_img01",
+          "file": "images/NCERT_fecu107_page0010_img01.png",
+          "bbox": [
+            90.66619110107422,
+            626.39013671875,
+            175.77487182617188,
+            710.2000122070312
+          ],
+          "width_px": 178,
+          "height_px": 175,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0010_img02",
+          "file": "images/NCERT_fecu107_page0010_img02.png",
+          "bbox": [
+            67.7646484375,
+            114.79998779296875,
+            323.45989990234375,
+            329.9405517578125
+          ],
+          "width_px": 533,
+          "height_px": 449,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0010_img03",
+          "file": "images/NCERT_fecu107_page0010_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0010_img04",
+          "file": "images/NCERT_fecu107_page0010_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0010_vecfig01",
+          "file": "images/NCERT_fecu107_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science| Grade 6\n\n©\n\nCorrect way of measuring temperature using a\nlaboratory thermometer\n\n@ When the thermometer\nis immersed in water, its\nbulb should not touch\nthe bottom or the sides\nof the beaker.\n\n¢ The thermometer\nshould be held\nvertically (Fig. 7.4). It\nlaboratory TRC should not be tilted.\n¢ The temperature\nmust be read while\nthe thermometer is\nimmersed in water.\n\n«— _ Laboratory thermometer\n\nE\nBeaker\nee —_— Warm water\n\nFig.7.4: Measuring temperature of warm water ¢ While reading the\nthermometer, the eye\nshould be directly in line with the level of the liquid column\n\nto be read (Fig. 7.4).\n\nActivity 7.5: Letus measure Po\n\n@ Take some warm water in a beaker.\n\n¢ Dip the thermometer in water so that the bulb is\nimmersed in water (Fig. 7.4).\n\n@ Observe the rise of liquid column in the thermometer.\n\nWait till the column stops rising and note the\n\nCc temperature (do not wait too long; otherwise,\ne505 gos. _ the water itself will start to cool).\nao net oo What is the temperature of water\n\n% oe measured by you? Compare it with the\nx * readings of your friends.\n\nDo you notice that, as soon as you take the\nthermometer out of the water, the level of liquid\ncolumn begins to fall?\n\nThis means that the temperature must be read\nwhile the thermometer is immersed in water.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Temperature and its Measurement\n133\nActivity 7.6: Let us compare\n\n\nPhiban’s Science teacher arranged the experimental \nsetup for measuring temperature of boiling water. The \ntemperature readings of the boiling water taken by Phiban \nand her classmates in Shillong are given in Table 7.2.\nTable 7.2: Temperature of boiling water\nName\nTemperature of boiling  \nwater (in °C)\nPhiban\n97.8\nShemphang\n98.0\nOnestar\n97.9\nKloi\n98.0\nBandarisha\n98.1\nFollowing two experimental setups are to be arranged by your \nteacher. One by one, as per your turn, go closer to the setups \nand observe the readings of both the thermometers. What are \nthe temperatures of ice and boiling water?\nRead the temperatures of ice and boiling water again after \nsome time. Are the temperatures same or have changed? You \nmay have noticed that the temperature of water remains \nconstant while it is boiling. Also, the temperature of ice \nremains constant while it is melting.\nMore to \ndo!\nLaboratory \nthermometer\nLaboratory \nthermometer\nCrushed ice\nBoiling \nwater\nBurner\nCaution  \nThis activity \nshould be \nperformed strictly \nonly under \nsupervision of \nthe teacher. Do \nnot touch the \nexperimental \nsetups.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1192,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0011_img01",
+          "file": "images/NCERT_fecu107_page0011_img01.png",
+          "bbox": [
+            33.98486328125,
+            20.9376220703125,
+            480.65643310546875,
+            427.5154113769531
+          ],
+          "width_px": 931,
+          "height_px": 847,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0011_img02",
+          "file": "images/NCERT_fecu107_page0011_img02.png",
+          "bbox": [
+            70.38933563232422,
+            145.8791046142578,
+            249.40060424804688,
+            315.9947814941406
+          ],
+          "width_px": 373,
+          "height_px": 355,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0011_img03",
+          "file": "images/NCERT_fecu107_page0011_img03.png",
+          "bbox": [
+            259.55548095703125,
+            145.8591766357422,
+            438.624267578125,
+            315.9345703125
+          ],
+          "width_px": 374,
+          "height_px": 355,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0011_img04",
+          "file": "images/NCERT_fecu107_page0011_img04.png",
+          "bbox": [
+            473.7747802734375,
+            218.95932006835938,
+            508.2203063964844,
+            251.8396759033203
+          ],
+          "width_px": 72,
+          "height_px": 69,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0011_img05",
+          "file": "images/NCERT_fecu107_page0011_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0011_img06",
+          "file": "images/NCERT_fecu107_page0011_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0011_table01",
+          "bbox": [
+            280.91998291015625,
+            212.35699462890625,
+            561.7239990234375,
+            436.6369934082031
+          ],
+          "rows": [
+            [
+              null,
+              "Caution\nactivity This\nshould\nbe\np e rformed\nstric\ner under only\ns upervision\nu of\nth teacher. e\ns Do\nn touch ot\ne the\ne xperimental\nsetups.",
+              "y l t"
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "",
+              ""
+            ]
+          ]
+        },
+        {
+          "table_id": "page0011_table02",
+          "bbox": [
+            72.29000091552734,
+            582.1509399414062,
+            437.82582600911456,
+            708.0188903808594
+          ],
+          "rows": [
+            [
+              "Phiban",
+              "97.8"
+            ],
+            [
+              "Shemphang",
+              "98.0"
+            ],
+            [
+              "Onestar",
+              "97.9"
+            ],
+            [
+              "Kloi",
+              "98.0"
+            ],
+            [
+              "Bandarisha",
+              "98.1"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0011_vecfig01",
+          "file": "images/NCERT_fecu107_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Following two experimental setups are to be arranged by your\nteacher. One by one, as per your turn, go closer to the setups\nand observe the readings of both the thermometers. What are\nthe temperatures of ice and boiling water?\n\nRead the temperatures of ice and boiling wate\nsome time. Are the temperatures same\nmay have noticed that the temperature\n\nater ;\nconstant while it is boiling. egies t aa\n\nremains constant while it is me\n\nActivity 7.6: Let us compare\n\nSd\n\ne changed? You\n\nPhiban’s Science teacher arranged the experimental\nsetup for measuring temperature of boiling water. The\ntemperature readings of the boiling water taken by Phiban\nand her classmates in Shillong are given in Table 7.2.\n\nTable 7.2: Temperature of boiling water\n\nName | ~~ eee tenineG)\nPhiban 97.8\nShemphang 98.0\nOnestar 97.9\nKloi 98.0\nBandarisha 98.1\n\nReprint 2026-27\n\nts}\n\nMore to\ndo!\n\nCautio\n\nn\n\nThis activity\nShould be\n\n- Performed str; ctly\n\nonly under\nSupervision of\n\nthe teacher.\n\nDo\n\nNot touch the\n€xperimental\n\nSetups.\n\nTemperature and its Measurement\n\n|"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": " Curiosity | Textbook of Science| Grade 6\n134\nFig.7.5: Room thermometer\n\n\nCompare the temperatures of boiling water recorded by \ndifferent students.  \nWhy are there differences in their readings? Discuss the \npossible reasons amongst yourselves. Maybe, the correct way \nof reading temperature was not followed by all the students.\nActivity 7.7: Let us analyse\n\n\nRead or listen to the weather reports for a place for 10 \nsuccessive days. \n\n\nRecord the maximum and minimum air temperature \nfor each day in Table 7.3. \n\n\nAnalyse the data in Table 7.3. \nTable 7.3: Maximum and minimum air temperature\nS.no.\nDate\nMaximum air \ntemperature\nMinimum air \ntemperature\n1.\n.\n.\n10.\n7.3.3 Air temperature\nYou might have seen thermometers, \nsuch as the one shown in Fig. 7.5, hung \non walls of your school laboratory, \ndoctor’s clinic, and hospitals. These \ngive an approximate idea of the \nroom temperature. \nHave you seen weather reports \nin newspapers, TV news or internet? \nThese reports also mention the \nmaximum \nand \nminimum \nair \ntemperature of the day. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1072,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0012_img01",
+          "file": "images/NCERT_fecu107_page0012_img01.png",
+          "bbox": [
+            400.6852722167969,
+            167.71807861328125,
+            482.8999938964844,
+            393.9546203613281
+          ],
+          "width_px": 172,
+          "height_px": 472,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0012_img02",
+          "file": "images/NCERT_fecu107_page0012_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0012_img03",
+          "file": "images/NCERT_fecu107_page0012_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0012_table01",
+          "bbox": [
+            55.192176818847656,
+            192.1988525390625,
+            526.7100463867188,
+            714.4541015625
+          ],
+          "rows": [
+            [
+              "You might have seen thermometers,\nsuch as the one shown in Fig. 7.5, hung\non walls of your school laboratory,\ndoctor’s clinic, and hospitals. These\ngive an approximate idea of the\nroom temperature.\nHave you seen weather reports\nin newspapers, TV news or internet?\nThese reports also mention the\nmaximum and minimum air\ntemperature of the day.\nFig.7.5: Room thermometer\nActivity 7.7: Let us analyse\n Read or listen to the weather reports for a place for 10\nsuccessive days.\n Record the maximum and minimum air temperature\nfor each day in Table 7.3.\n Analyse the data in Table 7.3. 6\nGrade\nTable 7.3: Maximum and minimum air temperature\nScience|\nMaximum air Minimum air\nS.no. Date of\ntemperature temperature Textbook\n1.\n|\niosity\n.",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "1.",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              ".",
+              "",
+              "",
+              "",
+              null
+            ],
+            [
+              null,
+              "",
+              "",
+              "",
+              null,
+              null
+            ],
+            [
+              null,
+              ".",
+              "",
+              "",
+              "",
+              null
+            ],
+            [
+              null,
+              "10.",
+              "",
+              "",
+              "",
+              null
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0012_vecfig01",
+          "file": "images/NCERT_fecu107_page0012_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science| Grade 6\n\nCompare the temperatures of boiling water recorded by\ndifferent students.\n\nWhy are there differences in their readings? Discuss the\npossible reasons amongst yourselves. Maybe, the correct way\nof reading temperature was not followed by all the students.\n\n7.3.3 Air temperature\n\nYou might have seen thermometers,\nsuchastheoneshowninFig.7.5,hung\non walls of your school laboratory,\ndoctor’s clinic, and hospitals. These\ngive an approximate idea of the\nroom temperature.\n\nHave you seen weather reports\nin newspapers, TV news or internet?\nThese reports also mention the\nmaximum and minimum air\ntemperature of the day.\n\nFig.7.5: Room thermometer\n\nActivity 7.7: Let.us analyse\n\n¢ Read or listen to the weather reports for a place for 10\nsuccessive days.\n\n¢ Record the maximum and minimum air temperature\nfor each day in Table 7.3.\n\n@ Analyse the data in Table 7.3.\n\nTable 7.3: Maximum and minimum air temperature\n\nMaximum air Minimum air\nS.no. Date\ntemperature temperature\n1.\n10.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Temperature and its Measurement\n135\nDoes the maximum and minimum temperature stay at \nthe same level during these days? \nBecause weather depends on several factors, these \ntemperatures usually vary every day. Generally, as we \napproach the summer season, the temperature rises and \nduring the winter season it falls.\nThere are many techniques for measuring \nair temperature. Air temperature is an \nimportant weather parameter and is \nmonitored at weather stations all over \nthe world. The data gathered on air \ntemperature along with various other \nparameters are used for making weather \nforecasts.\nMore to \nknow!\nAnna Mani (1918–2001) \nwas an Indian scientist, \nalso known as the ‘Weather \nWoman \nof \nIndia’. \nShe \ninvented \nand \nbuilt \na \nlarge number of weather \nmeasurement instruments. \nThis reduced the reliance of \nIndia on other nations for \nsuch instruments. She also \nexplored the possibilities \nof using wind and solar \nenergy in India. Her work \nhelped India to become \none of the global leaders in \nrenewable energy.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1047,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0013_img01",
+          "file": "images/NCERT_fecu107_page0013_img01.png",
+          "bbox": [
+            259.1058349609375,
+            435.6658935546875,
+            429.06854248046875,
+            686.3984985351562
+          ],
+          "width_px": 355,
+          "height_px": 523,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0013_img02",
+          "file": "images/NCERT_fecu107_page0013_img02.png",
+          "bbox": [
+            71.40011596679688,
+            188.840087890625,
+            438.6001281738281,
+            361.9585266113281
+          ],
+          "width_px": 766,
+          "height_px": 361,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0013_img03",
+          "file": "images/NCERT_fecu107_page0013_img03.png",
+          "bbox": [
+            64.76000213623047,
+            387.52008056640625,
+            196.53579711914062,
+            429.320068359375
+          ],
+          "width_px": 275,
+          "height_px": 88,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0013_img04",
+          "file": "images/NCERT_fecu107_page0013_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0013_img05",
+          "file": "images/NCERT_fecu107_page0013_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0013_table01",
+          "bbox": [
+            72.11565017700195,
+            374.7578125,
+            438.49989318847656,
+            711.2289123535156
+          ],
+          "rows": [
+            [
+              "",
+              null
+            ],
+            [
+              "",
+              "Anna Mani (1918–2001)\nwas an Indian scientist,\nalso known as the ‘Weather\nWoman of India’. She\ninvented and built a\nlarge number of weather\nmeasurement instruments.\nThis reduced the reliance of\nIndia on other nations for\nsuch instruments. She also\nexplored the possibilities\nof using wind and solar\nenergy in India. Her work\nhelped India to become"
+            ],
+            [
+              "",
+              "one of the global leaders in\nrenewable energy."
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0013_vecfig01",
+          "file": "images/NCERT_fecu107_page0013_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Does the maximum and minimum temperature stay at\nthe same level during these days?\n\nBecause weather depends on several factors, these\ntemperatures usually vary every day. Generally, as we\napproach the summer season, the temperature rises and\nduring the winter season it falls.\n\nThere are many techniques for measuring\nair temperature. Air temperature is an\nimportant weather parameter and is\nmonitored at weather stations all over\nthe world. The data gathered on air\ntemperature along with various other\nparameters are used for making weather\nforecasts.\n\nMore to\nknow!\n\nKnow a scientist\n\nAnna Mani (1918-2001)\nwas an Indian scientist,\nalso known as the ‘Weather\nWoman of India’. She\ninvented and built a\nlarge number of weather\nmeasurement instruments.\nThis reduced the reliance of\nIndia on other nations for\nsuch instruments. She also\nexplored the possibilities\nof using wind and solar\nenergy in India. Her work\nhelped India to become\none of the global leaders in\nrenewable energy.\n\nTemperature and its Measurement\n\n8\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": " Curiosity | Textbook of Science| Grade 6\n136\n\n\nThe temperature of a body tells us how hot or cold it is.\n\n\nThe three most-used scales of temperature are: (a) the Celsius \nscale, (b) the Fahrenheit scale, and (c) the Kelvin scale. The units \nof temperature in these scales are (a) degree Celsius, denoted by °C, \n(b) degree Fahrenheit, denoted by °F, and (c) kelvin, denoted by K. \n\n\nThe SI unit for temperature is kelvin.\n\n\nA clinical thermometer is used for measuring body temperature.\n\n\nNormal temperature of a healthy human adult is taken to be \n37.0 °C or 98.6 °F.\n\n\nLaboratory thermometers typically have a temperature range \nfrom –10 °C to 110 °C.\nSummary\nKeywords\nAnalyse\nInvestigate\nDiscuss\nCompare\nInfer\nMeasure\nObserve\nPrecaution\nkelvin\nAir Temperature\ndegree Fahrenheit\nKelvin scale\nClinical thermometer\nCelsius Scale\ndegree Celsius\nFahrenheit scale\nLaboratory thermometer\nTemperature\nPredict\nRecord\nSI unit of temperature\nCalculate\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 973,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0014_img01",
+          "file": "images/NCERT_fecu107_page0014_img01.png",
+          "bbox": [
+            226.2200469970703,
+            473.6999816894531,
+            430.34002685546875,
+            521.9849853515625
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0014_img02",
+          "file": "images/NCERT_fecu107_page0014_img02.png",
+          "bbox": [
+            235.73995971679688,
+            52.20003128051758,
+            439.8599548339844,
+            100.48504638671875
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0014_img03",
+          "file": "images/NCERT_fecu107_page0014_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0014_img04",
+          "file": "images/NCERT_fecu107_page0014_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 15,
+      "text": "Temperature and its Measurement\n137\n1.\t\nThe normal temperature of a healthy human being is \nclose to \n .\n  (i)\t98.6 °C\n (ii)\t37.0 °C\n(iii)\t32.0 °C\n(iv)\t27.0 °C\n2. \t 37 °C is the same temperature as \n .\n  (i) 97.4 °F\n (ii)\t\t97.6 °F\n(iii)\t\t98.4 °F\n(iv)\t\t98.6 °F\n3. \t Fill in the blanks:\n  (i)\tThe hotness or coldness of a system is determined by its \n .\n (ii)\tThe temperature of ice-cold water cannot be measured \nby a \n thermometer.\n(iii)\tThe unit of temperature is degree \n .\n4. \t The range of a laboratory thermometer is usually \n.\n  (i) 10 °C to 100 °C\n (ii)\t\t–10 °C to 110 °C\n(iii)\t\t32 °C to 45 °C\n(iv)\t\t35 °C to 42 °C\n5. \t Four students used a laboratory thermometer to measure \nthe temperature of water as shown in Fig. 7.6:\nFig. 7.6\nStudent 1\nStudent 2\nStudent 3\nStudent 4\nLet us enhance our learning \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 824,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0015_img01",
+          "file": "images/NCERT_fecu107_page0015_img01.png",
+          "bbox": [
+            70.38304138183594,
+            575.7637939453125,
+            167.08172607421875,
+            675.0191650390625
+          ],
+          "width_px": 202,
+          "height_px": 207,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0015_img02",
+          "file": "images/NCERT_fecu107_page0015_img02.png",
+          "bbox": [
+            178.5451202392578,
+            575.7870483398438,
+            275.2337951660156,
+            675.0484008789062
+          ],
+          "width_px": 202,
+          "height_px": 207,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0015_img03",
+          "file": "images/NCERT_fecu107_page0015_img03.png",
+          "bbox": [
+            286.64013671875,
+            575.7483520507812,
+            383.37872314453125,
+            675.0464477539062
+          ],
+          "width_px": 202,
+          "height_px": 207,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0015_img04",
+          "file": "images/NCERT_fecu107_page0015_img04.png",
+          "bbox": [
+            394.810791015625,
+            575.7869873046875,
+            491.4975280761719,
+            675.0445556640625
+          ],
+          "width_px": 202,
+          "height_px": 207,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0015_img05",
+          "file": "images/NCERT_fecu107_page0015_img05.png",
+          "bbox": [
+            81.56861877441406,
+            48.21510314941406,
+            428.431396484375,
+            127.5867919921875
+          ],
+          "width_px": 723,
+          "height_px": 166,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0015_img06",
+          "file": "images/NCERT_fecu107_page0015_img06.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0015_img07",
+          "file": "images/NCERT_fecu107_page0015_img07.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0015_vecfig01",
+          "file": "images/NCERT_fecu107_page0015_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Let us enhance our learning\n\nThe normal temperature of a healthy human being is\nclose to ----------------------- .\n\n(i) 98.6 °C\n(ii) 37.0 °C\n(iii) 32.0 °C\n(iv) 27.0 °C\n37 °C is the same temperature as -__-_------------------ .\n(i) 97.4 °F\n(ii) 97.6 °F\n(iii) 98.4 °F\n(iv) 98.6 °F\nFill in the blanks:\n(i) The hotness or coldness of a system is determined by its\n\n(ii) The temperature of ice-cold water cannot be measured\nby a----------------------- thermometer.\n\n(iii) The unit of temperature is degree __---_-----------------.\n\nThe range of a laboratory thermometer is usually ________-..\n(i) 10 °C to 100 °C\n(ii) -10 °C to 110 °C\n\n(iii) 32 °C to 45 °C\n\n(iv) 35 °C to 42 °C\n\nFour students used a laboratory thermometer to measure\nthe temperature of water as shown in Fig. 7.6:\n\nStudent 1 Student 2 Student 3 Student 4\n\nFig. 7.6\n\nReprint 2026-27\n\nTemperature and its Measurement\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": " Curiosity | Textbook of Science| Grade 6\n138\n7. \t Observe the part of thermometer shown in Fig. 7.8 and \nanswer the following questions:\n\t\nWho do you think followed the correct way for measuring \ntemperature?\n  (i)\t\tStudent 1\n (ii)\t\tStudent 2\n(iii)\t\tStudent 3\n(iv)\t\tStudent 4\n6. \t Colour to show the red column on the drawings of \nthermometers (Fig. 7.7) as per the temperatures written \nbelow:\nFig. 7.7\nFig. 7.8\n  (i)\t\tWhat type of thermometer is it?\n (ii)\t\tWhat is the reading of the thermometer?\n(iii)\t\tWhat is the smallest value that this thermometer can \nmeasure?\n8.\t\nA laboratory thermometer is not used to measure our body \ntemperature. Give a reason.\n14 °C\n17 °C\n7.5 °C\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 695,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0016_img01",
+          "file": "images/NCERT_fecu107_page0016_img01.png",
+          "bbox": [
+            193.22738647460938,
+            225.1018524169922,
+            519.961669921875,
+            477.57830810546875
+          ],
+          "width_px": 681,
+          "height_px": 526,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0016_img02",
+          "file": "images/NCERT_fecu107_page0016_img02.png",
+          "bbox": [
+            179.4000244140625,
+            529.446533203125,
+            521.4000244140625,
+            572.6510620117188
+          ],
+          "width_px": 202,
+          "height_px": 1599,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0016_img03",
+          "file": "images/NCERT_fecu107_page0016_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0016_img04",
+          "file": "images/NCERT_fecu107_page0016_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0016_vecfig01",
+          "file": "images/NCERT_fecu107_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science| Grade 6\n\nWho do you think followed the correct way for measuring\ntemperature?\n\n(i) Student 1\n(ii) Student 2\n(iii) Student 3\n(iv) Student 4\nColour to show the red column on the drawings of\n\nthermometers (Fig. 7.7) as per the temperatures written\nbelow:\n\n14°C\n\n17 °C 7.5 °C\n\nFig. 7.7\n\nObserve the part of thermometer shown in Fig. 7.8 and\nanswer the following questions:\n\nFig. 7.8\n\n(i) What type of thermometer is it?\n(ii) What is the reading of the thermometer?\n(iii) What is the smallest value that this thermometer can\nmeasure?\nA laboratory thermometer is not used to measure our body\ntemperature. Give a reason.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Temperature and its Measurement\n139\nTemperature at\nDAY\n7am\n10am\n1pm\n4pm\n7pm\n10pm\nOne\n38.0 °C\n37.8 °C\n38.0 °C\n38.0 °C\n40.0 °C\n39.0 °C\nTwo\n38.6 °C\n38.8 °C\n39.0 °C\n39.0 °C\n39.0 °C\n38.0 °C\nThree\n37.6 °C\n37.4 °C\n37.2 °C\n37.0 °C\n36.8 °C\n36.6 °C\n9.\t\nVaishnavi has not gone to school as she is ill. Her mother \nhas kept a record of her body temperature for three days as \nshown in Table 7.4.\nTable 7.4: Body temperature record of Vaishnavi\n  (i)\t\tWhat was Vaishnavi’s highest recorded temperature?\n (ii)\t\tOn which day and at what time was Vaishnavi’s highest \ntemperature recorded?\n(iii)\t\tOn which day did Vaishnavi’s temperature return to \nnormal?\n10.\t If you have to measure the temperature 22.5 °C, which of \nthe following three thermometers will you use (Fig. 7.9)? \nExplain.\n(c)\n(a)\n(b)\nFig. 7.9: Three thermometers\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 829,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0017_img01",
+          "file": "images/NCERT_fecu107_page0017_img01.png",
+          "bbox": [
+            352.0177307128906,
+            420.37579345703125,
+            385.4693298339844,
+            690.1756591796875
+          ],
+          "width_px": 70,
+          "height_px": 563,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "p32."
+        },
+        {
+          "image_id": "NCERT_fecu107_page0017_img02",
+          "file": "images/NCERT_fecu107_page0017_img02.png",
+          "bbox": [
+            146.75857543945312,
+            420.67340087890625,
+            194.7859649658203,
+            688.0747680664062
+          ],
+          "width_px": 101,
+          "height_px": 558,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0017_img03",
+          "file": "images/NCERT_fecu107_page0017_img03.png",
+          "bbox": [
+            256.18798828125,
+            419.70391845703125,
+            305.19110107421875,
+            690.1757202148438
+          ],
+          "width_px": 103,
+          "height_px": 564,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0017_img04",
+          "file": "images/NCERT_fecu107_page0017_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0017_img05",
+          "file": "images/NCERT_fecu107_page0017_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0017_table01",
+          "bbox": [
+            70.54600143432617,
+            177.96319580078125,
+            437.76707458496094,
+            278.8699951171875
+          ],
+          "rows": [
+            [
+              null,
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "DAY",
+              "7am",
+              "10am",
+              "1pm",
+              "4pm",
+              "7pm",
+              "10pm"
+            ],
+            [
+              "One",
+              "38.0 °C",
+              "",
+              "",
+              "",
+              "",
+              "39.0 °C"
+            ],
+            [
+              null,
+              null,
+              "37.8 °C",
+              "38.0 °C",
+              "38.0 °C",
+              "40.0 °C",
+              null
+            ],
+            [
+              "Two",
+              "38.6 °C",
+              "38.8 °C",
+              "39.0 °C",
+              "39.0 °C",
+              "39.0 °C",
+              "38.0 °C"
+            ],
+            [
+              "Three",
+              "37.6 °C",
+              "37.4 °C",
+              "37.2 °C",
+              "37.0 °C",
+              "36.8 °C",
+              "36.6 °C"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0017_vecfig01",
+          "file": "images/NCERT_fecu107_page0017_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "9. Vaishnavi has not gone to school as she is ill. Her mother\nhas kept a record of her body temperature for three days as\nshown in Table 7.4.\n\nTable 7.4: Body temperature record of Vaishnavi\n\nTemperature at\n\nDAY 7am 10am ipm 4pm 7pm 10pm\n\nOne 380°C 37.8°C 38.0°C 380°C 40.0°C 39.0°C\nTwo 386°C 388°C 39.0°C 39.0°C 39.0°C 38.0°C\nThree 37.6°C 374°C 37.2°C 37.0°C 368°C 36.6°C\n\n(i) What was Vaishnavi’s highest recorded temperature?\n\n(ii) On which day and at what time was Vaishnavi’s highest\ntemperature recorded?\n\n(iii) On which day did Vaishnavi’s temperature return to\nnormal?\n\n10. If you have to measure the temperature 22.5 °C, which of\nthe following three thermometers will you use (Fig. 7.9)?\n\nExplain.\n\n2 3 8 8\n\nia et i liek kl ein |\n\n_\no\n\nTemperature and its Measurement\n\n(a) (b) (c)\n\nFig. 7.9: Three thermometers\n\n©\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": " Curiosity | Textbook of Science| Grade 6\n140\n11. \t The temperature shown by the thermometer in Fig. 7.10 is\n  (i)\t28.0 °C\n (ii)\t\t27.5 °C\n(iii)\t\t26.5 °C\n(iv)\t\t25.3 °C\n12. \t A laboratory thermometer has 50 divisions between 0 °C \nand 100 °C. What does each division of this thermometer \nmeasure?   \n13.\t Draw the scale of a thermometer in which the smallest \ndivision reads 0.5 °C. You may draw only the portion \nbetween 10 °C and 20 °C.\n14.\t Komal tells you that she has a fever of 101 degrees. Does she \nmean it on the Celsius scale or Fahrenheit scale? \n\n\nGather information from the  Internet and find out how \nthe body temperature of animals, such as a cat, dog, \nhorse, camel, cow and buffalo, is measured. If there is any \nveterinary hospital in your vicinity, you may visit to see the \nbody temperature of animals being measured.\n\n\nFind out which places in India are usually regarded to be \nthe coldest and hottest. Also, find out the minimum and the \nmaximum temperatures recorded for these places.\n\n\nVarious planets in our Solar System are at different distances \nfrom the Sun. Search the Internet and make a table with \nthe planets, their distances from the Sun (in increasing \norder) and their temperatures written. Does the average \ntemperature of planets decrease as their distance from the \nSun increases? If it is not true for any planet, find out for \nwhich planet and why.\n\n\nHang a room thermometer in your classroom. Set up the \napparatus, as shown in Fig. 7.11, near the thermometer hung \non the wall. \n\t\nTake the readings of thermometers 1 and 2 three times \nduring the day, say, first period, lunch break, and last period. \nFig. 7.10\nLearning further \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1697,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0018_img01",
+          "file": "images/NCERT_fecu107_page0018_img01.png",
+          "bbox": [
+            277.2021484375,
+            108.46246337890625,
+            522.4016723632812,
+            135.85704040527344
+          ],
+          "width_px": 115,
+          "height_px": 1022,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "s\n\n8\n\n8\n\n25\n\n8\n\nte)\n\n=\nS\n\n5)\n\n(=)"
+        },
+        {
+          "image_id": "NCERT_fecu107_page0018_img02",
+          "file": "images/NCERT_fecu107_page0018_img02.png",
+          "bbox": [
+            176.90463256835938,
+            305.3494873046875,
+            499.7065124511719,
+            369.8623352050781
+          ],
+          "width_px": 673,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0018_img03",
+          "file": "images/NCERT_fecu107_page0018_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0018_img04",
+          "file": "images/NCERT_fecu107_page0018_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0018_vecfig01",
+          "file": "images/NCERT_fecu107_page0018_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science| Grade 6\n\n6\n\n11.\n\n12.\n\n13.\n\n14.\n\nThe temperature shown by the thermometer in Fig. 7.10 is\n(i) 28.0 °C\n\nG)27.5°C eee\n(iii) 26.5 °C o «7 8 &» 8 F&F 8 B 8B\n(iv) 25.3 °C Fig. 7.10\n\nA laboratory thermometer has 50 divisions between 0 °C\nand 100 °C. What does each division of this thermometer\nmeasure?\n\nDraw the scale of a thermometer in which the smallest\ndivision reads 0.5 °C. You may draw only the portion\nbetween 10 °C and 20 °C.\n\nKomal tells you that she has a fever of 101 degrees. Does she\nmean it on the Celsius scale or Fahrenheit scale?\n\n4\n\nLearning further ‘)\n\nGather information from the Internet and find out how\nthe body temperature of animals, such as a cat, dog,\nhorse, camel, cow and buffalo, is measured. If there is any\nveterinary hospital in your vicinity, you may visit to see the\nbody temperature of animals being measured.\n\nFind out which places in India are usually regarded to be\nthe coldest and hottest. Also, find out the minimum and the\nmaximum temperatures recorded for these places.\n\nVarious planets in our Solar System are at different distances\nfrom the Sun. Search the Internet and make a table with\nthe planets, their distances from the Sun (in increasing\norder) and their temperatures written. Does the average\ntemperature of planets decrease as their distance from the\nSun increases? If it is not true for any planet, find out for\nwhich planet and why.\n\nHang a room thermometer in your classroom. Set up the\napparatus, as shown in Fig. 7.11, near the thermometer hung\non the wall.\n\nTake the readings of thermometers 1 and 2 three times\nduring the day, say, first period, lunch break, and last period.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "Temperature and its Measurement\n141\nThe temperature at the core of the Sun reaches \nas high as 15 million degrees Celsius. Are \nthere objects in the sky that have even higher \ntemperatures? There is no limit on the highest \ntemperature that can exist. However, as per \nscientific understanding, there is a limit to the \nlowest temperature that can be achieved. It \nis close to –273.15 °C (0 kelvin) and is called \nabsolute zero.\nMore to \nknow!\nFig. 7.11: Set up to measure temperature of water and room temperature\nThermometer 1 \n(Room thermometer)\nThermometer 2  \n(Laboratory thermometer)\nBeaker\nWater\nRecord your readings. Compare the readings and draw \nyour conclusions. Repeat this for two weeks. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 718,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0019_img01",
+          "file": "images/NCERT_fecu107_page0019_img01.png",
+          "bbox": [
+            58.732025146484375,
+            450.255615234375,
+            457.588134765625,
+            636.94921875
+          ],
+          "width_px": 831,
+          "height_px": 389,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0019_img02",
+          "file": "images/NCERT_fecu107_page0019_img02.png",
+          "bbox": [
+            83.4806900024414,
+            109.262451171875,
+            426.8392639160156,
+            383.67242431640625
+          ],
+          "width_px": 716,
+          "height_px": 572,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0019_img03",
+          "file": "images/NCERT_fecu107_page0019_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0019_img04",
+          "file": "images/NCERT_fecu107_page0019_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0019_vecfig01",
+          "file": "images/NCERT_fecu107_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Record your readings. Compare the readings and draw\nyour conclusions. Repeat this for two weeks.\n\nFig. 7.11: Set up to measure temperature of water and room temperature\n\nReprint 2026-27\n\nTemperature and its Measurement\n\n8)"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Notes\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 22,
+      "images": [
+        {
+          "image_id": "NCERT_fecu107_page0020_img01",
+          "file": "images/NCERT_fecu107_page0020_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu107_page0020_img02",
+          "file": "images/NCERT_fecu107_page0020_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu107_page0020_vecfig01",
+          "file": "images/NCERT_fecu107_page0020_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Notes\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+26
+If a ship travelled at a speed of 50 
+kmph and it sailed for five hours, how 
+much distance it has travelled? 
+Distance = s × t 
+	
+= 50 kmph × 5 h = 250 km 
+If we know the speed and distance 
+travelled we can compute the time taken. 
+s = d
+t   or  t = d
+s  
+Time taken = Distance travelled / Speed
+Suppose a bus travels at a speed of 
+50 kmph and has to cover a distance of 
+300 km, how much time will it take? 
+t = d
+s = 300 km/50 kmph = 6 h. 
+Compute the following Numerical 
+Problems.
+1.	 If you travel 10 kilometres in 2 hours, 
+your speed is       km per hour.
+2.	 If you travel 15 kilometres in 1/2 hour, 
+you would travel       km in one hour, 
+and your speed is       km per hour.
+3.	 If you run fast at 20 kilometres per hour 
+for 2 hours, you will cover       km
+If you know the speed  of an object 
+and the time taken by it, then we can 
+compute how much distance it had 
+travelled.
+We know that,
+Speed = Distance travelled
+Time taken
+ 
+s = d
+t or st = d
+Therefore, the distance travelled 
+(d) = speed  (s) × time (t).
+d = s × t
+S. No
+Name of the 
+Student
+Distance
+Time taken  
+(in seconds)
+Speed = 
+
+Distance travelled
+Time taken
+Speed (m/s)
+1
+Murugesan
+100 m
+12 S
+100 M / 12 S
+8.3 m/s 
+2
+100 m
+3
+100 m
+4
+100 m
+5
+100 m
+Our speed...
+Let us play a small game. Go to the playground with your friends. Mark 100 metre 
+distance for a race. Conduct a friendly running race and calculate the time taken by 
+them to complete the distance. Now record the time in the table.
+Usain Bolt crossed 100 metre in 9.58 
+seconds and made a world record. If 
+you are able to run faster than him, 
+then Olympic Gold Medal is waiting 
+for you. 

@@ -1,0 +1,25 @@
+2 8
+Through this activity you will 
+be able to form a simple circuit.
+Simple Circuit’s URL:
+http://www.physics-chemistry-interactive-flash-animation.com/
+electricity_electromagnetism_interactive/simple_circuit.htm
+Series and parallel circuits url
+http://www.physics-chemistry-interactive-flash-animation.com/
+electricity_electromagnetism_interactive/components_circuits_
+association-series_parallel.htm
+ICT Corner
+Step 1: Use the given URL in the browser. ‘Simple Circuit will open. 
+Step 2: In right side of the activity window there are diagrams of some wires and 
+in the left side diagrams of a battery, switch and a bulb are given.
+Step 3: By using the mouse drag and drop the wires to the battery and switch to 
+make connections. Click on the switch, if the circuit is formed correctly the 
+bulb will glow.
+Step 4: Use the second URL to try Series and parallel circuits. 
+Step 1
+Step 2
+Step 3
+*Pictures are indicative only
+Electricity
+6th Science_IInd Term English Book_Unit_2.indd   28
+08/07/2022   17:23:02

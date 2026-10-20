@@ -1,0 +1,2680 @@
+{
+  "source_file": "data\\NCERT\\fecu102.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu102",
+  "num_pages": 26,
+  "extraction_method": "native",
+  "native_page_count": 26,
+  "ocr_page_count": 0,
+  "total_images": 100,
+  "images_with_text": 2,
+  "total_tables": 7,
+  "total_vector_figures": 25,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Diversity in the Living World\n2\nछायामनयसय कुर्वन्ति तितिष्ठन्ति स्वयमातपे । \nफलान्यपि परार्थाय वृक्षाः सतपुरुषा इव ॥\n(सुभाषित)\nTrees stand in the Sun and give shade to others. Their \nfruits are also for others. Likewise, good people bear all \nhardships and bring welfare to others. They give to others \nwhatever they have earned.\n(Wise saying)\nIt is a pleasant morning after yesterday’s refreshing rain. \nDr Raghu and Maniram chacha (uncle) have been invited \nto the school by the science teacher, Madam Sulekha, to \nChapter\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 541,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0001_img01",
+          "file": "images/NCERT_fecu102_page0001_img01.png",
+          "bbox": [
+            -17.879974365234375,
+            -18.599960327148438,
+            612.1199951171875,
+            191.9254150390625
+          ],
+          "width_px": 1315,
+          "height_px": 438,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0001_img02",
+          "file": "images/NCERT_fecu102_page0001_img02.png",
+          "bbox": [
+            89.26765441894531,
+            389.1316223144531,
+            420.73236083984375,
+            645.263427734375
+          ],
+          "width_px": 691,
+          "height_px": 534,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0001_img03",
+          "file": "images/NCERT_fecu102_page0001_img03.png",
+          "bbox": [
+            474.44000244140625,
+            190.40005493164062,
+            559.4000244140625,
+            275.36004638671875
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": "(0677CHO2"
+        },
+        {
+          "image_id": "NCERT_fecu102_page0001_img04",
+          "file": "images/NCERT_fecu102_page0001_img04.png",
+          "bbox": [
+            47.000022888183594,
+            178.4000244140625,
+            463.5709228515625,
+            369.51513671875
+          ],
+          "width_px": 868,
+          "height_px": 399,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0001_img05",
+          "file": "images/NCERT_fecu102_page0001_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0001_img06",
+          "file": "images/NCERT_fecu102_page0001_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0001_vecfig01",
+          "file": "images/NCERT_fecu102_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Diversity in the Living World\n\nTrees stand in the Sun and give shade to others. Their\nfruits are also for others. Likewise, good people bear all\nhardships and bring welfare to others. They give to others\nwhatever they have earned. 9\n\n(Wise saying)\n\nIt is a pleasant morning after yesterday’s refreshing rain.\nDr Raghu and Maniram chacha (uncle) have been invited\nto the school by the science teacher, Madam Sulekha, to\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Curiosity | Textbook of Science | Grade 6\n10\nWow! It is \namazing how \neach bird has \nits own unique \nchirp.\nfacilitate an exciting nature walk. Dr Raghu is a scientist at \nthe nearby Research Laboratory and Maniram chacha is an \nelderly person from a nearby community. Maniram chacha \nis an expert in mimicking bird calls. He is also brilliant at \nidentifying a variety of plants and animals. \nTo prepare them for the nature walk, Dr Raghu informs \nthe students that the objective of this walk is to experience \nthe beauty and variety of plants and animals in the nature. \nThe students are excited to join them. They are curious \nto interact and learn from them. The teacher advises the \nstudents to carry a notebook, a pen and a water bottle.\nAs they walk, they begin exploring the plants and animals \naround them. Dr Raghu advises the students to notice the \nvariety of smells in the park and emphasises respecting all \nliving creatures and observing them without disturbing. \nManiram chacha tells the students to not only observe different \nplants and animals but also to carefully listen to different \nsounds. The students come across a variety of plants, including \ngrasses, bushes, and large trees. They also observe a variety \nof birds sitting on the branches of trees, butterflies moving \nfrom flower to flower and monkeys jumping from one tree \nto another. They record their observations in their notebooks \nand discuss them with Dr Raghu and Maniram chacha.\nThe students can hear the chirping of birds. Dr Raghu \ninforms them that each bird has a unique chirp. This is an \nexample of diversity in nature. Dr Raghu requests Maniram \nchacha to mimic calls of some birds. Maniram chacha \nmimics different bird calls. The students enthusiastically \nstart copying him.\nHave you ever observed different plants and animals \naround you? Share and discuss your observations with your \nfriends and teacher.\n2.1\t Diversity in Plants and Animals Around Us\nActivity 2.1: Let us explore and record \n\n\nPlan a nature walk with your teacher to a park or a \nnearby forest.\n\n\nWhile on the nature walk, observe different plants, \ninsects, birds, and other animals. Also, note the weather \nconditions, whether it is hot, cold, windy and so on.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2253,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0002_img01",
+          "file": "images/NCERT_fecu102_page0002_img01.png",
+          "bbox": [
+            64.74810028076172,
+            459.7674255371094,
+            153.97518920898438,
+            556.021728515625
+          ],
+          "width_px": 186,
+          "height_px": 201,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0002_img02",
+          "file": "images/NCERT_fecu102_page0002_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0002_img03",
+          "file": "images/NCERT_fecu102_page0002_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0002_vecfig01",
+          "file": "images/NCERT_fecu102_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "facilitate an exciting nature walk. Dr Raghu is a scientist at\nthe nearby Research Laboratory and Maniram chacha is an\nelderly person from a nearby community. Maniram chacha\nis an expert in mimicking bird calls. He is also brilliant at\nidentifying a variety of plants and animals.\n\nTo prepare them for the nature walk, Dr Raghu informs\nthe students that the objective of this walk is to experience\nthe beauty and variety of plants and animals in the nature.\nThe students are excited to join them. They are curious\nto interact and learn from them. The teacher advises the\nstudents to carry a notebook, a pen and a water bottle.\n\nAs they walk, they begin exploring the plants and animals\naround them. Dr Raghu advises the students to notice the\nvariety of smells in the park and emphasises respecting all\nliving creatures and observing them without disturbing.\nManiram chacha tells the students to not only observe different\nplants and animals but also to carefully listen to different\nsounds. The students come across a variety of plants, including\n\nSol ines grasses, bushes, and large trees. They also observe a variety\na of birds sitting on the branches of trees, butterflies moving\namazing how . .\neach bird has from flower to flower and monkeys jumping from one tree\nitsown unique _ to another. They record their observations in their notebooks\nchirp. and discuss them with Dr Raghu and Maniram chacha.\n\nThe students can hear the chirping of birds. Dr Raghu\ninforms them that each bird has a unique chirp. This is an\nexample of diversity in nature. Dr Raghu requests Maniram\nchacha to mimic calls of some birds. Maniram chacha\nmimics different bird calls. The students enthusiastically\nstart copying him.\n\nHave you ever observed different plants and animals\naround you? Share and discuss your observations with your\nfriends and teacher.\n\nmu 2.1 Diversity in Plants and Animals Around Us\n\nActivity 2.1: Let us explore and record Se\n\nPlan a nature walk with your teacher to a park or a\nnearby forest.\n\nWhile on the nature walk, observe different plants,\ninsects, birds, and other animals. Also, note the weather\nconditions, whether it is hot, cold, windy and so on.\n\nCuriosity | Textbook of Science | Grade 6\n\ne\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Diversity in the Living World\n11\n\n\nYou can collect different types of fallen leaves or \nflowers and create a scrapbook. \n\n\nTake care of the plants and animals in nature. Ensure \nthat you do not disturb the plants and animals in the \npark. Do not pluck leaves and flowers. \n\n\nRecord your observations in Table 2.1 about the \nfeatures of stems, leaves, flowers and anything \ninteresting in various plants. Some examples have been \ngiven for you in Fig. 2.1 and Table 2.1.\nTable 2.1: Observations of different plants around us\nS. no.\nLocal \nname of \nplant\nStem\nLeaves (shape/ \narrangement of \nleaves)\nFlowers\nAny other \nobservations \nand features\n1.\nCommon \ngrass\nSoft and \nthin\nA single leaf grows \nalternatively from \ndifferent points on \nthe stem\nGreen leaves\n2.\nTulsi\nHard \nand thin\nArrangement of \na pair of leaves \nin the opposite \ndirections\nPinkish \npurple\n3.\nHibiscus\nHard\n4.\nNeem\nHard \nand \nthick\nLeaves with \nsmooth \nsurface\n5.\nAny other\nFig. 2.1: Examples of different features of some plants\n(c) Hibiscus (Gudhal)\n(a) Grass\n(b) Tulsi (Holy Basil)\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1079,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0003_img01",
+          "file": "images/NCERT_fecu102_page0003_img01.png",
+          "bbox": [
+            317.82452392578125,
+            225.3914031982422,
+            420.5590515136719,
+            325.9915771484375
+          ],
+          "width_px": 214,
+          "height_px": 210,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0003_img02",
+          "file": "images/NCERT_fecu102_page0003_img02.png",
+          "bbox": [
+            75.73960876464844,
+            223.33314514160156,
+            151.49148559570312,
+            333.2646789550781
+          ],
+          "width_px": 158,
+          "height_px": 229,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0003_img03",
+          "file": "images/NCERT_fecu102_page0003_img03.png",
+          "bbox": [
+            173.69186401367188,
+            235.13255310058594,
+            299.5765380859375,
+            320.3086242675781
+          ],
+          "width_px": 263,
+          "height_px": 178,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0003_img04",
+          "file": "images/NCERT_fecu102_page0003_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0003_img05",
+          "file": "images/NCERT_fecu102_page0003_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0003_table01",
+          "bbox": [
+            72.4727290760387,
+            470.384765625,
+            503.01589410955256,
+            700.5105895996094
+          ],
+          "rows": [
+            [
+              "1.",
+              "Common\ngrass",
+              "Soft and\nthin",
+              "A single leaf grows\nalternatively from\ndifferent points on\nthe stem",
+              "",
+              "Green leaves"
+            ],
+            [
+              "2.",
+              "Tulsi",
+              "Hard\nand thin",
+              "Arrangement of\na pair of leaves\nin the opposite\ndirections",
+              "Pinkish\npurple",
+              ""
+            ],
+            [
+              "3.",
+              "Hibiscus",
+              "Hard",
+              "",
+              "",
+              ""
+            ],
+            [
+              "4.",
+              "Neem",
+              "Hard\nand\nthick",
+              "",
+              "",
+              "Leaves with\nsmooth\nsurface"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "5.",
+              "Any other",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0003_vecfig01",
+          "file": "images/NCERT_fecu102_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "You can collect different types of fallen leaves or\nflowers and create a scrapbook.\n\n¢ Take care of the plants and animals in nature. Ensure\nthat you do not disturb the plants and animals in the\npark. Do not pluck leaves and flowers.\n\n¢ Record your observations in Table 2.1 about the\nfeatures of stems, leaves, flowers and anything\ninteresting in various plants. Some examples have been\ngiven for you in Fig. 2.1 and Table 2.1.\n\n(a) Grass\n\nS. no.\n\n(b) Tulsi (Holy Basil) (c) Hibiscus (Gudhal)\n\nFig. 2.1: Examples of different features of some plants\n\nTable 2.1: Observations of different plants around us\n\nLocal\nname of\nplant\n\nCommon\ngrass\n\nTulsi\n\nHibiscus\n\nNeem\n\nAny other\n\nStem\n\nSoft and\nthin\n\nHard\nand thin\n\nHard\nHard\n\nand\nthick\n\nLeaves (shape/ Any other\narrangementof Flowers observations\nleaves) and features\n\nA single leaf grows\nalternatively from\n\ndifferent points on GIRSEED TEENIE\n\nthe stem\n\nArrangement of\n\na pair of leaves Pinkish\nin the opposite purple\ndirections\n\nLeaves with\nsmooth\nsurface\n\nReprint 2026-27\n\nDiversity in the Living World\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Curiosity | Textbook of Science | Grade 6\n12\nWhat similarities and differences did you find among the \nplants that you observed?\nYou must have observed that plants have a variety of \nfeatures such as—\n\n\ntall/short, hard/soft stem \n\n\ndifferent shapes of leaves and their arrangement on \nthe stem or branches\n\n\nflowers varying in colour, shape, and scent\nNow, create a list of animals you observed during this \nwalk or from your previous experiences. Record the places \nwhere they live, the food they eat and the way they move \naround in Table 2.2. Some examples have been provided \nfor you.\nTable 2.2: Observations of different animals around us\nName of  \nthe animal \n(local name)\nPlace where \nthey live\nFood they \neat\nThe way \nthey move \naround\nAny other \nobservations \nand features\nCrow\nTree\nInsects\nFly and walk\nCarrying a \ntwig in its \nbeak\nAnt\nNest in soil \nand burrow\nLeaves, seeds \nand insects\nHave six legs\nCow\nGrasses, \nleaves\nAny other\nWhat are the similarities and differences among the \nanimals that you have observed and recorded in Table 2.2?\nYou would have observed that some animals live on land \nwhile some others live on trees. Birds live on trees. Fish live \nin water and some animals like frogs live on land as well \nas in water. Animals consume a diverse range of foods and \nexhibit a variety of movements. \nSketch the plants and animals observed by you in your \nnotebook or prepare a scrapbook with leaves, flowers from \ndifferent plants and feathers from animals. Write all the \ndetails you have gathered about them.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1561,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0004_img01",
+          "file": "images/NCERT_fecu102_page0004_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0004_img02",
+          "file": "images/NCERT_fecu102_page0004_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0004_table01",
+          "bbox": [
+            89.52000172932942,
+            381.16481018066406,
+            520.8149841308593,
+            537.0401611328125
+          ],
+          "rows": [
+            [
+              "Crow",
+              "Tree",
+              "Insects",
+              "Fly and walk",
+              "Carrying a\ntwig in its\nbeak"
+            ],
+            [
+              "Ant",
+              "Nest in soil\nand burrow",
+              "Leaves, seeds\nand insects",
+              "",
+              "Have six legs"
+            ],
+            [
+              "Cow",
+              "",
+              "Grasses,\nleaves",
+              "",
+              ""
+            ],
+            [
+              "Any other",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0004_vecfig01",
+          "file": "images/NCERT_fecu102_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nrs\n\nWhat similarities and differences did you find among the\nplants that you observed?\n\nYou must have observed that plants have a variety of\nfeatures such as—\n\ntall/short, hard/soft stem\n\ndifferent shapes of leaves and their arrangement on\nthe stem or branches\n\nflowers varying in colour, shape, and scent\n\nNow, create a list of animals you observed during this\nwalk or from your previous experiences. Record the places\nwhere they live, the food they eat and the way they move\naround in Table 2.2. Some examples have been provided\nfor you.\n\nTable 2.2: Observations of different animals around us\n\nName of Place where Food they The way Any other\nthe animal they live eat they move _ observations\n(local name) around and features\nCarrying a\nCrow Tree Insects Fly and walk _ twig inits\nbeak\n\nAnt\n\nCow\n\nAny other\n\nNest in soil Leaves, seeds\n\n‘ Have six legs\nand burrow and insects 8\n\nGrasses,\nleaves\n\nWhat are the similarities and differences among the\nanimals that you have observed and recorded in Table 2.2?\n\nYou would have observed that some animals live on land\nwhile some others live on trees. Birds live on trees. Fish live\nin water and some animals like frogs live on land as well\nas in water. Animals consume a diverse range of foods and\nexhibit a variety of movements.\n\nSketch the plants and animals observed by you in your\nnotebook or prepare a scrapbook with leaves, flowers from\ndifferent plants and feathers from animals. Write all the\ndetails you have gathered about them.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Diversity in the Living World\n13\nWhile travelling to and from school, observe your \nsurroundings and look out for a variety of plants and \nanimals. Add the name of any plant or animal that you have \nnot listed before in Tables 2.1 and 2.2. \nActivity 2.2: Let us appreciate\n\n\nClose your eyes for 30 seconds and think of one plant \nand one animal that you have closely observed and \nappreciated very much. \n\n\nNow each one of you can draw the plant and animal \nthat you thought of on the blackboard. \n\n\nWhat are your observations about the various plants \nand animals that have been drawn?\n\n\nHow many different plants and animals did the entire \nclass draw on the blackboard?\n\n\nDo you think that there may be many more varieties \nof plants and animals other than those drawn on \nthe board? \nThe variety of plants and animals found in a particular \nregion contributes to the biodiversity of that region. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 927,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0005_img01",
+          "file": "images/NCERT_fecu102_page0005_img01.png",
+          "bbox": [
+            84.19884490966797,
+            276.5365295410156,
+            484.2510986328125,
+            593.43603515625
+          ],
+          "width_px": 834,
+          "height_px": 661,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0005_img02",
+          "file": "images/NCERT_fecu102_page0005_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0005_img03",
+          "file": "images/NCERT_fecu102_page0005_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0005_vecfig01",
+          "file": "images/NCERT_fecu102_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "While travelling to and from school, observe your\nsurroundings and look out for a variety of plants and\nanimals. Add the name of any plant or animal that you have\nnot listed before in Tables 2.1 and 2.2.\n\nActivity 2.2: Let us appreciate a\n\n¢ Close your eyes for 30 seconds and think of one plant\nand one animal that you have closely observed and\nappreciated very much.\n\n@ Now each one of you can draw the plant and animal\nthat you thought of on the blackboard.\n\n¢ What are your observations about the various plants\nand animals that have been drawn?\n\n¢ How many different plants and animals did the entire\nclass draw on the blackboard?\n¢ Do you think that there may be many more varieties\nof plants and animals other than those drawn on\nthe board?\nThe variety of plants and animals found in a particular\nregion contributes to the biodiversity of that region.\n\nDiversity in the Living World\n\n©\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Curiosity | Textbook of Science | Grade 6\n14\nEach member in the biodiversity of a region has a different \nrole to play. For example, trees provide food and shelter to \nsome birds and other animals, animals help in spreading \nseeds after eating fruits, and so on. Can you think of more \nsuch examples? This shows that plants and animals are \ndependent on each other.\n2.2\t How to Group Plants and Animals?\nHow would you arrange your books and notebooks in \ngroups? Would arranging them in groups help you better \norganise your school bag? \nNow, let us look at the world around us. We are \nsurrounded by a variety of plants and animals with different \nfeatures about which you have learnt in section 2.1. We \ncan group them based on similarities and differences \namong them. \nActivity 2.3: Let us group\n\n\nCollect pictures of various other plants and animals. Cut \ntheir pictures from old magazines, newspapers, charts \nand other sources. Paste each of these pictures on a \ndifferent card. \n\n\nDivide your class in groups of 5–6 students each. \n\n\nPool the cards prepared by the students in your group. \n\n\nObserve various features of plants and animals shown \non the cards. \n\n\nRecall the features of plants and animals that you have \nlisted in Tables 2.1 and 2.2.\n\n\nGroup them on the basis of common features. \n\n\nShare and discuss the basis of grouping you have made \nwith other groups in your class. \nYou will be surprised to see that the basis used by different \ngroups may vary. What do you think are the reasons behind \nit? Different students might have chosen different common \nfeatures for the grouping. For example, some students may \nhave chosen the height of plants as the basis for grouping \nwhile others might have chosen presence or absence of \nflowers as the basis for grouping of plants (See Fig. 2.2). \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1842,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0006_img01",
+          "file": "images/NCERT_fecu102_page0006_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0006_img02",
+          "file": "images/NCERT_fecu102_page0006_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0006_vecfig01",
+          "file": "images/NCERT_fecu102_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\ne\n\nEach member in the biodiversity of a region has a different\nrole to play. For example, trees provide food and shelter to\nsome birds and other animals, animals help in spreading\nseeds after eating fruits, and so on. Can you think of more\nsuch examples? This shows that plants and animals are\ndependent on each other.\n\n2.2 How to Group Plants and Animals?\n\nHow would you arrange your books and notebooks in\ngroups? Would arranging them in groups help you better\norganise your school bag?\n\nNow, let us look at the world around us. We are\nsurrounded by a variety of plants and animals with different\nfeatures about which you have learnt in section 2.1. We\ncan group them based on similarities and differences\namong them.\n\nActivity 2.3: Let US QrOUp: aE\n\nCollect pictures of various other plants and animals. Cut\ntheir pictures from old magazines, newspapers, charts\nand other sources. Paste each of these pictures on a\ndifferent card.\n\nDivide your class in groups of 5-6 students each.\n\nPool the cards prepared by the students in your group.\nObserve various features of plants and animals shown\non the cards.\n\nRecall the features of plants and animals that you have\nlisted in Tables 2.1 and 2.2.\n\nGroup them on the basis of common features.\n\nShare and discuss the basis of grouping you have made\nwith other groups in your class.\n\nYou will be surprised to see that the basis used by different\ngroups may vary. What do you think are the reasons behind\nit? Different students might have chosen different common\nfeatures for the grouping. For example, some students may\nhave chosen the height of plants as the basis for grouping\nwhile others might have chosen presence or absence of\nflowers as the basis for grouping of plants (See Fig. 2.2).\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Diversity in the Living World\n15\nYou may have grouped animals based on varied features, \nsuch as what they eat, where they live, what colour they are \nand how they move.\nWhat is the importance of grouping? Grouping makes it \neasier to understand and study plants and animals on the \nbasis of their similarities and differences. \nYou will learn more about the importance of grouping in \nour daily lives in the chapter, ‘Materials Around Us’.\n2.2.1\tHow to group plants? \nYou must have noticed that plants show variation in the \nfeatures related to stems, leaves, flowers, and more. The \nstems of different plants vary in thickness, height, and \nhardness, while the leaves vary in shape, colour, size and \narrangement. You might have tried grouping the plants in \nActivity 2.3 using one of these features.\nYou might have also learnt in earlier classes that plants \ncan be grouped into herbs, shrubs, and trees based on their \nheight and types of stem. Let us study the features of plants \nin more detail and group them on that basis.\nActivity 2.4: Let us group\n\n\nLet us go on a nature walk again for some more \ninteresting observations.\n\n\nLook closely at the height of different plants. Are \nthese plants shorter than you, as tall as you, or taller \nthan you? \n\n\nIs the stem brown or green? Touch and feel the stems \nand try to bend them gently. Can you bend the stem \neasily, or is it stiff? Take care that the stems do not break. \n\n\nAlso, observe from where the branches of the plants \narise—whether they arise close to the ground or higher \nup on the stem. Fill in your observations in Table 2.3. \nA few examples are already given.\nFig. 2.2: Some possible criteria of groupings of plants and animals\nPresence/ \nabsence of \nflowers\nHard/soft \nstem\nEating \nhabits\nPlace they \nlive\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1803,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0007_img01",
+          "file": "images/NCERT_fecu102_page0007_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0007_img02",
+          "file": "images/NCERT_fecu102_page0007_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0007_vecfig01",
+          "file": "images/NCERT_fecu102_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Presence/\n\nHard/soft Eating Place they\nstem habits live\n\nabsence of\nflowers\n\nFig. 2.2: Some possible criteria of groupings of plants and animals\n\nYou may have grouped animals based on varied features,\nsuch as what they eat, where they live, what colour they are\nand how they move.\n\nWhat is the importance of grouping? Grouping makes it\neasier to understand and study plants and animals on the\nbasis of their similarities and differences.\n\nYou will learn more about the importance of grouping in\nour daily lives in the chapter, ‘Materials Around Us’.\n\n2.2.1 How to group plants?\n\nYou must have noticed that plants show variation in the\nfeatures related to stems, leaves, flowers, and more. The\nstems of different plants vary in thickness, height, and\nhardness, while the leaves vary in shape, colour, size and\narrangement. You might have tried grouping the plants in\nActivity 2.3 using one of these features.\n\nYou might have also learnt in earlier classes that plants\ncan be grouped into herbs, shrubs, and trees based on their\nheight and types of stem. Let us study the features of plants\nin more detail and group them on that basis.\n\nActivity 2.4: Let Us GrOUp = =—=—_\n\n¢ Let us go on a nature walk again for some more\ninteresting observations.\n\n@ Look closely at the height of different plants. Are\nthese plants shorter than you, as tall as you, or taller\nthan you?\n\n@ Is the stem brown or green? Touch and feel the stems\nand try to bend them gently. Can you bend the stem\neasily, or is it stiff? Take care that the stems do not break.\n\n¢ Also, observe from where the branches of the plants\narise—whether they arise close to the ground or higher\nup on the stem. Fill in your observations in Table 2.3.\nA few examples are already given.\n\nDiversity in the Living World\n\n©\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Curiosity | Textbook of Science | Grade 6\n16\nS. \nno.\nName of \nthe plant\nHeight\nNature of stem\nAppearance of \nbranches\nName \nof plant \ngroup\nShort/\nMedium/\nTall\nGreen/ \nBrown\nTender/ \nHard\nThick/\nThin\nClose \nto the \nground\nHigher \nup on \nthe \nstem\n1.\nMango\nTall\nBrown\nHard\nThick\nYes\nTree\n2.\nRose\nMedium\nBrown\nHard\nThin\nYes\nShrub\n3.\nTomato\nShort\nGreen\nTender\nThin\nYes\nHerb\n(a) Tree\nFig. 2.3: Types of plants\n(c) Herb\n(b) Shrub\nWhat differences do you observe \namong herbs, shrubs, and trees? How \ncan you group plants as herbs, shrubs, \nand trees based on the data entered in \nTable 2.3? \nSome plants grow really tall and have \nhard, thick, brown, and woody stems. \nTheir branches typically start higher up \non the stem and away from the ground. \nThese plants are called trees. For \nexample, a mango tree (Fig. 2.3a).\nTable 2.3: Grouping of plants based on height and nature of stem\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 897,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0008_img01",
+          "file": "images/NCERT_fecu102_page0008_img01.png",
+          "bbox": [
+            98.40443420410156,
+            399.81488037109375,
+            252.43133544921875,
+            536.9345092773438
+          ],
+          "width_px": 321,
+          "height_px": 286,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0008_img02",
+          "file": "images/NCERT_fecu102_page0008_img02.png",
+          "bbox": [
+            119.58991241455078,
+            577.29296875,
+            285.272705078125,
+            711.7445068359375
+          ],
+          "width_px": 346,
+          "height_px": 281,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0008_img03",
+          "file": "images/NCERT_fecu102_page0008_img03.png",
+          "bbox": [
+            338.0484619140625,
+            578.3135986328125,
+            503.39996337890625,
+            712.4879150390625
+          ],
+          "width_px": 345,
+          "height_px": 280,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0008_img04",
+          "file": "images/NCERT_fecu102_page0008_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0008_img05",
+          "file": "images/NCERT_fecu102_page0008_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0008_table01",
+          "bbox": [
+            49.39221394856771,
+            139.79998779296875,
+            520.1041107177734,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              null,
+              null,
+              null,
+              "Short/\nMedium/\nTall",
+              "Green/\nBrown",
+              "Tender/\nHard",
+              "Thick/\nThin",
+              "Close\nto the\nground",
+              "Higher\nup on\nthe",
+              null
+            ],
+            [
+              null,
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "stem",
+              ""
+            ],
+            [
+              "",
+              "1.",
+              "Mango",
+              "Tall",
+              "Brown",
+              "",
+              "Thick",
+              "",
+              "Yes",
+              "Tree"
+            ],
+            [
+              null,
+              null,
+              null,
+              null,
+              null,
+              "Hard",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              "",
+              "2.",
+              "Rose",
+              "Medium",
+              "Brown",
+              "Hard",
+              "Thin",
+              "Yes",
+              "",
+              "Shrub"
+            ],
+            [
+              "",
+              "3.",
+              "Tomato",
+              "Short",
+              "Green",
+              "Tender",
+              "Thin",
+              "Yes",
+              "",
+              "Herb"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "What differences do you observe\namong herbs, shrubs, and trees? How\ncan you group plants as herbs, shrubs,\nand trees based on the data entered in\nTable 2.3?\nSome plants grow really tall and have\nhard, thick, brown, and woody stems.\nTheir branches typically start higher up\n6\nGrade\non the stem and away from the ground.\nThese plants are called trees. For\n(a) Tree |\nScience\nexample, a mango tree (Fig. 2.3a).\nof\nTextbook\n|\nosity",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0008_vecfig01",
+          "file": "images/NCERT_fecu102_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "no.\n\nCuriosity | Textbook of Science | Grade 6\n\nTable 2.3: Grouping of plants based on height and nature of stem\n\nName of Height Nature of stem Appearance of Name\nthe plant branches of plant\n\nShort/.  Green/ Tender/ Thick/ Close Higher group\nMedium/ Brown Hard Thin tothe upon\n\nTall ground the\n\nstem\nMango Tall Brown Hard Thick Yes Tree\nRose Medium Brown Hard Thin Yes Shrub\nTomato Short Green Tender Thin Yes Herb\n\nWhat differences do you observe\namong herbs, shrubs, and trees? How\ncan you group plants as herbs, shrubs,\nand trees based on the data entered in\nTable 2.3?\n\nSome plants grow really tall and have\nhard, thick, brown, and woody stems.\nTheir branches typically start higher up\non the stem and away from the ground.\n(a) Tree These plants are called trees. For\nexample, a mango tree (Fig. 2.3a).\n\n(b) Shrub (c) Herb\nFig. 2.3: Types of plants\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Diversity in the Living World\n17\nFig. 2.4: Leaves showing different types of venation\n(a) Hibiscus leaf with \nreticulate venation\n(b) Banana leaf with \nparallel venation\n(c) Grass leaf with \nparallel venation\nSome plants are not as tall as trees. These plants often \nhave many brown woody stems that start branching very \nclose to the ground. These stems are hard but not as thick \nas the stem of a tree. These plants are called shrubs. For \nexample, a rose plant is a shrub (Fig. 2.3b).\nSome plants are typically small with soft and green stems. \nThese are known as herbs. For example, a tomato plant is a \nherb (Fig. 2.3c).\nSome plants with weak stems need support to climb and \ngrow, and are called climbers. Some plants creep along the \nground and are called creepers.\nWhat can be other features on the basis of which you can \ngroup plants? Let us perform another activity.\nActivity 2.5: Let us compare\n\n\nLook at the leaves of different plants collected by you, \nduring the nature walk. \n\n\nDo you notice any variation in the shape and structure \nof these leaves?\nYou may observe thin lines on the leaves of the plants \n(Fig. 2.4a). These are veins. The pattern of veins on the leaf \nis called venation. What differences do you see in the veins \nof leaves shown in Fig. 2.4a and Fig. 2.4b?\nIn some leaves, you can observe a net-like pattern of \nveins on both sides of a thick middle vein. This pattern is \ncalled reticulate venation. For example, leaves of hibiscus \nexhibit reticulate venation (Fig. 2.4a). In some leaves, you \nmay observe that the veins run parallel. This pattern is called \nparallel venation. For example, the leaves of banana plants \nand grasses exhibit parallel venation (Fig. 2.4b and Fig. 2.4c).\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1743,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0009_img01",
+          "file": "images/NCERT_fecu102_page0009_img01.png",
+          "bbox": [
+            90.9401626586914,
+            450.046142578125,
+            157.83351135253906,
+            525.5067749023438
+          ],
+          "width_px": 140,
+          "height_px": 157,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0009_img02",
+          "file": "images/NCERT_fecu102_page0009_img02.png",
+          "bbox": [
+            142.1041259765625,
+            382.3787841796875,
+            367.3868408203125,
+            607.6614990234375
+          ],
+          "width_px": 635,
+          "height_px": 694,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0009_img03",
+          "file": "images/NCERT_fecu102_page0009_img03.png",
+          "bbox": [
+            347.7640686035156,
+            425.8096008300781,
+            444.6967468261719,
+            544.872314453125
+          ],
+          "width_px": 250,
+          "height_px": 432,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0009_img04",
+          "file": "images/NCERT_fecu102_page0009_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0009_img05",
+          "file": "images/NCERT_fecu102_page0009_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0009_vecfig01",
+          "file": "images/NCERT_fecu102_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Some plants are not as tall as trees. These plants often\nhave many brown woody stems that start branching very\nclose to the ground. These stems are hard but not as thick\nas the stem of a tree. These plants are called shrubs. For\nexample, a rose plant is a shrub (Fig. 2.3b).\n\nSome plants are typically small with soft and green stems.\nThese are known as herbs. For example, a tomato plant is a\nherb (Fig. 2.3c).\n\nSome plants with weak stems need support to climb and\ngrow, and are called climbers. Some plants creep along the\nground and are called creepers.\n\nWhat can be other features on the basis of which you can\ngroup plants? Let us perform another activity.\n\nActivity 2.5: Let us compare a\n¢ Look at the leaves of different plants collected by you,\nduring the nature walk.\n\n¢ Do you notice any variation in the shape and structure\nof these leaves?\n\nYou may observe thin lines on the leaves of the plants\n(Fig. 2.4a). These are veins. The pattern of veins on the leaf\nis called venation. What differences do you see in the veins\nof leaves shown in Fig. 2.4a and Fig. 2.4b?\n\nYYW\n\n(a) Hibiscus leaf with (b) Banana leaf with (c) Grass leaf with\nreticulate venation parallel venation parallel venation\n\nFig. 2.4: Leaves showing different types of venation\n\nIn some leaves, you can observe a net-like pattern of\nveins on both sides of a thick middle vein. This pattern is\ncalled reticulate venation. For example, leaves of hibiscus\nexhibit reticulate venation (Fig. 2.4a). In some leaves, you\nmay observe that the veins run parallel. This pattern is called\nparallel venation. For example, the leaves of banana plants\nand grasses exhibit parallel venation (Fig. 2.4b and Fig. 2.4c).\n\nDiversity in the Living World\n\n©\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Curiosity | Textbook of Science | Grade 6\n18\nDo you think that plants can be grouped on the basis of \nvenation present in their leaves?\nNow, let us try to explore roots of the plants. Do all plants \nhave roots? Are these roots similar? \nActivity 2.6: Let us find out\n\n\nVisit an open area where wild herbs and grasses are \ngrowing. You may use small herbs for this exercise. \n\n\nUsing a khurpi (trowel), carefully dig out a few different \nherbs without damaging the roots. To do this, you may \nwet the soil and loosen it. \n\n\nWash the roots with water and observe them. \n\n\nAfter you are done observing, make sure to replant the \nherbs so that they may continue to thrive and grow.\nWhat are the similarities and differences in the roots of \nthe plants collected by you? What differences do you see in \nthe roots of plants shown in Fig. 2.5a and Fig. 2.5b?\nCarefully observe the roots of a mustard plant in \nFig. 2.5a. The roots of this plant consist of one main root \nand small side roots arising from it. The main root is called \ntaproot. Another example of a plant having taproots is \nhibiscus observed by you in Activity 2.1. The plant in \nFig. 2.5b is a common grass plant. The roots of this plant \nappear as a bunch of similar-sized thin roots arising from \nthe base of the stem. Such roots are called fibrous roots \n(Fig. 2.5b). Does your collection include any other grasses? \nWhat kind of roots do they have? \nFig. 2.5: Types of roots\n(a) Taproot system in \na mustard plant\n(b) Fibrous root system \nin common grass\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1543,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0010_img01",
+          "file": "images/NCERT_fecu102_page0010_img01.png",
+          "bbox": [
+            190.7196807861328,
+            351.17474365234375,
+            325.3681640625,
+            521.4476928710938
+          ],
+          "width_px": 281,
+          "height_px": 355,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0010_img02",
+          "file": "images/NCERT_fecu102_page0010_img02.png",
+          "bbox": [
+            365.38909912109375,
+            389.477294921875,
+            461.6566162109375,
+            520.4435424804688
+          ],
+          "width_px": 201,
+          "height_px": 273,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0010_img03",
+          "file": "images/NCERT_fecu102_page0010_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0010_img04",
+          "file": "images/NCERT_fecu102_page0010_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0010_vecfig01",
+          "file": "images/NCERT_fecu102_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n©\n\nDo you think that plants can be grouped on the basis of\nvenation present in their leaves?\n\nNow, let us try to explore roots of the plants. Do all plants\nhave roots? Are these roots similar?\n\nActivity 2.6: Let us find OUt] «=: ee\n\n¢ Visit an open area where wild herbs and grasses are\ngrowing. You may use small herbs for this exercise.\n\n¢ Using a khurpi (trowel), carefully dig out a few different\nherbs without damaging the roots. To do this, you may\nwet the soil and loosen it.\n\n@ Wash the roots with water and observe them.\n\n@ After you are done observing, make sure to replant the\nherbs so that they may continue to thrive and grow.\n\nWhat are the similarities and differences in the roots of\nthe plants collected by you? What differences do you see in\nthe roots of plants shown in Fig. 2.5a and Fig. 2.5b?\n\n(a) Taproot system in (b) Fibrous root system\na mustard plant in common grass\n\nFig. 2.5: Types of roots\n\nCarefully observe the roots of a mustard plant in\nFig. 2.5a. The roots of this plant consist of one main root\nand small side roots arising from it. The main root is called\ntaproot. Another example of a plant having taproots is\nhibiscus observed by you in Activity 2.1. The plant in\nFig. 2.5b is a common grass plant. The roots of this plant\nappear as a bunch of similar-sized thin roots arising from\nthe base of the stem. Such roots are called fibrous roots\n(Fig. 2.5b). Does your collection include any other grasses?\nWhat kind of roots do they have?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Diversity in the Living World\n19\nIs there any relation between the type of leaf venation \nand the type of root of the same plant? How do we find \nthis out?\nActivity 2.7: Let us relate and analyse\n\n\nCollect saplings of five common plants from your school \nnursery or any other nurseries to plant in your school \ngarden. Examples of such plants can include lemongrass, \nmarigold, sadabahar (periwinkle), and others. \n\n\nBefore planting them, observe their roots and the \nvenation in their leaves. \n\n\nRecord your observations in Table 2.4. \nTable 2.4: Types of leaf venation and roots\nS. no.\nName of the \nplant\nType of leaf \nvenation \n(reticulate/\nparallel) \nType of root \n(fibrous/tap)\n1.\nLemongrass\nParallel\nFibrous\n2.\n3.\n4.\n5.\nDo you observe any relation between the leaf venation \nand types of root in these plants? A sadabahar plant has \na taproot and its leaves have reticulate venation. Do \nother plants with reticulate venation have taproots too? \nLemongrass, on the other hand, has fibrous roots and its \nleaves have parallel venation. Do other plants with parallel \nvenation have fibrous roots too? Generally, plants with \nreticulate venation have taproots while those with parallel \nvenation have fibrous roots. \nChickpea (chana) is another example of a plant with \ntaproots and reticulate venation in leaves. Wheat is an \nexample of a plant with fibrous roots and parallel venation \nin its leaves. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1429,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0011_img01",
+          "file": "images/NCERT_fecu102_page0011_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0011_img02",
+          "file": "images/NCERT_fecu102_page0011_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0011_table01",
+          "bbox": [
+            72.50909215753728,
+            383.61195373535156,
+            437.2457580566406,
+            503.60601806640625
+          ],
+          "rows": [
+            [
+              "1.",
+              "Lemongrass",
+              "Parallel",
+              "Fibrous"
+            ],
+            [
+              "2.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "3.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "4.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "5.",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0011_vecfig01",
+          "file": "images/NCERT_fecu102_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Is there any relation between the type of leaf venation\nand the type of root of the same plant? How do we find\nthis out?\n\nActivity 2.7: Let us relate and analyse SS\n¢ Collect saplings of five common plants from your school\nnursery or any other nurseries to plant in your school\n\ngarden. Examples of such plants can include lemongrass,\nmarigold, sadabahar (periwinkle), and others.\n\n¢ Before planting them, observe their roots and the\nvenation in their leaves.\n\n¢ Record your observations in Table 2.4.\n\nTable 2.4: Types of leaf venation and roots\n\nS. no. Name of the Type of leaf Type of root\nplant venation (fibrous/tap)\n(reticulate/\nparallel)\n1. Lemongrass Parallel Fibrous\n2.\n3.\n4.\n5.\n\nDo you observe any relation between the leaf venation\nand types of root in these plants? A sadabahar plant has\na taproot and its leaves have reticulate venation. Do\nother plants with reticulate venation have taproots too?\nLemongrass, on the other hand, has fibrous roots and its\nleaves have parallel venation. Do other plants with parallel\nvenation have fibrous roots too? Generally, plants with\nreticulate venation have taproots while those with parallel\nvenation have fibrous roots.\n\nChickpea (chana) is another example of a plant with\ntaproots and reticulate venation in leaves. Wheat is an\nexample of a plant with fibrous roots and parallel venation\nin its leaves.\n\nDiversity in the Living World\n\n©\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Curiosity | Textbook of Science | Grade 6\n20\nIs there any relation among the seed of a plant, types of \nroot and leaf venation? Are all seeds similar?\nActivity 2.8: Let us compare\n\n\nSoak some chickpea and maize seeds in water for two \nor three days. \n\n\nRemove the seed coat of a chickpea. Now, observe the \nstructure of the chickpea and maize seeds. Are they \nsimilar or different?\nYou would notice that chickpea seeds are split into two \nparts (Fig. 2.6a). Each part is called a cotyledon. Plants that \nhave seeds with two cotyledons are called dicotyledons \n(dicots). Maize has a single thin cotyledon (Fig. 2.6b). Plants \nwith such seeds are called monocotyledons (monocots). \nWhat relation do you observe among leaf venation, root \ntypes and the number of cotyledons in seeds of a plant? \nDicot plants have reticulate venation and a taproot system \nwhile monocot plants have parallel venation and a fibrous \nroot system.\nYou have learnt about some features used for grouping \nplants. Now, let us explore the grouping of animals in more \ndetail.\n2.2.2\tHow to group animals?\nJust like plants, animals too are significantly different from \none another. How can we group such a wide variety of \nanimals? What features can you think of to group them? In \nActivity 2.3, you have already set some bases for grouping \nanimals. Let us explore a few of these in more detail.\nFig. 2.6: Dicot and monocot seeds\n(b) Monocot seed (maize)\n(a) Dicot seed (chickpea)\nCotyledons\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1485,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0012_img01",
+          "file": "images/NCERT_fecu102_page0012_img01.png",
+          "bbox": [
+            386.2008361816406,
+            217.42678833007812,
+            520.2291870117188,
+            329.57861328125
+          ],
+          "width_px": 280,
+          "height_px": 234,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0012_img02",
+          "file": "images/NCERT_fecu102_page0012_img02.png",
+          "bbox": [
+            152.27662658691406,
+            218.96527099609375,
+            342.58367919921875,
+            331.01953125
+          ],
+          "width_px": 397,
+          "height_px": 234,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0012_img03",
+          "file": "images/NCERT_fecu102_page0012_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0012_img04",
+          "file": "images/NCERT_fecu102_page0012_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0012_vecfig01",
+          "file": "images/NCERT_fecu102_page0012_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n©\n\nIs there any relation among the seed of a plant, types of\nroot and leaf venation? Are all seeds similar?\n\nActivity 2.8: Let us compare a\n\n@ Soak some chickpea and maize seeds in water for two\nor three days.\n\n@ Remove the seed coat of a chickpea. Now, observe the\nstructure of the chickpea and maize seeds. Are they\nsimilar or different?\n\nCotyledons\n\n(a) Dicot seed (chickpea) (b) Monocot seed (maize)\n\nFig. 2.6: Dicot and monocot seeds\n\nYou would notice that chickpea seeds are split into two\nparts (Fig. 2.6a). Each part is called a cotyledon. Plants that\nhave seeds with two cotyledons are called dicotyledons\n(dicots). Maize has a single thin cotyledon (Fig. 2.6b). Plants\nwith such seeds are called monocotyledons (monocots).\n\nWhat relation do you observe among leaf venation, root\ntypes and the number of cotyledons in seeds of a plant?\nDicot plants have reticulate venation and a taproot system\nwhile monocot plants have parallel venation and a fibrous\nroot system.\n\nYou have learnt about some features used for grouping\nplants. Now, let us explore the grouping of animals in more\ndetail.\n\n2.2.2 How to group animals?\n\nJust like plants, animals too are significantly different from\none another. How can we group such a wide variety of\nanimals? What features can you think of to group them? In\nActivity 2.3, you have already set some bases for grouping\nanimals. Let us explore a few of these in more detail.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Diversity in the Living World\n21\nFig. 2.7: Diversity in animals\nActivity 2.9: Let us find out\nYou have recorded the movement of a few animals in \nTable 2.2. You may have also observed how other animals \nmove from place to place. Let us now think about the types \nof movement in animals. A number of animals are shown \nin Fig. 2.7. You can add more animals that you may have \nobserved and create a poster on the variety of animals. \nWhich body parts are used by the animals in the poster you \ncreated and those in Fig. 2.7 for movement?\n\n\nList these animals in Table 2.5. \n\n\nNote the ways in which these animals move and name \nthe body parts used for movement. Some examples are \ngiven in Table 2.5.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 719,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0013_img01",
+          "file": "images/NCERT_fecu102_page0013_img01.png",
+          "bbox": [
+            70.33231353759766,
+            222.381103515625,
+            503.4000244140625,
+            558.6917724609375
+          ],
+          "width_px": 903,
+          "height_px": 701,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0013_img02",
+          "file": "images/NCERT_fecu102_page0013_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0013_img03",
+          "file": "images/NCERT_fecu102_page0013_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0013_vecfig01",
+          "file": "images/NCERT_fecu102_page0013_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Activity 2.9: Let us find out ee\n\nYou have recorded the movement of a few animals in\nTable 2.2. You may have also observed how other animals\nmove from place to place. Let us now think about the types\nof movement in animals. A number of animals are shown\nin Fig. 2.7. You can add more animals that you may have\nobserved and create a poster on the variety of animals.\nWhich body parts are used by the animals in the poster you\ncreated and those in Fig. 2.7 for movement?\n\nFig. 2.7: Diversity in animals\n\n¢ List these animals in Table 2.5.\n\n@ Note the ways in which these animals move and name\nthe body parts used for movement. Some examples are\ngiven in Table 2.5.\n\nDiversity in the Living World\n\n|\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Curiosity | Textbook of Science | Grade 6\n22\nTable 2.5: Movements in animals and their body parts involved\nS. no.\nName of the \nanimal\nType of \nmovement\nBody parts used \nfor movement\n1.\nAnt \nLegs\n2.\nGoat\nWalks and jumps\nLegs\n3.\nPigeon\nWalks and flies\nLegs and wings\n4.\nHousefly\nWalks and flies\nLegs and wings\n5.\nFish\nFins\n6.\nAny other\n7.\n8.\nWhat conclusions can you draw from the data given in \nTable 2.5? \nDifferent animals have different types of movement. \nAnimals can fly, run, crawl, walk, hop or jump, and so on. \nThey use different body parts for moving from one place \nto another. They may use wings, legs, and other parts \nthat help them to move. Here, we have identified animals \nbased on the types of movement and the body parts used \nfor movement. How can we group animals based on their \nmovements? Additionally, many animals differ from each \nother in shape, size, structure, colour, and other features. \nSome of these features can also be used to group animals in \nvarious ways. Like plants, grouping of animals is important \nfor understanding their diversity.\nJanaki Ammal (1897–1984) was an Indian \nbotanist dedicated to environmental work and \nhelped to document and preserve India’s rich \nplant biodiversity. She played a key role in the \n‘Save Silent Valley’ movement. As the head \nof the Botanical Survey of India, she initiated \nprogrammes to document the plant diversity \nof India.\nKnow a scientist\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1437,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0014_img01",
+          "file": "images/NCERT_fecu102_page0014_img01.png",
+          "bbox": [
+            433.330078125,
+            577.7496948242188,
+            520.47119140625,
+            692.8941650390625
+          ],
+          "width_px": 182,
+          "height_px": 240,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0014_img02",
+          "file": "images/NCERT_fecu102_page0014_img02.png",
+          "bbox": [
+            103.61212158203125,
+            544.1080932617188,
+            235.38790893554688,
+            585.9080810546875
+          ],
+          "width_px": 275,
+          "height_px": 88,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0014_img03",
+          "file": "images/NCERT_fecu102_page0014_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0014_img04",
+          "file": "images/NCERT_fecu102_page0014_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0014_table01",
+          "bbox": [
+            55.192176818847656,
+            131.96481323242188,
+            520.4391479492188,
+            719.1500244140625
+          ],
+          "rows": [
+            [
+              null,
+              null,
+              null,
+              "1.",
+              "Ant",
+              "",
+              "Legs"
+            ],
+            [
+              null,
+              null,
+              null,
+              "2.",
+              "Goat",
+              "Walks and jumps",
+              "Legs"
+            ],
+            [
+              null,
+              null,
+              null,
+              "3.",
+              "Pigeon",
+              "Walks and flies",
+              "Legs and wings"
+            ],
+            [
+              "4. Housefly Walks and flies Legs and wings\n5. Fish Fins\n6. Any other\n7.\n8.\nWhat conclusions can you draw from the data given in\nTable 2.5?\nDifferent animals have different types of movement.\nAnimals can fyl , run, crawl, walk, hop or jump, and so on.\nThey use different body parts for moving from one place\nto another. They may use wings, legs, and other parts\nthat help them to move. Here, we have identified animals\nbased on the types of movement and the body parts used\nfor movement. How can we group animals based on their\nmovements? Additionally, many animals differ from each\nother in shape, size, structure, colour, and other features.\nSome of these features can also be used to group animals in\nvarious ways. Like plants, grouping of animals is important\nfor understanding their diversity. 6\nGrade\n|\nKnow a scientist Science\nof\nJanaki Ammal (1897–1984) was an Indian\nTextbook\nbotanist dedicated to environmental work and\nhelped to document and preserve India’s rich\n|\nplant biodiversity. She played a key role in the osity",
+              null,
+              null,
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "4.",
+              "Housefly",
+              "Walks and flies",
+              "Legs and wings"
+            ],
+            [
+              null,
+              null,
+              null,
+              "5.",
+              "Fish",
+              "",
+              "Fins"
+            ],
+            [
+              null,
+              null,
+              null,
+              "6.",
+              "Any other",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "7.",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "8.",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "",
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "K",
+              "now a scientist\nJanaki Ammal (1897–1984) was an Indian\nbotanist dedicated to environmental work and\nhelped to document and preserve India’s rich\nplant biodiversity. She played a key role in the",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "",
+              null,
+              null,
+              null,
+              null,
+              null
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0014_vecfig01",
+          "file": "images/NCERT_fecu102_page0014_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n0\n\nTable 2.5: Movements in animals and their body parts involved\n\nS. no. Name of the Type of Body parts used\nanimal movement for movement\n\n1. Ant Legs\n2. Goat Walks andjumps Legs\n3. Pigeon Walks and flies Legs and wings\nA. Housefly Walks and flies Legs and wings\n5. Fish Fins\n6. Any other\n7.\n8.\n\nWhat conclusions can you draw from the data given in\nTable 2.5?\n\nDifferent animals have different types of movement.\nAnimals can fly, run, crawl, walk, hop or jump, and so on.\nThey use different body parts for moving from one place\nto another. They may use wings, legs, and other parts\nthat help them to move. Here, we have identified animals\nbased on the types of movement and the body parts used\nfor movement. How can we group animals based on their\nmovements? Additionally, many animals differ from each\nother in shape, size, structure, colour, and other features.\nSome of these features can also be used to group animals in\nvarious ways. Like plants, grouping of animals is important\nfor understanding their diversity.\n\nKnow a scientist\n\nJanaki Ammal (1897-1984) was an Indian\nbotanist dedicated to environmental work and\nhelped to document and preserve India’s rich\nplant biodiversity. She played a key role in the\n‘Save Silent Valley movement. As the head\nof the Botanical Survey of India, she initiated\nprogrammes to document the plant diversity\nof India.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Diversity in the Living World\n23\nMore to \nknow!\nSuccess Story—Save Silent Valley Movement\nThis is a real story of a forest in the Palakkad district of \nKerala. It is about preserving untouched beauty of a moist \nevergreen forest and its rich biodiversity. The now-famous \nSilent Valley was saved by a remarkable movement led by \ncommon people who were not even residing in the vicinity of \nthe forest. The battle against the proposal of a hydroelectric \ndam across the Kunthipuzha river persisted for 10 years. At \nthat time, people used all possible available means, such as \nwidespread awareness programmes, letters to editors, articles \nin, newspapers, seminars, and petitions and appeals in court. \nThe movement was successful in saving the Silent Valley.\n2.3 Plants and Animals in Different \nSurroundings \nYou might have observed during nature walks that \ndifferent \nanimals \nlive \nin \ndifferent \nsurroundings. \nYou have also recorded movement of animals in Table 2.5. \nDoes the movement of these animals depend upon their \nsurroundings? Let us consider fishes and goat as examples. \nFishes live in water. They have streamlined bodies and \nfins for movement in water (Fig. 2.8a). Goats live in grassy \nareas and move with the help of legs (Fig. 2.8b). The sizes \nand shapes of animals also differ from one another.\nFig. 2.8: Body parts used by animals for movement\n(b) A goat walks on the ground \nwith the help of legs\nLegs\n(a) A fish swims in water \nwith the help of fins\nFins\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1499,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0015_img01",
+          "file": "images/NCERT_fecu102_page0015_img01.png",
+          "bbox": [
+            33.39020538330078,
+            52.32000732421875,
+            502.3998718261719,
+            312.89874267578125
+          ],
+          "width_px": 978,
+          "height_px": 543,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0015_img02",
+          "file": "images/NCERT_fecu102_page0015_img02.png",
+          "bbox": [
+            287.553466796875,
+            513.9576416015625,
+            420.5877685546875,
+            626.721923828125
+          ],
+          "width_px": 278,
+          "height_px": 235,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0015_img03",
+          "file": "images/NCERT_fecu102_page0015_img03.png",
+          "bbox": [
+            70.54002380371094,
+            522.0228271484375,
+            260.56768798828125,
+            623.9984130859375
+          ],
+          "width_px": 396,
+          "height_px": 213,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0015_img04",
+          "file": "images/NCERT_fecu102_page0015_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0015_img05",
+          "file": "images/NCERT_fecu102_page0015_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0015_vecfig01",
+          "file": "images/NCERT_fecu102_page0015_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Success Story—Save Silent Valley Movement\n\nThis is a real story of a forest in the Palakkad district of\nKerala. It is about preserving untouched beauty of a moist\nevergreen forest and its rich biodiversity. The now-famous\nSilent Valley was saved by a remarkable movement led by\ncommon people who were not even residing in the vicinity of\nthe forest. The battle against the proposal of a hydroelectric\ndam across the Kunthipuzha river persisted for 10 years. At\nthat time, people used all possible available means, such as\nwidespread awareness programmes, letters to editors, articles\nin, newspapers, seminars, and petitions and appeals in court.\nThe movement was successful in saving the Silent Valley.\n\n2.3 Plants and Animals in Different\nSurroundings\n\nYou might have observed during nature walks that\ndifferent animals live in different surroundings.\nYou have also recorded movement of animals in Table 2.5.\nDoes the movement of these animals depend upon their\nsurroundings? Let us consider fishes and goat as examples.\nFishes live in water. They have streamlined bodies and\nfins for movement in water (Fig. 2.8a). Goats live in grassy\nareas and move with the help of legs (Fig. 2.8b). The sizes\nand shapes of animals also differ from one another.\n\n®\n\nMore to\nknow!\n\n(a) A fish swims in water (b) A goat walks on the ground\nwith the help of fins with the help of legs\n\nFig. 2.8: Body parts used by animals for movement\n\nReprint 2026-27\n\nDiversity in the Living World\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Curiosity | Textbook of Science | Grade 6\n24\nS. \nno.\nIn the \ndesert\nOn \nmountains\nIn the \nocean\nIn the \nforest\nAny other \nregion\n1.\nCamel\nDeodar tree\nFish \nLion\n2.\nAny other\n3.\nActivity 2.10: Let us compare and analyse\n\n\nLook at Table 2.6. Recreate a similar table on the \nblackboard. \n\n\nList the names of plants and animals you or your \nclassmates have observed in the regions given in the \ntable or already know about. A few examples are given. \nYou can add more.\nTable 2.6: Animals and plants found in different surroundings\nWhat are your observations \nregarding plants and animals \nfound in various regions? Discuss \nyour observations with your \nclassmates.\nYou might observe from Table \n2.6 that the plants and animals \nfound in one kind of region are \ndifferent from those found in \nanother kind of region. \nFig. 2.9: Cactus with thick and \nfleshy stems in a desert \nFig. 2.10: A deodar \ntree in the mountains\nDuring a discussion in the classroom, \nAlex recalls that he observed cactus \nplants with thick and fleshy stems in \nthe deserts of Rajasthan (Fig. 2.9). Maya \nshares that she saw deodar trees in \nthe Himalayas of Himachal Pradesh \n(Fig. 2.10). These trees are conical in \nshape and have flexible and sloping \nbranches. \nNotice that these two types of plants \nfound in different regions are different \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1337,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0016_img01",
+          "file": "images/NCERT_fecu102_page0016_img01.png",
+          "bbox": [
+            90.84005737304688,
+            353.8365478515625,
+            302.3400573730469,
+            485.87469482421875
+          ],
+          "width_px": 441,
+          "height_px": 276,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0016_img02",
+          "file": "images/NCERT_fecu102_page0016_img02.png",
+          "bbox": [
+            403.3559265136719,
+            538.3596801757812,
+            545.2412719726562,
+            681.3868408203125
+          ],
+          "width_px": 296,
+          "height_px": 298,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0016_img03",
+          "file": "images/NCERT_fecu102_page0016_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0016_img04",
+          "file": "images/NCERT_fecu102_page0016_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0016_table01",
+          "bbox": [
+            108.49714987618583,
+            261.1528015136719,
+            520.6058502197266,
+            339.2252655029297
+          ],
+          "rows": [
+            [
+              "1.",
+              "Camel",
+              "Deodar tree",
+              "Fish",
+              "Lion",
+              ""
+            ],
+            [
+              "2.",
+              "Any other",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "3.",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0016_vecfig01",
+          "file": "images/NCERT_fecu102_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nActivity 2.10: Let us compare and analyse a\n\n@ Look at Table 2.6. Recreate a similar table on the\nblackboard.\n\n¢ List the names of plants and animals you or your\nclassmates have observed in the regions given in the\ntable or already know about. A few examples are given.\nYou can add more.\n\nTable 2.6: Animals and plants found in different surroundings\n\nS. In the On In the In the Any other\nno. desert mountains ocean forest region\n1. Camel Deodar tree Fish Lion\n\n2. Any other\n\noh\n\nWhat are your observations\nregarding plants and animals\nfound in various regions? Discuss\nyour observations with your\nclassmates.\n\nYou might observe from Table\n2.6 that the plants and animals\nfound in one kind of region are\ndifferent from those found in\n\nfleshy stems in a desert\n\nDuring a discussion in the classroom,\nAlex recalls that he observed cactus\nplants with thick and fleshy stems in\nthe deserts of Rajasthan (Fig. 2.9). Maya\nshares that she saw deodar trees in\nthe Himalayas of Himachal Pradesh\n(Fig. 2.10). These trees are conical in\nshape and have flexible and sloping\n\nbranches. = ee\nNotice that these two types of plants Fig. 2.10: A deodar\nfound in different regions are different tree in the mountains\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Diversity in the Living World\n25\nfrom each other. Why is it so? Why does the biodiversity of \na region vary from that of another? Let us find out.\nThere is very little water available in the deserts. A hot \ndesert is typically very hot during the day and very cold at \nnight. Therefore, you will find plants and animals in these \nareas that can tolerate and survive both the hot conditions \nduring the day and cold conditions at night. The fleshy stems \nof plants found in the desert can store water and help them \ntolerate the hot conditions in these places. \nThe mountains in extremely cold regions experience \nfrequent snowfall. In order to survive in such conditions, \nsome of the trees have the ability to let the snow slide off \neasily. Conical shape and sloping branches of deodar trees \nenable them to do so easily.\nYou must have understood by now that the biodiversity \nvaries from region to region because of diverse conditions.\nLook at the images of a camel from the hot desert of \nRajasthan (Fig. 2.11) and a camel from the cold desert of \nLadakh (Fig. 2.12). What are the differences you observe \nbetween them? What advantages do these differences \nprovide to these camels?\nThe camel of the hot desert has long legs with wide hooves. \nAlex shares that his grandmother told him that the long legs \nand wide hooves help these camels to walk on the sandy \ndesert without sinking into the sand. On the other hand, the \nheight and legs of camels of a cold desert are comparatively \nshorter than those found in a hot desert. These short legs \nallow them to walk easily in mountainous regions.\nFig. 2.11: A camel living in the hot \ndesert of Rajasthan\nHooves\nFig. 2.12: A camel living in the \ncold desert of Ladakh\nHooves\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1744,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0017_img01",
+          "file": "images/NCERT_fecu102_page0017_img01.png",
+          "bbox": [
+            72.40001678466797,
+            397.576171875,
+            261.3196716308594,
+            524.8275146484375
+          ],
+          "width_px": 394,
+          "height_px": 266,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0017_img02",
+          "file": "images/NCERT_fecu102_page0017_img02.png",
+          "bbox": [
+            280.70947265625,
+            398.27728271484375,
+            466.2607421875,
+            527.970458984375
+          ],
+          "width_px": 387,
+          "height_px": 271,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0017_img03",
+          "file": "images/NCERT_fecu102_page0017_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0017_img04",
+          "file": "images/NCERT_fecu102_page0017_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0017_vecfig01",
+          "file": "images/NCERT_fecu102_page0017_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "from each other. Why is it so? Why does the biodiversity of\na region vary from that of another? Let us find out.\n\nThere is very little water available in the deserts. A hot\ndesert is typically very hot during the day and very cold at\nnight. Therefore, you will find plants and animals in these\nareas that can tolerate and survive both the hot conditions\nduring the day and cold conditions at night. The fleshy stems\nof plants found in the desert can store water and help them\ntolerate the hot conditions in these places.\n\nThe mountains in extremely cold regions experience\nfrequent snowfall. In order to survive in such conditions,\nsome of the trees have the ability to let the snow slide off\neasily. Conical shape and sloping branches of deodar trees\nenable them to do so easily.\n\nYou must have understood by now that the biodiversity\nvaries from region to region because of diverse conditions.\n\nLook at the images of a camel from the hot desert of\nRajasthan (Fig. 2.11) and a camel from the cold desert of\nLadakh (Fig. 2.12). What are the differences you observe\nbetween them? What advantages do these differences\nprovide to these camels?\n\n7 = ~ J\n\nF, pins wy /\n] : = 7 és\nZ » %\n\nHooves\n\nFig. 2.11: A camel living in the hot Fig. 2.12: A camel living in the\ndesert of Rajasthan cold desert of Ladakh\n\nThe camel of the hot desert has long legs with wide hooves.\nAlex shares that his grandmother told him that the long legs\nand wide hooves help these camels to walk on the sandy\ndesert without sinking into the sand. On the other hand, the\nheight and legs of camels of a cold desert are comparatively\nshorter than those found in a hot desert. These short legs\nallow them to walk easily in mountainous regions.\n\nReprint 2026-27\n\nDiversity in the Living World\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Curiosity | Textbook of Science | Grade 6\n26\nIn deserts, food is not available easily. Camels store food \nin their humps. Camels found in the hot desert have one \nhump each that helps them to survive during the scarcity of \nfood. Camels found in the cold desert have two humps each. \nThese two humps shrink in late winters because there is not \nmuch food available in the cold desert and they have to use \nfood stored in their humps during that time. Moreover, they \ngrow long hair from head to neck, which help them survive \nthe cold winters of Ladakh. \nWhat other features can help camels to survive in the \ndesert?\nOther students also start sharing their observations. \nKashi from Rajasthan says that camels excrete small \namounts of urine, their dung is dry, and they do not sweat. \nAs camels do not lose much water from their bodies, they \ncan survive for many days without drinking water. \nMaya talks about seeing plants with beautiful bright \nflowers, rhododendrons, in the Shola forests of Nilgiris. \nHere, rhododendrons are of shorter height and have smaller \nleaves to survive through the heavy winds on mountain \ntops. However, Pema, who is from Sikkim, mentions that she \nhas observed rhododendrons in the nearby mountains to \nbe taller (Fig. 2.13). So, even plants such as rhododendrons \nmay exhibit different features in different regions to survive \nthe conditions of those regions.\nSagar tells his classmates that he went to the Andaman \nand Nicobar Islands with his parents for a special event. \nHe saw huge whales and colourful fish in the ocean. His \nfather explained that the streamlined body of fish helps \nthem to swim in water. \nFig. 2.13: Different features of rhododendrons\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1715,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0018_img01",
+          "file": "images/NCERT_fecu102_page0018_img01.png",
+          "bbox": [
+            239.97109985351562,
+            460.493896484375,
+            435.81365966796875,
+            611.5978393554688
+          ],
+          "width_px": 409,
+          "height_px": 315,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0018_img02",
+          "file": "images/NCERT_fecu102_page0018_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0018_img03",
+          "file": "images/NCERT_fecu102_page0018_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0018_vecfig01",
+          "file": "images/NCERT_fecu102_page0018_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n©\n\nIn deserts, food is not available easily. Camels store food\nin their humps. Camels found in the hot desert have one\nhump each that helps them to survive during the scarcity of\nfood. Camels found in the cold desert have two humps each.\nThese two humps shrink in late winters because there is not\nmuch food available in the cold desert and they have to use\nfood stored in their humps during that time. Moreover, they\ngrow long hair from head to neck, which help them survive\nthe cold winters of Ladakh.\n\nWhat other features can help camels to survive in the\ndesert?\n\nOther students also start sharing their observations.\nKashi from Rajasthan says that camels excrete small\namounts of urine, their dung is dry, and they do not sweat.\nAs camels do not lose much water from their bodies, they\ncan survive for many days without drinking water.\n\nMaya talks about seeing plants with beautiful bright\nflowers, rhododendrons, in the Shola forests of Nilgiris.\nHere, rhododendrons are of shorter height and have smaller\nleaves to survive through the heavy winds on mountain\ntops. However, Pema, who is from Sikkim, mentions that she\nhas observed rhododendrons in the nearby mountains to\nbe taller (Fig. 2.13). So, even plants such as rhododendrons\nmay exhibit different features in different regions to survive\nthe conditions of those regions.\n\nFig. 2.13: Different features of rhododendrons\n\nSagar tells his classmates that he went to the Andaman\nand Nicobar Islands with his parents for a special event.\nHe saw huge whales and colourful fish in the ocean. His\nfather explained that the streamlined body of fish helps\nthem to swim in water.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "Diversity in the Living World\n27\nWe have learnt that the plants and animals living in a \nparticular region have special features that make them fit \nto survive there. The special features that enable plants \nand animals to survive in a particular region are called \nadaptations.\nThe shape of the deodar tree and the height of the \nrhododendron are adaptations that enable them to survive \nin the mountainous regions. \nThe place where plants and animals live is called their \nhabitat. For example, the habitat of sea turtles is the sea \nor the ocean. The habitat of a camel is the hot or the cold \ndesert, and the habitat of a rhododendron is the mountains. \nThe habitat of plants and animals provides them food, \nwater, air, shelter and other needs for their survival. Many \ntypes of plants and animals may share the same habitat. \nHabitat plays an important role in shaping the biodiversity \nof a region.\nWhat are the different ways in which you can group \nplants and animals based on their habitats? One way is to \ngroup them into those ‘that live on land’ and those ‘that live \nin water’. \nThe plants and animals that live on land are said to live in \nterrestrial habitats. Some examples of terrestrial habitats \nare forests, deserts, grasslands, and mountains.\nSalim Ali (1896–1987) travelled across India \nto observe diversity in birds. He prepared a list \nof birds and documented their travel routes \nand habitats. He recorded the regions with \nhigh diversity of birds and took measures to \nconserve these regions. Keoladeo National Park \nin Bharatpur, Rajasthan and Ranganathittu Bird \nSanctuary in Mandya, Karnataka are examples of \nregions he preserved. He wrote a landmark series \nof 10 books on birds of the Indian Subcontinent. \nHe is referred to as the ‘Birdman of India’. He was \nawarded Padma Vibhushan in 1976.\nKnow a scientist\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1860,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0019_img01",
+          "file": "images/NCERT_fecu102_page0019_img01.png",
+          "bbox": [
+            62.612098693847656,
+            340.8599548339844,
+            194.38787841796875,
+            382.6599426269531
+          ],
+          "width_px": 275,
+          "height_px": 88,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0019_img02",
+          "file": "images/NCERT_fecu102_page0019_img02.png",
+          "bbox": [
+            391.3183898925781,
+            425.50299072265625,
+            480.4711608886719,
+            541.6472778320312
+          ],
+          "width_px": 186,
+          "height_px": 242,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0019_img03",
+          "file": "images/NCERT_fecu102_page0019_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0019_img04",
+          "file": "images/NCERT_fecu102_page0019_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0019_vecfig01",
+          "file": "images/NCERT_fecu102_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "We have learnt that the plants and animals living in a\nparticular region have special features that make them fit\nto survive there. The special features that enable plants\nand animals to survive in a particular region are called\nadaptations.\n\nThe shape of the deodar tree and the height of the\nrhododendron are adaptations that enable them to survive\nin the mountainous regions.\n\nThe place where plants and animals live is called their\nhabitat. For example, the habitat of sea turtles is the sea\nor the ocean. The habitat of a camel is the hot or the cold\ndesert, and the habitat of a rhododendron is the mountains.\nThe habitat of plants and animals provides them food,\nwater, air, shelter and other needs for their survival. Many\ntypes of plants and animals may share the same habitat.\nHabitat plays an important role in shaping the biodiversity\nof a region.\n\n2\n\nKnow a scientist\n\nSalim Ali (1896-1987) travelled across India\nto observe diversity in birds. He prepared a list\nof birds and documented their travel routes\nand habitats. He recorded the regions with\nhigh diversity of birds and took measures to\nconserve these regions. Keoladeo National Park\nin Bharatpur, Rajasthan and Ranganathittu Bird\nSanctuary in Mandya, Karnataka are examples of\nregions he preserved. He wrote a landmark series\nof 10 books on birds of the Indian Subcontinent.\nHe is referred to as the ‘Birdman of India’. He was\nawarded Padma Vibhushan in 1976.\n\nWhat are the different ways in which you can group\nplants and animals based on their habitats? One way is to\ngroup them into those ‘that live on land’ and those ‘that live\nin water’.\n\nThe plants and animals that live on land are said to live in\nterrestrial habitats. Some examples of terrestrial habitats\nare forests, deserts, grasslands, and mountains.\n\nReprint 2026-27\n\nDiversity in the Living World\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Curiosity | Textbook of Science | Grade 6\n28\nThe plants and animals that live in water are said to live \nin aquatic habitats. Some examples of aquatic habitats are \nponds, lakes, rivers, and oceans.\nSome animals, such as frogs, can live in water as well as \non land. These are called amphibians.\nWhat would happen if the habitat of a plant or an animal \nis damaged? What would happen if a goat does not get grass \nto eat? Can a fish survive without water? \nCheck with your parents, grandparents, and neighbours \nto know about the plants, birds, insects or any other animal \nthey used to see frequently in their childhood but do not see \nas often now. These changes often happen when habitats \nare damaged. The damage to habitats of plants and animals \nresults in loss of their homes, food, and other resources. \nThis leads to the loss of biodiversity.\nThe population of the Bengal Tiger, Cheetah, and Great Indian \nBustard has declined in India due to loss of natural habitats \ncaused by human activities. The Government of India has \ninitiated several projects to conserve our biodiversity. ‘Project \nTiger’ was initiated in 1973 to protect the declining population \nof the Bengal Tiger. The ‘Cheetah Reintroduction Project’ was \ninitiated in 2022 to restore the population of the Cheetah. \nSimilarly, habitats of the Great Indian Bustards have been \ndeclared as Protected areas in the states of Gujarat, Rajasthan \nand Maharashtra.\nBengal Tiger\t\n\t\n     Cheetah\t\n\t\n     Great Indian Bustard\n Do you \nknow?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1523,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0020_img01",
+          "file": "images/NCERT_fecu102_page0020_img01.png",
+          "bbox": [
+            102.35983276367188,
+            295.4000549316406,
+            557.3998413085938,
+            665.9300537109375
+          ],
+          "width_px": 949,
+          "height_px": 772,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0020_img02",
+          "file": "images/NCERT_fecu102_page0020_img02.png",
+          "bbox": [
+            131.3780059814453,
+            512.4000244140625,
+            261.6597900390625,
+            605.3931884765625
+          ],
+          "width_px": 272,
+          "height_px": 194,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0020_img03",
+          "file": "images/NCERT_fecu102_page0020_img03.png",
+          "bbox": [
+            407.6365966796875,
+            511.36279296875,
+            537.9091186523438,
+            606.4117431640625
+          ],
+          "width_px": 272,
+          "height_px": 198,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0020_img04",
+          "file": "images/NCERT_fecu102_page0020_img04.png",
+          "bbox": [
+            269.4969787597656,
+            512.4000244140625,
+            399.8048095703125,
+            605.34765625
+          ],
+          "width_px": 272,
+          "height_px": 194,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0020_img05",
+          "file": "images/NCERT_fecu102_page0020_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0020_img06",
+          "file": "images/NCERT_fecu102_page0020_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0020_vecfig01",
+          "file": "images/NCERT_fecu102_page0020_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n©\n\nThe plants and animals that live in water are said to live\nin aquatic habitats. Some examples of aquatic habitats are\nponds, lakes, rivers, and oceans.\n\nSome animals, such as frogs, can live in water as well as\non land. These are called amphibians.\n\nWhat would happen if the habitat of a plant or an animal\nis damaged? What would happen if a goat does not get grass\nto eat? Can a fish survive without water?\n\nCheck with your parents, grandparents, and neighbours\nto know about the plants, birds, insects or any other animal\nthey used to see frequently in their childhood but do not see\nas often now. These changes often happen when habitats\nare damaged. The damage to habitats of plants and animals\nresults in loss of their homes, food, and other resources.\nThis leads to the loss of biodiversity.\n\nThe population of the Bengal Tiger, Cheetah, and Great Indian\nBustard has declined in India due to loss of natural habitats\ncaused by human activities. The Government of India has\ninitiated several projects to conserve our biodiversity. ‘Project\nTiger’ was initiated in 1973 to protect the declining population\nof the Bengal Tiger. The ‘Cheetah Reintroduction Project’ was\ninitiated in 2022 to restore the population of the Cheetah.\nSimilarly, habitats of the Great Indian Bustards have been\ndeclared as Protected areas in the states of Gujarat, Rajasthan\nand Maharashtra.\n\nBengal Tiger Cheetah Great Indian Bustard\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "Diversity in the Living World\n29\nKeywords\nMore to \nknow!\nTraditionally Protected Forests: Sacred Groves\nSacred groves are undisturbed patches of forests. Their sizes \nmay vary from quite small to very large. Sacred groves are \nfound all over India. They are home to different kinds of \nplants and animals, including \nnumerous medicinal plants. \nThese are protected by the \nlocal community and no one is \nallowed to harm any animals \nand cut trees in these groves, \nor disturb the area. This \nway, sacred groves are \na community protected \ntreasure of biodiversity. \nFind out about the sacred \ngroves in your region.\nSacred grove from the Western \nGhats\nWe must protect biodiversity to ensure our planet is full \nof life, helping plants and animals to survive and thrive.\nRelate\nRecord\nObserve\nGroup\nCreate\nExplore\nAdaptation\nBiodiversity \nCotyledon\nDicot plants\nHabitat\nFibrous root\nHerbs\nSacred groves\nVenation\nMonocot plants\nReticulate venation\nParallel venation\nTaproot\nShrubs\nAmphibians\nAquatic\nTree\nTerrestrial\nAnalyse\nCompare\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1048,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0021_img01",
+          "file": "images/NCERT_fecu102_page0021_img01.png",
+          "bbox": [
+            154.83999633789062,
+            391.4000549316406,
+            358.9599914550781,
+            439.68505859375
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0021_img02",
+          "file": "images/NCERT_fecu102_page0021_img02.png",
+          "bbox": [
+            9.39990234375,
+            26.4000244140625,
+            476.39990234375,
+            337.800048828125
+          ],
+          "width_px": 973,
+          "height_px": 649,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0021_img03",
+          "file": "images/NCERT_fecu102_page0021_img03.png",
+          "bbox": [
+            65.13520050048828,
+            134.85482788085938,
+            234.39999389648438,
+            260.23773193359375
+          ],
+          "width_px": 353,
+          "height_px": 262,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0021_img04",
+          "file": "images/NCERT_fecu102_page0021_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0021_img05",
+          "file": "images/NCERT_fecu102_page0021_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 22,
+      "text": "Curiosity | Textbook of Science | Grade 6\n30\n\n\nWe are surrounded by a large variety of plants and animals. \nSuch variety of plants and animals is a part of biodiversity. \n\n\nPlants and animals can be grouped on the basis of similarities \nand differences among them.\n\n\nPlants have similarities and differences based on features \nassociated with roots, stems, leaves, flowers, and so on.\n\n\nThe method of arranging things into groups based on their \ncommon features is called grouping.\n\n\nPlants can be grouped into herbs, shrubs, and trees based on \ntheir heights, types of stem, and branching patterns.\n\n\nPlants can also be grouped as dicotyledons (dicots) and \nmonocotyledons (monocots) based on the number of \ncotyledons in their seeds. \n\n\nMonocots generally exhibit parallel venation in their leaves \nand possess fibrous roots while dicots typically exhibit \nreticulate venation in their leaves and possess taproots.\n\n\nAnimals have different types of movement that can be a \nbasis for their grouping.\n\n\nBiodiversity of different regions varies because of distinct \nenvironmental conditions.\n\n\nThe special features that enable plants and animals to \nsurvive in a particular region are called adaptations.\n\n\nThe place where plants and animals live is their habitat.\n\n\nBased on their habitats, animals and plants can be grouped \nas terrestrial and aquatic.\n\n\nDue to damage of their habitats, plants and animals lose \ntheir homes, food and other resources resulting in the loss \nof biodiversity. \n\n\nWe must protect biodiversity to ensure that our planet is full \nof life, helping plants and animals to survive and thrive.\nSummary\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1670,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0022_img01",
+          "file": "images/NCERT_fecu102_page0022_img01.png",
+          "bbox": [
+            235.73995971679688,
+            64.20002746582031,
+            439.8599548339844,
+            112.48504638671875
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0022_img02",
+          "file": "images/NCERT_fecu102_page0022_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0022_img03",
+          "file": "images/NCERT_fecu102_page0022_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0022_vecfig01",
+          "file": "images/NCERT_fecu102_page0022_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n©\n\nWe are surrounded by a large variety of plants and animals.\nSuch variety of plants and animals is a part of biodiversity.\n\nPlants and animals can be grouped on the basis of similarities\nand differences among them.\n\nPlants have similarities and differences based on features\nassociated with roots, stems, leaves, flowers, and so on.\n\nThe method of arranging things into groups based on their\ncommon features is called grouping.\n\nPlants can be grouped into herbs, shrubs, and trees based on\ntheir heights, types of stem, and branching patterns.\n\nPlants can also be grouped as dicotyledons (dicots) and\nmonocotyledons (monocots) based on the number of\ncotyledons in their seeds.\n\nMonocots generally exhibit parallel venation in their leaves\nand possess fibrous roots while dicots typically exhibit\nreticulate venation in their leaves and possess taproots.\nAnimals have different types of movement that can be a\nbasis for their grouping.\n\nBiodiversity of different regions varies because of distinct\nenvironmental conditions.\n\nThe special features that enable plants and animals to\nsurvive in a particular region are called adaptations.\n\nThe place where plants and animals live is their habitat.\n\nBased on their habitats, animals and plants can be grouped\nas terrestrial and aquatic.\n\nDue to damage of their habitats, plants and animals lose\ntheir homes, food and other resources resulting in the loss\nof biodiversity.\n\nWe must protect biodiversity to ensure that our planet is full\nof life, helping plants and animals to survive and thrive.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "Diversity in the Living World\n31\n1.\t\nHere are two types of seeds. What differences do you find \namong the roots and leaf venation of their plants?\n(b) Kidney beans\n(a) Wheat\nLet us enhance our learning \n2.\t\nNames of some animals are given below. Group them based \non their habitats. Write the names of aquatic animals in the \narea marked ‘A’ and terrestrial animals in the area marked \n‘B’. Enter the names of animals living in both habitats in \npart ‘C’.\nHorse, Dolphin, Frog, Sheep, Crocodile, Squirrel, Whale, \nEarthworm, Pigeon, Tortoise\nA\nB\nC\n3.\t\nManu’s mother maintains a kitchen garden. One day, she \nwas digging out radish from the soil. She told Manu that \nradish is a kind of root. Examine a radish and write what \ntype of root it is. What type of venation would you observe \nin the leaves of radish plant?\n4.\t\nLook at the image of a mountain goat and a goat found in the \nplains. Point out the similarities and differences between \nthem. What are the reasons for these differences?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1009,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0023_img01",
+          "file": "images/NCERT_fecu102_page0023_img01.png",
+          "bbox": [
+            262.4748229980469,
+            162.5294189453125,
+            441.4098205566406,
+            266.20941162109375
+          ],
+          "width_px": 373,
+          "height_px": 216,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0023_img02",
+          "file": "images/NCERT_fecu102_page0023_img02.png",
+          "bbox": [
+            95.7461929321289,
+            162.52944946289062,
+            225.10260009765625,
+            266.20849609375
+          ],
+          "width_px": 270,
+          "height_px": 216,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0023_img03",
+          "file": "images/NCERT_fecu102_page0023_img03.png",
+          "bbox": [
+            81.59686279296875,
+            43.17805480957031,
+            428.4031677246094,
+            122.436767578125
+          ],
+          "width_px": 723,
+          "height_px": 165,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0023_img04",
+          "file": "images/NCERT_fecu102_page0023_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0023_img05",
+          "file": "images/NCERT_fecu102_page0023_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0023_vecfig01",
+          "file": "images/NCERT_fecu102_page0023_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Here are two types of seeds. What differences do you find\namong the roots and leaf venation of their plants?\n\na 5\n\nFt\nw\n\nee\n\nt We\n\nJ\n\n—_\n\nrs\na %\n\n(a) Wheat (b) Kidney beans\n\nNames of some animals are given below. Group them based\non their habitats. Write the names of aquatic animals in the\narea marked ‘A’ and terrestrial animals in the area marked\n‘B’. Enter the names of animals living in both habitats in\npart ‘C’.\n\nHorse, Dolphin, Frog, Sheep, Crocodile, Squirrel, Whale,\nEarthworm, Pigeon, Tortoise\n\nManu’s mother maintains a kitchen garden. One day, she\nwas digging out radish from the soil. She told Manu that\nradish is a kind of root. Examine a radish and write what\ntype of root it is. What type of venation would you observe\nin the leaves of radish plant?\n\nLook at the image of a mountain goat and a goat found in the\nplains. Point out the similarities and differences between\nthem. What are the reasons for these differences?\n\nReprint 2026-27\n\nDiversity in the Living World\n\n8"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "Curiosity | Textbook of Science | Grade 6\n32\n8.\t\nRaj argues with his friend Sanjay that “Gudhal (hibiscus) \nplant is a shrub.” What questions can Sanjay ask for \nclarification?\n5.\t\nGroup the following animals into two groups based on \nany feature other than those discussed in the chapter—\ncow, \ncockroach, \npigeon, \nbat, \ntortoise, \nwhale, \nfish, \ngrasshopper, lizard.\n6.\t\nAs the population grows and people want more comfortable \nlives, forests are being cut down to meet various needs. \nHow can this affect our surroundings? How do you think \nwe can address this challenge?\n7.\t\nAnalyse the flowchart. What can be examples of ‘A’ and ‘B’? \n(b) Goat found in the plains\n(a) Mountain Goat\nYes\nYes\nNo\nYes\nPlant\nDoes it have leaves?\nDoes it have reticulate \nvenation?\nA\nB\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 786,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0024_img01",
+          "file": "images/NCERT_fecu102_page0024_img01.png",
+          "bbox": [
+            343.5908203125,
+            63.16912078857422,
+            522.4921264648438,
+            182.12860107421875
+          ],
+          "width_px": 373,
+          "height_px": 248,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0024_img02",
+          "file": "images/NCERT_fecu102_page0024_img02.png",
+          "bbox": [
+            154.20004272460938,
+            63.66777801513672,
+            331.0933837890625,
+            181.5966796875
+          ],
+          "width_px": 369,
+          "height_px": 246,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0024_img03",
+          "file": "images/NCERT_fecu102_page0024_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0024_img04",
+          "file": "images/NCERT_fecu102_page0024_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0024_vecfig01",
+          "file": "images/NCERT_fecu102_page0024_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\ne\n\n2 = Re\" tae\n\n(a) Mountain Goat (b) Goat found in the plains\n\nGroup the following animals into two groups based on\nany feature other than those discussed in the chapter—\ncow, cockroach, pigeon, bat, tortoise, whale, fish,\ngrasshopper, lizard.\n\nAs the population grows and people want more comfortable\nlives, forests are being cut down to meet various needs.\nHow can this affect our surroundings? How do you think\nwe can address this challenge?\n\nAnalyse the flowchart. What can be examples of ‘A’ and ‘B’?\n\nYes\n\nDoes it have leaves?\nYes\nDoes it have reticulate\nvenation?\nes\n\nYe\n\nRaj argues with his friend Sanjay that “Gudhal (hibiscus)\nplant is a shrub.” What questions can Sanjay ask for\nclarification?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "Diversity in the Living World\n33\nGroup\nType of seed\nType of root\nExamples\nA\nDicot\nTaproot\nB\nMonocot\nFibrous roots \n\n\nRead about one Indian scientist or a wildlife biologist \nwho is working towards protection of India’s biodiversity. \nPrepare a brief report.\n\n\nExplore the contributions of Divya Mudappa, Usha \nLachungpa, Ghazala Shahabuddin, Nandini Velho, Vidya \nAthreya, Uma Ramakrishnan and Divya Karnad towards \nbiodiversity in India. Prepare a report of the work done by \nany three of them.\nLearning further \n(a)\t What other similarities do plants of group A have? \n(b)\t What other similarities do plants of group B have? \n10.\t Observe the labelled part of a duck in the picture given \nbelow. What differences do you observe in the feet of the \nduck compared to the other birds? Which activity would the \nduck be able to perform using this part?\n(b) Pigeon\n(a) Duck\nWebbed \nfeet\n9.\t\nBased on the information in the table, find out examples of \nthese plants for each group.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 998,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0025_img01",
+          "file": "images/NCERT_fecu102_page0025_img01.png",
+          "bbox": [
+            94.1045913696289,
+            505.83123779296875,
+            416.9079284667969,
+            570.2208251953125
+          ],
+          "width_px": 673,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0025_img02",
+          "file": "images/NCERT_fecu102_page0025_img02.png",
+          "bbox": [
+            292.2000427246094,
+            380.3984375,
+            434.7000427246094,
+            472.0029602050781
+          ],
+          "width_px": 297,
+          "height_px": 191,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0025_img03",
+          "file": "images/NCERT_fecu102_page0025_img03.png",
+          "bbox": [
+            103.67365264892578,
+            340.5174560546875,
+            228.71478271484375,
+            464.6615905761719
+          ],
+          "width_px": 261,
+          "height_px": 259,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "ci\nQ."
+        },
+        {
+          "image_id": "NCERT_fecu102_page0025_img04",
+          "file": "images/NCERT_fecu102_page0025_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0025_img05",
+          "file": "images/NCERT_fecu102_page0025_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0025_table01",
+          "bbox": [
+            72.56933466593425,
+            110.29986572265625,
+            437.4066619873047,
+            195.374755859375
+          ],
+          "rows": [
+            [
+              "Group",
+              "Type of seed",
+              "Type of root",
+              "Examples"
+            ],
+            [
+              "A",
+              "Dicot",
+              "Taproot",
+              ""
+            ],
+            [
+              "B",
+              "Monocot",
+              "Fibrous roots",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0025_vecfig01",
+          "file": "images/NCERT_fecu102_page0025_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "9. Based on the information in the table, find out examples of\nthese plants for each group.\n\nGroup Type ofseed Type of root Examples\nA Dicot Taproot\nB Monocot Fibrous roots\n\n(a) What other similarities do plants of group A have?\n(b) What other similarities do plants of group B have?\n\n10. Observe the labelled part of a duck in the picture given\nbelow. What differences do you observe in the feet of the\nduck compared to the other birds? Which activity would the\nduck be able to perform using this part?\n\nWebbed\not feet\n\n(a) Duck (b) Pigeon\n\nLearning further ‘;_~”\n\nRead about one Indian scientist or a wildlife biologist\nwho is working towards protection of India’s biodiversity.\nPrepare a brief report.\n\n¢@ Explore the contributions of Divya Mudappa, Usha\nLachungpa, Ghazala Shahabuddin, Nandini Velho, Vidya\nAthreya, Uma Ramakrishnan and Divya Karnad towards\nbiodiversity in India. Prepare a report of the work done by\nany three of them.\n\nReprint 2026-27\n\nDiversity in the Living World\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "Curiosity | Textbook of Science | Grade 6\n34\n\n\nLabel the plants in your school with their local names with \nthe help of your teacher or the gardener. List them in your \nnotebook.\n\n\nWith the help of your teacher, plan a field visit or a nature \nwalk. Record your observations. Prepare a class biodiversity \nregister by consolidating the observations and notes of all \nthe students taken during the field visit or nature walk.\n\n\nFind out about ‘Project Tiger’ and other similar projects \ninitiated in India to protect our biodiversity. Prepare a \npresentation for your class.\n\n\nDivide your class into groups of six students each. Initiate a \ndiscussion in the class on how you can protect biodiversity \naround you. Prepare a group-wise report that includes \nsuggestions given by members of each group.\n\n\nInteract with elders in your family or neighbourhood to find \nout various plants and animals that they see now but were \nnot seen earlier and vice-versa. Collect pictures of these \nplants and animals and paste them in a scrapbook. Find out \nmore about them from your teacher.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1104,
+      "images": [
+        {
+          "image_id": "NCERT_fecu102_page0026_img01",
+          "file": "images/NCERT_fecu102_page0026_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu102_page0026_img02",
+          "file": "images/NCERT_fecu102_page0026_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu102_page0026_vecfig01",
+          "file": "images/NCERT_fecu102_page0026_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nrs\n\nLabel the plants in your school with their local names with\nthe help of your teacher or the gardener. List them in your\nnotebook.\n\nWith the help of your teacher, plan a field visit or a nature\nwalk. Record your observations. Prepare a class biodiversity\nregister by consolidating the observations and notes of all\nthe students taken during the field visit or nature walk.\n\nFind out about ‘Project Tiger’ and other similar projects\ninitiated in India to protect our biodiversity. Prepare a\npresentation for your class.\n\nDivide your class into groups of six students each. Initiate a\ndiscussion in the class on how you can protect biodiversity\naround you. Prepare a group-wise report that includes\nsuggestions given by members of each group.\n\nInteract with elders in your family or neighbourhood to find\nout various plants and animals that they see now but were\nnot seen earlier and vice-versa. Collect pictures of these\nplants and animals and paste them in a scrapbook. Find out\nmore about them from your teacher.\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}

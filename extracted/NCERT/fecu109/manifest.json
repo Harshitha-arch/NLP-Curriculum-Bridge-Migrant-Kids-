@@ -1,0 +1,2036 @@
+{
+  "source_file": "data\\NCERT\\fecu109.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu109",
+  "num_pages": 20,
+  "extraction_method": "native",
+  "native_page_count": 20,
+  "ocr_page_count": 0,
+  "total_images": 97,
+  "images_with_text": 1,
+  "total_tables": 2,
+  "total_vector_figures": 18,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Malli and his sister Valli are excited for their summer \nvacations. Their parents have planned a trip to visit their \nrelatives and friends living across India. They always stay \nin touch with their relatives and friends. Do you also keep \nin touch with your loved ones?\nTheir first halt is at their Nani’s (maternal grandmother’s) \nhouse in Haryana. It is surrounded by large fields. Malli \nand Valli are fascinated by the variety of grains piled up \nin the courtyard. Their Mami (maternal aunt) and Mama \n(maternal uncle), along with other community members, \nare busy separating small stones and husk from the grains \nwith their hands. \nMethods of Separation  \nin Everyday Life\n9\nChapter\nसाधु ऐसा चाहिए जैसा सूप सुभाय ।  \nसार सार को गहि रहै थोथा दई उडाय ।।\n\b\n—कबीर\n\bJust like winnowing makes the husk blow away \nwhile retaining the grains, similarly, sages let \nthe virtues stay while discarding the vices.\n—Kabir\nMalli and Valli are curious to know why this is being \ndone. Their Nani notices their curiosity and explains, “We are \nremoving these stones so that the grains are fit for cooking.”\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1115,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0001_img01",
+          "file": "images/NCERT_fecu109_page0001_img01.png",
+          "bbox": [
+            59.179420471191406,
+            436.33837890625,
+            486.02984619140625,
+            683.8591918945312
+          ],
+          "width_px": 890,
+          "height_px": 516,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0001_img02",
+          "file": "images/NCERT_fecu109_page0001_img02.png",
+          "bbox": [
+            -18.600006103515625,
+            -18.599945068359375,
+            611.4000244140625,
+            194.70965576171875
+          ],
+          "width_px": 1315,
+          "height_px": 445,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0001_img03",
+          "file": "images/NCERT_fecu109_page0001_img03.png",
+          "bbox": [
+            469.91998291015625,
+            188.40005493164062,
+            554.8800048828125,
+            273.36004638671875
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": "0677CHOO"
+        },
+        {
+          "image_id": "NCERT_fecu109_page0001_img04",
+          "file": "images/NCERT_fecu109_page0001_img04.png",
+          "bbox": [
+            52.399208068847656,
+            179.40003967285156,
+            459.42327880859375,
+            343.4000549316406
+          ],
+          "width_px": 848,
+          "height_px": 342,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0001_img05",
+          "file": "images/NCERT_fecu109_page0001_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0001_img06",
+          "file": "images/NCERT_fecu109_page0001_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0001_vecfig01",
+          "file": "images/NCERT_fecu109_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Methods of Separation\nin Everyday Life\n\n66 a orem «<\n\naN Un al ale Te MAM Fs TST II \\\nmat\n\nJust like winnowing makes the husk blow away Bros\nwhile retaining the grains, similarly, sages let\n\\ the virtues stay while discarding the vices. 3\n—Kabir 9 9 -\n\nMalli and his sister Valli are excited for their summer\nvacations. Their parents have planned a trip to visit their\nrelatives and friends living across India. They always stay\nin touch with their relatives and friends. Do you also keep\nin touch with your loved ones?\n\nTheir first halt is at their Nani’s (maternal grandmother’s)\nhouse in Haryana. It is surrounded by large fields. Malli\nand Valli are fascinated by the variety of grains piled up\nin the courtyard. Their Mami (maternal aunt) and Mama\n(maternal uncle), along with other community members,\nare busy separating small stones and husk from the grains\nwith their hands. aie\n\nMalli and Valli are curious to know why this is being\ndone. Their Nani notices their curiosity and explains, “We are\nremoving these stones so that the grains are fit for cooking.”\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Fig. 9.1: Handpicking   \nFig. 9.2: Threshing   \nCuriosity | Textbook of Science | Grade 6\n164\nThey go around the house to see the fields and the \ncattle. To keep them busy, Nani gives them a challenge of \nhandpicking small stones from grains while keeping their \neyes closed.\nThe method of picking by hand from a mixture (when \ntwo or more substances are mixed) such as small stones and \nhusk from wheat and rice is called handpicking. It is done \non the basis of differences in size, colour and \nshape of the particles. If the particles to be \nremoved are present in small quantities and \ncan easily be picked by hand, handpicking \nproves to be a convenient method.   \nAt lunch, Malli and Valli are served \nsteaming \nhot \nvegetable \npulao. \nWhile \neating the pulao, Nani observes that \nMalli is separating whole black peppers \nfrom \nthe \npulao \nand \nis \nplacing \nthem \naside on his plate (Fig. 9.1). Valli playfully teases, \n“Wow! This is a handpicking method, nice one!” \nNani tells them about the benefits of black pepper and \nencourages Malli to eat it. \nLater in the day, their Mama takes them to the fields \nwhere they observe bundles of harvested \nwheat stalks lying in the fields. Some \nstalks are spread in the sun for drying. \nBoth of them pick up a stalk each and \nnotice numerous grains attached to it. A \ngroup of farmers are beating the stalks \non a large wooden log. Curiously, Valli \nasks Mama, “Why are they doing this?” \nMama explains, “They are beating \nthe stalks to separate the grains” (Fig. \n9.2). This process of separating grains \nfrom the stalks is known as \nthreshing. Farmers work hard, \nyet they enjoy their work. From time to time, \nthey sing folk songs while working. \nExplore folk songs of your region and try to \nsing along with your friends.\nHave fun \nwhile \nyou learn\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1819,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0002_img01",
+          "file": "images/NCERT_fecu109_page0002_img01.png",
+          "bbox": [
+            51.58637237548828,
+            178.02488708496094,
+            251.00167846679688,
+            341.4012756347656
+          ],
+          "width_px": 416,
+          "height_px": 341,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0002_img02",
+          "file": "images/NCERT_fecu109_page0002_img02.png",
+          "bbox": [
+            60.34320831298828,
+            395.49725341796875,
+            273.08001708984375,
+            592.8617553710938
+          ],
+          "width_px": 444,
+          "height_px": 412,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0002_img03",
+          "file": "images/NCERT_fecu109_page0002_img03.png",
+          "bbox": [
+            131.3719482421875,
+            657.0658569335938,
+            517.1598510742188,
+            712.5199584960938
+          ],
+          "width_px": 804,
+          "height_px": 116,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0002_img04",
+          "file": "images/NCERT_fecu109_page0002_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0002_img05",
+          "file": "images/NCERT_fecu109_page0002_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0002_vecfig01",
+          "file": "images/NCERT_fecu109_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "They go around the house to see the fields and the\ncattle. To keep them busy, Nani gives them a challenge of\nhandpicking small stones from grains while keeping their\neyes closed.\n\nThe method of picking by hand from a mixture (when\ntwo or more substances are mixed) such as small stones and\nhusk from wheat and rice is called handpicking. It is done\n\non the basis of differences in size, colour and\nshape of the particles. If the particles to be\nremoved are present in small quantities and\ncan easily be picked by hand, handpicking\nproves to be a convenient method.\n\nAt lunch, Malli and Valli are served\n\\ steaming hot vegetable pulao. While\neating the pulao, Nani observes that\nMalli is separating whole black peppers\n\nfrom the pulao and is placing them\n\nFig. 9.1: Handpicking aside on his plate (Fig. 9.1). Valli playfully teases,\n\n“Wow! This is a handpicking method, nice one!”\n\nNani tells them about the benefits of black pepper and\nencourages Malli to eat it.\n\nLater in the day, their Mama takes them to the fields\nwhere they observe bundles of harvested\n\nwheat stalks lying in the fields. Some\nstalks are spread in the sun for drying.\nBoth of them pick up a stalk each and\nnotice numerous grains attached to it. A\ngroup of farmers are beating the stalks\non a large wooden log. Curiously, Valli\nasks Mama, “Why are they doing this?”\nMama explains, “They are beating\na yee the stalks to separate the grains” (Fig.\n— 9.2). This process of separating grains\n\nFig. 9.2: Threshing from the stalks is known as\n\nthreshing. Farmers work hard,\n\nyet they enjoy their work. From time to time, @\n\nthey sing folk songs while working.\n\nCuriosity | Textbook of Science | Grade 6\n\nHave fun\nExplore folk songs of your region and try to while\nsing along with your friends. you learn\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Fig. 9.3: Bamboo tray\nMethods of Separation  \nin Everyday Life\n165\nThe separated grains get mixed with \npiles of husk.\nValli whispers to Malli, “Will the farmers \nhandpick the grains to remove them from \nso much husk?” She wonders, “How much \ntime will the farmers take to separate \nthese?”\nLet us perform an activity to find out \nthe answer to the questions raised by Valli.\nActivity 9.1: Let us explore \n\n\nTake a handful of roasted peanuts and rub them \nbetween your palms. What happens? \n\n\nIs it possible to separate the removed skin and the \npeanuts?\n\n\nNow, try blowing it. What do you observe?\nWhich of these components—removed peanut skins or \npeanuts are blown away?\nYou observe that blowing air separates the heavier and \nthe lighter components.\nHow do you think farmers separate so many grains \nfrom husk? \nTraditionally, a soop (bamboo tray) is used for separating \nheavier and lighter components of a mixture (Fig. 9.3). \nNext day, their Nana takes \nthem to the fields to show \nthis process at work.\nMalli and Valli observe a \nfarmer standing on a raised \nplatform. \nThe \nfarmer \nis \nmoving the bamboo tray \nwhich \ncontains \nthreshed \nwheat grains in the direction \nof air or wind (Fig. 9.4).\nWhat do you infer from Fig. 9.4? Do both the components, \nwheat grains and husk, fall at the same place? Which of the \ntwo components get blown away? Can the wind separate \nthe two components? \nA small amount of \npuffed rice is mixed \nwith chana dal. \n?\nCan you think of \nseparating the mixture \nby any method other \nthan handpicking?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1561,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0003_img01",
+          "file": "images/NCERT_fecu109_page0003_img01.png",
+          "bbox": [
+            261.3782043457031,
+            470.9352722167969,
+            481.96075439453125,
+            581.1053466796875
+          ],
+          "width_px": 460,
+          "height_px": 230,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0003_img02",
+          "file": "images/NCERT_fecu109_page0003_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0003_img03",
+          "file": "images/NCERT_fecu109_page0003_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0003_vecfig01",
+          "file": "images/NCERT_fecu109_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "The separated grains get mixed with A small amount of\n\npiles of husk. puffed rice is mixed\nValli whispers to Malli, “Will the farmers with chana dal.\nhandpick the grains to remove them from Can you think of\n\nso much husk?” She wonders, “How much\ntime will the farmers take to separate\nthese?”\n\nLet us perform an activity to find out\nthe answer to the questions raised by Valli.\n\nActivity 9.1: Let us explore\n\n¢ Take a handful of roasted peanuts and rub them\nbetween your palms. What happens?\n\n¢ Is it possible to separate the removed skin and the\npeanuts?\n\n¢ Now, try blowing it. What do you observe?\n\nWhich of these components—removed peanut skins or\npeanuts are blown away?\n\nYou observe that blowing air separates the heavier and\nthe lighter components.\n\nHow do you think farmers separate so many grains\nfrom husk?\n\nTraditionally, a soop (bamboo tray) is used for separating\nheavier and lighter components of a mixture (Fig. 9.3).\n\nNext day, their Nana takes\nthem to the fields to show\nthis process at work.\n\nMalli and Valli observe a\nfarmer standing on a raised\nplatform. The farmer is\nmoving the bamboo tray\nwhich contains threshed\nwheat grains in the direction\nof air or wind (Fig. 9.4).\n\nWhat do you infer from Fig. 9.4? Do both the components,\nwheat grains and husk, fall at the same place? Which of the\ntwo components get blown away? Can the wind separate\nthe two components?\n\nFig. 9.3: Bamboo tray\n\nReprint 2026-27\n\nseparating the mixture\nby any method other\nthan handpicking?\n\n?\n\nMethods of Separation\nin Everyday Life\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Curiosity | Textbook of Science | Grade 6\n166\nValli is unable to \nseparate husk \nfrom rice in a \nclosed room. How \ncan you help her??\nThis method of separating heavier and lighter \ncomponents of a mixture by wind or by blowing \nair is called winnowing. Have you seen any \nsimilar kind of activity being done at your home? \nSoop (bamboo tray)\nHusk\nGrains\nFig. 9.4: Winnowing\nDirection of air or wind\nTechnological developments have \nresulted in developing of threshing \nmachines called threshers. These \nMore to \nknow!\nNext day, Malli and Valli board a train to Ahmedabad to \nvisit their father’s friend Ghanshyam bhai. Before leaving, \nValli requests her Mami to prepare meethi puri (sweet Indian \nbread made from wheat flour) for their journey.\nValli: Shall I help you knead the wheat flour?\nMami: To prepare a dish with flour, first we need to \nremove bran that may be present in the flour.\nValli: How do we do it? \nmachines are used for separating \ngrains from the stalks and husk. They \nperform both the tasks of threshing and \nwinnowing simultaneously. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1075,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0004_img01",
+          "file": "images/NCERT_fecu109_page0004_img01.png",
+          "bbox": [
+            166.33624267578125,
+            78.12211608886719,
+            507.9638366699219,
+            303.4377746582031
+          ],
+          "width_px": 712,
+          "height_px": 470,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0004_img02",
+          "file": "images/NCERT_fecu109_page0004_img02.png",
+          "bbox": [
+            89.39999389648438,
+            405.31756591796875,
+            548.3999633789062,
+            572.4000854492188
+          ],
+          "width_px": 957,
+          "height_px": 349,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0004_img03",
+          "file": "images/NCERT_fecu109_page0004_img03.png",
+          "bbox": [
+            390.3599548339844,
+            434.96246337890625,
+            535.0745849609375,
+            562.586669921875
+          ],
+          "width_px": 302,
+          "height_px": 266,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0004_img04",
+          "file": "images/NCERT_fecu109_page0004_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0004_img05",
+          "file": "images/NCERT_fecu109_page0004_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0004_vecfig01",
+          "file": "images/NCERT_fecu109_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Direction of air or wind\n\nSoop (bamboo tray)\n\nFig. 9.4: Winnowing\n\nValli is unable to This method of separating heavier and lighter\nseparate husk\n\nfrom riceina\n\nclosed room. How @\ncan you help her?\n\nCuriosity | Textbook of Science | Grade 6\n\n©\n\nMore to\n\nknow!\n\ni ] components of a mixture by wind or by blowing\nair is called winnowing. Have you seen any\nsimilar kind of activity being done at your home?\n\nTechnological developments have\nresulted in developing of threshing\nmachines called threshers. These\nmachines are used for separating\ngrains from the stalks and husk. They\nperform both the tasks of threshing and\nwinnowing simultaneously.\n\nNext day, Malli and Valli board a train to Ahmedabad to\nvisit their father’s friend Ghanshyam bhai. Before leaving,\nValli requests her Mamito prepare meethi puri (sweet Indian\nbread made from wheat flour) for their journey.\n\nValli: Shall I help you knead the wheat flour?\n\nMami: To prepare a dish with flour, first we need to\nremove bran that may be present in the flour.\n\nValli: How do we do it?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Fig. 9.5: Sieving\nMethods of Separation  \nin Everyday Life\n167\nMami: We use a sieve for this purpose.\nSieving allows the fine flour particles to \npass through the holes of the sieve as shown \nin Fig. 9.5. The bigger particles such as bran \nand small stones remain on the sieve. \nCarefully observe a sieve. Are all \nthe holes of the sieve the same size? \nWill sieving work if the holes of the \nsieve are larger than the substances? \nIs there any difference in the size between \nthe particles that pass through the sieve \nand the particles that remain on the sieve? \nSieving is used when components of a \nsolid–solid mixture have different sizes.\nUpon reaching Ahmedabad, they visit \nSabarmati Ashram along with Ghanshyam \nbhai where they learn about the Namak \nSatyagrah (Dandi March).\nMalli asks, “Where is namak (common salt) obtained \nfrom?”\n“From seawater”, replies \nGhanshyam bhai. \nSeawater is a mixture \nof salts and some other \nsubstances dissolved in \nwater. To obtain salt, \nthe seawater is kept in \nshallow pits and exposed \nto sunlight and air. In \na few days, the water \nFig. 9.6: Obtaining salt from seawater\nHave you ever observed \nsieves being used at \nconstruction sites to \nseparate pebbles and \nstones from the sand?\nWhat is Sabarmati Ashram famous for?\nDraw a poster showing Dandi March and \ndiscuss why it was organised.\nMore to \ndo!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1370,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0005_img01",
+          "file": "images/NCERT_fecu109_page0005_img01.png",
+          "bbox": [
+            319.58795166015625,
+            51.27461242675781,
+            519.626220703125,
+            202.26434326171875
+          ],
+          "width_px": 417,
+          "height_px": 315,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0005_img02",
+          "file": "images/NCERT_fecu109_page0005_img02.png",
+          "bbox": [
+            242.39996337890625,
+            536.3999633789062,
+            503.39996337890625,
+            678.4705200195312
+          ],
+          "width_px": 544,
+          "height_px": 296,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0005_img03",
+          "file": "images/NCERT_fecu109_page0005_img03.png",
+          "bbox": [
+            69.00015258789062,
+            384.3726806640625,
+            465.0001220703125,
+            491.704833984375
+          ],
+          "width_px": 825,
+          "height_px": 224,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0005_img04",
+          "file": "images/NCERT_fecu109_page0005_img04.png",
+          "bbox": [
+            403.823486328125,
+            385.14031982421875,
+            489.76849365234375,
+            495.4093933105469
+          ],
+          "width_px": 179,
+          "height_px": 230,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0005_img05",
+          "file": "images/NCERT_fecu109_page0005_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0005_img06",
+          "file": "images/NCERT_fecu109_page0005_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0005_vecfig01",
+          "file": "images/NCERT_fecu109_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Mami: We use a sieve for this purpose.\nSieving allows the fine flour particles to\npass through the holes of the sieve as shown\nin Fig. 9.5. The bigger particles such as bran\nand small stones remain on the sieve.\nCarefully observe a sieve. Are all\nthe holes of the sieve the same size?\nWill sieving work if the holes of the\nsieve are larger than the substances?\nIs there any difference in the size between Fig. 9.5: Sieving\nthe particles that pass through the sieve\nand the particles that remain on the sieve?\nSieving is used when components of a\nsolid—solid mixture have different sizes. Have you ever observed\nUpon reaching Ahmedabad, they visit sieves being used.at\nSabarmati Ashram along with Ghanshyam construction sites to\nbhai where they learn about the Namak _ separate pebbles and\nSatyagrah (Dandi March). stones from the sand? @\n\n€s3 What is Sabarmati Ashram famous for?\n\nDraw a poster showing Dandi March and\n\nMore to = discuss why it was organised.\ndo!\n\nMalli asks, “Where is namak (common salt) obtained\nfrom?”\n\n“From seawater”, replies\nGhanshyam bhai.\n\nSeawater is a mixture\nof salts and some other\nsubstances dissolved in\nwater. To obtain salt,\nthe seawater is kept in\nshallow pits and exposed\nto sunlight and air. In\na few days, the water\n\nFig. 9.6: Obtaining salt from seawater\n\nReprint 2026-27\n\nMethods of Separation\nin Everyday Life"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Curiosity | Textbook of Science | Grade 6\n168\nLet us explore how salt can be separated from a salt solution.\nActivity 9.2: Let us observe and create\nevaporates completely, leaving behind the solid mixture \n(Fig. 9.6). Common salt is then obtained from this mixture \nby further purification. \nHave you ever \nobserved white \npatches on the \ndark coloured \nclothes you \nwear during hot \nsummers? How \nare these patches \nformed?\n?\n\n\nTake a bowl or any container and fill it half with \nwater. \n\n\nAdd 2–3 teaspoons of salt into it and stir till the \nsalt dissolves to form a solution.\n\n\nTake a small piece of black or dark coloured \nthick paper and spread a few drops of the salt \nsolution on it (Fig. 9.7a).\n\n\nYou can also create any art of your choice with \nthis salt solution. \n\n\nAllow it to dry and then observe it (Fig. 9.7b \nand Fig. 9.7c).\n(b) After drying\n(a) Before drying\n(c) Art created\nFig. 9.7: A few drops of salt solution spread on thick black paper\nDo you observe some patches on the paper? What do you \nthink is left on the paper? You can feel the presence of salt \nby touching the paper. Where has the water disappeared? \nRecall the chapter ‘A Journey through States of Water’.\nLet us probe further to get the answer.\nFind out about some water bodies in \nIndia that contain common salt. One such \nsource is Sambhar Lake in Rajasthan. \nMore to \ndo!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1386,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0006_img01",
+          "file": "images/NCERT_fecu109_page0006_img01.png",
+          "bbox": [
+            286.3626403808594,
+            474.9635009765625,
+            393.4202575683594,
+            560.6459350585938
+          ],
+          "width_px": 224,
+          "height_px": 179,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0006_img02",
+          "file": "images/NCERT_fecu109_page0006_img02.png",
+          "bbox": [
+            164.57275390625,
+            475.0036926269531,
+            271.6378173828125,
+            560.6089477539062
+          ],
+          "width_px": 223,
+          "height_px": 179,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0006_img03",
+          "file": "images/NCERT_fecu109_page0006_img03.png",
+          "bbox": [
+            415.7564697265625,
+            475.0403747558594,
+            522.7764892578125,
+            560.5803833007812
+          ],
+          "width_px": 223,
+          "height_px": 179,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0006_img04",
+          "file": "images/NCERT_fecu109_page0006_img04.png",
+          "bbox": [
+            163.39981079101562,
+            116.30364990234375,
+            505.3998107910156,
+            215.32884216308594
+          ],
+          "width_px": 713,
+          "height_px": 207,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0006_img05",
+          "file": "images/NCERT_fecu109_page0006_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0006_img06",
+          "file": "images/NCERT_fecu109_page0006_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0006_vecfig01",
+          "file": "images/NCERT_fecu109_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "evaporates completely, leaving behind the solid mixture\n(Fig. 9.6). Common salt is then obtained from this mixture\nby further purification.\n\nFind out about some water bodies in ts)\nIndia that contain common salt. One such\n\nsource is Sambhar Lake in Rajasthan. More to\n\ndo!\n\nLet us explore how salt can be separated from a salt solution.\n\nActivity 9.2: Let us observe and create\n\n¢\nHave you ever\nobserved white\npatches on the .\ndark coloured\nclothes you ee\nwear during hot\nsummers? How\nare these patches e\nformed?\n\n¢\n\nCuriosity | Textbook of Science | Grade 6\n\nTake a bowl or any container and fill it half with\nwater.\n\nAdd 2-3 teaspoons of salt into it and stir till the\nsalt dissolves to form a solution.\n\nTake a small piece of black or dark coloured\nthick paper and spread a few drops of the salt\nsolution on it (Fig. 9.7a).\n\nYou can also create any art of your choice with\nthis salt solution.\n\nAllow it to dry and then observe it (Fig. 9.7b\nand Fig. 9.7c).\n\n(a) Before drying (b) After drying (c) Art created\n\nFig. 9.7: A few drops of salt solution spread on thick black paper\n\nDo you observe some patches on the paper? What do you\nthink is left on the paper? You can feel the presence of salt\nby touching the paper. Where has the water disappeared?\nRecall the chapter ‘A Journey through States of Water’.\n\nLet us probe further to get the answer.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Caution  \nBe careful \nwhile heating \nthe china dish.\nMethods of Separation  \nin Everyday Life\n169\nFig. 9.8: Heating of china dish \ncontaining salt solution\nChina dish\nSpirit lamp\nWire \ngauze\nActivity 9.3: Let us investigate\nThis activity may be demonstrated by the \nteacher.\n\n\nTake some salt solution (prepared in \nActivity 9.2) in a china dish. If a china \ndish is not available, another suitable \nvessel may be used.\nIn the traditional Indian system of holistic health and medicine \ncalled Ayurveda, the herbs or parts of plants are prescribed as \nremedies. These ingredients like roots, leaves, flowers or seeds \nof various medicinal plants are often dried in the shade. This \npractice facilitates the evaporation of excess water, leaving \nbehind the important part of the medicine. \nIt is now time for Malli and Valli to visit Dada and Dadi \n(paternal grandparents) residing in Puducherry, located \nin southern India. They are excited to meet their old \nneighbourhood friend, Balan. After reaching Puducherry, \nthey start talking about the old times and do not realise that \nit is already evening, Dadi’s tea time.\n\n\nHeat and let the water \nboil away as shown in \nFig. 9.8.\n\n\nAllow the china dish \nto cool down.\n\n\nWhat do you observe? What is left in \nthe china dish?\nDid you get the salt back? You can feel the presence of salt \nin the china dish by touching the salt with your fingers.\nObserve the \nfigure. Does \nit answer the \nquestion? Can \nyou name the \nprocess involved?\n?\n Do you \nknow?\nIs there any \nmethod through \nwhich I can get \nback both salt \nand water?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1596,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0007_img01",
+          "file": "images/NCERT_fecu109_page0007_img01.png",
+          "bbox": [
+            351.3999938964844,
+            206.6001739501953,
+            551.404541015625,
+            341.60015869140625
+          ],
+          "width_px": 417,
+          "height_px": 282,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0007_img02",
+          "file": "images/NCERT_fecu109_page0007_img02.png",
+          "bbox": [
+            37.399993896484375,
+            34.320068359375,
+            496.9199523925781,
+            179.40011596679688
+          ],
+          "width_px": 958,
+          "height_px": 303,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0007_img03",
+          "file": "images/NCERT_fecu109_page0007_img03.png",
+          "bbox": [
+            75.57625579833984,
+            506.35821533203125,
+            143.56610107421875,
+            591.3220825195312
+          ],
+          "width_px": 142,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0007_img04",
+          "file": "images/NCERT_fecu109_page0007_img04.png",
+          "bbox": [
+            374.31610107421875,
+            493.34771728515625,
+            482.4445495605469,
+            567.113525390625
+          ],
+          "width_px": 226,
+          "height_px": 154,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0007_img05",
+          "file": "images/NCERT_fecu109_page0007_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0007_img06",
+          "file": "images/NCERT_fecu109_page0007_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 8,
+      "text": "Curiosity | Textbook of Science | Grade 6\n170\nDada: I shall prepare tea for you.\nChildren: We will also help you.\nAs Dada makes the tea, he shares tips on how to make a \ncup of tea.  \nBalan: After preparing tea, how do you remove the tea \nleaves?\nDada: Obviously, with a strainer. You know if we do not \nhave a strainer, we can still remove most of the tea leaves. \nValli: How? \nDada: Leave the sauce pan (vessel) containing tea \nundisturbed for some time and gently pour the tea in a cup \n(Fig. 9.9).\nValli: Oh Yes! And then the tea leaves will be settled at the \nbottom.\nThe process of settling down of heavier insoluble \ncomponent at the bottom of a liquid is called sedimentation. \nWhen the water (liquid) is removed by tilting the vessel, \nthe process is called decantation.\nIn the chapter ‘Materials Around Us’, you have studied \nthat oil does not mix with water and forms a separate \nlayer when left undisturbed for some time. Which \nmethod of separation would you use to separate oil \nand water?\n?\nFig. 9.9: Decantation\nTea \nleaves\nDada: But I can still get a few tea leaves in my mouth \nbecause decantation does not completely separate all the \ntea leaves from the tea.\nBalan: Oh! It means it is not a proper method of separation.\nDada: Yes, you are right. The tea is ready now. \nMalli picks up the tea-strainer from the shelf and gives it \nto his Dada.\nDada: Let me pour the tea through this strainer. You can \nsee all the tea leaves collected in the strainer. \nThis process of separating tea leaves from tea is called \nfiltration.\nBalan asks Malli if he could use a tea strainer to filter \nmuddy water. Let us try and find out.\nDada: Also, try to filter the muddy water through a piece \nof cloth and observe the difference.\nOh! \nDecantation \nis also used in \nwashing and \ncleaning of rice \nand pulses.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1829,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0008_img01",
+          "file": "images/NCERT_fecu109_page0008_img01.png",
+          "bbox": [
+            -22.290267944335938,
+            61.456321716308594,
+            145.68185424804688,
+            221.43768310546875
+          ],
+          "width_px": 351,
+          "height_px": 334,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0008_img02",
+          "file": "images/NCERT_fecu109_page0008_img02.png",
+          "bbox": [
+            92.8187255859375,
+            395.2448425292969,
+            152.33920288085938,
+            485.5306701660156
+          ],
+          "width_px": 125,
+          "height_px": 188,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0008_img03",
+          "file": "images/NCERT_fecu109_page0008_img03.png",
+          "bbox": [
+            15.409772872924805,
+            389.009521484375,
+            98.48483276367188,
+            493.3541564941406
+          ],
+          "width_px": 174,
+          "height_px": 218,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0008_img04",
+          "file": "images/NCERT_fecu109_page0008_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0008_img05",
+          "file": "images/NCERT_fecu109_page0008_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0008_vecfig01",
+          "file": "images/NCERT_fecu109_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "—_>\n\nFig. 9.9: Decantation\n\nOh!\nDecantation\nis also used in\nwashing and\ncleaning of rice\nand pulses.\n\nCuriosity | Textbook of Science | Grade 6\n\nDada: I shall prepare tea for you.\n\nChildren: We will also help you.\n\nAs Dada makes the tea, he shares tips on how to make a\ncup of tea.\n\nBalan: After preparing tea, how do you remove the tea\nleaves?\n\nDada: Obviously, with a strainer. You know if we do not\nhave a strainer, we can still remove most of the tea leaves.\n\nValli: How?\n\nDada: Leave the sauce pan (vessel) containing tea\nundisturbed for some time and gently pour the tea in a cup\n(Fig. 9.9).\n\nValli: Oh Yes! And then the tea leaves will be settled at the\n\nbottom.\n\nThe process of settling down of heavier insoluble\ncomponentatthe bottom ofaliquidis calledsedimentation.\nWhen the water (liquid) is removed by tilting the vessel,\nthe process is called decantation.\n\nIn the chapter ‘Materials Around Us’, you have studied\nthat oil does not mix with water and forms a separate\n>? layer when left undisturbed for some time. Which\ne method of separation would you use to separate oil\nand water?\n\nDada: But I can still get a few tea leaves in my mouth\nbecause decantation does not completely separate all the\ntea leaves from the tea.\n\nBalan: Oh! It means it is nota proper method ofseparation.\n\nDada: Yes, you are right. The tea is ready now.\n\nMalli picks up the tea-strainer from the shelf and gives it\nto his Dada.\n\nDada: Let me pour the tea through this strainer. You can\nsee all the tea leaves collected in the strainer.\n\nThis process of separating tea leaves from tea is called\nfiltration.\n\nBalan asks Malli if he could use a tea strainer to filter\nmuddy water. Let us try and find out.\n\nDada: Also, try to filter the muddy water through a piece\nof cloth and observe the difference.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Methods of Separation  \nin Everyday Life\n171\nMalli: Why should we use a piece of cloth?\nDada: In a piece of cloth, there are very small holes \nor pores  between the woven threads. These pores in the \ncloth can be used as a filter. People in ancient times also \nfollowed this practice.\nBut if the water is still muddy, impurities can be \nseparated using a filter with even smaller holes or \npores. A filter paper is one such filter that has very fine \npores in it.\nActivity 9.4: Let us experiment\n\n\nTry to fold the filter paper yourself and make a cone as \nshown in Fig. 9.10.\nFig. 9.10: Folding a filter paper to form a cone \nA filter paper\nOne-fold\nTwo-folds\nCone\n\n\nPlace it inside a funnel kept on a conical flask and pour \nmuddy water into it (Fig. 9.11).\n\n\nWhat do you observe? Do the mud particles pass through \nthe filter paper?\n\n\nThe water coming from the funnel will be collected in \nthe conical flask.\nFig. 9.11: Filtration\nFilter paper\nFunnel\nTripod \nstand\nConical \nflask\nMuddy\nwater\nHow \nmany layers \nof cloth do I need \nto use to get clear \nwater?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1084,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0009_img01",
+          "file": "images/NCERT_fecu109_page0009_img01.png",
+          "bbox": [
+            298.4312438964844,
+            295.1307373046875,
+            440.3819274902344,
+            389.81072998046875
+          ],
+          "width_px": 296,
+          "height_px": 198,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0009_img02",
+          "file": "images/NCERT_fecu109_page0009_img02.png",
+          "bbox": [
+            208.5127716064453,
+            297.3228759765625,
+            309.8743896484375,
+            389.3367614746094
+          ],
+          "width_px": 212,
+          "height_px": 192,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0009_img03",
+          "file": "images/NCERT_fecu109_page0009_img03.png",
+          "bbox": [
+            97.29149627685547,
+            297.3306884765625,
+            200.67013549804688,
+            389.3421630859375
+          ],
+          "width_px": 216,
+          "height_px": 192,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0009_img04",
+          "file": "images/NCERT_fecu109_page0009_img04.png",
+          "bbox": [
+            427.9298400878906,
+            297.3306884765625,
+            531.3084716796875,
+            389.3421630859375
+          ],
+          "width_px": 216,
+          "height_px": 192,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0009_img05",
+          "file": "images/NCERT_fecu109_page0009_img05.png",
+          "bbox": [
+            97.29975128173828,
+            481.2421875,
+            274.76251220703125,
+            600.5230712890625
+          ],
+          "width_px": 370,
+          "height_px": 249,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0009_img06",
+          "file": "images/NCERT_fecu109_page0009_img06.png",
+          "bbox": [
+            289.03753662109375,
+            482.0174865722656,
+            466.50030517578125,
+            601.528076171875
+          ],
+          "width_px": 370,
+          "height_px": 249,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0009_img07",
+          "file": "images/NCERT_fecu109_page0009_img07.png",
+          "bbox": [
+            441.16680908203125,
+            110.15782165527344,
+            526.206787109375,
+            211.16925048828125
+          ],
+          "width_px": 177,
+          "height_px": 211,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0009_img08",
+          "file": "images/NCERT_fecu109_page0009_img08.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0009_img09",
+          "file": "images/NCERT_fecu109_page0009_img09.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0009_vecfig01",
+          "file": "images/NCERT_fecu109_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Malli: Why should we use a piece of cloth?\n\nDada: In a piece of cloth, there are very small holes\nor pores between the woven threads. These pores in the\ncloth can be used as a filter. People in ancient times also\nfollowed this practice.\n\nBut if the water is still muddy, impurities can be\nseparated using a filter with even smaller holes or\npores. A filter paper is one such filter that has very fine\npores in it.\n\nActivity 9.4: Let us experiment\n\nHow\n\nmany layers\nof cloth do I need\nto use to get clear\nwater?\n\n¢ Try to fold the filter paper yourself and make a cone as\n\nshown in Fig. 9.10.\n\nA filter paper One-fold Two-folds\n\nCone\n\nFig. 9.10: Folding a filter paper to form a cone\n\n¢ Place it inside a funnel kept on a conical flask and pour\n\nmuddy water into it (Fig. 9.11).\nFilter paper\n\nFunnel\n\nFig. 9.11: Filtration\n\n@ Whatdo you observe? Do the mud particles pass through\n\nthe filter paper?\n\n¢ The water coming from the funnel will be collected in\n\nthe conical flask.\n\nReprint 2026-27\n\nMuddy\n\nwater\n\nTripod\n\nstand\n\nConical\n\nflask\n£\nRS}\n3\n8 @\na S\na 4\n>\n2 5,\nSs\ncs\nas\n=s\n\n®"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Curiosity | Textbook of Science | Grade 6\n172\n\n\nYou will get mud as a residue on the filter paper and \nclear water as filtrate in the conical flask.\nMalli and Valli go on a \nboat ride in a nearby river \nwith their Dada and his \nfriend, Otukkam. Otukkam \nis a fisherman. As they cast \nthe fishing net, water drains \nout through the mesh. Valli \nrecalls the filtration method \nshe had learnt and realises \nthat this method of catching \nthe fish is somewhat similar. \nMalli is taken aback when he sees plastic bags, broken \nbottles, a large fish with a straw stuck in its mouth, and food \nwrappers along with the other fish trapped in the net.\nOther than the filter paper, many materials such as \ncotton, charcoal, and sand can be used as filters. The \nchoice of filter depends upon the size of the particles of \nthe materials to be removed.\nMore to \nknow!\nTea bags were initially made of soft cloth, like \nsilk, because it could hold the tea leaves and let \nwater pass through. Silk was strong and did not \nfall apart when it touched hot water. Later, people \nstarted using gauze or muslin. Eventually they began \nusing filter paper, which is what most tea bags are made \nof today.\n Do you \nknow?\nActivity 9.5: Let us design and create\nValli goes for a nature walk with her Dadi and collects \nsome water from a pond in a container. She observes some \nunwanted substances in it. Design and create a working \nmodel of water filter using low-cost materials.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1471,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0010_img01",
+          "file": "images/NCERT_fecu109_page0010_img01.png",
+          "bbox": [
+            76.40000915527344,
+            488.4000244140625,
+            333.7474365234375,
+            653.5391235351562
+          ],
+          "width_px": 537,
+          "height_px": 345,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0010_img02",
+          "file": "images/NCERT_fecu109_page0010_img02.png",
+          "bbox": [
+            68.30245971679688,
+            101.0513916015625,
+            530.3999633789062,
+            213.39996337890625
+          ],
+          "width_px": 963,
+          "height_px": 234,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0010_img03",
+          "file": "images/NCERT_fecu109_page0010_img03.png",
+          "bbox": [
+            103.118896484375,
+            304.8329772949219,
+            531.7745361328125,
+            483.9217834472656
+          ],
+          "width_px": 894,
+          "height_px": 374,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0010_img04",
+          "file": "images/NCERT_fecu109_page0010_img04.png",
+          "bbox": [
+            458.7745666503906,
+            313.7583923339844,
+            537.0254516601562,
+            391.8783874511719
+          ],
+          "width_px": 163,
+          "height_px": 163,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0010_img05",
+          "file": "images/NCERT_fecu109_page0010_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0010_img06",
+          "file": "images/NCERT_fecu109_page0010_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0010_vecfig01",
+          "file": "images/NCERT_fecu109_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "¢ You will get mud as a residue on the filter paper and\nclear water as filtrate in the conical flask.\n\nOther than the filter paper, many materials such as\ncotton, charcoal, and sand can be used as filters. The\nMoreto Choice of filter depends upon the size of the particles of\n\nknow! the materials to be removed.\n\nActivity 9.5: Let us design and create SS\n\nValli goes for a nature walk with her Dadi and collects\nsome water from a pond in a container. She observes some\nunwanted substances in it. Design and create a working\nmodel of water filter using low-cost materials.\n\nTea bags were initially made of soft cloth, like 8 i\nsilk, because it could hold the tea leaves and let .\n\nwater pass through. Silk was strong and did not\nfall apart when it touched hot water. Later, people\nstarted using gauze or muslin. Eventually they began\n\nusing filter paper, which is what most tea bags are made\nDo you of today.\nknow?\n\n— Malli and Valli go on a\nboat ride in a nearby river\nwith their Dada and _ his\nfriend, Otukkam. Otukkam\nis a fisherman. As they cast\nthe fishing net, water drains\nout through the mesh. Valli\nrecalls the filtration method\nshe had learnt and realises\nthat this method of catching\nthe fish is somewhat similar.\nMalli is taken aback when he sees plastic bags, broken\nbottles, a large fish with a straw stuck in its mouth, and food\nwrappers along with the other fish trapped in the net.\n\nCuriosity | Textbook of Science | Grade 6\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Methods of Separation  \nin Everyday Life\n173\nDiscuss with your parents\nA bowl of milk in your home has gone sour. Discuss \nwith your parents how you can use it in another way. \nAlso, which method of separation will you use in the \nprocess?\nMalli and Valli take blessings from their \nDada and Dadi, bid goodbye to Balan and \ntravel to Madhya Pradesh.\nThe train reaches Bhopal in Madhya \nPradesh. The sun is rising and it is getting \nhot. On their way to Maasi’s (maternal \naunt’s) \nhome, \nthey \ndrink \nchhach \n(buttermilk) in the dhaba (roadside \neatery). Malli asks the shopkeeper about \nthe big painting, hanging on the wall of \nthe dhaba. The shopkeeper explains that \nthe picture shows a lady performing \nChurning\nLet us raise awareness about the issues related to \nriver and ocean pollution by composing a poem.\nA few lines have been written here, add more lines—\nPiece of plastic in my neck,\nAs in pain I cry,\nKoilas, Koilas…where are you dear?\nPapa fish cries and Mama fish has tears.\nAware of the harm, yet they let it flow,\nKoilas faintly hears mother’s sorrow,\nStop plastic pollution at source,\nRivers are our huge resource.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1150,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0011_img01",
+          "file": "images/NCERT_fecu109_page0011_img01.png",
+          "bbox": [
+            399.2164306640625,
+            305.0500183105469,
+            419.9674987792969,
+            341.0527648925781
+          ],
+          "width_px": 44,
+          "height_px": 75,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img02",
+          "file": "images/NCERT_fecu109_page0011_img02.png",
+          "bbox": [
+            391.15167236328125,
+            304.8452453613281,
+            419.0152893066406,
+            340.92132568359375
+          ],
+          "width_px": 59,
+          "height_px": 76,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img03",
+          "file": "images/NCERT_fecu109_page0011_img03.png",
+          "bbox": [
+            374.5067443847656,
+            308.7315368652344,
+            391.0782775878906,
+            328.3827209472656
+          ],
+          "width_px": 35,
+          "height_px": 41,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img04",
+          "file": "images/NCERT_fecu109_page0011_img04.png",
+          "bbox": [
+            391.2982482910156,
+            330.2158508300781,
+            391.8848571777344,
+            333.8821105957031
+          ],
+          "width_px": 2,
+          "height_px": 8,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img05",
+          "file": "images/NCERT_fecu109_page0011_img05.png",
+          "bbox": [
+            391.1516418457031,
+            333.662109375,
+            391.9582214355469,
+            340.92132568359375
+          ],
+          "width_px": 2,
+          "height_px": 16,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img06",
+          "file": "images/NCERT_fecu109_page0011_img06.png",
+          "bbox": [
+            391.1516418457031,
+            333.662109375,
+            391.9582214355469,
+            340.92132568359375
+          ],
+          "width_px": 2,
+          "height_px": 16,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img07",
+          "file": "images/NCERT_fecu109_page0011_img07.png",
+          "bbox": [
+            378.1730651855469,
+            310.8579406738281,
+            382.6459045410156,
+            314.3775634765625
+          ],
+          "width_px": 10,
+          "height_px": 8,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img08",
+          "file": "images/NCERT_fecu109_page0011_img08.png",
+          "bbox": [
+            374.5068054199219,
+            308.7315368652344,
+            374.7267761230469,
+            308.9515075683594
+          ],
+          "width_px": 1,
+          "height_px": 1,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img09",
+          "file": "images/NCERT_fecu109_page0011_img09.png",
+          "bbox": [
+            339.6011047363281,
+            159.88543701171875,
+            367.4647216796875,
+            195.88818359375
+          ],
+          "width_px": 59,
+          "height_px": 75,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img10",
+          "file": "images/NCERT_fecu109_page0011_img10.png",
+          "bbox": [
+            325.3770751953125,
+            477.9534912109375,
+            527.8465576171875,
+            695.9491577148438
+          ],
+          "width_px": 423,
+          "height_px": 454,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img11",
+          "file": "images/NCERT_fecu109_page0011_img11.png",
+          "bbox": [
+            71.40000915527344,
+            64.19998168945312,
+            438.5999755859375,
+            369.45098876953125
+          ],
+          "width_px": 765,
+          "height_px": 636,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img12",
+          "file": "images/NCERT_fecu109_page0011_img12.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0011_img13",
+          "file": "images/NCERT_fecu109_page0011_img13.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0011_vecfig01",
+          "file": "images/NCERT_fecu109_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Let us raise awareness about the issues related to\nriver and ocean pollution by composing a poem.\n\nA few lines have been written here, add more lines—\n\nPiece of plastic in my neck,\n\nAs in pain I cry, zc\nKoilas, Koilas...where are you dear? Vy >\nPapa fish cries and Mama fish has tears. A S\n\nAware of the harm, yet they let it flow,\nKoilas faintly hears mother’s sorrow,\n\nStop plastic pollution at source, > °\nRivers are our huge resource. vy. A\n\nDiscuss with your parents\n\nA bowl of milk in your home has gone sour. Discuss\nwith your parents how you can use it in another way.\nAlso, which method of separation will you use in the\nprocess?\n\nMalli and Valli take blessings from their\nDada and Dadi, bid goodbye to Balan and\ntravel to Madhya Pradesh.\n\nThe train reaches Bhopal in Madhya\nPradesh. The sun is rising and it is getting\nhot. On their way to Maasi’s (maternal\n\naunt’s) home, they drink chhach s\n(buttermilk) in the dhaba (roadside S\neatery). Malli asks the shopkeeper about 2\nthe big painting, hanging on the wall of 3\nthe dhaba. The shopkeeper explains that E\n\nthe picture shows a lady performing Churning\n\n©\n\nReprint 2026-27\n\nin Everyday Life"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Curiosity | Textbook of Science | Grade 6\n174\nthe process of churning curd \nusing a big mathni (churner) \nto separate butter. In this \nprocess, the butter being \nlighter floats at the top, while \nthe buttermilk is left behind.\nTheir stay at Maasi’s place \nhas become enjoyable and \nthey are looking forward to \nshare all their memories with their friends upon returning \nhome. Now, it is time for them to reach their final destination \nof the trip, Shillong, the capital of Meghalaya.\nOn their arrival at their Bua’s (paternal aunt’s) house in \nShillong, they notice a carpenter making a wooden door. \nWhile working, he accidentally drops a few iron nails in the \nsawdust. \nFig. 9.12: Magnetic separation\nThe carpenter starts handpicking the iron nails. The \nchildren tell the carpenter to wait. They get a magnet from \ntheir Bua. They ask the carpenter to move the magnet \nthrough the sawdust. All the nails get attracted to it (Fig. 9.12). \nWhich method of separation did the carpenter use? Recall \nthe chapter ‘Exploring Magnets’.\nThe substances which are attracted towards a magnet \nare called magnetic substances. Iron is a common example \nCan you name one \nkitchen appliance \nwhich runs on \nelectricity that is \nused to prepare \nbuttermilk?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1263,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0012_img01",
+          "file": "images/NCERT_fecu109_page0012_img01.png",
+          "bbox": [
+            183.66116333007812,
+            336.4000244140625,
+            491.93878173828125,
+            554.4000244140625
+          ],
+          "width_px": 643,
+          "height_px": 455,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0012_img02",
+          "file": "images/NCERT_fecu109_page0012_img02.png",
+          "bbox": [
+            226.3999786376953,
+            77.36841583251953,
+            325.6911315917969,
+            186.52020263671875
+          ],
+          "width_px": 207,
+          "height_px": 228,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0012_img03",
+          "file": "images/NCERT_fecu109_page0012_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0012_img04",
+          "file": "images/NCERT_fecu109_page0012_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0012_vecfig01",
+          "file": "images/NCERT_fecu109_page0012_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nthe process of churning curd\nusing a big mathni (churner)\nto separate butter. In this\nprocess, the butter being\nlighter floats at the top, while\nthe buttermilk is left behind.\n\nTheir stay at Maasi’s place\nhas become enjoyable and\nthey are looking forward to\nshare all their memories with their friends upon returning\nhome. Now, it is time for them to reach their final destination\nof the trip, Shillong, the capital of Meghalaya.\n\nOn their arrival at their Bua’s (paternal aunt’s) house in\nShillong, they notice a carpenter making a wooden door.\nWhile working, he accidentally drops a few iron nails in the\nsawdust.\n\nCan you name one\nkitchen appliance\nwhich runs on\nelectricity that is\nused to prepare\nbuttermilk?\n\nFig. 9.12: Magnetic separation\n\nThe carpenter starts handpicking the iron nails. The\nchildren tell the carpenter to wait. They get a magnet from\ntheir Bua. They ask the carpenter to move the magnet\nthrough the sawdust. All the nails get attracted to it (Fig. 9.12).\nWhich method of separation did the carpenter use? Recall\nthe chapter ‘Exploring Magnets’.\n\nThe substances which are attracted towards a magnet\nare called magnetic substances. Iron is a common example\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Methods of Separation  \nin Everyday Life\n175\nof a magnetic  substance.  Separation of  magnetic and \nnon-magnetic substances by using a magnet is called \nmagnetic separation. \nMalli and Valli had delightful holidays and the ‘Bharat ki \nYatra’ (tour of India) filled with fun will be an ever lasting \nmemory for them. \nThey not only enjoyed exploring different regions of India \nbut also gained a lot of knowledge about various methods of \nseparation of substances.\nActivity 9.6: Let us play\nWrite the following phrases on small slips of paper—\n1.\t\nSeparating small stones from pulses.\n2.\t\nChurning curd to obtain butter.\n3.\t\nTaking out green chillies from cooked dalia (dish made \nof broken wheat) or poha (dish made of flattened rice).\n4.\t\nTaking out seeds from watermelon.\n5.\t\nSorting piles of sawdust and iron nails from a mixed \nheap of building material.\n6.\t\nPicking marigold flowers from a heap of other flowers \nto make a garland.\n7.\t\nSeparating pebbles from sand.\n8.\t\nSeparating coconut pieces from rice flour.\n9.\t\nSeparating oil from water.\n10.\t Separating salt from salt solution.\nNowadays, recyclers use magnets to separate \niron articles from a heap of waste. \nMagnetic separation\nMore to \nknow!\nIn many industries, the waste material \noften contains scrap iron. This is \nseparated from the heap of waste \nmaterials using magnets fitted to a \ncrane. \nThe scrap iron can be recycled and \nreused. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1424,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0013_img01",
+          "file": "images/NCERT_fecu109_page0013_img01.png",
+          "bbox": [
+            60.82110595703125,
+            110.36543273925781,
+            512.4000244140625,
+            292.27508544921875
+          ],
+          "width_px": 941,
+          "height_px": 379,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0013_img02",
+          "file": "images/NCERT_fecu109_page0013_img02.png",
+          "bbox": [
+            389.273681640625,
+            125.59506225585938,
+            463.4142761230469,
+            250.692626953125
+          ],
+          "width_px": 155,
+          "height_px": 261,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0013_img03",
+          "file": "images/NCERT_fecu109_page0013_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0013_img04",
+          "file": "images/NCERT_fecu109_page0013_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0013_vecfig01",
+          "file": "images/NCERT_fecu109_page0013_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "of a magnetic substance. Separation of magnetic and\nnon-magnetic substances by using a magnet is called\nmagnetic separation.\n\nNowadays, recyclers use magnets to separate\niron articles from a heap of waste.\nIn many industries, the waste material\noften contains scrap iron. This is\nseparated from the heap of waste\nmaterials using magnets fitted to a\n\ncrane.\nMore to The scrap iron can be recycled and\nknow! reused. Magnetic separation\n\nMalli and Valli had delightful holidays and the ‘Bharat ki\nYatra’ (tour of India) filled with fun will be an ever lasting\nmemory for them.\n\nThey not only enjoyed exploring different regions of India\nbut also gained a lot of knowledge about various methods of\nseparation of substances.\n\nActivity 9.6: Let Us play mmm\nWrite the following phrases on small slips of paper—\n\n1. Separating small stones from pulses.\n2. Churning curd to obtain butter.\n\n3. Taking out green chillies from cooked dalia (dish made\nof broken wheat) or poha (dish made of flattened rice).\n\nTaking out seeds from watermelon.\n\n5. Sorting piles of sawdust and iron nails from a mixed\nheap of building material.\n\n6. Picking marigold flowers from a heap of other flowers\n\n£\nto make a garland. 8\nS @&\n7. Separating pebbles from sand. s5\n>\n8. Separating coconut pieces from rice flour. 2 Bs\n; ; 2s\n9. Separating oil from water. 38\n\n10. Separating salt from salt solution.\n\n@\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Curiosity | Textbook of Science | Grade 6\n176\nNow, take two baskets, each representing one of the two \npurposes for which we separate substances. Form two teams \nand see who will get the maximum correct entries.\nKeywords\nChurning\nExplore\n Magnetic separation\n Handpicking\nFiltration\nInfer\nInvestigate\nDecantation\n Evaporation \nMixture\nSedimentation\nSieving\nThreshing\nWinnowing\nCreate\n Design\n Experiment \nObserve\nThis activity helps in assessing  your understanding as to \nwhy we separate substances. \nT\no \nse\np\na\nr\na\nt\ne \nt\nw\no\n \nd\nif\nf\ne\nr\ne\nn\nt\nb\nu\nt \nu\ns\nef\nu\nl \nc\no\nm\np\no\nn\ne\nn\nts\nt\nh\nat\n i\ns \nn\no\nt \nu\ns\ne\nf\nu\nl\nTo\n r\ne\nm\nov\ne \nan\ny \no\nn\ne \nof\n t\nh\ne \nc\no\nm\np\non\nen\nts\nThink and start \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 708,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0014_img01",
+          "file": "images/NCERT_fecu109_page0014_img01.png",
+          "bbox": [
+            235.74008178710938,
+            358.4000549316406,
+            439.8600769042969,
+            406.68505859375
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0014_img02",
+          "file": "images/NCERT_fecu109_page0014_img02.png",
+          "bbox": [
+            106.31449890136719,
+            145.3975067138672,
+            316.86236572265625,
+            307.6279296875
+          ],
+          "width_px": 439,
+          "height_px": 338,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0014_img03",
+          "file": "images/NCERT_fecu109_page0014_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0014_img04",
+          "file": "images/NCERT_fecu109_page0014_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 15,
+      "text": "Methods of Separation  \nin Everyday Life\n177\nSummary\n\n\nHandpicking is used for separating solid materials on the \nbasis of differences in size, colour and shape from a mixture.\n\n\nThe process in which the stalks are beaten to separate grains \nfrom them is called threshing.\n\n\nThe method of separating lighter husk from heavier grains \nby wind or blowing air is called winnowing.\n\n\nThe process of separating solids from a mixture based on \nvariations in particle size using a sieve is called sieving.\n\n\nEvaporation is the process in which a liquid gets converted \ninto its vapour. It can be used to separate a solid dissolved \nin a liquid.\n\n\nThe process of settling down of heavier insoluble component \nat the bottom of a liquid is called sedimentation. When the \nliquid is removed by tilting the vessel, the process is called \ndecantation.\n\n\nFiltration can be used to separate insoluble solid components \nfrom a liquid.\n\n\nChurning is used to extract butter from curd.\n\n\nSeparation of magnetic and non-magnetic substances by \nusing a magnet is called magnetic separation.\nPlay a Game—WISE FISH\nPrepare your own fishing rod with locally available eco-friendly \nmaterials. Tie a thread to one end of the rod and a magnet to the \nfree end of the thread. The Tank 1 has red cardboard fish and \nTank 2 has blue cardboard slips attached to iron clips. Fish out \na red fish representing the method of separation first and then \nfish out one blue slip related to the red one.\nWatch out for your friends. Are they fishing out correctly?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1560,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0015_img01",
+          "file": "images/NCERT_fecu109_page0015_img01.png",
+          "bbox": [
+            152.94003295898438,
+            64.20002746582031,
+            357.0600280761719,
+            112.48504638671875
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0015_img02",
+          "file": "images/NCERT_fecu109_page0015_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0015_img03",
+          "file": "images/NCERT_fecu109_page0015_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0015_vecfig01",
+          "file": "images/NCERT_fecu109_page0015_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "¢  Handpicking is used for separating solid materials on the\nbasis of differences in size, colour and shape from a mixture.\n\n@ The process in which the stalks are beaten to separate grains\nfrom them is called threshing.\n\n¢ The method of separating lighter husk from heavier grains\nby wind or blowing air is called winnowing.\n\n¢ The process of separating solids from a mixture based on\nvariations in particle size using a sieve is called sieving.\n\n¢ Evaporation is the process in which a liquid gets converted\ninto its vapour. It can be used to separate a solid dissolved\nin a liquid.\n\n¢  Theprocess of settling down of heavier insoluble component\nat the bottom of a liquid is called sedimentation. When the\n\nliquid is removed by tilting the vessel, the process is called\ndecantation.\n\n¢  Filtrationcan be used to separate insoluble solid components\nfrom a liquid.\n\nChurning is used to extract butter from curd.\n\nSeparation of magnetic and non-magnetic substances by\nusing a magnet is called magnetic separation.\n\nPlay a Game—WISE FISH\n\nPrepare your own fishing rod with locally available eco-friendly\nmaterials. Tie a thread to one end of the rod and a magnet to the\nfree end of the thread. The Tank 1 has red cardboard fish and\nTank 2 has blue cardboard slips attached to iron clips. Fish out\na red fish representing the method of separation first and then\nfish out one blue slip related to the red one.\n\nWatch out for your friends. Are they fishing out correctly?\n\nReprint 2026-27\n\nMethods of Separation\nin Everyday Life\n\n@"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Curiosity | Textbook of Science | Grade 6\n178\nLet us enhance our learning\n1. \t What purpose does handpicking serve in the process of \nseparation?\n  (i) \tFiltration\t\n\t\n\t\n (ii) \t\nSorting\n(iii) \tEvaporation\t\n\t\n\t\n(iv) \t\nDecantation\n2.\t\nWhich of the following substances are commonly separated \nusing the churning method?\n  (i) \tOil from water\t\t\n\t\n (ii) \t\nSand from water\n(iii) \tCream from milk\t\n\t\n(iv) \t\nOxygen from air\nCatch me first!\nThen me!\nFiltration\nDecantation\nCondensation\nHandpicking\nChurning\nEvaporation\nWinnowing\nSedimentation\nSieving\nThreshing\nMagnetic \nseparation\nTank 1 \ndifference in magnetic properties\nheavier particles settle down\nmixture of oil and water\ndifference in size of solid particles\nextract butter from curd\nseparate salt from seawater\nbeating stalks to remove grains \nconversion of water vapour into \nits liquid state\ninsoluble particles get filtered as residue\nlarger particles are handpicked\nlighter component of mixture is separated \nby blowing air\nTank 2 \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1002,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0016_img01",
+          "file": "images/NCERT_fecu109_page0016_img01.png",
+          "bbox": [
+            173.96005249023438,
+            498.38818359375,
+            517.1600341796875,
+            571.1729736328125
+          ],
+          "width_px": 715,
+          "height_px": 152,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0016_img02",
+          "file": "images/NCERT_fecu109_page0016_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0016_img03",
+          "file": "images/NCERT_fecu109_page0016_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0016_vecfig01",
+          "file": "images/NCERT_fecu109_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nCatch me first!\n\nTank 1\n\nat Handpicking\nDaft\n\nSedimentation aah pat\nseparation\n\nThen me!\n\nWhat purpose does handpicking serve in the process of\nseparation?\n\n(i) Filtration (ii) Sorting\n(iii) Evaporation (iv) Decantation\n\nWhich of the following substances are commonly separated\nusing the churning method?\n\n(i) Oil from water (ii) Sand from water\n(iii) Cream from milk (iv) Oxygen from air\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Methods of Separation  \nin Everyday Life\n179\n3.\t\nWhich factor is usually essential for the filtration?\n  (i)\t Apparatus size\t\t\n (ii)\t\nPresence of air\n(iii)\t Pore size\t\t\n\t\n(iv)\t\n\u0007Temperature of the \nmixture\n4.\t\nState with reason(s) whether the following statements are \nTrue [T] or False [F]. Also, correct the False statement(s).\n  (i)\t Salt can be separated from salt solution by  \nkeeping it under the Sun.\t\n[     ]\n (ii)\t Handpicking should be used only when the  \nquantity of one component is less.\t\n[     ]\n(iii)\t A mixture of puffed rice and rice grains can be \nseparated by threshing.\t\n[     ]\n(iv)\t A mixture of mustard oil and lemon water can  \nbe separated by decantation.\t\n[     ]\n  (v)\t Sieving is used to separate a mixture of  \nrice flour and water.\t\n[     ]\n5.\t\nMatch the mixtures in Column I with their method of \nseparation in Column II.\nColumn I\nColumn II\n  (i)\t Gram flour mixed with \nblack gram\n (ii)\t Chalk powder mixed with \nwater   \n(iii)\t Corn mixed with potatoes\n(iv)\t Iron powder mixed with \nsawdust \n  (v)\t Oil mixed with water\n(a)\t Handpicking\n(b)\t Magnetic separation\n(c)\t\nDecantation\n(d)\t Sieving\n(e)\t\nFiltration\n6.\t\nIn what situations would you use decantation instead of \nfiltration to separate solids from liquids?\n7.\t\nCan you relate the presence of nasal hair to any separation \nprocess?\n8.\t\nDuring the COVID-19 pandemic, all of us wore masks. \nGenerally, what material are they made of? What is the role \nof these masks? \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1473,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0017_img01",
+          "file": "images/NCERT_fecu109_page0017_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0017_img02",
+          "file": "images/NCERT_fecu109_page0017_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0017_table01",
+          "bbox": [
+            87.42000198364258,
+            418.20611572265625,
+            429.86000061035156,
+            579.0
+          ],
+          "rows": [
+            [
+              "(i) Gram fol ur mixed with\nblack gram\n(ii) Chalk powder mixed with\nwater\n(iii) Corn mixed with potatoes\n(iv) Iron powder mixed with\nsawdust\n(v) Oil mixed with water",
+              "(a) Handpicking\n(b) Magnetic separation\n(c) Decantation\n(d) Sieving\n(e) Filtration"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0017_vecfig01",
+          "file": "images/NCERT_fecu109_page0017_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "3. Which factor is usually essential for the filtration?\n\n(i) Apparatus size (ii) Presence of air\n(iii) Pore size (iv) Temperature of the\nmixture\n\n4. State with reason(s) whether the following statements are\nTrue [T] or False [F]. Also, correct the False statement(s).\n\n(i) Salt can be separated from salt solution by\n\nkeeping it under the Sun. [ ]\n(ii) Handpicking should be used only when the\n\nquantity of one component is less. [ ]\n(iii) A mixture of puffed rice and rice grains can be\n\nseparated by threshing. [ ]\n(iv) A mixture of mustard oil and lemon water can\n\nbe separated by decantation. [ ]\n(v) Sieving is used to separate a mixture of\n\nrice flour and water. [ ]\n\n5. Match the mixtures in Column I with their method of\nseparation in Column II.\n\nColumn I Column II\n(i) Gram flour mixed with (a) Handpicking\nblack gram (b) Magnetic separation\n\n(ii) Chalk powder mixed with (c)\nwater\n\nDecantation\n\n(d) Sieving\n(iii) Corn mixed with potatoes ; ;\n(e) Filtration\n\n(iv) Iron powder mixed with\nsawdust\n\n(v) Oil mixed with water\n\n6. In what situations would you use decantation instead of\nfiltration to separate solids from liquids?\n\n7. Can you relate the presence of nasal hair to any separation\nprocess?\n\n8. During the COVID-19 pandemic, all of us wore masks.\nGenerally, what material are they made of? What is the role\nof these masks?\n\nReprint 2026-27\n\nMethods of Separation\nin Everyday Life\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Curiosity | Textbook of Science | Grade 6\n180\n9.\t\nA mixture containing potatoes, salt and sawdust has been \ngiven to you. Outline a stepwise procedure for separating \neach component from this mixture.\n10.\t Read the following story titled ‘Intelligent Leela’ and tick the \nmost appropriate options. Provide a suitable title of your \nchoice for the paragraph.\nLeela was working in the farm with her father when she realised \nthat they left their drinking water at home. Before her father \nfelt thirsty/hungry, she went to the nearby pond to fetch some \nwater/grains. After obtaining some water in the container, she \nnoticed that the water was muddy and fit/unfit for drinking. To \npurify the water, she kept it for some time and then she filtered/\nchurned the muddy water using a piece of paper/muslin cloth. \nLeela, then, cooled/boiled the water for about 10 minutes in \na covered pan. After cooling/boiling, she filtered/churned it \nagain and made it fit/unfit for drinking. She served this water to \nher father while having food, who blessed her and appreciated \nher efforts.\n\n\nFun with parents: We are proud of our Indian heritage. \nUnder supervision of your elders, try to prepare some herbal \nremedies using various parts of plants. For example—tulsi \nkadha. Which methods of separation will you use while \npreparing herbal kadha?\n\n\nStage play: Imagine you and your friend are Malli and Valli. \nWrite dialogues of a play presenting their entire ‘Bharat ki \nYatra’, highlighting the different methods of separation of \nsubstances that they observed. Enact the play in your school \nassembly.\n\n\nGroup activity: Observe and list separation methods you \nemployed and noticed in your surroundings throughout a \nweek. Explain the reasons behind using these methods and \ncompile the ones you utilised or observed the most. Compare \nyour observations with your group members.\n\n\nBe a stalwart of your community: Interview a ragpicker(s) \nand prepare a case study about the method(s) of separation \nhe/she uses in his/her daily life. Encourage children of your \ncommunity below the age of 14 to join a neighbourhood \nschool.\nLearning further\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2160,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0018_img01",
+          "file": "images/NCERT_fecu109_page0018_img01.png",
+          "bbox": [
+            164.50936889648438,
+            339.358642578125,
+            509.29071044921875,
+            403.74822998046875
+          ],
+          "width_px": 719,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0018_img02",
+          "file": "images/NCERT_fecu109_page0018_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0018_img03",
+          "file": "images/NCERT_fecu109_page0018_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0018_vecfig01",
+          "file": "images/NCERT_fecu109_page0018_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n6\n\n9. A mixture containing potatoes, salt and sawdust has been\ngiven to you. Outline a stepwise procedure for separating\neach component from this mixture.\n\n10. Read the following story titled ‘Intelligent Leela’ and tick the\nmost appropriate options. Provide a suitable title of your\nchoice for the paragraph.\n\nLeela was working in the farm with her father when she realised\nthat they left their drinking water at home. Before her father\nfelt thirsty/hungry, she went to the nearby pond to fetch some\nwater/grains. After obtaining some water in the container, she\nnoticed that the water was muddy and fit/unfit for drinking. To\npurify the water, she kept it for some time and then she filtered/\nchurned the muddy water using a piece of paper/muslin cloth.\nLeela, then, cooled/boiled the water for about 10 minutes in\na covered pan. After cooling/boiling, she filtered/churned it\nagain and made it fit/unfit for drinking. She served this water to\nher father while having food, who blessed her and appreciated\nher efforts.\n\nFun with parents: We are proud of our Indian heritage.\nUnder supervision of your elders, try to prepare some herbal\nremedies using various parts of plants. For example—tulsi\nkadha. Which methods of separation will you use while\npreparing herbal kadha?\n\nStage play: Imagine you and your friend are Malli and Valli.\nWrite dialogues of a play presenting their entire ‘Bharat ki\nYatra’, highlighting the different methods of separation of\nsubstances that they observed. Enact the play in your school\nassembly.\n\nGroup activity: Observe and list separation methods you\nemployed and noticed in your surroundings throughout a\nweek. Explain the reasons behind using these methods and\ncompile the ones you utilised or observed the most. Compare\nyour observations with your group members.\n\nBe a stalwart of your community: Interview a ragpicker(s)\nand prepare a case study about the method(s) of separation\nhe/she uses in his/her daily life. Encourage children of your\ncommunity below the age of 14 to join a neighbourhood\nschool.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "Methods of Separation  \nin Everyday Life\n181\n\n\nBe a reporter: (i) Gather newspaper clippings and articles \nrelated to various methods of separation implemented in \nyour society, such as in agricultural fields or at construction \nsites. (ii) Conduct interviews with local farmers to explore \nthe latest agricultural separation methods that they use.\n\n\nThink like a scientist: You are provided with a mixture \nof iron nails, sand, black pepper, stones, common salt \nand water. Which steps will you follow to separate each \ncomponent of a mixture?\n The given steps may help you to think like a scientist.\nReflection Steps\n\t\nI observe \n.  I wonder \n .\n\t\nYou might have wondered about questions such as—\n\n\nWhich component should I separate first?\n\n\nWhat method of separation should I use first?\n\n\nHow can we separate these components effectively?\n\n\nWill some of the components be soluble in water?\n\n\nWhat properties of the components can help us in \ntheir separation?\n\n\nWhat is the most appropriate sequence?\nActivity Steps\n\n\nSome possible answers to the questions which occurred in \nmy mind are \n\t\n .\n\n\nI performed the following methods of separation— \n \n\n\nMy findings are \n . \nHint: A mixture that has more than two components requires a combination \nof several methods of separation.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1320,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0019_img01",
+          "file": "images/NCERT_fecu109_page0019_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0019_img02",
+          "file": "images/NCERT_fecu109_page0019_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0019_table01",
+          "bbox": [
+            55.192176818847656,
+            192.1988525390625,
+            522.0466918945312,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              "",
+              "of iron nails, sand, black pepper, stones, common salt\nand water. Which steps will you follow to separate each\ncomponent of a mixture?\nThe given steps may help you to think like a scientist.\nReflection Steps\nI observe . I wonder .\nYou might have wondered about questions such as—\nWhich component should I separate first?\n\nWhat method of separation should I use first?\n\nHow can we separate these components effectively?\n\nWill some of the components be soluble in water?\n\nWhat properties of the components can help us in\n\ntheir separation?\nWhat is the most appropriate sequence?\n\nActivity Steps\n Some possible answers to the questions which occurred in\nmy mind are\n.\n I performed the following methods of separation—\n My findings are .\nHint: A mixture that has more than two components requires a combination",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0019_vecfig01",
+          "file": "images/NCERT_fecu109_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Be a reporter: (i) Gather newspaper clippings and articles\nrelated to various methods of separation implemented in\nyour society, such as in agricultural fields or at construction\nsites. (ii) Conduct interviews with local farmers to explore\nthe latest agricultural separation methods that they use.\n\nThink like a scientist: You are provided with a mixture\nof iron nails, sand, black pepper, stones, common salt\nand water. Which steps will you follow to separate each\ncomponent of a mixture?\n\nThe given steps may help you to think like a scientist.\n\nReflection Steps\nI observe . I wonder\n\nYou might have wondered about questions such as—\n\n» Which component should I separate first?\n\n=» What method of separation should I use first?\n\n=» Howcan we separate these components effectively?\n=» Will some of the components be soluble in water?\n\n=» What properties of the components can help us in\ntheir separation?\n\n=» What is the most appropriate sequence?\nActivity Steps\n\nSome possible answers to the questions which occurred in\nmy mind are\n\nI performed the following methods of separation—\n\nMy findings are\n\nHint: A mixture that has more than two components requires a combination\nof several methods of separation.\n\nReprint 2026-27\n\nMethods of Separation\nin Everyday Life\n\n6"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Notes\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 22,
+      "images": [
+        {
+          "image_id": "NCERT_fecu109_page0020_img01",
+          "file": "images/NCERT_fecu109_page0020_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu109_page0020_img02",
+          "file": "images/NCERT_fecu109_page0020_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu109_page0020_vecfig01",
+          "file": "images/NCERT_fecu109_page0020_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Notes"
+        }
+      ]
+    }
+  ]
+}

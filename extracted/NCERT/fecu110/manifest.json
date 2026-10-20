@@ -1,0 +1,2394 @@
+{
+  "source_file": "data\\NCERT\\fecu110.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu110",
+  "num_pages": 24,
+  "extraction_method": "native",
+  "native_page_count": 24,
+  "ocr_page_count": 0,
+  "total_images": 88,
+  "images_with_text": 1,
+  "total_tables": 10,
+  "total_vector_figures": 21,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Living Creatures: Exploring \ntheir Characteristics\n10\nChapter\nAvadhi and Aayush go for a morning walk with their parents. \nAvadhi notices some shells and tries to pick them up. Her \nmother advises her not to do so and explains that the shell \ncould be home to a living snail and is actually a part of its \nbody. Avadhi and Aayush wonder how the shell that is not \neven moving could have a living being inside! Later that \nday in school, Avadhi and Aayush share this incident with \ntheir friends. They approach the teacher to understand how \na shell which is not even moving could be a body part of a \nliving snail. The teacher initiates a discussion in the class on \nliving and non-living. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 707,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0001_img01",
+          "file": "images/NCERT_fecu110_page0001_img01.png",
+          "bbox": [
+            -18.600038528442383,
+            -18.599990844726562,
+            611.3999633789062,
+            190.0941162109375
+          ],
+          "width_px": 1315,
+          "height_px": 436,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0001_img02",
+          "file": "images/NCERT_fecu110_page0001_img02.png",
+          "bbox": [
+            0.6800060272216797,
+            193.39999389648438,
+            574.0615844726562,
+            519.262451171875
+          ],
+          "width_px": 1197,
+          "height_px": 679,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0001_img03",
+          "file": "images/NCERT_fecu110_page0001_img03.png",
+          "bbox": [
+            455.39996337890625,
+            112.0500717163086,
+            540.3599853515625,
+            197.01007080078125
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0001_img04",
+          "file": "images/NCERT_fecu110_page0001_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0001_img05",
+          "file": "images/NCERT_fecu110_page0001_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0001_vecfig01",
+          "file": "images/NCERT_fecu110_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Living Creatures: Exploring\ntheir Characteristics\n\nA\n\n>\n\nAvadhi and Aayush go for a morning walk with their parents.\nAvadhi notices some shells and tries to pick them up. Her\nmother advises her not to do so and explains that the shell\ncould be home to a living snail and is actually a part of its\nbody. Avadhi and Aayush wonder how the shell that is not\neven moving could have a living being inside! Later that\nday in school, Avadhi and Aayush share this incident with\ntheir friends. They approach the teacher to understand how\na shell which is not even moving could be a body part of a\nliving snail. The teacher initiates a discussion in the class on\nliving and non-living.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "184\nActivity 10.1: Let us record \nWe are surrounded by numerous things. Just look around \nin your classroom and you may find many examples—the \npencil that you are holding, the book that you are reading or \nthe pigeon near the window. \n\n\nList them in Table 10.1 and identify each of them as \nliving or non-living on the basis of your understanding \nin column II. \n\n\nWrite a reason for grouping them as living or non living \nin column III. \n10.1\tWhat Sets the Living Apart from the  \nNon-living? \nLook at Table 10.1. Why do you think a pencil is non-living \nbut a pigeon is living? What do you think are the differences \nbetween living beings and non-living things according to \nyou? What similarities do the identified living beings share \nwith each other? \nYou may have identified movement as one of the \nsimilarities among living beings. You have also seen cars \nmoving on a road. Does it mean that a car is living? List the \n(III)\n(V)\n(I)\n(II)\n(IV)\nName\nMy guess \n(Living/\nNon-\nliving) \nReason/\nRemarks\nCorrect \nanswer\nReason/\nRemarks for \nthe correct \nanswer\nPencil\nNon-living\nBook\nPigeon\nLiving\nCar\nPlant\nAny other\nTable 10.1: Living beings and non-living things in our \nsurroundings\n184\nCuriosity | Textbook of Science | Grade 6\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1255,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0002_img01",
+          "file": "images/NCERT_fecu110_page0002_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0002_img02",
+          "file": "images/NCERT_fecu110_page0002_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0002_table01",
+          "bbox": [
+            49.40620422363281,
+            192.1988525390625,
+            520.4236907958984,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              null,
+              " Write a reason for grouping them as living or non living\nin column III.\nTable 10.1: Living beings and non-living things in our\nsurroundings\n(I) (II) (III) (IV) (V)\nMy guess Reason/\n(Living/ Reason/ Correct Remarks for\nName\nNon- Remarks answer the correct\nliving) answer\nPencil Non-living\nBook\nPigeon Living\nCar\nPlant\nAny other\n6\n10.1 What Sets the Living Apart from the Grade\nNon-living? |\nScience\nLook at Table 10.1. Why do you think a pencil is non-living\nof\nbut a pigeon is living? What do you think are the differences\nTextbook\nbetween living beings and non-living things according to\nyou? What similarities do the identified living beings share\n|\nwith each other? iosity",
+              null
+            ],
+            [
+              "",
+              "ad",
+              ""
+            ],
+            [
+              null,
+              "iosity | Textbook of Science | Gr",
+              null
+            ]
+          ]
+        },
+        {
+          "table_id": "page0002_table02",
+          "bbox": [
+            155.26772969563802,
+            347.2031555175781,
+            520.4236907958984,
+            504.5
+          ],
+          "rows": [
+            [
+              "Pencil",
+              "Non-living",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              "",
+              null,
+              null
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Book",
+              "",
+              null,
+              "",
+              ""
+            ],
+            [
+              "Pigeon",
+              "Living",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Car",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Plant",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Any other",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": []
+    },
+    {
+      "page_number": 3,
+      "text": "Living Creatures: Exploring their \nCharacteristics\n185\ntasks that you can do but a car cannot. You are a wonderful \nexample of a living being. Whenever you attempt to group \nthings around you as living or non-living, you can compare \nthem with yourself. Which characteristics help you in \ndifferentiating yourself from a car? For instance, a car \ndoes not grow. Does it mean it is non-living? Now, which \ncharacteristics have you used to classify a car as non-living? \nContinue your discussion in a similar way to identify the \nessential characteristics of living beings.\nWhat are some common characteristics that make living \nbeings very different from the non-living things? Let us \nlearn about them.\nCan we consider movement as one of the characteristics to \ndifferentiate between the living and the non-living? List five \nthings around you that can move on their own. Do you think \nthat all five things that you have listed can be considered as \nliving just because they can move on their \nown? However, unlike animals, plants do \nnot move from one place to another. Do \nyou consider them as living? \nEven though plants do not move from \none place to another, they do show certain \ntypes of movements. Opening of flowers is \none of the examples of movement in plants. \nAnother example of movement in plants is \nseen in insectivorous plants. Insectivorous \nplants are dependent on insects for their nutrition. Drosera \nis one of the examples of an insectivorous plant. Drosera is \nfeatured with saucer-shaped leaves having many hair-like \nprojections of unequal length with sticky ends. Whenever \nan insect enters the saucer, hairs move inward and \ntrap the insect with their sticky ends. Try to observe \nthe mechanism of movement in other insectivorous \nplants. Climbers also wind themselves around \nany object placed close to them. That means, \neven though plants do not move from \none place to another, they do show \nsome movements.\nCompare \nyourself \nwith \nthe \npicture of your childhood. Can you \nGrowth of a child\nDrosera\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2047,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0003_img01",
+          "file": "images/NCERT_fecu110_page0003_img01.png",
+          "bbox": [
+            305.3999938964844,
+            615.9888916015625,
+            395.510498046875,
+            684.7149658203125
+          ],
+          "width_px": 188,
+          "height_px": 144,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0003_img02",
+          "file": "images/NCERT_fecu110_page0003_img02.png",
+          "bbox": [
+            452.2052917480469,
+            536.2703857421875,
+            501.018310546875,
+            686.9324951171875
+          ],
+          "width_px": 102,
+          "height_px": 314,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0003_img03",
+          "file": "images/NCERT_fecu110_page0003_img03.png",
+          "bbox": [
+            400.3304443359375,
+            559.0894775390625,
+            451.7052001953125,
+            686.9324340820312
+          ],
+          "width_px": 108,
+          "height_px": 267,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0003_img04",
+          "file": "images/NCERT_fecu110_page0003_img04.png",
+          "bbox": [
+            336.5197448730469,
+            323.987548828125,
+            491.498291015625,
+            456.40966796875
+          ],
+          "width_px": 323,
+          "height_px": 276,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0003_img05",
+          "file": "images/NCERT_fecu110_page0003_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0003_img06",
+          "file": "images/NCERT_fecu110_page0003_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0003_vecfig01",
+          "file": "images/NCERT_fecu110_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "tasks that you can do but a car cannot. You are a wonderful\nexample of a living being. Whenever you attempt to group\nthings around you as living or non-living, you can compare\nthem with yourself. Which characteristics help you in\ndifferentiating yourself from a car? For instance, a car\ndoes not grow. Does it mean it is non-living? Now, which\ncharacteristics have you used to classify a car as non-living?\nContinue your discussion in a similar way to identify the\nessential characteristics of living beings.\n\nWhat are some common characteristics that make living\nbeings very different from the non-living things? Let us\nlearn about them.\n\nCan we consider movementas one of the characteristics to\ndifferentiate between the living and the non-living? List five\nthings around you that can move on their own. Do you think\nthat all five things that you have listed can be considered as\nliving just because they can move on their é\nown? However, unlike animals, plants do\nnot move from one place to another. Do\nyou consider them as living?\n\nEven though plants do not move from\none place to another, they do show certain\ntypes of movements. Opening of flowers is\none of the examples of movement in plants.\nAnother example of movement in plants is\nseen in insectivorous plants. Insectivorous Drosera\nplants are dependent on insects for their nutrition. Drosera\nis one of the examples of an insectivorous plant. Drosera is\nfeatured with saucer-shaped leaves having many hair-like\nprojections of unequal length with sticky ends. Whenever\nan insect enters the saucer, hairs move inward and\ntrap the insect with their sticky ends. Try to observe\nthe mechanism of movement in other insectivorous\nplants. Climbers also wind themselves around\nany object placed close to them. That means,\neven though plants do not move from\none place to another, they do show\nsome movements.\n\nCompare yourself with the\npicture of your childhood. Can you Growth of a child\n\nReprint 2026-27\n\nLiving Creatures: Exploring their\n\nCharacteristics\n\n3"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Curiosity | Textbook of Science | Grade 6\n186\nwear the dress that you used to wear four years ago? No, \nbecause you have become larger in size. This is due to growth \nin your body. Plants and other living beings also grow. Can \nwe consider growth as a characteristic of living beings? \nLiving beings need food (nutrition) for their growth \nand development. List five living beings that require food \nto grow.\nNow, think of a process without which we cannot live. \nCount the number of breaths you take per minute after \na normal walk, after a run, and after a few dance steps. \nRecord the data and observe. Do you notice any difference \nin the number of breaths after each situation? Do you notice \nthe process of breathing in other animals like dogs, cats, \ncows and buffaloes? Notice the movement of their abdomen \nwhile they are taking rest. \nIn the process of breathing, when we inhale, the air \nmoves from outside to inside our body. When we breathe \nout, the air moves from inside our body to outside. \nBreathing is part of a process called respiration. Do \nplants also respire? There are tiny pores called stomata \non the surface of leaves. These pores help plants in taking \nair in and out. Interact with senior class students in your \nschool and request if they can demonstrate stomata using \na microscope in your class. All living beings respire.\nHave you noticed white patches forming on shirts around \nthe armpits during summers? These \npatches are formed due to sweat. The \nsweat consists of water and salts removed \nby the body as waste products. Removal \nof waste products from the body is called \nexcretion. Urine is also formed as a \nproduct of excretion in animals. Do you \nknow that plants also excrete? You may \nnotice plants excrete excess water and \nminerals in the form of small droplets on \nleaves. For example, grasses and roses.  All \nliving beings excrete.\nLet us look at another characteristic. \nWhat is your reaction if you unexpectedly \nstep on a sharp object, such as a thorn, \nWater droplets on grass\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2048,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0004_img01",
+          "file": "images/NCERT_fecu110_page0004_img01.png",
+          "bbox": [
+            87.3416976928711,
+            476.9599914550781,
+            252.95831298828125,
+            684.911865234375
+          ],
+          "width_px": 346,
+          "height_px": 434,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0004_img02",
+          "file": "images/NCERT_fecu110_page0004_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0004_img03",
+          "file": "images/NCERT_fecu110_page0004_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0004_vecfig01",
+          "file": "images/NCERT_fecu110_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n©\n\nwear the dress that you used to wear four years ago? No,\nbecause you have become larger in size. This is due to growth\nin your body. Plants and other living beings also grow. Can\nwe consider growth as a characteristic of living beings?\n\nLiving beings need food (nutrition) for their growth\nand development. List five living beings that require food\nto grow.\n\nNow, think of a process without which we cannot live.\nCount the number of breaths you take per minute after\na normal walk, after a run, and after a few dance steps.\nRecord the data and observe. Do you notice any difference\nin the number of breaths after each situation? Do you notice\nthe process of breathing in other animals like dogs, cats,\ncows and buffaloes? Notice the movement of their abdomen\nwhile they are taking rest.\n\nIn the process of breathing, when we inhale, the air\nmoves from outside to inside our body. When we breathe\nout, the air moves from inside our body to outside.\nBreathing is part of a process called respiration. Do\nplants also respire? There are tiny pores called stomata\non the surface of leaves. These pores help plants in taking\nair in and out. Interact with senior class students in your\nschool and request if they can demonstrate stomata using\na microscope in your class. All living beings respire.\n\nHave you noticed white patches forming on shirts around\nthe armpits during summers? These\npatches are formed due to sweat. The\nsweat consists of water and salts removed\nby the body as waste products. Removal\nof waste products from the body is called\nexcretion. Urine is also formed as a\nproduct of excretion in animals. Do you\nknow that plants also excrete? You may\nnotice plants excrete excess water and\nminerals in the form of small droplets on\nleaves. For example, grasses and roses. All\nliving beings excrete.\n\nLet us look at another characteristic.\nWhat is your reaction if you unexpectedly\n\nWater droplets on grass step on a sharp object, such as a thorn,\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Living Creatures: Exploring their \nCharacteristics\n187\nwhile walking without shoes, or you accidentally touch a hot \ncup of tea? Stepping on a thorn and touching a hot object are \nstimuli. Any thing or any event that prompts living beings \nto respond is called a stimulus. List three stimuli (plural \nof stimulus) and your body’s \ninstant response to them. \nDo plants also respond to \nstimuli? Yes, plants also respond \nto stimuli. For example, touch-\nme-not \n(mimosa, \nchhui-mui, \nlajjalu) plants fold their leaves \nwhen we touch them. Have you \nalso observed that certain plants \nfold their leaves after sunset? \nSpecifically, the leaves of certain \nplants facing each other tend \nto come together. This can be \nobserved in the sleeping leaves \nof amla (Indian gooseberry) \ntree. All living beings respond to stimuli. Find a few more \nplants in your neighbourhood which fold their leaves after \nsunset. \nWhy do the leaves of chhui-mui and amla plants respond \nin this way? Which stimulus could be responsible for their \nbehaviour?\nHave you seen young ones of cats, dogs or other animals? \nList young ones of five different animals. Have you seen \nyoung ones of any non-living things such as a pencil, a chair \nor an electric bulb?\nAll living beings reproduce. Reproduction is the \nprocess of producing new ones of one’s own kind. Why is \nreproduction necessary? It is necessary for the continuity \nof life. \nWhen a living being is not able to exhibit all of the above \nmentioned characteristics, despite the availability of all \nresources (like food, air and water) needed for being alive, \nit is said to be dead. \nFrom the above discussion, we can understand that \nall living beings share some common characteristics. For \nexample, all living beings show movement, they need \nTouch-me-not (chhui-mui) plant\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1826,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0005_img01",
+          "file": "images/NCERT_fecu110_page0005_img01.png",
+          "bbox": [
+            283.0688781738281,
+            143.08287048339844,
+            503.3982849121094,
+            335.4607238769531
+          ],
+          "width_px": 460,
+          "height_px": 401,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0005_img02",
+          "file": "images/NCERT_fecu110_page0005_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0005_img03",
+          "file": "images/NCERT_fecu110_page0005_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0005_vecfig01",
+          "file": "images/NCERT_fecu110_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "while walking without shoes, or you accidentally touch a hot\ncup of tea? Stepping on a thorn and touching a hot object are\nstimuli. Any thing or any event that prompts living beings\nto respond is called a stimulus. List three stimuli (plural\nof stimulus) and your body’s\ninstant response to them.\n\nDo plants also respond to\nstimuli? Yes, plants also respond\nto stimuli. For example, touch-\nme-not (mimosa, chhui-mui,\nlajjalu) plants fold their leaves\nwhen we touch them. Have you\nalso observed that certain plants\nfold their leaves after sunset?\nSpecifically, the leaves of certain\nplants facing each other tend\nto come together. This can be\nobserved in the sleeping leaves\nof amla (Indian gooseberry)\ntree. All living beings respond to stimuli. Find a few more\nplants in your neighbourhood which fold their leaves after\nsunset.\n\nWhy do the leaves of chhui-mui and amla plants respond\nin this way? Which stimulus could be responsible for their\nbehaviour?\n\nHave you seen young ones of cats, dogs or other animals?\nList young ones of five different animals. Have you seen\nyoung ones of any non-living things such as a pencil, a chair\nor an electric bulb?\n\nAll living beings reproduce. Reproduction is the\nprocess of producing new ones of one’s own kind. Why is\nreproduction necessary? It is necessary for the continuity\nof life.\n\nWhen a living being is not able to exhibit all of the above\nmentioned characteristics, despite the availability of all\nresources (like food, air and water) needed for being alive,\nit is said to be dead.\n\nFrom the above discussion, we can understand that\nall living beings share some common characteristics. For\nexample, all living beings show movement, they need\n\nReprint 2026-27\n\nTouch-me-not (chhui-mui) plant\n\nLiving Creatures: Exploring their\n\nCharacteristics"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Curiosity | Textbook of Science | Grade 6\n188\nfood, and they grow. They also respire, reproduce, excrete, \nrespond to stimuli, and eventually, die. Absence of any of \nthese features indicates that they are non-living things. \nNow that you know how to identify a living being, fill \nup the remaining two columns (IV and V) of Table 10.1 and \ncomplete the activity.\nIn which category would you place a seed—living or non-\nliving? Why? \nLet us explore how a seed germinates to observe some \nof these essential characteristics in plants.\n10.2\tEssential Conditions for Germination  \nof a Seed \nHave you observed a seed germinating? You might have \nwondered what conditions are required for germination \nof a seed. What conditions do you think are required for \nseed germination? How will you investigate whether these \nconditions have an effect on the germination of a seed?\nLet us find out by performing Activity 10.2.\nActivity 10.2: Let us experiment\n\n\nTake four identical pots filled with garden soil. Sow \nfour bean seeds in each pot. Now, keep these pots in the \nfollowing conditions for 15 days. \n\n Pot A: Do not water the soil. Place this pot in direct \nsunlight.\n Fig 10.1: Bean seeds exposed to different conditions\n(a) Pot A kept in \ndirect sunlight, no \nwater \n(b) Pot B kept in \ndirect sunlight, \nexcess water \n(c) Pot C with \nmoist soil, kept \nin the dark \n(d) Pot D with moist \nsoil, kept in direct \nsunlight \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1439,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0006_img01",
+          "file": "images/NCERT_fecu110_page0006_img01.png",
+          "bbox": [
+            149.24998474121094,
+            518.6652221679688,
+            516.449951171875,
+            647.52587890625
+          ],
+          "width_px": 766,
+          "height_px": 269,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "UL\n\nwhe\n7S"
+        },
+        {
+          "image_id": "NCERT_fecu110_page0006_img02",
+          "file": "images/NCERT_fecu110_page0006_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0006_img03",
+          "file": "images/NCERT_fecu110_page0006_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0006_vecfig01",
+          "file": "images/NCERT_fecu110_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "food, and they grow. They also respire, reproduce, excrete,\nrespond to stimuli, and eventually, die. Absence of any of\nthese features indicates that they are non-living things.\n\nNow that you know how to identify a living being, fill\nup the remaining two columns (IV and V) of Table 10.1 and\ncomplete the activity.\n\nIn which category would you place a seed—living or non-\nliving? Why?\n\nLet us explore how a seed germinates to observe some\nof these essential characteristics in plants.\n\nes | () 2 Essential Conditions for Germination\n\nCuriosity | Textbook of Science | Grade 6\n\nof a Seed\n\nHave you observed a seed germinating? You might have\nwondered what conditions are required for germination\nof a seed. What conditions do you think are required for\nseed germination? How will you investigate whether these\nconditions have an effect on the germination of a seed?\n\nLet us find out by performing Activity 10.2.\n\nActivity 10.2: Let us experiment\n\n¢ Take four identical pots filled with garden soil. Sow\nfour bean seeds in each pot. Now, keep these pots in the\nfollowing conditions for 15 days.\n\n= Pot A: Do not water the soil. Place this pot in direct\nsunlight.\n\n~y\\ L/,\n“Si ~~\n\n(a) Pot A keptin (b) Pot B kept in (c) Pot C with (d) Pot D with moist\ndirect sunlight, no direct sunlight, moist soil, kept _ soil, kept in direct\nwater excess water in the dark sunlight\n\nFig 10.1: Bean seeds exposed to different conditions\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Living Creatures: Exploring their \nCharacteristics\n189\n\n Pot B: Add excess water to the soil such that water \nis always present above the soil. Keep adding water \non a regular basis if water reduces. Place this pot in \ndirect sunlight.\n\n Pot C: Keep the soil in this pot slightly moist by adding \na moderate amount of water on a regular basis. Place \nthis pot in a dark location.\n\n Pot D: Maintain the soil in this pot slightly moist by \nadding a moderate amount of water on a regular \nbasis. Place this pot in direct sunlight.\n\n\nIndicate the availability of air, sunlight and water for \nthe seeds in each of these cases in Table 10.2.\n\n\nWhen a seed turns into a sprout, it is said to have \ngerminated. Predict whether the seeds in each pot will \ngerminate. Record your predictions for each pot kept \nunder different conditions in Table 10.2.\nPot with \nbean \nseeds\nAvailability of \nSeed \ngermination\nPossible\nreason \nfor the \nobservation\n \nAir\nSunlight\nWater\nPrediction\nObservation\nA: In direct \nsunlight \nand without \nwater\nNo\nB: In direct \nsunlight \nand excess \nwater\nC: In \ncomplete \ndark and \nmoist soil\nD: In direct \nsunlight \nand moist \nsoil\nTable 10.2: Effect of certain conditions on seed germination\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1235,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0007_img01",
+          "file": "images/NCERT_fecu110_page0007_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0007_img02",
+          "file": "images/NCERT_fecu110_page0007_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0007_table01",
+          "bbox": [
+            55.192176818847656,
+            192.1988525390625,
+            519.9910837809244,
+            707.2881774902344
+          ],
+          "rows": [
+            [
+              " Pot D: Maintain the soil in this pot slightly moist by\nadding a moderate amount of water on a regular\nbasis. Place this pot in direct sunlight.\n Indicate the availability of air, sunlight and water for\nthe seeds in each of these cases in Table 10.2.\n When a seed turns into a sprout, it is said to have\ngerminated. Predict whether the seeds in each pot will\ngerminate. Record your predictions for each pot kept\nunder different conditions in Table 10.2.\nTable 10.2: Effect of certain conditions on seed germination\nPossible\nPot with\nSeed reason\nbean Availability of\ngermination for the\nseeds\nobservation\nAir Sunlight Water Prediction Observation\nA: In direct No\nsunlight\nand without\nwater\nB: In direct\nsunlight\nand excess\nwater\nC: In\ncomplete\ndark and\nmoist soil",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "",
+              "Air",
+              "Sunlight",
+              "Water",
+              "Prediction",
+              "Observation",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "",
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "A: In direct\nsunlight\nand without\nwater",
+              "",
+              "",
+              "No",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "B: In direct\nsunlight\nand excess\nwater",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "C: In\ncomplete\ndark and\nmoist soil",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "D: In direct\nsunlight\nand moist\nsoil",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0007_vecfig01",
+          "file": "images/NCERT_fecu110_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "= Pot B: Add excess water to the soil such that water\nis always present above the soil. Keep adding water\non a regular basis if water reduces. Place this pot in\ndirect sunlight.\n\n= Pot C: Keep the soil in this pot slightly moist by adding\na moderate amount of water on a regular basis. Place\nthis pot in a dark location.\n\n= Pot D: Maintain the soil in this pot slightly moist by\nadding a moderate amount of water on a regular\nbasis. Place this pot in direct sunlight.\n\n¢ Indicate the availability of air, sunlight and water for\nthe seeds in each of these cases in Table 10.2.\n\n@ When a seed turns into a sprout, it is said to have\ngerminated. Predict whether the seeds in each pot will\ngerminate. Record your predictions for each pot kept\nunder different conditions in Table 10.2.\n\nTable 10.2: Effect of certain conditions on seed germination\n\nPot with\nbean Availability of\nseeds\n\nSeed\ngermination\n\nAir Sunlight Water Prediction Observation\n\nA: In direct No\nsunlight\n\nand without\n\nwater\n\nB: In direct\nsunlight\nand excess\nwater\n\nC: In\n\ncomplete\ndark and\nmoist soil\n\nD: In direct\nsunlight\nand moist\nsoil\n\nReprint 2026-27\n\nPossible\n\nreason\n\nfor the\nobservation\n\nLiving Creatures: Exploring their\n\nCharacteristics"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Curiosity | Textbook of Science | Grade 6\n190\n\n\nRegularly observe the pots for 7–10 days to check \nthe status of germination of the seeds. Record your \nobservations in Table 10.2.\n\n\nCompare your predictions with your observations.\nDo you think sunlight is necessary for germination of \nseeds? Do the seeds in all the pots receive air, water and \nsunlight? Is there any pot in which air is not available to the \nseeds? If so, why is it not available? What happens to the \nseeds in the pot where water is provided in excess? Which \nseeds receive both air and water? Identify the pots where \nyou can notice the germination of seeds. \nDo your observations match with your predictions? \nWrite possible reasons in favour of your observations in \nTable 10.2. Based on your observations, state the conditions \nwhich favour seed germination.\nWhich of the following are essential for seed germination–\nair, water and sunlight? Compare the available conditions \nin each pot. Germination of bean seeds requires the right \namount of water and air. Why do seeds require these \nconditions for germination? Do you think that the absence \nof one or more of these conditions will affect \nseed germination?\nLet us understand how these conditions help \nin seed germination. The effects of the following \nconditions have been seen in Activity 10.2.\nWater: Seeds require water for germination. \nWater enables the seeds to carry out the \nprocesses necessary for their growth. The outer \ncovering of the seed is called seed coat. Water \nsoftens the seed coat and helps the tiny embryo \ninside it to develop into a plant.\nAir and Soil: Seeds need air for germination. They use the \nair available in the spaces between soil particles. Moreover, \nspaces between the soil particles allow roots to grow easily.\nLight and/or dark conditions: We have learnt that for \nthe bean seeds, presence of light is not essential for their \ngermination. In general, most seeds do not require light for \ngermination. But after germination, sunlight is required for \nfurther growth of the seedling.\nGerminated bean seed\nSeed Coat\nEmbryo\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2113,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0008_img01",
+          "file": "images/NCERT_fecu110_page0008_img01.png",
+          "bbox": [
+            93.4271240234375,
+            443.6275634765625,
+            203.61282348632812,
+            533.6275634765625
+          ],
+          "width_px": 230,
+          "height_px": 188,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0008_img02",
+          "file": "images/NCERT_fecu110_page0008_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0008_img03",
+          "file": "images/NCERT_fecu110_page0008_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0008_vecfig01",
+          "file": "images/NCERT_fecu110_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n®\n\nGerminated bean seed\n\n@ Regularly observe the pots for 7-10 days to check\nthe status of germination of the seeds. Record your\nobservations in Table 10.2.\n\n¢ Compare your predictions with your observations.\n\nDo you think sunlight is necessary for germination of\nseeds? Do the seeds in all the pots receive air, water and\nsunlight? Is there any pot in which air is not available to the\nseeds? If so, why is it not available? What happens to the\nseeds in the pot where water is provided in excess? Which\nseeds receive both air and water? Identify the pots where\nyou can notice the germination of seeds.\n\nDo your observations match with your predictions?\nWrite possible reasons in favour of your observations in\nTable 10.2. Based on your observations, state the conditions\nwhich favour seed germination.\n\nWhich of the following are essential for seed germination—\nair, water and sunlight? Compare the available conditions\nin each pot. Germination of bean seeds requires the right\namount of water and air. Why do seeds require these\nconditions for germination? Do you think that the absence\n\nSeed Coat of one or more of these conditions will affect\n\nseed germination?\n\nLet us understand how these conditions help\nin seed germination. The effects of the following\nconditions have been seen in Activity 10.2.\n\nWater: Seeds require water for germination.\nWater enables the seeds to carry out the\nprocesses necessary for their growth. The outer\ncovering of the seed is called seed coat. Water\nsoftens the seed coat and helps the tiny embryo\ninside it to develop into a plant.\n\nAir and Soil: Seeds need air for germination. They use the\nair available in the spaces between soil particles. Moreover,\nspaces between the soil particles allow roots to grow easily.\n\nLight and/or dark conditions: We have learnt that for\nthe bean seeds, presence of light is not essential for their\ngermination. In general, most seeds do not require light for\ngermination. But after germination, sunlight is required for\nfurther growth of the seedling.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "In the Chapter ‘Mindful Eating: A Path to a Healthy Body’, \nyou have learnt that human beings need a balanced diet \nfor good health and proper growth. Similarly, plants too \nneed favourable conditions and nutrients \nfor their proper growth and development. \nWhat other conditions do you think would \naffect seed germination?\nIn \nActivity \n10.1, \nwhat \nare \nthe \ncharacteristics of living beings which \nmade you place plants in living beings? Do \nplants show growth in Activity 10.2? Are \nthere any other characteristics of living \nbeings that these plants show?\nLet us study another characteristic that can be seen \nclearly in plants—growth and movement.\n10.3\tGrowth and Movement in Plants \nHow do plants respond to sunlight? Does sunlight affect the \ndirection of growth of different parts of plants? In which \ndirection would the root and shoot of a plant grow and \nmove if the plant is placed inverted? How would you design \nan activity to find answers to these questions? \nActivity 10.3: Let us design\n\n\nTake some bean or gram seeds and allow them to \ngerminate on a moist cloth or a moist tissue paper.\n\n\nLet them germinate until each of them develop into a \nseedling having a small root and a small shoot.\n\n\nNow, take three glass beakers or tumblers, and label \nthem as A, B and C.\nDo you \nknow?\nSome seeds of flowering plants, like Coleus and \nPetunia, require light to germinate. Covering \nthese seeds with soil inhibits their sprouting. \nSeeds of flowering plants, like Calendula and \nZinnia, need darkness to germinate. These seeds \nshould be covered with sufficient soil.\nHow would you \nnow categorise a \nseed, as living or \nnon-living?\n?\nLiving Creatures: Exploring their \nCharacteristics\n191\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1727,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0009_img01",
+          "file": "images/NCERT_fecu110_page0009_img01.png",
+          "bbox": [
+            71.40013885498047,
+            61.206390380859375,
+            489.3601989746094,
+            193.80914306640625
+          ],
+          "width_px": 871,
+          "height_px": 277,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0009_img02",
+          "file": "images/NCERT_fecu110_page0009_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0009_img03",
+          "file": "images/NCERT_fecu110_page0009_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0009_table01",
+          "bbox": [
+            271.5879821777344,
+            545.1600341796875,
+            546.5599975585938,
+            690.3599853515625
+          ],
+          "rows": [
+            [
+              null,
+              "their"
+            ],
+            [
+              "",
+              "ng"
+            ],
+            [
+              null,
+              "Living Creatures: Explori Characteristics"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0009_vecfig01",
+          "file": "images/NCERT_fecu110_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Some seeds of flowering plants, like Coleus and\nPetunia, require light to germinate. Covering\n2 these seeds with soil inhibits their sprouting.\nSeeds of flowering plants, like Calendula and\n\nDo you\nknow?\n\nZinnia, need darkness to germinate. These seeds\nshould be covered with sufficient soil.\n\nIn the Chapter ‘Mindful Eating: A Path to a Healthy Body’,\nyou have learnt that human beings need a balanced diet\nfor good health and proper growth. Similarly, plants too\n\nneed favourable conditions and nutrients\nfor their proper growth and development.\nWhat other conditions do you think would\naffect seed germination?\n\nIn Activity 10.1, what are the\ncharacteristics of living beings which\n\nHow would you\nnow categorise a\nseed, as living or\nnon-living?\n\n?\n\n@\n\nmade you place plants in living beings? Do\nplants show growth in Activity 10.2? Are\nthere any other characteristics of living\nbeings that these plants show?\n\nLet us study another characteristic that can be seen\nclearly in plants—growth and movement.\n10.3 Growth and Movement in Plants\nHow do plants respond to sunlight? Does sunlight affect the\ndirection of growth of different parts of plants? In which\ndirection would the root and shoot of a plant grow and\nmove if the plant is placed inverted? How would you design\nan activity to find answers to these questions?\nActivity 10.3: Let.us design SS\n\n¢ Take some bean or gram seeds and allow them to\ngerminate on a moist cloth or a moist tissue paper.\n\n@ Let them germinate until each of them develop into a\nseedling having a small root and a small shoot.\n\n¢ Now, take three glass beakers or tumblers, and label\n\nthem as A, B and C.\n\nReprint 2026-27\n\nLiving Creatures: Exploring their\n\nCharacteristics\n\noS"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Curiosity | Textbook of Science | Grade 6\n192\n\n\nPour water into all the three beakers to ensure that the \nseedling in each beaker remains above the water level.\n\n\nIn each case, let the bottom of the blotting paper get \ncompletely wet by soaking in the water. In this way, \nthe seedling will get the moisture from the wet blotting \npaper.\n\n\nPlace beaker A and beaker B in sunlight as shown in \nFig. 10.2a and Fig. 10.2b.\n\n\nPosition beaker C as shown in Fig. 10.2c. Place a \ncardboard box in such a way that the seedling gets light \nfrom one direction only through a small circular hole.\n\n\nFill Table 10.3 with your predictions and observations.\n\n\nTake three glass plates and attach a thick blotting paper \nto one side of each plate using a thick soft cotton thread.\n\n\nFix one seedling on each plate using a thick soft cotton \nthread, as shown in Fig. 10.2, ensuring that the plant is \nnot damaged.\n\n\nNow, place one glass plate upright with a seedling \nattached into each of the beaker A and beaker C, as \nshown in Fig. 10.2a and Fig. 10.2c.\n\n\nIn beaker B, arrange the plate such that the shoot of a \nseedling is directed downwards and the root is directed \nupwards, as shown in Fig. 10.2b.\nFig. 10.2: Set-up showing plants kept in different conditions \nUpright plant kept in \nsunlight from one direction\nInverted plant kept in \nsunlight from all directions\n(b) \n(c) \n(a) \nInner view  \nof the box\nHole on the back side of the box\nUpright plant kept \nin sunlight from \nall directions\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1515,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0010_img01",
+          "file": "images/NCERT_fecu110_page0010_img01.png",
+          "bbox": [
+            198.3126678466797,
+            262.2123107910156,
+            475.933349609375,
+            429.88232421875
+          ],
+          "width_px": 579,
+          "height_px": 350,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0010_img02",
+          "file": "images/NCERT_fecu110_page0010_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0010_img03",
+          "file": "images/NCERT_fecu110_page0010_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0010_vecfig01",
+          "file": "images/NCERT_fecu110_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n@ Take three glass plates and attach a thick blotting paper\nto one side of each plate using a thick soft cotton thread.\n\n@ Fix one seedling on each plate using a thick soft cotton\nthread, as shown in Fig. 10.2, ensuring that the plant is\nnot damaged.\n\nNow, place one glass plate upright with a seedling\nattached into each of the beaker A and beaker C, as\nshown in Fig. 10.2a and Fig. 10.2c.\n\n¢ In beaker B, arrange the plate such that the shoot of a\nseedling is directed downwards and the root is directed\nupwards, as shown in Fig. 10.2b.\n\nHole on the back side of the box\n\nUpright plant kept\nin sunlight from (a) *\nall directions\n\nInner view\nof the box\n\nInverted plant kept in Upright plant kept in\nsunlight from all directions sunlight from one direction\n\nFig. 10.2: Set-up showing plants kept in different conditions\n\n¢ Pour water into all the three beakers to ensure that the\nseedling in each beaker remains above the water level.\n\n¢ In each case, let the bottom of the blotting paper get\ncompletely wet by soaking in the water. In this way,\nthe seedling will get the moisture from the wet blotting\npaper.\n\n@ Place beaker A and beaker B in sunlight as shown in\nFig. 10.2a and Fig. 10.2b.\n\n¢ Position beaker C as shown in Fig. 10.2c. Place a\ncardboard box in such a way that the seedling gets light\nfrom one direction only through a small circular hole.\n\n¢ Fill Table 10.3 with your predictions and observations.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Living Creatures: Exploring their \nCharacteristics\n193\nBeakers\nDirection \nof \n sunlight \nDirection \nof plant\nDirection of growth of  \nroot and shoot\n Shoot/\nRoot\nPredictions Observations\n A\nAll \ndirections\nUpright \nShoot\nRoot\n B\nAll \ndirections\nInverted\nShoot\nRoot\n C\nOnly \nfrom one \ndirection\n Upright\nShoot\nRoot\nTable 10.3: Growth of root and shoot under different conditions\nWhat is the direction of growth of root and shoot in \nbeakers A, B and C based on your observations? Do your \npredictions match your observations? What do you conclude \nfrom this activity?\nFig. 10.3: Direction of growth of root and shoot under different conditions \nUpright plant kept in sunlight \nfrom one direction\nInverted plant kept in \nsunlight from all directions\n(b) \n(c) \n(a) \nInner view  \nof the box\nHole on the back side of the box\nUpright plant kept \nin sunlight from all \ndirections\nFrom the results of this experiment (Table 10.3 and \nFig. 10.3), we note that—\n1.\t When the plant is kept upright, the root grows downwards \nand the shoot grows upwards.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1059,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0011_img01",
+          "file": "images/NCERT_fecu110_page0011_img01.png",
+          "bbox": [
+            163.19772338867188,
+            410.2906188964844,
+            440.8183898925781,
+            579.00146484375
+          ],
+          "width_px": 579,
+          "height_px": 352,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0011_img02",
+          "file": "images/NCERT_fecu110_page0011_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0011_img03",
+          "file": "images/NCERT_fecu110_page0011_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0011_table01",
+          "bbox": [
+            72.45840148925781,
+            135.8597412109375,
+            500.88144938151044,
+            313.48001861572266
+          ],
+          "rows": [
+            [
+              null,
+              null,
+              null,
+              "Shoot/\nRoot",
+              "Predictions",
+              "Observations"
+            ],
+            [
+              "",
+              "All",
+              "",
+              "Shoot",
+              "",
+              ""
+            ],
+            [
+              "A",
+              "directions",
+              "Upright",
+              "Root",
+              "",
+              ""
+            ],
+            [
+              "B",
+              "All\ndirections",
+              "Inverted",
+              "Shoot",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Root",
+              "",
+              ""
+            ],
+            [
+              "C",
+              "Only\nfrom one\ndirection",
+              "Upright",
+              "Shoot",
+              "",
+              ""
+            ],
+            [
+              null,
+              null,
+              null,
+              "Root",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0011_vecfig01",
+          "file": "images/NCERT_fecu110_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Table 10.3: Growth of root and shoot under different conditions\n\nDirection of growth of\n\nDirection . . root and shoot\nBeakers of ‘of plant h\nsunlight sot Predictions Observations\nShoot\nA directions Upright\nRoot\nShoot\nB directions Inverted\nRoot\nOnly Shoot\nC from one Upright\ndirection Root\n\nWhat is the direction of growth of root and shoot in\nbeakers A, B and C based on your observations? Do your\npredictions match your observations? What do youconclude\nfrom this activity?\n\nHole on the back side of the box\n\nUpright plant kept :\nin sunlight from all 1.\n\n. : Inner view\ndirections\n\nof the box\n\nInverted plant kept in Upright plant kept in sunlight\nsunlight from all directions from one direction\nFig. 10.3: Direction of growth of root and shoot under different conditions\n\nFrom the results of this experiment (Table 10.3 and\nFig. 10.3), we note that—\n\n1. Whenthe plantis kept upright, the root grows downwards\nand the shoot grows upwards.\n\nReprint 2026-27\n\nLiving Creatures: Exploring their\n\nCharacteristics"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Curiosity | Textbook of Science | Grade 6\n194\n2.\t When the plant is kept inverted, the root bends and grows \ndownwards. Also, the shoot bends and grows upwards.\n3.\t When the plant gets sunlight only from one direction, \nthe shoot grows in the direction of light while the root \ncontinues to grow downwards.\nAfter conducting Activity 10.3, we can conclude that shoots \nof plants grow upward and exhibit movement towards \nsunlight but roots of plants grow downwards.\nJagadish Chandra Bose (1858–1937) was an Indian \nscientist who did some fascinating experiments \nwith plants. He built a machine called a crescograph \nto record how plants respond to stimuli like light, \nheat, electricity and gravity. With this machine, he \ncould measure how fast plants grow. He also showed \nthat plants can sense and respond to stimuli.\nKnow a scientist\n10.4\tLife Cycle of a Plant\nWe have learnt about conditions required for germination \nand how plants grow and exhibit movement. Let us now \nexplore the changes a plant undergoes in its whole life.\nActivity 10.4: Let us explore\n\n\nPlant a bean seed and provide suitable conditions for \nits growth. Observe regularly for three months.\n\n\nRecord your observations in Table 10.4 as and when \nchanges become visible. \n\n\nNote the date when any change is observed. Record \nanswers for the following questions—\n\n How long does it take for any change to occur? Make \nsketches of various changes that you observe in \nTable 10.4.\n\n After how many days does the first flower appear?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1532,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0012_img01",
+          "file": "images/NCERT_fecu110_page0012_img01.png",
+          "bbox": [
+            425.0506286621094,
+            250.854248046875,
+            516.4878540039062,
+            367.0
+          ],
+          "width_px": 191,
+          "height_px": 242,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0012_img02",
+          "file": "images/NCERT_fecu110_page0012_img02.png",
+          "bbox": [
+            95.19998168945312,
+            210.36859130859375,
+            243.23995971679688,
+            252.1685791015625
+          ],
+          "width_px": 309,
+          "height_px": 88,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0012_img03",
+          "file": "images/NCERT_fecu110_page0012_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0012_img04",
+          "file": "images/NCERT_fecu110_page0012_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0012_table01",
+          "bbox": [
+            104.78590393066406,
+            203.004638671875,
+            522.0733642578125,
+            375.0483093261719
+          ],
+          "rows": [
+            [
+              "",
+              null
+            ],
+            [
+              "K",
+              "now a scientist\nJagadish Chandra Bose (1858–1937) was an Indian\nscientist who did some fascinating experiments\nwith plants. He built a machine called a crescograph\nto record how plants respond to stimuli like light,\nheat, electricity and gravity. With this machine, he\ncould measure how fast plants grow. He also showed\nthat plants can sense and respond to stimuli."
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0012_vecfig01",
+          "file": "images/NCERT_fecu110_page0012_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "2. When the plant is kept inverted, the root bends and grows\ndownwards. Also, the shoot bends and grows upwards.\n\n3. When the plant gets sunlight only from one direction,\nthe shoot grows in the direction of light while the root\ncontinues to grow downwards.\n\nAfter conducting Activity 10.3, we can conclude that shoots\n\nof plants grow upward and exhibit movement towards\n\nsunlight but roots of plants grow downwards.\na\n\nKnow a scientist\n\nJagadish Chandra Bose (1858-1937) was an Indian\nscientist who did some fascinating experiments\nwith plants. He built a machine called a crescograph\nto record how plants respond to stimuli like light,\nheat, electricity and gravity. With this machine, he\ncould measure how fast plants grow. He also showed\nthat plants can sense and respond to stimuli.\n\nes | () 4 | ife Cycle of a Plant\n\nWe have learnt about conditions required for germination\nand how plants grow and exhibit movement. Let us now\nexplore the changes a plant undergoes in its whole life.\n\nActivity 10.4: Let us explore ==\n¢ Plant a bean seed and provide suitable conditions for\nits growth. Observe regularly for three months.\n\n¢ Record your observations in Table 10.4 as and when\nchanges become visible.\n\nNote the date when any change is observed. Record\nanswers for the following questions—\n\n= How long does it take for any change to occur? Make\nsketches of various changes that you observe in\nTable 10.4.\n\n= After how many days does the first flower appear?\n\nCuriosity | Textbook of Science | Grade 6\n\n®\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Living Creatures: Exploring their \nCharacteristics\n195\nDate\nObservations\nSketches\nSeeds are sown\nTable 10.4: Changes observed during the growth of the plant\n\n After some parts of the flower have dried, can you \nsee any further growth?\n\n Which structure do the remaining parts of flower \ndevelop into?\n\n Can you notice a pod or a fruit with seeds develop \nfrom a flower? \n\n What happens to the plant after the fruits containing \nseeds are formed?\nGo through the observations you recorded regarding the \ngrowth of the bean plant in Table 10.4. What changes do you \nobserve after the fruits are formed? Does the plant become \nyellow and dry even when you continue watering it? Sow \nthe seeds obtained from your bean plant. Watch how the \nseeds give rise to a new generation of bean plants. Compare \nthe sketches that you have drawn in Table 10.4 with Fig. 10.4. \nA seed grows into a young plant and matures to produce \nflowers and fruit. The fruit, in this case a pod, contains \nseeds which give rise to a new generation of bean plants. \nThe entire process from a seed to a plant, and then, to the \nnext generation of seeds is called the life cycle of a plant \n(Fig. 10.4). When a plant stops growing and all activities of \nlife gradually come to an end, even after the availability of \nall the necessary conditions, the plant is considered dead.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1368,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0013_img01",
+          "file": "images/NCERT_fecu110_page0013_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0013_img02",
+          "file": "images/NCERT_fecu110_page0013_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0013_table01",
+          "bbox": [
+            72.90807124546596,
+            281.7969055175781,
+            437.0476379394531,
+            411.3519592285156
+          ],
+          "rows": [
+            [
+              "",
+              "Seeds are sown",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0013_vecfig01",
+          "file": "images/NCERT_fecu110_page0013_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "After some parts of the flower have dried, can you\nsee any further growth?\n\nWhich structure do the remaining parts of flower\ndevelop into?\n\nCan you notice a pod or a fruit with seeds develop\nfrom a flower?\n\nWhat happens to the plant after the fruits containing\nseeds are formed?\n\nTable 10.4: Changes observed during the growth of the plant\n\nDate Observations Sketches\n\nSeeds are sown\n\nGo through the observations you recorded regarding the\ngrowth of the bean plant in Table 10.4. What changes do you\nobserve after the fruits are formed? Does the plant become\nyellow and dry even when you continue watering it? Sow\nthe seeds obtained from your bean plant. Watch how the\nseeds give rise to a new generation of bean plants. Compare\nthe sketches that you have drawn in Table 10.4 with Fig. 10.4.\nA seed grows into a young plant and matures to produce\nflowers and fruit. The fruit, in this case a pod, contains\nseeds which give rise to a new generation of bean plants.\nThe entire process from a seed to a plant, and then, to the\nnext generation of seeds is called the life cycle of a plant\n(Fig. 10.4). When a plant stops growing and all activities of\nlife gradually come to an end, even after the availability of\nall the necessary conditions, the plant is considered dead.\n\nReprint 2026-27\n\nLiving Creatures: Exploring their\n\nCharacteristics\n\n5"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Curiosity | Textbook of Science | Grade 6\n196\n10.5\tLife Cycle of Animals\nWe have learnt about the life cycle of a plant. We have seen \nthat a plant goes through many changes in its life cycle. \nHave you ever observed how animals grow over time? Draw \nsketches of their young ones and name them. \n10.5.1 Life cycle of a mosquito\nMosquitoes buzzing around is a common experience for all of \nus. Female mosquitoes are bloodsucking insects that transmit \nseveral diseases like malaria, dengue and chikungunya. You \nmight have learnt from newspapers, school noticeboards \nor awareness campaigns that mosquito breeding should be \nprevented. We are advised not to allow water to stagnate \nanywhere in our surroundings. Why is it so? Does stagnant \nwater have any relation with mosquitoes laying eggs?\nFig. 10.4: Life cycle of a bean plant\nStage I  \n(Seed)\nStage II (Seed germination)\nStage III  \n(Appearance  \nof leaves)\nStage IV \n(Appearance  \nof flowers)\nDeath of \nplant\nStage V (Appearance \nof fruits)\nFruit  \n(Pod with  \nseeds)\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1041,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0014_img01",
+          "file": "images/NCERT_fecu110_page0014_img01.png",
+          "bbox": [
+            158.66616821289062,
+            127.86450958251953,
+            226.81585693359375,
+            213.4317626953125
+          ],
+          "width_px": 142,
+          "height_px": 179,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0014_img02",
+          "file": "images/NCERT_fecu110_page0014_img02.png",
+          "bbox": [
+            438.0339660644531,
+            55.20008087158203,
+            489.7627868652344,
+            140.767333984375
+          ],
+          "width_px": 108,
+          "height_px": 179,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0014_img03",
+          "file": "images/NCERT_fecu110_page0014_img03.png",
+          "bbox": [
+            407.2655029296875,
+            126.73199462890625,
+            441.60333251953125,
+            214.56427001953125
+          ],
+          "width_px": 89,
+          "height_px": 357,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0014_img04",
+          "file": "images/NCERT_fecu110_page0014_img04.png",
+          "bbox": [
+            391.6054992675781,
+            250.8466033935547,
+            459.75518798828125,
+            311.44317626953125
+          ],
+          "width_px": 143,
+          "height_px": 127,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0014_img05",
+          "file": "images/NCERT_fecu110_page0014_img05.png",
+          "bbox": [
+            160.23106384277344,
+            256.2838134765625,
+            228.3807373046875,
+            323.15423583984375
+          ],
+          "width_px": 142,
+          "height_px": 140,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0014_img06",
+          "file": "images/NCERT_fecu110_page0014_img06.png",
+          "bbox": [
+            280.1131896972656,
+            289.130126953125,
+            348.26287841796875,
+            388.12017822265625
+          ],
+          "width_px": 142,
+          "height_px": 207,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0014_img07",
+          "file": "images/NCERT_fecu110_page0014_img07.png",
+          "bbox": [
+            279.1177062988281,
+            59.42608642578125,
+            347.26739501953125,
+            143.8990478515625
+          ],
+          "width_px": 142,
+          "height_px": 176,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0014_img08",
+          "file": "images/NCERT_fecu110_page0014_img08.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0014_img09",
+          "file": "images/NCERT_fecu110_page0014_img09.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0014_vecfig01",
+          "file": "images/NCERT_fecu110_page0014_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Stage IV\n\nDeath of\n(Appearance plant\nof flowers)\nStage V (Appearance\nof fruits) Fruit\n(Pod with\n\nseeds)\n\nStage I\n\n(Seed)\n\nStage III\n(Appearance\n\nof leaves)\n\nStage II (Seed germination)\n\nFig. 10.4: Life cycle of a bean plant\n\ni |().5 Life Cycle of Animals\n\nCuriosity | Textbook of Science | Grade 6\n\nWe have learnt about the life cycle of a plant. We have seen\nthat a plant goes through many changes in its life cycle.\nHave you ever observed how animals grow over time? Draw\nsketches of their young ones and name them.\n\n10.5.1 Life cycle of a mosquito\n\nMosquitoes buzzing aroundisacommon experience for all of\nus. Female mosquitoes are bloodsucking insects that transmit\nseveral diseases like malaria, dengue and chikungunya. You\nmight have learnt from newspapers, school noticeboards\nor awareness campaigns that mosquito breeding should be\nprevented. We are advised not to allow water to stagnate\nanywhere in our surroundings. Why is it so? Does stagnant\nwater have any relation with mosquitoes laying eggs?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Living Creatures: Exploring their \nCharacteristics\n197\nConduct a safety audit in your school, or at your home \nand surroundings to check for stagnant water (if available, \ncarry a hand  lens to observe any small creatures). Some \ncommon  places where stagnant water is likely to gather \nare desert coolers, planted pots and any open container. \nYou may find two different types of worm-like creatures \n(Fig. 10.5). They are larva and pupa, two distinct life stages \nduring the development of mosquito. In case you observe \nlarvae and pupae, report to your teacher. Discuss with the \nteacher and classmates about the necessary measures one can \ntake to prevent breeding of mosquitoes. What differences do \nyou observe in the shape of larvae and pupae? \nFig. 10.5: Larvae and pupae of mosquitoes in a stagnant water body\nPupa\nLarva\nMosquito larvae and pupae observed in water bodies \nrepeatedly come to the water surface. What can be the reason \nfor this? Mosquito larvae and pupae live in water and require \nair to respire. They move to the surface of the water for air.\nHow can the \nlife cycle of a \nmosquito be \ndisrupted?\nI have seen my mother \nspraying kerosene oil \non stagnant water. Why \ndoes she do so?\nKerosene oil forms a thin layer over \nthe water surface. This layer separates \nwater from air, and does not allow \nlarvae and pupae to inhale air. As a \nresult, they die. \n?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1400,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0015_img01",
+          "file": "images/NCERT_fecu110_page0015_img01.png",
+          "bbox": [
+            146.6207733154297,
+            259.2017822265625,
+            355.4927978515625,
+            409.10577392578125
+          ],
+          "width_px": 436,
+          "height_px": 313,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0015_img02",
+          "file": "images/NCERT_fecu110_page0015_img02.png",
+          "bbox": [
+            392.5404052734375,
+            554.4991455078125,
+            489.2832336425781,
+            659.330810546875
+          ],
+          "width_px": 202,
+          "height_px": 219,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0015_img03",
+          "file": "images/NCERT_fecu110_page0015_img03.png",
+          "bbox": [
+            82.29646301269531,
+            647.1297607421875,
+            164.17660522460938,
+            743.1754760742188
+          ],
+          "width_px": 171,
+          "height_px": 200,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0015_img04",
+          "file": "images/NCERT_fecu110_page0015_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0015_img05",
+          "file": "images/NCERT_fecu110_page0015_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 16,
+      "text": "Curiosity | Textbook of Science | Grade 6\n198\nActivity 10.5: Let us analyse\nLet us solve an interesting puzzle.\nHow will you decide which stage (larva or pupa) comes \nimmediately after the egg stage? \nSuppose you are given a container with water from a \npuddle containing larvae and pupae. Design an activity to \nfind out the correct sequence of these stages.\nYou can take help of the following activity designed by \nAvadhi to create your own activity— \nStep 1:\t I have a water container with mosquito larvae and \npupae. \nStep 2:\t I will separate 4–5 larvae and pupae into two \nseparate containers with the same water. \nStep 3:\t I will observe them every day until I see them \nchanging to the next stage. \nStep 4:\t If the larvae change into pupae, it would mean that \nthe larval stage comes before the pupal stage or \nvice-versa.\nStep 5:\t I will keep watching both the containers to see in \nwhich one a mosquito appears first. \nThese observations will help us to learn the correct \nsequence of growth.\nNow, suppose you are given a container filled with water \nfrom a puddle which contains larvae and pupae. Without \nseparating them from the container, how would you design \nan activity to decide which stage, out of the two, gives way \nto the next?\nMy design ...\nFig. 10.6: Life cycle of a mosquito\nStage IV (Adult \nmosquito) \nStage I \n(Egg)\nStage III \n(Pupa)\nStage II \n(Larva)\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1394,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0016_img01",
+          "file": "images/NCERT_fecu110_page0016_img01.png",
+          "bbox": [
+            53.59980773925781,
+            238.55645751953125,
+            135.47994995117188,
+            334.6021728515625
+          ],
+          "width_px": 171,
+          "height_px": 200,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0016_img02",
+          "file": "images/NCERT_fecu110_page0016_img02.png",
+          "bbox": [
+            260.7454833984375,
+            515.8251342773438,
+            436.91595458984375,
+            682.3251342773438
+          ],
+          "width_px": 368,
+          "height_px": 347,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0016_img03",
+          "file": "images/NCERT_fecu110_page0016_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0016_img04",
+          "file": "images/NCERT_fecu110_page0016_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0016_vecfig01",
+          "file": "images/NCERT_fecu110_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "My design...\n\nCuriosity | Textbook of Science | Grade 6\n\nActivity 10.5: Let us analyse EEE\n\nLet us solve an interesting puzzle.\n\nHow will you decide which stage (larva or pupa) comes\nimmediately after the egg stage?\n\nSuppose you are given a container with water from a\npuddle containing larvae and pupae. Design an activity to\nfind out the correct sequence of these stages.\n\nYou can take help of the following activity designed by\nAvadhi to create your own activity—\n\nStep 1: Ihave a water container with mosquito larvae and\npupae.\n\nStep 2: I will separate 4-5 larvae and pupae into two\nseparate containers with the same water.\n\nStep 3: I will observe them every day until I see them\nchanging to the next stage.\n\nStep 4: Ifthe larvae change into pupae, it would mean that\nthe larval stage comes before the pupal stage or\nvice-versa.\n\nStep 5: I will keep watching both the containers to see in\nwhich one a mosquito appears first.\n\nThese observations will help us to learn the correct\nsequence of growth.\n\nNow, suppose you are given a container filled with water\nfrom a puddle which contains larvae and pupae. Without\nseparating them from the container, how would you design\nan activity to decide which stage, out of the two, gives way\nto the next?\n\nES.\n\nStage IV (Adult\nmosquito) ea\n= Stage I\n(Egg)\nStage III \\ ;\n(Pupa) % S\nStage II\n(Larva)\n\nFig. 10.6: Life cycle of a mosquito\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Let us learn more about these stages in the life cycle of a \nmosquito.\nMosquitoes pass through four stages in their life cycle— \negg, larva, pupa and adult (Fig. 10.6). \nThe adult mosquito that emerges from the pupa rests \nbriefly on the surface of water and then flies away. The adult \nmosquito may survive for 10 to 15 days. \nWe have seen that a mosquito begins its life as an egg \n(stage I), the egg develops into a larva (stage II), the larva \ngrows into pupa (stage III), and the pupa transforms into an \nadult mosquito (stage IV). The adult female mosquito lays \neggs directly on or near water, and the cycle continues.\nSignificant changes occur in the appearance, body shape \nand structure during the various stages in the life cycle of \na mosquito. The shape of the egg is quite different from the \nlarva; the larva appears very different from the pupa. The \npupa appears very distinct from the adult mosquito. Is it \neasy to imagine that a mosquito emerges from a pupa?\nThe silk moth also passes through four life stages—egg, larva, \npupa and adult. Eggs hatch into larvae, which then grow in \nsize. Larvae secrete thread-like material which they \nwrap around themselves, before changing to pupae. \nThese are the fibres that are used to make silk fabric. \nIn India, the Khadi and Village Industries Commission \n(KVIC) has set up several centres for silk production.\n Do you \nknow?\n10.5.2 Life cycle of a frog\nActivity 10.6: Let us analyse\nAvadhi and Aayush are dressed up in full sleeves shirts and \nfull pants today. It has been raining intermittently for a week. \nThey are going out with their classmates for an activity. \nAfter a brief walk led by their science teacher, they reach a \nshallow pond. It is surrounded by trees and tall grasses. The \nteacher cautions them to watch everything from a distance \nLiving Creatures: Exploring their \nCharacteristics\n199\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1890,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0017_img01",
+          "file": "images/NCERT_fecu110_page0017_img01.png",
+          "bbox": [
+            38.305572509765625,
+            356.52734375,
+            479.7200622558594,
+            515.4998779296875
+          ],
+          "width_px": 920,
+          "height_px": 332,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0017_img02",
+          "file": "images/NCERT_fecu110_page0017_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0017_img03",
+          "file": "images/NCERT_fecu110_page0017_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0017_table01",
+          "bbox": [
+            273.7200012207031,
+            545.1900024414062,
+            546.5599975585938,
+            690.3599853515625
+          ],
+          "rows": [
+            [
+              null,
+              "g their"
+            ],
+            [
+              "",
+              "in"
+            ],
+            [
+              null,
+              "Living Creatures: Explor Characteristics"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0017_vecfig01",
+          "file": "images/NCERT_fecu110_page0017_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Let us learn more about these stages in the life cycle of a\nmosquito.\n\nMosquitoes pass through four stages in their life cycle—\negg, larva, pupa and adult (Fig. 10.6).\n\nThe adult mosquito that emerges from the pupa rests\nbriefly on the surface of water and then flies away. The adult\nmosquito may survive for 10 to 15 days.\n\nWe have seen that a mosquito begins its life as an egg\n(stage I), the egg develops into a larva (stage II), the larva\ngrows into pupa (stage III), and the pupa transforms into an\nadult mosquito (stage IV). The adult female mosquito lays\neggs directly on or near water, and the cycle continues.\n\nSignificant changes occur in the appearance, body shape\nand structure during the various stages in the life cycle of\na mosquito. The shape of the egg is quite different from the\nlarva; the larva appears very different from the pupa. The\npupa appears very distinct from the adult mosquito. Is it\neasy to imagine that a mosquito emerges from a pupa?\n\nThe silk moth also passes through four life stages—egg, larva,\n\npupa and adult. Eggs hatch into larvae, which then grow in\n\nsize. Larvae secrete thread-like material which they\n\nwrap around themselves, before changing to pupae.\n\nThese are the fibres that are used to make silk fabric. 2\n\nIn India, the Khadi and Village Industries Commission\n\n(KVIC) has set up several centres for silk production. Do you\nknow?\n\nwus 10.5.2 Life cycle of a frog\n\nActivity 10.6: Let us analyse a\n\nAvadhi and Aayush are dressed up in full sleeves shirts and\nfull pants today. It has been raining intermittently for a week.\nThey are going out with their classmates for an activity.\nAfter a brief walk led by their science teacher, they reach a\nshallow pond. It is surrounded by trees and tall grasses. The\nteacher cautions them to watch everything from a distance\n\nLiving Creatures: Exploring their\n\nCharacteristics\n\nSS\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Curiosity | Textbook of Science | Grade 6\n200\nwithout causing any disturbance. You may also go to a small \nwater body during the rainy season with a facilitator and \nexplore it by taking due safety precautions. \nYou may notice a white jelly-like substance on the surface \nof water towards the edge of the pond (Fig. 10.7). This may \nalso be attached to plants growing in or around the water. \nThis jelly-like substance is actually a cluster of eggs of a frog \nand is known as spawn.\nObserve the features of all the stages of a frog shown in \nFig. 10.7. How will you decide the sequence of the given stages \n(A, B, C, D, E, F)? Some of the stages show distinct changes in \ntheir initial and final shapes. Record these changes in Table \n10.5.\nFig 10.7: Different stages of a frog in a pond\nA\nB\nC\nD\nE\nF\nA\nB\nC\nD\nE\nF\nIt is \nsimilar to \n‘C’ but it \nhas two \nlegs.\nTable 10.5: Changes in different life stages of a frog\nBased on the observations listed in Table 10.5, draw the \nlife cycle of a frog. Compare the figure drawn by you with \nFig. 10.8.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1058,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0018_img01",
+          "file": "images/NCERT_fecu110_page0018_img01.png",
+          "bbox": [
+            122.70502471923828,
+            272.4081726074219,
+            515.4197998046875,
+            496.55145263671875
+          ],
+          "width_px": 818,
+          "height_px": 467,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0018_img02",
+          "file": "images/NCERT_fecu110_page0018_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0018_img03",
+          "file": "images/NCERT_fecu110_page0018_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0018_table01",
+          "bbox": [
+            55.192176818847656,
+            192.1988525390625,
+            520.6023864746094,
+            704.0028381347656
+          ],
+          "rows": [
+            [
+              "Observe the features of all the stages of a frog shown in\nFig. 10.7. How will you decide the sequence of the given stages\n(A, B, C, D, E, F)? Some of the stages show distinct changes in\ntheir initial and final shapes. Record these changes in Table\n10.5.\nA E\nF\nB\nC\nD\nFig 10.7: Different stages of a frog in a pond\n6\nBased on the observations listed in Table 10.5, draw the Grade\nlife cycle of a frog. Compare the figure drawn by you with\n|\nFig. 10.8. Science\nTable 10.5: Changes in different life stages of a frog\nof\nTextbook\nA B C D E F\n|\nIt is iosity\nsimilar to",
+              null,
+              null,
+              null,
+              null,
+              null,
+              null
+            ],
+            [
+              null,
+              "",
+              "",
+              "",
+              "It is",
+              "",
+              ""
+            ],
+            [
+              null,
+              "",
+              "",
+              "",
+              "similar to",
+              "",
+              ""
+            ],
+            [
+              null,
+              "",
+              "",
+              "",
+              "‘C’ but it\nhas two\nlegs.",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0018_vecfig01",
+          "file": "images/NCERT_fecu110_page0018_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nwithout causing any disturbance. You may also go to a small\nwater body during the rainy season with a facilitator and\nexplore it by taking due safety precautions.\n\nYou may notice a white jelly-like substance on the surface\nof water towards the edge of the pond (Fig. 10.7). This may\nalso be attached to plants growing in or around the water.\nThis jelly-like substance is actually a cluster of eggs of a frog\nand is known as spawn.\n\nObserve the features of all the stages of a frog shown in\nFig. 10.7. How will you decide the sequence of the given stages\n(A, B, C, D, E, F)? Some of the stages show distinct changes in\ntheir initial and final shapes. Record these changes in Table\n10.5.\n\nD\n\nFig 10.7: Different stages of a frog ina pond\nBased on the observations listed in Table 10.5, draw the\n\nlife cycle of a frog. Compare the figure drawn by you with\nFig. 10.8.\n\nTable 10.5: Changes in different life stages of a frog\nA B C D E F\n\nIt is\nsimilar to\n‘C’ but it\nhas two\nlegs.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "Living Creatures: Exploring their \nCharacteristics\n201\nSome of the stages have been clubbed together, for \nexample, stages A and F in Fig. 10.7 have been kept under \nstage I. You will find four stages in the life cycle of a frog— \nthe egg stage, which progresses to the embryo stage; the \ntadpole stage, consisting of an early stage with a tail and no \nlegs, and a late stage with hind legs; the froglet stage, and \nthe adult frog stage (Fig. 10.8). \nStage IV – Adult frog \n(14 weeks)\nStage III – Froglet \n(12 weeks)\nStage IIB – Tadpole with legs\n(8-10 weeks)\nStage IIA– Tadpole with tail \n(Day 7-10)\nStage IB– Embryo\n(Day 3-4)\nStage IA– Spawn\n(Day 1)\nFig. 10.8: Life cycle of a frog\nDiscuss in the class along the following points:\n\n\nHow are these eggs of a frog different from the other \neggs that you may have seen?\n\n\nWhich stage has the shortest duration? \n\n\nIs there a change in the habitat during the various \nstages in the life cycle of a frog?\n\n\nHow do the special features support that stage?\nObserve Fig. 10.8. You will see that tadpoles develop legs \nbut still have tails. Tails help them swim in water. Tadpoles \ngrow gradually and start looking like little frogs called \nfroglets. They still live in water but begin to spend some \ntime on land. They continue to grow and lose their tails \ncompletely. Their legs become strong to help them jump \nand land. They become fully developed adult frogs who live \nboth in water and on land.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1469,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0019_img01",
+          "file": "images/NCERT_fecu110_page0019_img01.png",
+          "bbox": [
+            155.50680541992188,
+            203.40200805664062,
+            416.5068054199219,
+            403.35577392578125
+          ],
+          "width_px": 544,
+          "height_px": 417,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0019_img02",
+          "file": "images/NCERT_fecu110_page0019_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0019_img03",
+          "file": "images/NCERT_fecu110_page0019_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0019_vecfig01",
+          "file": "images/NCERT_fecu110_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Some of the stages have been clubbed together, for\nexample, stages A and F in Fig. 10.7 have been kept under\nstage I. You will find four stages in the life cycle of a frog—\nthe egg stage, which progresses to the embryo stage; the\ntadpole stage, consisting of an early stage with a tail and no\nlegs, and a late stage with hind legs; the froglet stage, and\nthe adult frog stage (Fig. 10.8).\n\nStage IV — Adult frog Stage I,- Spawn\n(Day 1)\n\n(14 weeks)\n\nStage III- Froglet @\\\n(12 weeks)\n\nStage I,- Embryo\n(Day 3-4)\n\nStage II,— Tadpole with legs Stage II,- Tadpole with tail\n(8-10 weeks) (Day 7-10)\n\nFig. 10.8: Life cycle of a frog\nDiscuss in the class along the following points:\n\n@ How are these eggs of a frog different from the other\neggs that you may have seen?\n\n@ Which stage has the shortest duration?\n\n¢ Is there a change in the habitat during the various\nstages in the life cycle of a frog?\n\n¢ How do the special features support that stage?\n\nObserve Fig. 10.8. You will see that tadpoles develop legs\nbut still have tails. Tails help them swim in water. Tadpoles\ngrow gradually and start looking like little frogs called\nfroglets. They still live in water but begin to spend some\ntime on land. They continue to grow and lose their tails\ncompletely. Their legs become strong to help them jump\nand land. They become fully developed adult frogs who live\nboth in water and on land.\n\nReprint 2026-27\n\nLiving Creatures: Exploring their\n\nCharacteristics\n\no"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Curiosity | Textbook of Science | Grade 6\n202\nPlants and animals are a part of the living world. They \ngo through various changes during the course of their lives. \nWe have learnt that a tiny plant grows and develops into a \nbig tree. We have also learnt how animals grow and change \nfrom young ones to adults. This journey varies for each \nanimal, making it unique and special. We have seen pupae \nchange into insects, and tadpoles change into frogs. Such \nchanges are important for plants and animals to survive \nand to maintain continuity of their kind. We should also take \ncare of them and their homes. By nurturing and preserving \ntheir homes, we contribute to this flourishing living world.\nKeywords\nBreathing\nExcretion\nGermination\nLarva\nLife cycle\nLiving\nMovement\nNon-living\nNutrition\nReproduction\nResponse\nStimulus\nDeath\nConclude\nCreate\nDesign\nFroglet\nPupa\nExperiment\nExplore\nGrowth\nRespiration\nIdentify\nObservation\nPrediction\nTadpole\nDo you think that birds also show \nsignificant changes in the various \nstages of their life cycle?\nHow \ndoes the life cycle of \nanimals differ from that of \nplants?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1125,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0020_img01",
+          "file": "images/NCERT_fecu110_page0020_img01.png",
+          "bbox": [
+            256.2122497558594,
+            425.34246826171875,
+            431.80645751953125,
+            466.879638671875
+          ],
+          "width_px": 366,
+          "height_px": 87,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0020_img02",
+          "file": "images/NCERT_fecu110_page0020_img02.png",
+          "bbox": [
+            88.39996337890625,
+            65.19998168945312,
+            232.42941284179688,
+            198.3106689453125
+          ],
+          "width_px": 301,
+          "height_px": 278,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0020_img03",
+          "file": "images/NCERT_fecu110_page0020_img03.png",
+          "bbox": [
+            405.92095947265625,
+            109.7997055053711,
+            529.7333984375,
+            232.03668212890625
+          ],
+          "width_px": 258,
+          "height_px": 255,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0020_img04",
+          "file": "images/NCERT_fecu110_page0020_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0020_img05",
+          "file": "images/NCERT_fecu110_page0020_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 21,
+      "text": "Living Creatures: Exploring their \nCharacteristics\n203\nSummary\n\n\nThe objects around us can be categorised into two types \nliving and non-living. \n\n\nThe essential features of living beings are that they move, \neat, grow, breathe, excrete, respond to stimuli, reproduce \nand die. Absence of any of these features indicates that they \nare not living beings.\n\n\nEach living being goes through several stages during its life. \n\n\nGermination of seeds depends upon the availability of \nwater, air and suitable light and/or dark conditions.\n\n\nDuring \ngermination \nof \nseeds, \nroots \ngenerally \ngrow \ndownwards, while shoots grow upwards.\n\n\nA plant’s life cycle starts with seed germination, followed by \nseveral stages of its growth and development. These include \nflowering and seed production. Seeds produced during their \nlife cycle would germinate into new plants and the cycle \ncontinues.\n\n\nThe life cycle of an animal as a result of reproduction, begin \nwith a newborn that undergoes various stages of growth and \ndevelopment followed by an adult stage and finally death. The \nprocess of reproduction maintains the continuity of its kind. \n\n\nMosquitoes pass through the stages of egg, larva, pupa \nand adult. The life stages of a frog include eggs, tadpoles, \nfroglets and adults.\n\n\nIn some living beings, such as mosquitoes and frogs, \nsignificant changes occur during the various stages of \ntheir life cycles. These changes can be seen in body shape, \nstructure and sometimes even in the habitat.\nLet us enhance our learning \n1.\t\nList the similarities and differences in life cycles of plants \nand animals.\n2.\t\nThe table on the next page shows some data. Study the data \nand try to find out examples appropriate for the conditions \ngiven in the second and third columns. If you think that \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1823,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0021_img01",
+          "file": "images/NCERT_fecu110_page0021_img01.png",
+          "bbox": [
+            152.94003295898438,
+            61.19997024536133,
+            357.0600280761719,
+            109.4849853515625
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0021_img02",
+          "file": "images/NCERT_fecu110_page0021_img02.png",
+          "bbox": [
+            92.80621337890625,
+            558.54443359375,
+            439.6125183105469,
+            633.396728515625
+          ],
+          "width_px": 723,
+          "height_px": 156,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0021_img03",
+          "file": "images/NCERT_fecu110_page0021_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0021_img04",
+          "file": "images/NCERT_fecu110_page0021_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0021_vecfig01",
+          "file": "images/NCERT_fecu110_page0021_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "The objects around us can be categorised into two types\nliving and non-living.\nThe essential features of living beings are that they move,\neat, grow, breathe, excrete, respond to stimuli, reproduce\nand die. Absence of any of these features indicates that they\nare not living beings.\n\nEach living being goes through several stages during its life.\n\nGermination of seeds depends upon the availability of\nwater, air and suitable light and/or dark conditions.\n\nDuring germination of seeds, roots generally grow\ndownwards, while shoots grow upwards.\n\nA plant’s life cycle starts with seed germination, followed by\nseveral stages of its growth and development. These include\nflowering and seed production. Seeds produced during their\nlife cycle would germinate into new plants and the cycle\ncontinues.\n\nThe life cycle of an animal as a result of reproduction, begin\nwith a newborn that undergoes various stages of growth and\ndevelopment followed by an adult stage and finally death. The\nprocess of reproduction maintains the continuity of its kind.\n\nMosquitoes pass through the stages of egg, larva, pupa\nand adult. The life stages of a frog include eggs, tadpoles,\nfroglets and adults.\n\nIn some living beings, such as mosquitoes and frogs,\nsignificant changes occur during the various stages of\ntheir life cycles. These changes can be seen in body shape,\nstructure and sometimes even in the habitat.\n\nLet us enhance our learning\n\nList the similarities and differences in life cycles of plants\nand animals.\n\nThe table on the next page shows some data. Study the data\nand try to find out examples appropriate for the conditions\ngiven in the second and third columns. If you think that\n\nReprint 2026-27\n\nLiving Creatures: Exploring their\n\nCharacteristics"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "Curiosity | Textbook of Science | Grade 6\n204\nFig. 10.10: Experimental set-up\nFig. 10.9: Pot kept along the \nground \n3.\t\nYou have learnt that different conditions are required for \nseed germination. How can we use this knowledge for \nproper storage of grains and pulses?\n4.\t\nYou have learnt that a tail is present in a tadpole but it \ndisappears as it grows into a frog. What is the advantage of \nhaving a tail in the tadpole stage?\n5.\t\nCharan says that a wooden log is non-living as it cannot move. \nCharu counters it by saying that it is living because it is made \nof wood obtained from trees. Give your arguments in favour \nor against the two statements given by Charan and Charu. \n6.\t\nWhat are the similarities and \ndistinguishing features in the life \ncycles of a mosquito and a frog?\n7.\t\nA plant is provided with all the \nconditions suitable for its growth \n(Fig. 10.9). Draw what you expect \nto see in the shoot and the root of \nthe plant after one week. Write \ndown the reasons.\n8.\t\nTara \nand \nVijay \nset \nup \nthe \nexperiment shown in the picture \n(Fig. 10.10). What do you think \nthey want to find out? How will \nthey know if they are correct?\n9.\t\nDesign an experiment to check if \ntemperature has an effect on seed \ngermination. \nan example for any of the conditions given below is not \npossible, explain why.\nS. no.\nDoes it grow?\nDoes it \nrespire?\nExample\nRemarks\n1.\nNo\nNo\n2.\nNo\nYes\n3.\nYes\nNo\n4.\nYes\nYes\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1431,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0022_img01",
+          "file": "images/NCERT_fecu110_page0022_img01.png",
+          "bbox": [
+            88.29590606689453,
+            594.207763671875,
+            294.48095703125,
+            685.1155395507812
+          ],
+          "width_px": 430,
+          "height_px": 190,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0022_img02",
+          "file": "images/NCERT_fecu110_page0022_img02.png",
+          "bbox": [
+            121.37237548828125,
+            483.2727966308594,
+            265.7091064453125,
+            551.6837158203125
+          ],
+          "width_px": 286,
+          "height_px": 602,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0022_img03",
+          "file": "images/NCERT_fecu110_page0022_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0022_img04",
+          "file": "images/NCERT_fecu110_page0022_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0022_table01",
+          "bbox": [
+            55.192176818847656,
+            146.93484497070312,
+            519.5946899414063,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              null,
+              "1.",
+              "No",
+              "No",
+              "",
+              ""
+            ],
+            [
+              null,
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "2. No Yes\n3. Yes No\n4. Yes Yes\n3. You have learnt that different conditions are required for\nseed germination. How can we use this knowledge for\nproper storage of grains and pulses?\n4. You have learnt that a tail is present in a tadpole but it\ndisappears as it grows into a frog. What is the advantage of\nhaving a tail in the tadpole stage?\n5. Charan says that a wooden log is non-living as it cannot move\nCharu counters it by saying that it is living because it is made\nof wood obtained from trees. Give your arguments in favour\nor against the two statements given by Charan and Charu.\n6. What are the similarities and\ndistinguishing features in the life\ncycles of a mosquito and a frog?\n7. A plant is provided with all the\n6\nconditions suitable for its growth Grade\n(Fig. 10.9). Draw what you expect\nto see in the shoot and the root of |\nScience\nFig. 10.9: Pot kept along the the plant after one week. Write\nground down the reasons.\nof\nTextbook\n8. Tara and Vijay set up the\nexperiment shown in the picture\n(Fig. 10.10). What do you think |\niosity\nthey want to find out? How will",
+              "2.",
+              "No",
+              "Yes",
+              "",
+              ""
+            ],
+            [
+              null,
+              "3.",
+              "Yes",
+              "No",
+              "",
+              ""
+            ],
+            [
+              null,
+              "4.",
+              "Yes",
+              "Yes",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0022_vecfig01",
+          "file": "images/NCERT_fecu110_page0022_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "an example for any of the conditions given below is not\npossible, explain why.\n\nS.no. Does it grow? oe Example Remarks\n1. No No\n2. No Yes\n3. Yes No\n4, Yes Yes\n\n3. You have learnt that different conditions are required for\nseed germination. How can we use this knowledge for\nproper storage of grains and pulses?\n\n4. You have learnt that a tail is present in a tadpole but it\ndisappears as it grows into a frog. What is the advantage of\nhaving a tail in the tadpole stage?\n\n5. Charan says that a wooden log is non-living as it cannot move.\nCharu counters it by saying that it is living because it is made\nof wood obtained from trees. Give your arguments in favour\nor against the two statements given by Charan and Charu.\n\n6. What are the similarities and\ndistinguishing features in the life\ncycles of a mosquito and a frog?\n\n7. A plant is provided with all the\nconditions suitable for its growth\n(Fig. 10.9). Draw what you expect\nto see in the shoot and the root of\n\nFig. 10.9: Pot kept along the the plant after one week. Write\n\nground down the reasons.\n\n8. Tara and Vijay set up the\nexperiment shown in the picture\n(Fig. 10.10). What do you think\nthey want to find out? How will\nthey know if they are correct?\n\nCuriosity | Textbook of Science | Grade 6\n\n9. Design an experiment to check if\nFig. 10.10: Experimental set-up temperature has an effect on seed\ngermination.\n\n@\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "Living Creatures: Exploring their \nCharacteristics\n205\nLearning further \n\n\nMake a field trip to a local garden. Interact with a gardener \nto learn about various conditions and the time required for \nthe growth of various plants.\n\n\nCan we grow plants without germinating their seeds? \nExplore and cite some examples.\n\n\nObserve the life cycle of five plants grown at home, school, \nor in a nearby garden. Create a picture book containing \npictures of various stages of their growth. Write the name \nof each plant and the duration of each of its stage.\n\n\nTry to observe some of the stages in the life cycle of a \nbutterfly or a moth. Are these stages similar to the stages in \nthe life cycle of a mosquito? \n\n\nIn your opinion, would the environment affect the life \ncycles of insects? Explore and list the factors that affect the \nlife cycles of insects.\nLet us create\nAdd more lines to the incomplete poem given below. Include \ninformation on the different stages in development of a \nfrog. You may also draw and paint each stage as it appears \nin your poem. \n                In shaded and grassy bogs,\n                There lived a group of frogs.\n                They happily sang from dusk to dawn,\n                In double bass going on and on.\n                One day sitting beside a reed,\n                Female frogs think it’s time to breed ……..\n                …………………………………………\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1413,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0023_img01",
+          "file": "images/NCERT_fecu110_page0023_img01.png",
+          "bbox": [
+            82.6092300415039,
+            62.58819580078125,
+            427.39056396484375,
+            127.0208740234375
+          ],
+          "width_px": 719,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0023_img02",
+          "file": "images/NCERT_fecu110_page0023_img02.png",
+          "bbox": [
+            82.6092300415039,
+            411.51593017578125,
+            427.3905944824219,
+            475.90618896484375
+          ],
+          "width_px": 719,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0023_img03",
+          "file": "images/NCERT_fecu110_page0023_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0023_img04",
+          "file": "images/NCERT_fecu110_page0023_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0023_vecfig01",
+          "file": "images/NCERT_fecu110_page0023_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Learning further ‘/”\n\n4\n-\n\n@ Makea field trip to a local garden. Interact with a gardener\nto learn about various conditions and the time required for\nthe growth of various plants.\n\n® Can we grow plants without germinating their seeds?\nExplore and cite some examples.\n\n@ Observe the life cycle of five plants grown at home, school,\nor in a nearby garden. Create a picture book containing\npictures of various stages of their growth. Write the name\nof each plant and the duration of each of its stage.\n\n¢ Try to observe some of the stages in the life cycle of a\nbutterfly or a moth. Are these stages similar to the stages in\nthe life cycle of a mosquito?\n\n¢ In your opinion, would the environment affect the life\ncycles of insects? Explore and list the factors that affect the\nlife cycles of insects.\n\nLet us create\n\nAdd more lines to the incomplete poem given below. Include\ninformation on the different stages in development of a\nfrog. You may also draw and paint each stage as it appears\nin your poem.\n\nIn shaded and grassy bogs,\n\nThere lived a group of frogs.\n\nThey happily sang from dusk to dawn,\n\nIn double bass going on and on.\n\nOne day sitting beside a reed,\n\nFemale frogs think it’s time to breed........\n\nReprint 2026-27\n\nLiving Creatures: Exploring their\n\nCharacteristics"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "Notes\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 22,
+      "images": [
+        {
+          "image_id": "NCERT_fecu110_page0024_img01",
+          "file": "images/NCERT_fecu110_page0024_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu110_page0024_img02",
+          "file": "images/NCERT_fecu110_page0024_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu110_page0024_vecfig01",
+          "file": "images/NCERT_fecu110_page0024_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Notes\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}

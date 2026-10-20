@@ -1,0 +1,2723 @@
+{
+  "source_file": "data\\NCERT\\fecu103.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu103",
+  "num_pages": 26,
+  "extraction_method": "native",
+  "native_page_count": 26,
+  "ocr_page_count": 0,
+  "total_images": 108,
+  "images_with_text": 2,
+  "total_tables": 7,
+  "total_vector_figures": 21,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Mindful Eating: A Path  \nto a Healthy Body\n3\nChapter\nकोऽरुक्? कोऽरुक्? कोऽरुक्? \nहितभुक् मितभुक् ऋतुभुक्\n(सुभाषित)\nWho is healthy? Who is healthy? Who is healthy? One \nwho eats food that is wholesome, in moderate quantities, \nand appropriate for the season, time, and place.\n(Wise saying)\nMedu and Mishti read \n‘thought of the day’ on \nthe \nschool \nnoticeboard \nevery day. Today’s thought, \n‘annena \njātāni \njivanti’, \nmakes \nthem \ncurious. \nMishti tells Medu that it \nis a Sanskrit saying which \nmeans ‘food gives life to \nliving beings.’ \nLet us try to understand the significance of this saying.\n3.1\t What Do We Eat? \nActivity 3.1: Let us record \nAll of us eat food every day. Food is an essential component \nof our daily life. List the food items you have consumed \nover the week in Table 3.1.\nअन्‍ नेन जातानि जीवन्‍त‍ि \nannena jātāni jivanti\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 863,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0001_img01",
+          "file": "images/NCERT_fecu103_page0001_img01.png",
+          "bbox": [
+            -18.600006103515625,
+            -18.599945068359375,
+            611.4000244140625,
+            194.70965576171875
+          ],
+          "width_px": 1315,
+          "height_px": 445,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0001_img02",
+          "file": "images/NCERT_fecu103_page0001_img02.png",
+          "bbox": [
+            0.40000152587890625,
+            381.3330993652344,
+            267.38897705078125,
+            560.6270141601562
+          ],
+          "width_px": 557,
+          "height_px": 374,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0001_img03",
+          "file": "images/NCERT_fecu103_page0001_img03.png",
+          "bbox": [
+            467.39996337890625,
+            203.44003295898438,
+            552.3599853515625,
+            288.4000244140625
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": "0677CHO3"
+        },
+        {
+          "image_id": "NCERT_fecu103_page0001_img04",
+          "file": "images/NCERT_fecu103_page0001_img04.png",
+          "bbox": [
+            47.100006103515625,
+            191.54998779296875,
+            462.53997802734375,
+            371.86083984375
+          ],
+          "width_px": 866,
+          "height_px": 376,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0001_img05",
+          "file": "images/NCERT_fecu103_page0001_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0001_img06",
+          "file": "images/NCERT_fecu103_page0001_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0001_vecfig01",
+          "file": "images/NCERT_fecu103_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Mindful Eating: A Path\n\nto a Healthy Body\n\nq4 THLSHH? HASH? TSHR?\n\noN oN NyuvVU N\n(aurea)\nWho is healthy? Who is healthy? Who is healthy? One 0677cHO3\nwho eats food that is wholesome, in moderate quantities, ’\nand appropriate for the season, time, and place.\n(Wise saying) )\n\namt ot fran\n\nThought of the day\n\nMedu and Mishti read\n‘thought of the day’ on\nthe school noticeboard\nevery day. Today’s thought,\n‘annena jatani jivanti’,\nmakes them _— curious.\nMishti tells Medu that it\nis a Sanskrit saying which\nmeans ‘food gives life to\nliving beings.’\n\nLet us try to understand the significance of this saying.\n\nmee 3.1 What Do We Eat?\n\nActivity 3.1; Let us record a\n\nAll of us eat food every day. Food is an essential component\nof our daily life. List the food items you have consumed\nover the week in Table 3.1.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Curiosity | Textbook of Science | Grade 6\n36\nWhat observations can you make about your food from the \ndata collected in Table 3.1? Do you eat the same kind of food \nin every meal or do your choices vary? Compare your list \nwith those prepared by your friends. Find similarities and \ndifferences in the food consumed by you and your friends. \nWhat did you find? Record your findings in your notebook. \nYou may have noticed that there is a variety in the food \neaten by you and your friends.\nDo you think that such diversity in food exists in all states \nof our country?\n3.1.1 Food in different regions\nActivity 3.2: Let us explore\n\n\nFind out the types of food traditionally consumed and \nthe crops grown in various states of India. You may \nrefer to books in your library, search the internet, and \ninteract with your friends, family and neighbours to \ncollect information. \nTable 3.1: Food items consumed over a week\nDay\nFood items\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\nSunday\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1007,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0002_img01",
+          "file": "images/NCERT_fecu103_page0002_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0002_img02",
+          "file": "images/NCERT_fecu103_page0002_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0002_table01",
+          "bbox": [
+            55.192176818847656,
+            113.45022583007812,
+            520.4279594421387,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              null,
+              "Monday",
+              ""
+            ],
+            [
+              null,
+              "Tuesday",
+              ""
+            ],
+            [
+              null,
+              "",
+              ""
+            ],
+            [
+              "Wednesday\nThursday\nFriday\nSaturday\nSunday\nWhat observations can you make about your food from the\ndata collected in Table 3.1? Do you eat the same kind of food\nin every meal or do your choices vary? Compare your list\nwith those prepared by your friends. Find similarities and\ndifferences in the food consumed by you and your friends.\nWhat did you find? Record your findings in your notebook.\nYou may have noticed that there is a variety in the food\neaten by you and your friends.\nDo you think that such diversity in food exists in all states\nof our country?\n3.1.1 Food in different regions\nActivity 3.2: Let us explore\n Find out the types of food traditionally consumed and\nthe crops grown in various states of India. You may\nrefer to books in your library, search the internet, and",
+              "Wednesday",
+              ""
+            ],
+            [
+              null,
+              "Thursday",
+              ""
+            ],
+            [
+              null,
+              "Friday",
+              ""
+            ],
+            [
+              null,
+              "Saturday",
+              ""
+            ],
+            [
+              null,
+              "Sunday",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0002_vecfig01",
+          "file": "images/NCERT_fecu103_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nTable 3.1: Food items consumed over a week\n\nDay Food items\nMonday\nTuesday\nWednesday\nThursday\nFriday\nSaturday\n\nSunday\n\nWhat observations can you make about your food from the\ndata collected in Table 3.1? Do you eat the same kind of food\nin every meal or do your choices vary? Compare your list\nwith those prepared by your friends. Find similarities and\ndifferences in the food consumed by you and your friends.\nWhat did you find? Record your findings in your notebook.\nYou may have noticed that there is a variety in the food\neaten by you and your friends.\n\nDo you think that such diversity in food exists in all states\nof our country?\n\n3.1.1 Food in different regions\n\nActivity 3.2: Let us explore = EEE\n\n¢ Find out the types of food traditionally consumed and\nthe crops grown in various states of India. You may\nrefer to books in your library, search the internet, and\ninteract with your friends, family and neighbours to\ncollect information.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n37\nWhy do we see diversity in traditional food consumed in \nvarious states of our country? \nAnalyse the data collected by you in Table 3.2. Are there \nfood items that are common across states? Make a list of \nthose food items. You may find that some food items are \ncommon in many states while some are eaten only in a \nparticular state.\nWhat relation do you find between the traditional food \nitems and the locally grown crops? You must have observed \nthat the traditional food of any state is usually based on the \ncrops grown in that state. India is an agricultural country \nwith diverse soil and climate types. Various crops are \ngrown in its different regions depending on the soil \ntypes and climatic conditions. \nIn various regions of India, the choice of food may vary \naccording to the cultivation of food crops in that particular \nregion, taste preferences, culture, and traditions. \nTable 3.2: Some traditional food items in various states of India\nState\nLocally grown \ncrops \nTraditional food items \neaten\nBeverages\nPunjab\nMaize, \nwheat, \nchickpea, \npulses\nMakki di roti, sarson da \nsaag, chhole bhature, \nparantha, halwa, kheer\nLassi, chhach \n(buttermilk), \nmilk, tea\nKarnataka\nRice, ragi, \nurad, coconut\nIdli, dosa, sambhar, \ncoconut chutney, ragi \nmudde, palya, rasam, rice\nButtermilk, \ncoffee, \ntea\nManipur\nRice, \nbamboo, \nsoya bean\nRice, eromba (chutney), \nutti (yellow peas and \ngreen onion curry) singju, \nkangsoi\nBlack Tea\nAny other\n\n\nIn Table 3.2, add more states and fill the collected data. \nA few examples are already given.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1609,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0003_img01",
+          "file": "images/NCERT_fecu103_page0003_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0003_img02",
+          "file": "images/NCERT_fecu103_page0003_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0003_table01",
+          "bbox": [
+            73.2516114976671,
+            175.061279296875,
+            504.04000176323785,
+            420.9287109375
+          ],
+          "rows": [
+            [
+              "",
+              "Maize,",
+              "",
+              ""
+            ],
+            [
+              "Punjab",
+              "wheat,\nchickpea,\npulses",
+              "Makki di roti, sarson da\nsaag, chhole bhature,\nparantha, halwa, kheer",
+              "Lassi, chhach\n(buttermilk),\nmilk, tea"
+            ],
+            [
+              "Karnataka",
+              "Rice, ragi,\nurad, coconut",
+              "Idli, dosa, sambhar,\ncoconut chutney, ragi\nmudde, palya, rasam, rice",
+              "Buttermilk,\ncoffee,\ntea"
+            ],
+            [
+              "Manipur",
+              "Rice,\nbamboo,\nsoya bean",
+              "Rice, eromba (chutney),\nutti (yellow peas and\ngreen onion curry) singju,\nkangsoi",
+              "Black Tea"
+            ],
+            [
+              "Any other",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0003_vecfig01",
+          "file": "images/NCERT_fecu103_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "@ In Table 3.2, add more states and fill the collected data.\nA few examples are already given.\n\nTable 3.2: Some traditional food items in various states of India\n\nLocally grown Traditional food items\n\nState crops paren Beverages\neee Makki di roti, sarson da Lassi, chhach\nPunjab er saag, chhole bhature, (buttermilk),\nchickpea, .\nparantha, halwa, kheer milk, tea\npulses\nIdli. d bh Buttermilk,\nRice, ragi, i, dosa, sambhar, _ coffee,\nKarnataka coconut chutney, ragi t\nurad, coconut . ea\nmudde, palya, rasam, rice\n. Rice, eromba (chutney),\n. AUIS, utti (yellow peas and\nManipur bamboo, . oo Black Tea\ngreen onion curry) singju,\nsoya bean k .\nangsoi\nAny other\n\nWhy do we see diversity in traditional food consumed in\nvarious states of our country?\n\nAnalyse the data collected by you in Table 3.2. Are there\nfood items that are common across states? Make a list of\nthose food items. You may find that some food items are\ncommon in many states while some are eaten only in a\nparticular state.\n\nWhat relation do you find between the traditional food\nitems and the locally grown crops? You must have observed\nthat the traditional food of any state is usually based on the\ncrops grown in that state. India is an agricultural country\nwith diverse soil and climate types. Various crops are\ngrown in its different regions depending on the soil\ntypes and climatic conditions.\n\nIn various regions of India, the choice of food may vary\naccording to the cultivation of food crops in that particular\nregion, taste preferences, culture, and traditions.\n\nReprint 2026-27\n\nMindful Eating: A Path\nto a Healthy Body\n\nrs"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Curiosity | Textbook of Science | Grade 6\n38\n3.1.2\tHow have cooking practices changed  \n\t\nover time?\nYou have learnt that food habits vary across states. Our food \nchoices as well as practices of food preparation may differ \nfrom one another. Have our food habits and cooking practices \nchanged over time? \nActivity 3.3: Let us interact and find out \n\n\nPrepare a list of questions for gathering information \nfrom elderly people about their food habits and cooking \npractices. Following are some of the sample questions­—\n\n\nWhat kind of food do you still eat and what is new?\n\n\nWhat are the changes in cooking practices over time? \n\n\nWhat has caused these changes?\n\n\nConduct interviews with some elderly people based on \nthe questions prepared. \n(a) Chulha (Traditional stove)\n(b) Modern gas stove\nFig. 3.1: Change in cooking tools over time\n(c) Sil-batta (Stone grinder)\n(d) Electrical grinder\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 920,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0004_img01",
+          "file": "images/NCERT_fecu103_page0004_img01.png",
+          "bbox": [
+            92.70348358154297,
+            368.40704345703125,
+            291.3379821777344,
+            517.1436157226562
+          ],
+          "width_px": 414,
+          "height_px": 310,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0004_img02",
+          "file": "images/NCERT_fecu103_page0004_img02.png",
+          "bbox": [
+            302.7614440917969,
+            368.39141845703125,
+            522.42724609375,
+            517.684326171875
+          ],
+          "width_px": 458,
+          "height_px": 312,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0004_img03",
+          "file": "images/NCERT_fecu103_page0004_img03.png",
+          "bbox": [
+            92.71515655517578,
+            544.8800048828125,
+            324.26788330078125,
+            651.7263793945312
+          ],
+          "width_px": 483,
+          "height_px": 223,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0004_img04",
+          "file": "images/NCERT_fecu103_page0004_img04.png",
+          "bbox": [
+            378.7322692871094,
+            543.8551025390625,
+            458.3999938964844,
+            651.8893432617188
+          ],
+          "width_px": 166,
+          "height_px": 225,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0004_img05",
+          "file": "images/NCERT_fecu103_page0004_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0004_img06",
+          "file": "images/NCERT_fecu103_page0004_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0004_vecfig01",
+          "file": "images/NCERT_fecu103_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Ps 3 | 2 How have cooking practices changed\nover time?\n\nYou have learnt that food habits vary across states. Our food\nchoices as well as practices of food preparation may differ\nfrom one another. Have our food habits and cooking practices\nchanged over time?\n\nActivity 3.3: Letusinteract and find oUt\n\n@ Prepare a list of questions for gathering information\nfrom elderly people about their food habits and cooking\npractices. Following are some of the sample questions—\n\n= What kind of food do you still eat and what is new?\nm Whatare the changes in cooking practices over time?\n= What has caused these changes?\n\n¢ Conduct interviews with some elderly people based on\nthe questions prepared.\n\n(a) Chulha (Traditional stove)\n\n(c) Sil-batta (Stone grinder) (d) Electrical grinder\n\nCuriosity | Textbook of Science | Grade 6\n\nFig. 3.1: Change in cooking tools over time\n\n0\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n39\nस्वस्थ आहार, स्वस्थ जीववन\nEat Healthy, Live Healthy\nWhat are your findings from the interviews you conducted? \nCooking practices, also called culinary practices, have \nchanged over time. There is a significant difference between \ntraditional and modern culinary practices. Earlier, most \ncooking was done using a chulha (Fig. 3.1a). Nowadays, most \nof us cook using a modern gas stove (Fig. 3.1b). Earlier, most \ngrinding was done manually using a sil-batta (Fig. 3.1c). \nThese days, we use an electrical grinder for ease of grinding \n(Fig. 3.1d). Find out what were the other ways of cooking \nand grinding. Why have these culinary practices changed \nover time? These changes may be due to factors such as \ntechnological development, improved transportation and \nbetter communication.\n3.2 What are the Components of Food?\nMedu and Mishti visit the ‘Traditional Food Festival’ \norganised in their school. The theme of the festival is ‘Eat \nHealthy, Live Healthy’. \nThe festival features various stalls displaying different \nkinds of traditional dishes. Dr Poshita, a nutritional expert, \nexplains to students that ʻHealth is the Ultimate Wealthʼ. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1208,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0005_img01",
+          "file": "images/NCERT_fecu103_page0005_img01.png",
+          "bbox": [
+            63.424232482910156,
+            365.8611145019531,
+            512.4000854492188,
+            632.4797973632812
+          ],
+          "width_px": 936,
+          "height_px": 556,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0005_img02",
+          "file": "images/NCERT_fecu103_page0005_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0005_img03",
+          "file": "images/NCERT_fecu103_page0005_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0005_vecfig01",
+          "file": "images/NCERT_fecu103_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "What are your findings from the interviews you conducted?\nCooking practices, also called culinary practices, have\nchanged over time. There is a significant difference between\ntraditional and modern culinary practices. Earlier, most\ncooking was done using a chulha (Fig. 3.1a). Nowadays, most\nof us cook using a modern gas stove (Fig. 3.1b). Earlier, most\ngrinding was done manually using a sil-batta (Fig. 3.10).\nThese days, we use an electrical grinder for ease of grinding\n(Fig. 3.1d). Find out what were the other ways of cooking\nand grinding. Why have these culinary practices changed\nover time? These changes may be due to factors such as\ntechnological development, improved transportation and\nbetter communication.\n\nwu 3.2 What are the Components of Food?\n\nMedu and Mishti visit the “Traditional Food Festival’\norganised in their school. The theme of the festival is ‘Eat\nHealthy, Live Healthy’.\n\nme bs\n“| GUJARATI FOOD\n\n™ at\n\neat \\)\nez\nwy\n\n41\n\nANAS\n\n¥\n\nThe festival features various stalls displaying different\nkinds of traditional dishes. Dr Poshita, a nutritional expert,\nexplains to students that ‘Health is the Ultimate Wealth’.\n\nReprint 2026-27\n\nathe\n\nMindful Eating: A Path\nto a Healthy Body\n\nrs]"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Curiosity | Textbook of Science | Grade 6\n40\nLet us understand what Dr Poshita means by this \nstatement. \nHave you ever missed a meal? How do you \nfeel when you miss a meal?\nWe feel tired and less energetic when we do not \neat for some time. Why do you think a marathon \nrunner drinks glucose water during and after a race?\nGlucose \nprovides \ninstant \nenergy. Glucose is an example of \na carbohydrate. Carbohydrates \nare one of the primary sources \nof energy in our diet. Cereals like \nwheat, rice, and maize, vegetables \nlike potato and sweet potato, and \nfruits like banana, pineapple, \nand mango are some sources of \ncarbohydrates (Fig. 3.2).\nDo you know that common \nsugar is also a type of carbohydrate?\nWhy do you think we prefer to have laddoos as a part of \nour traditional diet in winters? \nBesan or wheat flour (aata) and ghee \nare among the main ingredients of \nladdoos along with goond (edible \ngum), nuts, and seeds. Ghee and \nvarious kinds of oils are grouped \nunder \nanother \nkind \nof \nfood \ncomponent, which is called fat.\nYes, my grandma told \nme that laddoos rich in \nghee and nuts provide \nenergy to keep us warm. \nSources of fats can be from \nplants or animals (Fig. 3.3). Nuts, \nsuch as groundnuts, walnuts, \ncoconuts, and almonds, and \nseeds, such as pumpkin seeds \nand sunflower seeds, are some \nsources of fat. Fat is a source of \nstored energy.\nFig. 3.2: Some sources of carbohydrates\nPotato\nSugarcane\nBanana\nPineapple\nSweet  \npotato\nWheat\nRice\nBajra\nMaize\nMango\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1504,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0006_img01",
+          "file": "images/NCERT_fecu103_page0006_img01.png",
+          "bbox": [
+            66.09199523925781,
+            546.6776733398438,
+            144.20591735839844,
+            666.911865234375
+          ],
+          "width_px": 204,
+          "height_px": 314,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0006_img02",
+          "file": "images/NCERT_fecu103_page0006_img02.png",
+          "bbox": [
+            116.36323547363281,
+            64.40011596679688,
+            210.78453063964844,
+            167.46875
+          ],
+          "width_px": 197,
+          "height_px": 215,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0006_img03",
+          "file": "images/NCERT_fecu103_page0006_img03.png",
+          "bbox": [
+            356.9034118652344,
+            411.624755859375,
+            532.3999633789062,
+            537.4251708984375
+          ],
+          "width_px": 366,
+          "height_px": 263,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0006_img04",
+          "file": "images/NCERT_fecu103_page0006_img04.png",
+          "bbox": [
+            72.98827362060547,
+            209.3659210205078,
+            284.2801513671875,
+            331.5494384765625
+          ],
+          "width_px": 441,
+          "height_px": 255,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0006_img05",
+          "file": "images/NCERT_fecu103_page0006_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0006_img06",
+          "file": "images/NCERT_fecu103_page0006_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 7,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n41\nCarbohydrates and fats provide us energy for performing \nvarious activities. Therefore, they are called energy-giving \nfoods. Identify more food items that are rich sources of \ncarbohydrates and fats .\nFig. 3.3: Some sources of fats\nWalnut\nSunflower \nseeds\nPistachios\nSoya bean\nCashew nut\nSesame seeds\nGroundnut\nAlmonds\nButter\nCurd\nMore to \nknow!\nPolar bears accumulate a lot of fat under \ntheir skin. This fat serves as an energy \nsource. It supports them during their months-\nlong winter sleep (hibernation), enabling them \nto survive without eating.\nPolar bear\nProteins are also an important part of our food. \nMilk products and pulses are good sources of protein. \nSportspersons need proteins in larger quantities to build their \nmuscles. People get proteins from plants as well as animals. \nSome excellent plant sources of protein are pulses, beans, \npeas and nuts (Fig. 3.4a). Animal sources of protein are milk, \npaneer, egg, fish and meat (Fig. 3.4b). Protein-rich foods help \nin growth and repair of our body. These are, therefore, called \nbody-building foods. \nFig. 3.4: Some sources of proteins\n(a) Plant sources\nGram\nMoong\nTuar Dal\nKidney beans\nPeas\nSoya bean\n (b) Animal sources\nFish\nEggs\nPaneer\nChicken\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1278,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0007_img01",
+          "file": "images/NCERT_fecu103_page0007_img01.png",
+          "bbox": [
+            145.572509765625,
+            63.375282287597656,
+            364.427490234375,
+            188.33441162109375
+          ],
+          "width_px": 456,
+          "height_px": 261,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0007_img02",
+          "file": "images/NCERT_fecu103_page0007_img02.png",
+          "bbox": [
+            34.376564025878906,
+            299.4718933105469,
+            510.1635437011719,
+            412.63726806640625
+          ],
+          "width_px": 992,
+          "height_px": 236,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0007_img03",
+          "file": "images/NCERT_fecu103_page0007_img03.png",
+          "bbox": [
+            61.830360412597656,
+            313.28033447265625,
+            179.84173583984375,
+            395.24163818359375
+          ],
+          "width_px": 247,
+          "height_px": 171,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0007_img04",
+          "file": "images/NCERT_fecu103_page0007_img04.png",
+          "bbox": [
+            106.39515686035156,
+            584.0770874023438,
+            238.04576110839844,
+            678.4425659179688
+          ],
+          "width_px": 275,
+          "height_px": 197,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0007_img05",
+          "file": "images/NCERT_fecu103_page0007_img05.png",
+          "bbox": [
+            284.0408630371094,
+            568.5526123046875,
+            446.68695068359375,
+            678.4864501953125
+          ],
+          "width_px": 339,
+          "height_px": 229,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0007_img06",
+          "file": "images/NCERT_fecu103_page0007_img06.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0007_img07",
+          "file": "images/NCERT_fecu103_page0007_img07.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0007_vecfig01",
+          "file": "images/NCERT_fecu103_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Sunflower\nseeds\n\nWalnut\n\nCashew nut Groundnut\n\nSesame seeds Soya bean\n\nFig. 3.3: Some sources of fats\n\nCarbohydrates and fats provide us energy for performing\nvarious activities. Therefore, they are called energy-giving\nfoods. Identify more food items that are rich sources of\ncarbohydrates and fats .\n\ntheir skin. This fat serves as an energy\nfw source. It supports them during their months-\n4 + long winter sleep (hibernation), enabling them More to\n~ ~ to survive without eating. know!\n\n* “% Polar bears accumulate a lot of fat under @\n\nPolar bear\n\nProteins are also an important part of our food.\nMilk products and pulses are good sources of protein.\nSportspersons need proteins in larger quantities to build their\nmuscles. People get proteins from plants as well as animals.\nSome excellent plant sources of protein are pulses, beans,\npeas and nuts (Fig. 3.4a). Animal sources of protein are milk,\npaneer, egg, fish and meat (Fig. 3.4b). Protein-rich foods help\nin growth and repair of our body. These are, therefore, called\nbody-building foods.\n\nMoong Tuar Dal Kidney beans Chicken\n\nGram\n\nPaneer\nPeas\n\nMindful Eating: A Path\nto a Healthy Body\n\nee Soya bean Fish Eggs\n(a) Plant sources (b) Animal sources\n\nFig. 3.4: Some sources of proteins\n\n|\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Curiosity | Textbook of Science | Grade 6\n42\nCase 1\nIn earlier times, during long voyages, sailors often suffered \nfrom bleeding and swollen gums. During a voyage in 1746, \nScottish physician James Lind observed that sailors who \nconsumed lemons and oranges recovered from these \nsymptoms. Bleeding and swollen gums are symptoms of a \ndisease called scurvy.\nCase 2\nIn the 1960s, Indian scientists found that among the \nhuman population in the Himalayan region and \nthe Northern plains of India, symptoms of swelling \nat the front of the neck were prevalent. As per \nnorms of the Government of India, an effort was \nmade to supplement common salt with iodine for \npreparing iodised salt. Consumption of iodised \nsalt visibly reduced the above symptoms. These symptoms were \ndue to a deficiency of iodine in the soil of this region resulting \nin a lack of iodine in the local food and water supply. Swelling \nat the front of the neck is a symptom of a disease called goitre.\nThe right amount of protein must be included in the diet of \ngrowing children for their proper growth and development. \nWhich of these food components are part of your daily diet?\nHave you ever seen mushrooms? They grow \nmostly in dark and moist places. Edible \nmushrooms are good sources of protein.  \nMushroom\nMore to \nknow!\nWhy do you think we are advised to include servings of \nfruits, vegetables and other plant-based foods in our daily \ndiet? Let us understand the importance of some other food \ncomponents by reading the following two cases—\nWhat do you interpret by reading Case 1? What cures \nscurvy? Lemons and oranges help in curing scurvy. Scurvy \nis caused due to deficiency of Vitamin C. Vitamin C present \nin citrus fruits like lemons and oranges helps in curing this \ndisease.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1783,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0008_img01",
+          "file": "images/NCERT_fecu103_page0008_img01.png",
+          "bbox": [
+            129.4158935546875,
+            277.38800048828125,
+            548.3999633789062,
+            422.68878173828125
+          ],
+          "width_px": 873,
+          "height_px": 303,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0008_img02",
+          "file": "images/NCERT_fecu103_page0008_img02.png",
+          "bbox": [
+            124.37234497070312,
+            500.06280517578125,
+            557.3998413085938,
+            730.4000244140625
+          ],
+          "width_px": 903,
+          "height_px": 480,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0008_img03",
+          "file": "images/NCERT_fecu103_page0008_img03.png",
+          "bbox": [
+            425.700927734375,
+            536.0000610351562,
+            527.09912109375,
+            638.800048828125
+          ],
+          "width_px": 212,
+          "height_px": 215,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0008_img04",
+          "file": "images/NCERT_fecu103_page0008_img04.png",
+          "bbox": [
+            53.400001525878906,
+            120.5968246459961,
+            593.3999633789062,
+            212.4000244140625
+          ],
+          "width_px": 1125,
+          "height_px": 192,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0008_img05",
+          "file": "images/NCERT_fecu103_page0008_img05.png",
+          "bbox": [
+            431.0710754394531,
+            127.68597412109375,
+            526.0462036132812,
+            189.24951171875
+          ],
+          "width_px": 198,
+          "height_px": 129,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0008_img06",
+          "file": "images/NCERT_fecu103_page0008_img06.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0008_img07",
+          "file": "images/NCERT_fecu103_page0008_img07.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0008_vecfig01",
+          "file": "images/NCERT_fecu103_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n0\n\nMore to\nknow!\n\nThe right amount of protein must be included in the diet of\ngrowing children for their proper growth and development.\nWhich of these food components are part of your daily diet?\n\nHave you ever seen mushrooms? They grow we\nmostly in dark and moist places. Edible <<.\n\nmushrooms are good sources of protein.\nMushroom\n\nWhy do you think we are advised to include servings of\nfruits, vegetables and other plant-based foods in our daily\ndiet? Let us understand the importance of some other food\ncomponents by reading the following two cases—\n\nCase 1\n\nIn earlier times, during long voyages, sailors often suffered\nfrom bleeding and swollen gums. During a voyage in 1746,\nScottish physician James Lind observed that sailors who\nconsumed lemons and oranges recovered from these\nsymptoms. Bleeding and swollen gums are symptoms of a\ndisease called scurvy.\n\nWhat do you interpret by reading Case 1? What cures\nscurvy? Lemons and oranges help in curing scurvy. Scurvy\nis caused due to deficiency of Vitamin C. Vitamin C present\nin citrus fruits like lemons and oranges helps in curing this\ndisease.\n\nCase 2\n\nIn the 1960s, Indian scientists found that among the\nhuman population in the Himalayan region and\nthe Northern plains of India, symptoms of swelling en\nat the front of the neck were prevalent. As per ©\nnorms of the Government of India, an effort was ~\\\nmade to supplement common salt withiodine for ¥ <=\npreparing iodised salt. Consumption of iodised\n\nsalt visibly reduced the above symptoms. These symptoms were\ndue to a deficiency of iodine in the soil of this region resulting\nin a lack of iodine in the local food and water supply. Swelling\nat the front of the neck is a symptom of a disease called goitre.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n43\nHow would you find out more about other food \ncomponents that protect our body from various diseases?\nActivity 3.4: Let us conduct a survey\n\n\nStudy the chart given in Fig. 3.5 to explore the functions \nand sources of various food components. Find out more \nsources of vitamins and minerals. Also, understand the \nsymptoms of the diseases caused by the lack of these \nfood components.\n\n\nVisit your neighbourhood, interact with people and \nfind out if any individual shows the symptoms listed on \nthe chart (an investigatory project of this kind can be \ntaken by the students under the guidance of a teacher).\n\n\nCorrelate these symptoms with their diet and identify \nthe deficiency disease(s) or disorder(s). \n\n\nSuggest the possible cause(s) for the symptoms observed \nand changes required in the diet for improvement. \n\n\nSuggest them to visit a doctor for further advice. \nWhat do you infer from Case 2? \nYou may have learnt about iodised salt through \nnewspapers, advertisements or by reading about it on a \nsalt packet. What does it mean? Iodised salt is simply \ncommon salt mixed with required quantities of salts \nof iodine.\nSalt farming is a traditional practice of a tribal \ncommunity named Agariyas. They practice salt \nfarming in the Little Rann of Kutch and other \nparts of Gujarat. For eight months, they live in \nthe extreme heat of the desert and work very \nhard to get salt from seawater.\nMore to \nknow!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1487,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0009_img01",
+          "file": "images/NCERT_fecu103_page0009_img01.png",
+          "bbox": [
+            -19.62929916381836,
+            120.5968246459961,
+            -0.6000213623046875,
+            212.4000244140625
+          ],
+          "width_px": 40,
+          "height_px": 192,
+          "ocr_attempted": false,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0009_img02",
+          "file": "images/NCERT_fecu103_page0009_img02.png",
+          "bbox": [
+            35.399871826171875,
+            165.7968292236328,
+            520.4066772460938,
+            316.15179443359375
+          ],
+          "width_px": 1011,
+          "height_px": 314,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0009_img03",
+          "file": "images/NCERT_fecu103_page0009_img03.png",
+          "bbox": [
+            71.02799224853516,
+            189.93295288085938,
+            172.27198791503906,
+            288.80096435546875
+          ],
+          "width_px": 211,
+          "height_px": 206,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0009_img04",
+          "file": "images/NCERT_fecu103_page0009_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0009_img05",
+          "file": "images/NCERT_fecu103_page0009_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0009_vecfig01",
+          "file": "images/NCERT_fecu103_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "What do you infer from Case 2?\n\nYou may have learnt about iodised salt through\nnewspapers, advertisements or by reading about it ona\nsalt packet. What does it mean? Iodised salt is simply\ncommon salt mixed with required quantities of salts\nof iodine.\n\nSalt farming is a traditional practice of a tribal\n\ncommunity named Agariyas. They practice salt\n\nfarming in the Little Rann of Kutch and other\n\nparts of Gujarat. For eight months, they live in YD\nthe extreme heat of the desert and work very\n\nhard to get salt from seawater. More to\n\nknow!\n\nHow would you find out more about other food\ncomponents that protect our body from various diseases?\n\nActivity 3.4: Let us conduct a survey\n\n@ Study the chart given in Fig. 3.5 to explore the functions\nand sources of various food components. Find out more\nsources of vitamins and minerals. Also, understand the\nsymptoms of the diseases caused by the lack of these\nfood components.\n\n@ Visit your neighbourhood, interact with people and\nfind out if any individual shows the symptoms listed on\nthe chart (an investigatory project of this kind can be\ntaken by the students under the guidance of a teacher).\n\n@ Correlate these symptoms with their diet and identify\nthe deficiency disease(s) or disorder(s).\n\n@ Suggest the possible cause(s) for the symptoms observed\nand changes required in the diet for improvement.\n\nSuggest them to visit a doctor for further advice.\n\nReprint 2026-27\n\nMindful Eating: A Path\nto a Healthy Body"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Curiosity | Textbook of Science | Grade 6\n44\nFood \ncomponent \n(Vitamin/\nMineral)\n \n \n \nFunctions\n \n \n \nSome sources\n \nDeficiency \ndisease/\ndisorder\n \n \n \nSymptoms\nVitamin A\nKeeps eyes \nand skin \nhealthy\nPapaya, carrot, \nmango, milk\nLoss of \nvision\nPoor vision, \nloss of vision \nin darkness \n(night \nblindness), \nsometimes \ncomplete loss \nof vision\nVitamin B1\nKeeps heart \nhealthy and \nsupports \nbody to \nperform \nvarious \nfunctions\nLegumes, nuts, \nwhole grains, \nseeds, milk \nproducts \nBeriberi\nSwelling, \ntingling or \nburning \nsensation \nin feet and \nhands, \ntrouble in \nbreathing\nVitamin C\nHelps body \nto fight \ndiseases\nAmla, guava, \ngreen chilli, \norange, lemon\nScurvy\nBleeding \ngums, slow \nhealing of \nwounds\nVitamin D\nHelps body \nabsorb \ncalcium for \nbone and \nteeth \nhealth\nExposure to \nsunlight, milk, \nbutter, fish, \neggs\nRickets\nSoft and bent \nbones\nCalcium\nKeeps \nbones \nand teeth \nhealthy\nMilk/soya milk, \ncurd, cheese, \npaneer\nBone and \ntooth \ndecay\nWeak bones, \ntooth decay\nIodine\nHelps to \nperform \nphysical \nand mental \nactivities\nSeaweed, \nwater chestnut \n(singhada), \niodised salt\nGoitre\nSwelling at \nthe front of \nthe neck\nIron\nImportant \ncomponent \nof blood\nGreen leafy \nvegetables, \nbeetroot, \npomegranate\nAnaemia\nWeakness, \nshortness of \nbreath\nFig. 3.5: Chart of vitamins and minerals, their functions, some sources, \nrelated deficiency disease(s)/disorder(s) and symptoms\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1412,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0010_img01",
+          "file": "images/NCERT_fecu103_page0010_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0010_img02",
+          "file": "images/NCERT_fecu103_page0010_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0010_table01",
+          "bbox": [
+            55.192176818847656,
+            111.26791381835938,
+            522.3170013427734,
+            695.0558166503906
+          ],
+          "rows": [
+            [
+              null,
+              "Vitamin A",
+              "Keeps eyes\nand skin\nhealthy",
+              "Papaya, carrot,\nmango, milk",
+              "Loss of\nvision",
+              "Poor vision,\nloss of vision\nin darkness\n(night\nblindness),\nsometimes"
+            ],
+            [
+              "",
+              "",
+              "",
+              "",
+              "",
+              "complete loss\nof vision"
+            ],
+            [
+              null,
+              "Vitamin B\n1",
+              "Keeps heart\nhealthy and\nsupports\nbody to\nperform\nvarious\nfunctions",
+              "Legumes, nuts,\nwhole grains,\nseeds, milk\nproducts",
+              "Beriberi",
+              "Swelling,\ntingling or\nburning\nsensation\nin feet and\nhands,\ntrouble in\nbreathing"
+            ],
+            [
+              null,
+              "Vitamin C",
+              "Helps body\nto fight\ndiseases",
+              "Amla, guava,\ngreen chilli,\norange, lemon",
+              "Scurvy",
+              "Bleeding\ngums, slow\nhealing of\nwounds"
+            ],
+            [
+              null,
+              "Vitamin D",
+              "Helps body\nabsorb\ncalcium for\nbone and\nteeth\nhealth",
+              "Exposure to\nsunlight, milk,\nbutter, fish,\neggs",
+              "Rickets",
+              "Soft and bent\nbones"
+            ],
+            [
+              null,
+              "Calcium",
+              "Keeps\nbones\nand teeth\nhealthy",
+              "Milk/soya milk,\ncurd, cheese,\npaneer",
+              "Bone and\ntooth\ndecay",
+              "Weak bones,\ntooth decay"
+            ],
+            [
+              null,
+              "Iodine",
+              "Helps to\nperform\nphysical\nand mental\nactivities",
+              "Seaweed,\nwater chestnut\n(singhada),\niodised salt",
+              "Goitre",
+              "Swelling at\nthe front of\nthe neck"
+            ],
+            [
+              null,
+              "Iron",
+              "Important\ncomponent",
+              "Green leafy\nvegetables,",
+              "Anaemia",
+              "Weakness,\nshortness of"
+            ],
+            [
+              null,
+              "",
+              "of blood",
+              "beetroot,\npomegranate",
+              "",
+              "breath"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0010_vecfig01",
+          "file": "images/NCERT_fecu103_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Food\ncomponent\n(Vitamin/\n\nMineral)\n\nVitamin A\n\nVitamin B,\n\nVitamin C\n\nVitamin D\n\nCalcium\n\nIodine\n\nIron\n\nCuriosity | Textbook of Science | Grade 6\n\nFunctions\n\nKeeps eyes\nand skin\nhealthy\n\nKeeps heart\nhealthy and\nsupports\nbody to\nperform\nvarious\nfunctions\n\nHelps body\nto fight\ndiseases\n\nHelps body\nabsorb\ncalcium for\nbone and\nteeth\nhealth\n\nKeeps\nbones\nand teeth\nhealthy\n\nHelps to\nperform\nphysical\nand mental\nactivities\n\nImportant\ncomponent\nof blood\n\nSome sources\n\nPapaya, carrot,\nmango, milk\n\nLegumes, nuts,\nwhole grains,\nseeds, milk\nproducts\n\nAmla, guava,\ngreen chilli,\norange, lemon\n\nExposure to\nsunlight, milk,\nbutter, fish,\neggs\n\nMilk/soya milk,\ncurd, cheese,\npaneer\n\nSeaweed,\nwater chestnut\n(singhada),\niodised salt\n\nGreen leafy\nvegetables,\nbeetroot,\npomegranate\n\nReprint 2026-27\n\nDeficiency\ndisease/\ndisorder\n\nLoss of\nvision\n\nBeriberi\n\nScurvy\n\nRickets\n\nBone and\ntooth\ndecay\n\nGoitre\n\nAnaemia\n\nSymptoms\n\nPoor vision,\nloss of vision\nin darkness\n(night\nblindness),\nsometimes\ncomplete loss\nof vision\n\nSwelling,\ntingling or\nburning\nsensation\nin feet and\nhands,\ntrouble in\nbreathing\n\nBleeding\ngums, slow\nhealing of\nwounds\n\nSoft and bent\nbones\n\nWeak bones,\ntooth decay\n\nSwelling at\nthe front of\nthe neck\n\nWeakness,\nshortness of\nbreath\n\nFig. 3.5: Chart of vitamins and minerals, their functions, some sources,\nrelated deficiency disease(s)/disorder(s) and symptoms"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n45\nFrom Fig. 3.5, you have learnt that vitamins (A, B1, C \nand D) and minerals (calcium, iodine, and iron) are two \ngroups of food components that protect our body from \nvarious diseases. But, how can we overcome vitamin and \nmineral deficiency diseases or disorders? \n(a) Some sources of Vitamin A \nPapaya\nMango\nCarrot\n(b) Some sources of Vitamin B1 \nWheat\nRice\nPaneer\nFlax seeds\nPumpkin seeds\n(c) Some sources of Vitamin C\n(d) Some sources of Vitamin D \nOrange\nTomato\nAmla\nLemon\nGuava\nGreen\nchilli\nFish\nEdible \nMushroom\nEggs\nButter\nFig. 3.6: Some sources of different vitamins\nFood components that provide energy, support growth, \nhelp repair and protect our body from diseases, and maintain \nvarious bodily functions are called nutrients. The major \nnutrients in our food include carbohydrates, proteins, fats, \nvitamins and minerals.\nVitamins \nand \nminerals \nare \nalso \ncalled \nprotective \nnutrients. These nutrients protect our body from diseases and \nkeep us healthy. Your parents may have advised you to have \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1075,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0011_img01",
+          "file": "images/NCERT_fecu103_page0011_img01.png",
+          "bbox": [
+            71.39999389648438,
+            158.123046875,
+            241.5,
+            294.6112365722656
+          ],
+          "width_px": 355,
+          "height_px": 285,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0011_img02",
+          "file": "images/NCERT_fecu103_page0011_img02.png",
+          "bbox": [
+            271.48681640625,
+            160.23953247070312,
+            498.5015563964844,
+            285.756591796875
+          ],
+          "width_px": 473,
+          "height_px": 262,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0011_img03",
+          "file": "images/NCERT_fecu103_page0011_img03.png",
+          "bbox": [
+            89.61800384521484,
+            363.130859375,
+            260.3203430175781,
+            507.5634765625
+          ],
+          "width_px": 356,
+          "height_px": 301,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0011_img04",
+          "file": "images/NCERT_fecu103_page0011_img04.png",
+          "bbox": [
+            283.2747802734375,
+            352.36553955078125,
+            509.9967041015625,
+            492.1135559082031
+          ],
+          "width_px": 473,
+          "height_px": 292,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0011_img05",
+          "file": "images/NCERT_fecu103_page0011_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0011_img06",
+          "file": "images/NCERT_fecu103_page0011_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0011_vecfig01",
+          "file": "images/NCERT_fecu103_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "From Fig. 3.5, you have learnt that vitamins (A, B,, C\nand D) and minerals (calcium, iodine, and iron) are two\ngroups of food components that protect our body from\nvarious diseases. But, how can we overcome vitamin and\nmineral deficiency diseases or disorders?\n\nRice\nPapaya\n\nFlax seeds\n\nMango Carrot Paneer pumpkin seeds\n\n(a) Some sources of Vitamin A (b) Some sources of Vitamin B,\n\nOrange Guava Butter\n\nGreen\n\nTomato chilli\n\nAmla Lemon\n\n(c) Some sources of Vitamin C (d) Some sources of Vitamin D\n\nFig. 3.6: Some sources of different vitamins\n\nFood components that provide energy, support growth,\nhelp repair and protect our body from diseases, and maintain\nvarious bodily functions are called nutrients. The major\nnutrients in our food include carbohydrates, proteins, fats,\nvitamins and minerals.\n\nVitamins and minerals are also called protective\nnutrients. These nutrients protect our body from diseases and\nkeep us healthy. Your parents may have advised you to have\n\nReprint 2026-27\n\nEdible\nMushroom\n\nMindful Eating: A Path\nto a Healthy Body"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Curiosity | Textbook of Science | Grade 6\n46\nmilk, green vegetables, fruits and wholegrains regularly. \nThese food items are some sources of vitamins (Fig. 3.6) and \nminerals. Although vitamins and minerals are required in \nsmall amounts, they are essential to keep our body healthy. \nWhat differences do you observe in raw and cooked \nvegetables? Have you ever noticed that vegetables \nsometimes lose their bright colour, or become softer and \nless crisp when cooked? Some nutrients like vitamin C and \nothers are lost during cooking due to high heat. Would it \nnot be wise to include fruits and uncooked vegetables into \nour diet? Washing cut or peeled vegetables and fruits may \nalso result in the loss of some vitamins. However, it is highly \nrecommended that all fruits and vegetables be thoroughly \nwashed before consumption. \nFruits and vegetables are rich in dietary fibres. Let us see \nhow dietary fibres are beneficial for us.\nIn addition to the essential nutrients, our body needs dietary \nfibres and water. Dietary fibres, also known as roughage, do \nnot provide any nutrients to our body. However, they are an \nessential component of our food. They help our body get rid of \nundigested food and ensure smooth passage of stools. Roughage \nin our food is provided mainly by suitable plant products. \nDo we obtain all \nnutrients from \nplants and animals?\nNo, Medu. Nutrients like \nsalt can be obtained from \nseawater or from rocks. \nAlso, Vitamin D can be \nnaturally produced by our \nbody upon exposure to \nsunlight.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1543,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0012_img01",
+          "file": "images/NCERT_fecu103_page0012_img01.png",
+          "bbox": [
+            434.6650085449219,
+            484.5,
+            521.4000244140625,
+            574.5
+          ],
+          "width_px": 181,
+          "height_px": 188,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0012_img02",
+          "file": "images/NCERT_fecu103_page0012_img02.png",
+          "bbox": [
+            93.72002410888672,
+            332.7388610839844,
+            181.10073852539062,
+            485.1802062988281
+          ],
+          "width_px": 184,
+          "height_px": 321,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0012_img03",
+          "file": "images/NCERT_fecu103_page0012_img03.png",
+          "bbox": [
+            435.51837158203125,
+            330.9827880859375,
+            527.6883544921875,
+            455.60693359375
+          ],
+          "width_px": 284,
+          "height_px": 384,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0012_img04",
+          "file": "images/NCERT_fecu103_page0012_img04.png",
+          "bbox": [
+            321.3999938964844,
+            431.38348388671875,
+            454.04412841796875,
+            548.4000244140625
+          ],
+          "width_px": 348,
+          "height_px": 307,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0012_img05",
+          "file": "images/NCERT_fecu103_page0012_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0012_img06",
+          "file": "images/NCERT_fecu103_page0012_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 13,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n47\nGreen \nleafy \nvegetables, \nfresh fruits, wholegrains, \npulses and nuts are good \nsources of roughage. \nEating food that is \nlocally grown and plant \nbased, to the extent possible, is \nnot only healthy for the body but is also good for \nour environment and our planet. \nWater is also an essential \npart of our diet. It helps the \nbody absorb nutrients from \nfood. It removes waste from \nthe \nbody \nthrough \nsweat \nand urine. We should drink \nsufficient water regularly to \nkeep ourselves healthy.\nMy grandma has difficulty in \npassing stool. Now I understand \nwhy the doctor advised her to \neat food that is high in fibre.\nColuthur Gopalan (1918–2019) initiated \nnutrition research in India. He analysed \nmore than 500 Indian foods for their \nnutritional value and recommended an \nappropriate diet in the Indian context. \nHe led surveys on the nutritional status \nof the Indian population, identifying \nwidespread deficiencies in protein, energy, and other food \ncomponents. This led to the implementation of the Mid Day \nMeal Programme in 2002, now a ‘PM POSHAN’ initiative, \nto provide balanced food in the government-run and \ngovernment-aided schools of our country. This scheme \nhas played a role in improving the health and nutrition of \nmillions of children nationwide.\nKnow a scientist\nWhat are the \nfood sources that \nprovide water to \nour body? List a few \nof them.\n?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1437,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0013_img01",
+          "file": "images/NCERT_fecu103_page0013_img01.png",
+          "bbox": [
+            416.8949279785156,
+            89.7405776977539,
+            485.1005554199219,
+            206.93365478515625
+          ],
+          "width_px": 181,
+          "height_px": 311,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0013_img02",
+          "file": "images/NCERT_fecu103_page0013_img02.png",
+          "bbox": [
+            61.61211395263672,
+            382.2640380859375,
+            193.38790893554688,
+            424.06402587890625
+          ],
+          "width_px": 275,
+          "height_px": 88,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0013_img03",
+          "file": "images/NCERT_fecu103_page0013_img03.png",
+          "bbox": [
+            339.2821350097656,
+            436.0415344238281,
+            428.51055908203125,
+            552.2019653320312
+          ],
+          "width_px": 186,
+          "height_px": 242,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0013_img04",
+          "file": "images/NCERT_fecu103_page0013_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0013_img05",
+          "file": "images/NCERT_fecu103_page0013_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0013_table01",
+          "bbox": [
+            71.17649841308594,
+            374.9000244140625,
+            438.1000061035156,
+            703.75
+          ],
+          "rows": [
+            [
+              "K",
+              null
+            ],
+            [
+              "",
+              "Coluthur Gopalan (1918–2019) initiated\nnutrition research in India. He analysed\nmore than 500 Indian foods for their\nnutritional value and recommended an\nappropriate diet in the Indian context.\nHe led surveys on the nutritional status\nof the Indian population, identifying\nwidespread deficiencies in protein, energy, and other food\ncomponents. This led to the implementation of the Mid Day\nMeal Programme in 2002, now a ‘PM POSHAN’ initiative,\nto provide balanced food in the government-run and\ngovernment-aided schools of our country. This scheme\nhas played a role in improving the health and nutrition of"
+            ],
+            [
+              "",
+              "millions of children nationwide."
+            ]
+          ]
+        }
+      ],
+      "vector_figures": []
+    },
+    {
+      "page_number": 14,
+      "text": "Curiosity | Textbook of Science | Grade 6\n48\n3.3 \t How to Test Different Components  \nof Food? \nLet us find out which nutrients are present in various \nfood items. \nSome nutrients like starch (a type of carbohydrate), fat \nand protein can be detected using fairly simple tests, while \nothers can be detected only in a well-equipped laboratory. \nLet us explore how we can detect the presence of starch, \nfat and protein in some food items.\n3.3.1 Test for starch\nActivity 3.5: Let us investigate\n\n\nTake a small quantity of the food items such as a slice of \npotato, cucumber, bread, some boiled rice, boiled gram, \ncrushed peanuts, oil, butter and crushed coconut. You \ncan take other food items too for testing. \nFig. 3.7: Testing for the presence of starch in various food items\n\n\nPlace a small piece of each item on a separate dish.\n\n\nWith the help of a dropper, put 2–3 drops of diluted \niodine solution on each food item (Fig. 3.7). \n\n\nObserve if there are any changes in the colour of the \nfood items. Have they turned blue-black? Record your \nobservations in Table 3.3.\nA blue-black colour indicates the presence of starch.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1153,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0014_img01",
+          "file": "images/NCERT_fecu103_page0014_img01.png",
+          "bbox": [
+            209.8563690185547,
+            370.8846435546875,
+            460.9440002441406,
+            536.4658203125
+          ],
+          "width_px": 524,
+          "height_px": 345,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0014_img02",
+          "file": "images/NCERT_fecu103_page0014_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0014_img03",
+          "file": "images/NCERT_fecu103_page0014_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0014_vecfig01",
+          "file": "images/NCERT_fecu103_page0014_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "es 3.3 How to Test Different Components\nof Food?\n\nLet us find out which nutrients are present in various\nfood items.\n\nSome nutrients like starch (a type of carbohydrate), fat\nand protein can be detected using fairly simple tests, while\nothers can be detected only in a well-equipped laboratory.\nLet us explore how we can detect the presence of starch,\nfat and protein in some food items.\n\nPs 3 3.1 Test for starch\n\nActivity 3.5: Letusinvestigate\n\n@ Take asmall quantity of the food items such asa slice of\npotato, cucumber, bread, some boiled rice, boiled gram,\ncrushed peanuts, oil, butter and crushed coconut. You\ncan take other food items too for testing.\n\nFig. 3.7: Testing for the presence of starch in various food items\n\n@ Place asmall piece of each item on a separate dish.\n@ With the help of a dropper, put 2-3 drops of diluted\niodine solution on each food item (Fig. 3.7).\n\n@ Observe if there are any changes in the colour of the\nfood items. Have they turned blue-black? Record your\nobservations in Table 3.3.\n\nCuriosity | Textbook of Science | Grade 6\n\nA blue-black colour indicates the presence of starch.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n49\n3.3.2 Test for fats \nActivity 3.6: Let us investigate \n\n\nTake a small part of the food items that you tested for \nthe presence of starch in Activity 3.5. \n\n\nPlace each food item on a separate piece of paper. \n\n\nWrap the paper around the food and press it. Be careful \nnot to tear the paper. \n\n\nIf a food item contains a little water, allow the paper \nto dry. \nDoes the paper develop an oily patch? What do you think \nis the reason for this patch? If oil or butter is present in the \nfood item, it leaves an oily patch on the paper. Now, hold \nthe paper against light. Can you see the light faintly shining \nthrough this patch? An oily patch on the paper shows that \nthe food item contains fat. Which of these items contain fats?\nRecord your observations in Table 3.3. \n3.3.3 Test for proteins\nActivity 3.7: Let us investigate\nThis activity may be demonstrated by the teacher.\n\n\nTake the food items tested in previous activities. \n\n\nMake a paste or powder of the food item using pestle \nand mortar (Fig. 3.8). \n\n\nPut about half teaspoon of each food item in a separate \nclean test tube. \nPrecautions\n•\t\nThese chemicals are harmful and need to be handled with \ncare. Do not touch any of these chemicals unless asked  \nto do so. \n•\t\nIf any chemical gets spilled on your body, immediately wash \nthe affected area with water.\n•\t\nDo not put any of these chemicals into your mouth, or try to \nsmell them. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1474,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0015_img01",
+          "file": "images/NCERT_fecu103_page0015_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0015_img02",
+          "file": "images/NCERT_fecu103_page0015_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0015_vecfig01",
+          "file": "images/NCERT_fecu103_page0015_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "me 3.3.2 Test for fats\nActivity 3.6: Let us investiggte «|\n@ Take a small part of the food items that you tested for\nthe presence of starch in Activity 3.5.\n@ Place each food item on a separate piece of paper.\n\n@ Wrap the paper around the food and press it. Be careful\nnot to tear the paper.\n\n¢ Ifa food item contains a little water, allow the paper\nto dry.\n\nDoes the paper develop an oily patch? What do you think\nis the reason for this patch? If oil or butter is present in the\nfood item, it leaves an oily patch on the paper. Now, hold\nthe paper against light. Can you see the light faintly shining\nthrough this patch? An oily patch on the paper shows that\nthe food item contains fat. Which of these items contain fats?\n\nRecord your observations in Table 3.3.\n\n_e 33.3 Test for proteins\nActivity 3.7: Let us investigate © lune\n\nThis activity may be demonstrated by the teacher.\n@ Take the food items tested in previous activities.\n\n@ Make a paste or powder of the food item using pestle\nand mortar (Fig. 3.8).\n\n@ Put about half teaspoon of each food item in a separate\nclean test tube.\n\nPrecautions\n\n¢ These chemicals are harmful and need to be handled with\ncare. Do not touch any of these chemicals unless asked\nto do so.\n\n¢ Ifany chemical gets spilled on your body, immediately wash\nthe affected area with water.\n\n¢ Do not put any of these chemicals into your mouth, or try to\nsmell them.\n\nMindful Eating: A Path\nto a Healthy Body\n\n©\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Curiosity | Textbook of Science | Grade 6\n50\n\n\nAdd 2–3 teaspoons of water to each test tube and shake \nthem well. \n\n\nAdd two drops of copper sulfate solution to each test \ntube using a dropper. \n\n\nNow, take another dropper and add 10 drops of caustic \nsoda solution to each tube (Fig. 3.8). \n\n\nShake well and leave the test tubes undisturbed for a \nfew minutes.\nFig. 3.8: Testing for the presence of protein in various food items\nBread\nPestle and mortar\nRice\nPeanuts\nPeas\nSoya bean\nWhat did you observe? Did the content of some test tubes \nturn violet? This violet colour indicates the presence \nof proteins in the food item. Write your observations in \nTable 3.3.\nWhat conclusions can you draw from Table 3.3? Which \nfood items show the presence of more than one nutrient? \nWhich food items show the presence of both proteins and \nfats? Peanuts show the presence of both proteins and fats. \nThis indicates that any food which we eat may contain \nmultiple nutrients. Is there a food item that lacks any of \nthese nutrients? Which of these foods do you consume \ndaily? Try to find out other foods that are good sources of \nstarch, fats, and proteins.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1174,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0016_img01",
+          "file": "images/NCERT_fecu103_page0016_img01.png",
+          "bbox": [
+            169.2849578857422,
+            213.26095581054688,
+            503.47998046875,
+            429.58782958984375
+          ],
+          "width_px": 697,
+          "height_px": 451,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0016_img02",
+          "file": "images/NCERT_fecu103_page0016_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0016_img03",
+          "file": "images/NCERT_fecu103_page0016_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0016_vecfig01",
+          "file": "images/NCERT_fecu103_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n@ Add 2-3 teaspoons of water to each test tube and shake\nthem well.\n\n@ Add two drops of copper sulfate solution to each test\ntube using a dropper.\n\n@ Now, take another dropper and add 10 drops of caustic\nsoda solution to each tube (Fig. 3.8).\n\n@ Shake well and leave the test tubes undisturbed for a\nfew minutes.\n\nSoya bean\n\nPeas\n\nPestle and mortar Bread Rice Peanuts\n\nFig. 3.8: Testing for the presence of protein in various food items\n\nWhat did you observe? Did the content of some test tubes\nturn violet? This violet colour indicates the presence\nof proteins in the food item. Write your observations in\nTable 3.3.\n\nWhat conclusions can you draw from Table 3.3? Which\nfood items show the presence of more than one nutrient?\nWhich food items show the presence of both proteins and\nfats? Peanuts show the presence of both proteins and fats.\nThis indicates that any food which we eat may contain\nmultiple nutrients. Is there a food item that lacks any of\nthese nutrients? Which of these foods do you consume\ndaily? Try to find out other foods that are good sources of\nstarch, fats, and proteins.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n51\n3.4\t Balanced Diet\nAre nutritional requirements the same for everyone? Do \nyou and your grandparents need the same type or the same \namount of nutrients? Requirements of the type and amount \nof nutrients in a diet may vary according to age, gender, \nphysical activity, health status, lifestyle, and so on.\nActivity 3.8: Let us find out\nYou have listed food consumed by you during the week \nin Activity 3.1. Check whether your food contains all the \nnutrients and other essential components necessary for \ngrowth and development. If not, check which nutrients or \nother food components need to be added. \nA diet that has all essential nutrients, roughage, and water \nin the right amount for proper growth and development of \nthe body is known as a balanced diet. What changes would \nyou make in your diet to make it a balanced diet?\nTable 3.3: Exploring nutrients present in various food items\nName of \nthe food \nitem\nColour of the \nfood item for \nstarch test\nOily patch for fat \ntest \nColour of the food item  \nfor protein test \nStarch\npresent \n(Yes/\nNo)\nFat \npresent\n(Yes/\nNo)\nProtein \npresent \n(Yes/ \nNo)\nBefore \niodine \ntest\nAfter \niodine \ntest\nPredic- \ntion  \n(Yes/No)\nObserva-\ntion \n(Yes/No)\nBefore \nprotein  \ntest\nAfter \nprotein  \ntest\nPotato\nCucumber\nBoiled rice\nBoiled \ngram\nPeanuts\nBread/\nChapati\nButter\nCoconut\nAny other\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1392,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0017_img01",
+          "file": "images/NCERT_fecu103_page0017_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0017_img02",
+          "file": "images/NCERT_fecu103_page0017_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0017_table01",
+          "bbox": [
+            55.192176818847656,
+            156.71771240234375,
+            526.3539283389136,
+            658.029541015625
+          ],
+          "rows": [
+            [
+              null,
+              "",
+              "Before\niodine\ntest",
+              "After\niodine\ntest",
+              "Predic-\ntion\n(Yes/No)",
+              "Observa-\ntion\n(Yes/No)",
+              "Before\nprotein\ntest",
+              "After\nprotein\ntest",
+              "",
+              "",
+              "",
+              null
+            ],
+            [
+              "Potato\nCucumber\nBoiled rice\nBoiled\ngram\nPeanuts\nBread/\nChapati\nButter\nCoconut\nAny other\n3.4 Balanced Diet\nAre nutritional requirements the same for everyone? Do\nyou and your grandparents need the same type or the same\namount of nutrients? Requirements of the type and amount\nof nutrients in a diet may vary according to age, gender,\nphysical activity, health status, lifestyle, and so on.\nActivity 3.8: Let us find out\nYou have listed food consumed by you during the week\nin Activity 3.1. Check whether your food contains all the\nnutrients and other essential components necessary for\ngrowth and development. If not, check which nutrients or\nother food components need to be added.\nA diet that has all essential nutrients, roughage, and water\nin the right amount for proper growth and development of\nthe body is known as a balanced diet. What changes would",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              null
+            ],
+            [
+              null,
+              "Potato",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Cucumber",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Boiled rice",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Boiled\ngram",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Peanuts",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Bread/\nChapati",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Butter",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Coconut",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              null,
+              "Any other",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": []
+    },
+    {
+      "page_number": 18,
+      "text": "Curiosity | Textbook of Science | Grade 6\n52\nNutritional Information  \n(per 100 g)\nEnergy\n536 kcal\n(kilocalories)\nFats\n35.0 g\nCarbohydrates\n53.0 g\nProteins\n7.0 g\nDietary Fibre\n4.8 g\nNutritional Information  \n(per 100 g)\nEnergy\n355 kcal\n(kilocalories)\nFats\n6.26 g\nCarbohydrates\n58.58 g\nProteins\n18.64 g\nDietary Fibre\n16.8 g\nActivity 3.9: Let us compare \nRead the nutritional information given below for a packet \nof potato wafers and a packet of roasted chana shown here.\n(a) Potato wafers\n(b) Roasted chana\nBased on the nutritional information on the food packets \ngiven above, which food would you choose? Why? \nSome foods have high calories due to high sugar and \nfat content. Moreover, they contain very low amounts of \nproteins, minerals, vitamins, and dietary fibres. These foods \nare called junk foods. These foods include potato wafers, \ncandy bars and carbonated drinks. Consuming these foods \nfrequently is not good as these are not healthy for our body. \nThey make a person obese. Such a person may suffer from \nseveral health problems. You should always remember \nDr Poshita’s statement that ʻHealth is the Ultimate Wealth.ʼ \nWe should take care of our body to stay healthy. Eating a \nbalanced diet and avoiding junk food contribute towards \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1269,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0018_img01",
+          "file": "images/NCERT_fecu103_page0018_img01.png",
+          "bbox": [
+            179.4000244140625,
+            124.39077758789062,
+            295.7097473144531,
+            261.19732666015625
+          ],
+          "width_px": 243,
+          "height_px": 285,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0018_img02",
+          "file": "images/NCERT_fecu103_page0018_img02.png",
+          "bbox": [
+            379.5375061035156,
+            126.38504028320312,
+            494.70703125,
+            260.19195556640625
+          ],
+          "width_px": 240,
+          "height_px": 279,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0018_img03",
+          "file": "images/NCERT_fecu103_page0018_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0018_img04",
+          "file": "images/NCERT_fecu103_page0018_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0018_table01",
+          "bbox": [
+            141.093994140625,
+            291.61700439453125,
+            330.8699696858724,
+            465.85850524902344
+          ],
+          "rows": [
+            [
+              "Nutritional Information\n(per 100 g)",
+              null
+            ],
+            [
+              "Energy",
+              "536 kcal\n(kilocalories)"
+            ],
+            [
+              "Fats",
+              "35.0 g"
+            ],
+            [
+              "Carbohydrates",
+              "53.0 g"
+            ],
+            [
+              "Proteins",
+              "7.0 g"
+            ],
+            [
+              "Dietary Fibre",
+              "4.8 g"
+            ]
+          ]
+        },
+        {
+          "table_id": "page0018_table02",
+          "bbox": [
+            340.71697998046875,
+            291.61700439453125,
+            533.527842203776,
+            465.85850524902344
+          ],
+          "rows": [
+            [
+              "Nutritional Information\n(per 100 g)",
+              null,
+              ""
+            ],
+            [
+              "Energy",
+              "355 kcal\n(kilocalories)",
+              ""
+            ],
+            [
+              "Fats",
+              "6.26 g",
+              ""
+            ],
+            [
+              "Carbohydrates",
+              "58.58 g",
+              ""
+            ],
+            [
+              "Proteins",
+              "18.64 g",
+              ""
+            ],
+            [
+              "Dietary Fibre",
+              "16.8 g",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0018_vecfig01",
+          "file": "images/NCERT_fecu103_page0018_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nActivity 3.9: Let us compare\n\nRead the nutritional information given below for a packet\nof potato wafers and a packet of roasted chana shown here.\n\n; oe\n(a) Potato wafers (b) Roasted chana\nNutritional Information Nutritional Information\n(per 100 g) (per 100 g)\n536 kcal 355 kcal\nEnergy ; . Energy\n(kilocalories) (kilocalories)\nFats 35.0 g Fats 6.26 g\nCarbohydrates 53.0 g Carbohydrates 58.58 g\nProteins 7.0 g Proteins 18.64 g\nDietary Fibre 4.8 ¢g Dietary Fibre 16.8 g\n\nBased on the nutritional information on the food packets\ngiven above, which food would you choose? Why?\n\nSome foods have high calories due to high sugar and\nfat content. Moreover, they contain very low amounts of\nproteins, minerals, vitamins, and dietary fibres. These foods\nare called junk foods. These foods include potato wafers,\ncandy bars and carbonated drinks. Consuming these foods\nfrequently is not good as these are not healthy for our body.\nThey make a person obese. Such a person may suffer from\nseveral health problems. You should always remember\nDr Poshita’s statement that ‘Health is the Ultimate Wealth.’\nWe should take care of our body to stay healthy. Eating a\nbalanced diet and avoiding junk food contribute towards\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 19,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n53\na healthy body. Good health is essential for leading a \nhappy life. \nWhich of the two foods you studied in Activity 3.9 could be \nlabelled as junk food?\nFig. 3.9: Sanwa (Barnyard millet) \n3.5\t Millets: Nutrition-rich Cereals\nYou may have heard \nof jowar, bajra, ragi, \nand sanwa (Fig. 3.9). \nThese are native crops \nof \nIndia \n(Fig. \n3.9). \nThese can be easily \ncultivated in different \nclimatic conditions. \nThese highly nutritious \ngrains are also called \nmillets. Have you ever \nhad food items made \nfrom these millets? \nMillets are small-sized grains and have been an integral \npart of the Indian diet for centuries. They have regained \npopularity due to their numerous health benefits. They are \ngood sources of vitamins, minerals like iron and calcium, \nand dietary fibres as well. That is the reason they are \nalso called nutri-cereals. They contribute significantly to \na balanced diet required for the normal functioning of \nour body. \nPackaged food items must have information about \nthe nutrients on their cover. The information should \nlist the amount of each nutrient. Sometimes, more \nnutrients are added to the food during processing \n(fortification) to improve its nutritional quality. \nIodised salt and some baby foods are examples \nof fortified foods. The Food Safety and Standard \nAuthority of India (FSSAI) is a government agency \nthat regulates food quality in India.  \nMore to \nknow!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1467,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0019_img01",
+          "file": "images/NCERT_fecu103_page0019_img01.png",
+          "bbox": [
+            48.83734130859375,
+            140.3945770263672,
+            458.4400634765625,
+            336.44586181640625
+          ],
+          "width_px": 854,
+          "height_px": 409,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0019_img02",
+          "file": "images/NCERT_fecu103_page0019_img02.png",
+          "bbox": [
+            385.2496643066406,
+            168.40003967285156,
+            435.4100341796875,
+            198.4002685546875
+          ],
+          "width_px": 105,
+          "height_px": 63,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "Issai"
+        },
+        {
+          "image_id": "NCERT_fecu103_page0019_img03",
+          "file": "images/NCERT_fecu103_page0019_img03.png",
+          "bbox": [
+            229.34796142578125,
+            372.02166748046875,
+            514.9735107421875,
+            554.55810546875
+          ],
+          "width_px": 595,
+          "height_px": 381,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0019_img04",
+          "file": "images/NCERT_fecu103_page0019_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0019_img05",
+          "file": "images/NCERT_fecu103_page0019_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0019_vecfig01",
+          "file": "images/NCERT_fecu103_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "a healthy body. Good health is essential for leading a\n\nhappy life.\n\nWhich of the two foods you studied in Activity 3.9 could be\n\nlabelled as junk food?\n\nPackaged food items must have information about\nthe nutrients on their cover. The information should | SSAal\nlist the amount of each nutrient. Sometimes, more\nnutrients are added to the food during processing\n\n(fortification) to improve its nutritional quality.\nIodised salt and some baby foods are examples\nof fortified foods. The Food Safety and Standard\nAuthority of India (FSSAI) is a government agency\nthat regulates food quality in India.\n\nMore to\nknow!\n\n3.5 Millets: Nutrition-rich Cereals\n\nYou may have heard\nof jowar, bajra, ragi,\nand sanwa (Fig. 3.9).\nThese are native crops\nof India (Fig. 3.9).\nThese can be easily\ncultivated in different\nclimatic conditions.\nThese highly nutritious\ngrains are also called\nmillets. Have you ever\nhad food items made\nfrom these millets?\n\nFig. 3.9: Sanwa (Barnyard millet)\n\nMillets are small-sized grains and have been an integral\npart of the Indian diet for centuries. They have regained\npopularity due to their numerous health benefits. They are\ngood sources of vitamins, minerals like iron and calcium,\nand dietary fibres as well. That is the reason they are\nalso called nutri-cereals. They contribute significantly to\na balanced diet required for the normal functioning of\n\nour body.\n\nReprint 2026-27\n\nMindful Eating: A Path\nto a Healthy Body"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Curiosity | Textbook of Science | Grade 6\n54\n3.6\t Food Miles: From Farm to Our Plate\nHow does food reach from a farm to our plate? What are the \nsteps involved in this process? Who are the people involved \nin this process? Do you know how much time and effort is \nrequired to get the wheat flour once seed grains germinate \nin the farm? Let us look at Fig. 3.10 to understand the entire \nprocess of making the chapati that we eat. \nThe entire distance travelled by a bag of wheat or any \nother food item, from the producer to the consumer, is \nknown as its food miles. Reducing food miles is important \nbecause it helps to cut down the cost and pollution during \nits transport; it helps support local farmers; and it also \nkeeps our food fresh and healthy. \nFig. 3.10: From farm to plate\nFarmer growing wheat \nGrinding of grains and packing\nTransport to retail shop\nSTORY OF CHAPATI: \nFROM FARM TO \nPLATE\nFood on our plate\nThreshing and \nwinnowing of \ngrains\nStorage of \ngrains\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 994,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0020_img01",
+          "file": "images/NCERT_fecu103_page0020_img01.png",
+          "bbox": [
+            257.8354187011719,
+            223.07305908203125,
+            322.460693359375,
+            279.07305908203125
+          ],
+          "width_px": 135,
+          "height_px": 117,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0020_img02",
+          "file": "images/NCERT_fecu103_page0020_img02.png",
+          "bbox": [
+            323.7909851074219,
+            223.07302856445312,
+            388.416259765625,
+            280.0953369140625
+          ],
+          "width_px": 135,
+          "height_px": 119,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0020_img03",
+          "file": "images/NCERT_fecu103_page0020_img03.png",
+          "bbox": [
+            337.1946716308594,
+            463.82305908203125,
+            389.1257019042969,
+            517.060546875
+          ],
+          "width_px": 109,
+          "height_px": 111,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0020_img04",
+          "file": "images/NCERT_fecu103_page0020_img04.png",
+          "bbox": [
+            279.0315856933594,
+            465.8230285644531,
+            337.35772705078125,
+            514.9230346679688
+          ],
+          "width_px": 122,
+          "height_px": 103,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0020_img05",
+          "file": "images/NCERT_fecu103_page0020_img05.png",
+          "bbox": [
+            170.74227905273438,
+            392.2433166503906,
+            226.6208038330078,
+            459.5489501953125
+          ],
+          "width_px": 117,
+          "height_px": 141,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0020_img06",
+          "file": "images/NCERT_fecu103_page0020_img06.png",
+          "bbox": [
+            162.22665405273438,
+            272.8523254394531,
+            226.37351989746094,
+            321.24163818359375
+          ],
+          "width_px": 134,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0020_img07",
+          "file": "images/NCERT_fecu103_page0020_img07.png",
+          "bbox": [
+            449.43768310546875,
+            265.5476379394531,
+            517.5250244140625,
+            325.6119689941406
+          ],
+          "width_px": 142,
+          "height_px": 126,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0020_img08",
+          "file": "images/NCERT_fecu103_page0020_img08.png",
+          "bbox": [
+            447.7950134277344,
+            404.54766845703125,
+            520.125732421875,
+            448.73468017578125
+          ],
+          "width_px": 151,
+          "height_px": 93,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0020_img09",
+          "file": "images/NCERT_fecu103_page0020_img09.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0020_img10",
+          "file": "images/NCERT_fecu103_page0020_img10.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0020_vecfig01",
+          "file": "images/NCERT_fecu103_page0020_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "es 3 6 FOO Miles: From Farm to Our Plate\n\nCuriosity | Textbook of Science | Grade 6\n\nHow does food reach from a farm to our plate? What are the\nsteps involved in this process? Who are the people involved\nin this process? Do you know how much time and effort is\nrequired to get the wheat flour once seed grains germinate\nin the farm? Let us look at Fig. 3.10 to understand the entire\nprocess of making the chapati that we eat.\n\nFood on our plate Threshing and\nwinnowing of\ngrains\n\nFROM FARM TO\n\nSTORY OF CHAPATIT:\nPLATE\n\nStorage of\n=< “vs\n\nFig. 3.10: From farm to plate\n\nGrindin\n\nf grains and packing\n\nThe entire distance travelled by a bag of wheat or any\nother food item, from the producer to the consumer, is\nknown as its food miles. Reducing food miles is important\nbecause it helps to cut down the cost and pollution during\nits transport; it helps support local farmers; and it also\nkeeps our food fresh and healthy.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n55\n\n\nPeople across India eat diverse types of food, containing \nvarious food components. \n\n\nChoice of food may vary according to the cultivation of food \ncrops in a region, taste preferences, culture and traditions, \nand so on.\nSummary\nMany people waste food, leaving it \nunconsumed on their plates. One must \nremember the time and effort put by our \nfarmers and other community members in \ngetting the food from the farm to our plate. \nWe must take only as much food as we can \nconsume. It would reduce food wastage. Try \nto find the timeline for the various processes \ninvolved in getting the food from farm to plate (Fig. 3.10).\nEat healthy, share, and respect food. Support local \nproducers!\nKeywords\nHow would \neating local \nfood help \nreduce food \nmiles?\n?\nAnalyse\nSurvey\nInterpret\nPrediction\nObserve\nInvestigate\nInfer\nCompare\nCarbohydrate\nCulinary practices \nDeficiency diseases\nScurvy \nFats\nRickets\nFood components\nFood miles\nMinerals\nNutrients\nMillets\nProteins\nRoughage\nVitamins\nIodized salt\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1063,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0021_img01",
+          "file": "images/NCERT_fecu103_page0021_img01.png",
+          "bbox": [
+            152.94003295898438,
+            554.0184326171875,
+            357.0600280761719,
+            602.303466796875
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0021_img02",
+          "file": "images/NCERT_fecu103_page0021_img02.png",
+          "bbox": [
+            169.71670532226562,
+            260.2581787109375,
+            373.8367004394531,
+            308.5431823730469
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0021_img03",
+          "file": "images/NCERT_fecu103_page0021_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0021_img04",
+          "file": "images/NCERT_fecu103_page0021_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 22,
+      "text": "Curiosity | Textbook of Science | Grade 6\n56\nLet us enhance our learning \n\n\nCulinary practices have changed over time. There is a \nsignificant difference between traditional and modern \nmethods of cooking food.\n\n\nFood provides us energy, support growth, repairs our bodies \nand protects us from diseases. \n\n\nThe major nutrients in our food are carbohydrates, fats, \nproteins, vitamins, and minerals. In addition, food also \ncontains dietary fibres and water.\n\n\nCarbohydrates and fats are primary energy sources, while \nproteins are body-building nutrients.\n\n\nVitamins and minerals strengthen our body, protect us from \ninfections, and keep us healthy.\n\n\nA balanced diet provides all the essential nutrients in the \nright quantities, along with adequate roughage and water.\n\n\nDeficiency of one or more nutrients in our diet for a long \ntime can lead to deficiency diseases and disorders.\n\n\nJunk foods are unhealthy as they contain high levels of sugar \nand fats but little protein, minerals, vitamins, and dietary \nfibres.\n\n\nMillets are known as nutri-cereals as they provide most of \nthe nutrients required for the normal functioning of our \nbodies. They can be easily cultivated in different climatic \nconditions.\n\n\nEating food that is locally grown and plant-based, to the \nextent possible, is not only healthy for our bodies but is also \ngood for our environment and our planet.\n\n\nThe distance travelled by a food item, from the place of its \nproduction to the consumer, is called food miles. We must \naim to minimise food miles.\n\n\nWe should never waste food and only take as much as we \ncan consume.\n1.\t\nPick the odd one out and give reasons: \n  (i)\t \t Jowar, Bajra, Ragi, Chana\n (ii)\t \t Kidney beans, Green gram, Soya bean, Rice\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1774,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0022_img01",
+          "file": "images/NCERT_fecu103_page0022_img01.png",
+          "bbox": [
+            166.99688720703125,
+            579.3858642578125,
+            513.80322265625,
+            651.41357421875
+          ],
+          "width_px": 723,
+          "height_px": 150,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0022_img02",
+          "file": "images/NCERT_fecu103_page0022_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0022_img03",
+          "file": "images/NCERT_fecu103_page0022_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0022_vecfig01",
+          "file": "images/NCERT_fecu103_page0022_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nCulinary practices have changed over time. There is a\nsignificant difference between traditional and modern\nmethods of cooking food.\n\nFood provides us energy, support growth, repairs our bodies\nand protects us from diseases.\n\nThe major nutrients in our food are carbohydrates, fats,\nproteins, vitamins, and minerals. In addition, food also\ncontains dietary fibres and water.\n\nCarbohydrates and fats are primary energy sources, while\nproteins are body-building nutrients.\n\nVitamins and minerals strengthen our body, protect us from\ninfections, and keep us healthy.\n\nA balanced diet provides all the essential nutrients in the\nright quantities, along with adequate roughage and water.\n\nDeficiency of one or more nutrients in our diet for a long\ntime can lead to deficiency diseases and disorders.\n\nJunk foods are unhealthy as they contain high levels of sugar\nand fats but little protein, minerals, vitamins, and dietary\nfibres.\n\nMillets are known as nutri-cereals as they provide most of\nthe nutrients required for the normal functioning of our\nbodies. They can be easily cultivated in different climatic\nconditions.\n\nEating food that is locally grown and plant-based, to the\nextent possible, is not only healthy for our bodies but is also\ngood for our environment and our planet.\n\nThe distance travelled by a food item, from the place of its\nproduction to the consumer, is called food miles. We must\naim to minimise food miles.\n\nWe should never waste food and only take as much as we\ncan consume.\n\nle /\n\nLet us enhance our learning\n\nPick the odd one out and give reasons:\n(i) Jowar, Bajra, Ragi, Chana\n(ii) Kidney beans, Green gram, Soya bean, Rice\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n57\n2.\t\nDiscuss traditional versus modern culinary practices in \nIndia. \n3.\t\nA teacher says that good food may act as medicine. Ravi is \ncurious about this statement and has some questions for his \nteacher. List at least two questions that he can ask.\n4.\t\nNot all delicious foods are necessarily healthy, while not all \nnutritious foods are always enjoyable. Share your thoughts \nalong with a few examples. \n5.\t\nMedu does not eat vegetables but enjoys biscuits, noodles and \nwhite bread. He often has stomach ache and constipation. \nWhat changes should he make in his diet to get rid of these \nproblems? Explain your answer.\n6.\t\nReshma had trouble seeing things in dim light. The doctor \ntested her eyesight and prescribed a particular vitamin \nsupplement. He also advised her to include a few food items \nin her diet.\n  (i)\t \t Which deficiency disease is she suffering from? \n (ii)\t \t Which food component may be lacking in her diet?\n(iii)\t \t Suggest some food items that she should include in \nher diet to overcome this problem (any four).\n7.\t\nYou are provided the following:\n  (i)\t \t Canned fruit juice\n (ii)\t \t Fresh fruit juice \n(iii) \t\t Fresh fruit\nWhich one would you prefer and why? \n8.\t\nGourav got a fracture in his leg. His doctor aligned the bones \nand put on a plaster. The doctor also gave him calcium tablets. \nOn the second visit, the doctor gave him Vitamin D syrup \nalong with calcium tablets. Refer to Fig. 3.5 and answer the \nfollowing questions:\n  (i)\t \t Why did the doctor give calcium tablets to Gourav?\n (ii)\t \t On the second visit, why did the doctor give Vitamin D \nsyrup along with calcium tablets?\n(iii)\t \t What question arises in your mind about the choices \nmade by the doctor in giving the medicines? \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1789,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0023_img01",
+          "file": "images/NCERT_fecu103_page0023_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0023_img02",
+          "file": "images/NCERT_fecu103_page0023_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0023_vecfig01",
+          "file": "images/NCERT_fecu103_page0023_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Discuss traditional versus modern culinary practices in\nIndia.\n\nA teacher says that good food may act as medicine. Ravi is\ncurious about this statement and has some questions for his\nteacher. List at least two questions that he can ask.\n\nNot all delicious foods are necessarily healthy, while not all\nnutritious foods are always enjoyable. Share your thoughts\nalong with a few examples.\n\nMedu does not eat vegetables but enjoys biscuits, noodles and\nwhite bread. He often has stomach ache and constipation.\nWhat changes should he make in his diet to get rid of these\nproblems? Explain your answer.\n\nReshma had trouble seeing things in dim light. The doctor\ntested her eyesight and prescribed a particular vitamin\nsupplement. He also advised her to include a few food items\nin her diet.\n\n(i) Which deficiency disease is she suffering from?\n(ii) Which food component may be lacking in her diet?\n\n(iii) Suggest some food items that she should include in\nher diet to overcome this problem (any four).\n\nYou are provided the following:\n(i) Canned fruit juice\n(ii) Fresh fruit juice\n(iii) Fresh fruit\nWhich one would you prefer and why?\n\nGourav got a fracture in his leg. His doctor aligned the bones\nand put ona plaster. The doctor also gave himcalcium tablets.\nOn the second visit, the doctor gave him Vitamin D syrup\nalong with calcium tablets. Refer to Fig. 3.5 and answer the\nfollowing questions:\n\n(i) Why did the doctor give calcium tablets to Gourav?\n\n(ii) On the second visit, why did the doctor give Vitamin D\nsyrup along with calcium tablets?\n\n(iii) What question arises in your mind about the choices\nmade by the doctor in giving the medicines?\n\nReprint 2026-27\n\nMindful Eating: A Path\nto a Healthy Body\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": "Curiosity | Textbook of Science | Grade 6\n58\nLearning further \n\n\nHelp your mother in unpacking the packets of various \nfood items after shopping for grocery next time. Read the \nnutritional information of at least three fortified food items \nand analyse those.\n\n\nThe Apatani tribe of Arunachal Pradesh produces a salt \ncalled tapyo to fulfil their dietary requirements. Collect \nmore information from the internet about their salt making \nprocess and the need to make their own salt. Collect pictures \nand paste them on a chart paper. Also, write a paragraph \nabout the process of making this salt and its usefulness.\n\n\nVegetables or fruits that grow naturally in the forest or \nnearby fields without being cultivated by farmers are \nconsidered wild varieties. Traditionally, many tribal groups \nin India depend on these wild varieties, which form a part \nof their food. Read about ranbhajis from Maharashtra and \nedible mushrooms from Himachal Pradesh. Are you aware \nof any such wild varieties of food from your region? Discuss \nin class.\n9.\t\nSugar is an example of carbohydrates. Sugar is tested with \niodine solution but it does not change to blue-black colour. \nWhat can be a possible reason? \n10.\t What do you think of Raman’s statement, “All starches are \ncarbohydrates but not all carbohydrates are starches.’’ \nDescribe the design of an activity to test your answer.\n11.\t While using iodine in the laboratory, a few drops of iodine \nfell on Mishti’s socks and a few fell on her teacher’s saree. \nThe drops of iodine on the saree turned blue-black while the \ncolour on the socks did not change. What can be a possible \nreason?\n12.\t Why are millets considered a healthy choice of food? Can \neating just millets suffice for the nutritional requirements \nof the body? Discuss.\n13.\t You are given a sample of a solution. How would you check \nthe possibility of it being an iodine solution? \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1917,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0024_img01",
+          "file": "images/NCERT_fecu103_page0024_img01.png",
+          "bbox": [
+            174.61862182617188,
+            330.22412109375,
+            519.3999633789062,
+            394.61370849609375
+          ],
+          "width_px": 719,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0024_img02",
+          "file": "images/NCERT_fecu103_page0024_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0024_img03",
+          "file": "images/NCERT_fecu103_page0024_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0024_vecfig01",
+          "file": "images/NCERT_fecu103_page0024_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "10.\n\n11.\n\n12.\n\n13.\n\nCuriosity | Textbook of Science | Grade 6\n\nSugar is an example of carbohydrates. Sugar is tested with\niodine solution but it does not change to blue-black colour.\nWhat can be a possible reason?\n\nWhat do you think of Raman’s statement, “All starches are\ncarbohydrates but not all carbohydrates are starches.”\nDescribe the design of an activity to test your answer.\n\nWhile using iodine in the laboratory, a few drops of iodine\nfell on Mishti’s socks and a few fell on her teacher’s saree.\nThe drops of iodine on the saree turned blue-black while the\ncolour on the socks did not change. What can be a possible\nreason?\n\nWhy are millets considered a healthy choice of food? Can\neating just millets suffice for the nutritional requirements\nof the body? Discuss.\n\nYou are given a sample of a solution. How would you check\nthe possibility of it being an iodine solution?\n\nLearning further ‘,/-~\n\nHelp your mother in unpacking the packets of various\nfood items after shopping for grocery next time. Read the\nnutritional information of at least three fortified food items\nand analyse those.\n\nThe Apatani tribe of Arunachal Pradesh produces a salt\ncalled tapyo to fulfil their dietary requirements. Collect\nmore information from the internet about their salt making\nprocess and the need to make their own salt. Collect pictures\nand paste them on a chart paper. Also, write a paragraph\nabout the process of making this salt and its usefulness.\n\nVegetables or fruits that grow naturally in the forest or\nnearby fields without being cultivated by farmers are\nconsidered wild varieties. Traditionally, many tribal groups\nin India depend on these wild varieties, which form a part\nof their food. Read about ranbhajis from Maharashtra and\nedible mushrooms from Himachal Pradesh. Are you aware\nof any such wild varieties of food from your region? Discuss\nin class.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 25,
+      "text": "Mindful Eating: A Path \nto a Healthy Body\n59\n\n\nList junk foods you eat frequently. Ask your friends also to \nmake such lists. On the basis of these lists, write a letter to \nyour principal requesting to ban certain junk foods inside \nthe school campus. Suggest some healthy options.\n\n\nFind out the variation in nutritional requirements of \ndifferent individuals based on age, physical activity and \nhealth conditions. Record your observations. Discuss and \nanalyse.\n\n\nPrepare a diet chart to provide a balanced diet to a \ntwelve-year-old child. The diet chart should include food \nitems that are not expensive and are commonly available \nin your area.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 674,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0025_img01",
+          "file": "images/NCERT_fecu103_page0025_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0025_img02",
+          "file": "images/NCERT_fecu103_page0025_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0025_vecfig01",
+          "file": "images/NCERT_fecu103_page0025_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "List junk foods you eat frequently. Ask your friends also to\nmake such lists. On the basis of these lists, write a letter to\nyour principal requesting to ban certain junk foods inside\nthe school campus. Suggest some healthy options.\n\nFind out the variation in nutritional requirements of\ndifferent individuals based on age, physical activity and\nhealth conditions. Record your observations. Discuss and\nanalyse.\n\nPrepare a diet chart to provide a balanced diet to a\ntwelve-year-old child. The diet chart should include food\nitems that are not expensive and are commonly available\nin your area.\n\nReprint 2026-27\n\nMindful Eating: A Path\nto a Healthy Body\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 26,
+      "text": "Notes\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 22,
+      "images": [
+        {
+          "image_id": "NCERT_fecu103_page0026_img01",
+          "file": "images/NCERT_fecu103_page0026_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu103_page0026_img02",
+          "file": "images/NCERT_fecu103_page0026_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu103_page0026_vecfig01",
+          "file": "images/NCERT_fecu103_page0026_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Notes"
+        }
+      ]
+    }
+  ]
+}

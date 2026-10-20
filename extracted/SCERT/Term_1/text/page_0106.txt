@@ -1,0 +1,164 @@
+102
+1.
+Measuring Tape - அளவு நாடா
+2.
+Stop clock
+- நிறுத்துக் கடிகாரம்
+3.
+Measuring jar
+- அளவுசாடி
+4.
+Unit
+- அலகு
+5.
+Parallax error
+- இடமாறு 
+தEோற்றப்பிழை
+6.
+Mass
+- நிறை
+7.
+Weight
+- எடை
+8.
+Animate factors - உயிருளள 
+காரணிகள்
+9.
+Inanimate 
+factors
+- உயிரற்ற காரணிகள்
+10. Contact forces
+- தEொடு விசைகள்
+11. Non-contact 
+forces
+- தEொடா விசைகள்
+12. Linear motion
+- நேர்கோட்டு 
+இயக்கம்
+13. Curvilinear 
+­motion
+- வளைவுப்பாதை 
+இயக்கம்
+14. Circular motion
+- வட்டப்பாதை 
+இயக்கம்
+15. Rotatory motion - சுழற்சி இயக்கம்
+16. Oscillatory 
+motion Zigzag 
+(Irregular)
+- அலைவு இயக்கம்
+17. motion
+- ஒழுஙகற்ற இயக்கம்
+18. Average speed
+- சராசரி வேகம்
+19. Periodic motion
+- கால ஒழுங்கு 
+இயக்கம்
+20. Non-periodic 
+motion
+- கால ஒழுஙகற்ற 
+இயக்கம்
+21. Uniform motion
+- சீரான இயக்கம்
+22. Non-uniform 
+motion
+- சீரற்ற இயக்கம்
+23. Artificial 
+­Intelligence
+- செயற்
+கை 
+நுண்ண
+றிவு
+24. Nano robotics
+- நான�ோ 
+எந்திரனியல்
+25. Diffusion
+- விரவுதல்,  பரவுதல்
+26. Liquefaction
+- நீரமாக்கல்
+27. Compressible
+- அழுத்தப்படக்கூடிய
+28. Unadulterated
+- கலப்படமற்ற
+29. Components
+- பகுதிப்பொ
+ருட்கள்
+30. Proportion
+- விகிதம்
+31. Extraction
+- பிரித்தெடுத்தல்
+32. Strainer
+- வடிகட்டி
+33. Churning
+- கடைதல்
+34. Threshing
+- கதிரடித்தல்
+35. Winnowing
+- தூற்றுதல்
+36. Sedimentation
+- படியவைத்தல்
+37. Decantation
+- தெளியவைத்து 
+இறுத்தல்
+38. Filtrate
+- வடிநீர்
+39. Reaction 
+- வினை
+40. Dissolution
+- கரைத்தல்
+41. Sublimation
+- பதஙகமாதல்
+42. Melting
+- உருகுதல்
+43. Vaporization
+- ஆவியாக்குதல்
+44. Condensation
+- ஆவி சுருஙகல்
+45. Freezing
+- உறைதல்
+46. Terminal bud
+- நுனி ம�ொட்டு
+47. Auxiliary buds
+- க�ோணண
+ ம�ொட்டு
+48. Nodes
+- இலைக் கணு
+49. Tendril
+- பற்றுக்கம்பி
+50. Twiners
+- தழுவுக�ொடி
+51. Thorns
+- முள்
+52. Adaptation
+- தகவமைப்பு
+53. Bio diversity
+- பல்லுயிர் தன்
+மை
+54. Eco system
+- சூழியல் மணடலம்
+55. Migration
+- இடம்பெ
+யர்வு
+56. Abiotic 
+community
+- உயிருளள சமூகம்
+57. Biotic 
+community
+- உயிரைச் சார்ந்த
+ 
+சமூகம்
+58. Malnutrition
+- ஊட்டச்சத்துக் 
+குறைவு
+59. Deficiency 
+diseases
+- குறைபாட்டு 
+ந�ோய்கள்
+60. Hygiene
+- சுகாதாரம்
+61. Personal 
+Hygiene
+- தன் சுத்தம்
+Scientific Terms
+6th Science_EM_Unit 7.indd   102
+12/9/2022   11:07:25 AM

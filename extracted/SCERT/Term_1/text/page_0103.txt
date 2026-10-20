@@ -1,0 +1,82 @@
+99
+program. For example, the software 
+used for painting, playing games in 
+computer.
+Nancy: 
+Oh! 
+I 
+have 
+learnt 
+much 
+information about computers today sir!.
+Malar: Ok Sir, then what is hardware?
+Teacher: The parts that are available in 
+the computer that helps the software to 
+work is a hardware.
+Salim: Sir, please tell us more about it 
+Teacher: Yes, sure I will. Whatever 
+we want to send to a computer is sent 
+through a device called input device. For 
+example, the keyboard, mouse and other 
+input devices. 
+The data or information that has 
+been sent to the computer are displayed 
+out or reproduced through some devices. 
+These are called as output devices. For 
+example, printer, monitor and so on.
+Nancy: Ok Sir, then what is CPU?
+Teacher: It is the central processing 
+unit. You will learn and understand more 
+about CPU in your higher classes.
+All Children together: Thank you so 
+much, sir. Today we have learnt and 
+understood 
+more 
+information 
+about 
+computers.
+directly by us. Generally, they are in 
+the form of numbers, alphabet and 
+images.
+Siva: Sir… then what is information?
+Teacher: Information is a form of 
+processed data.
+Siva: What is software and hardware, Sir?
+Teacher: The commands or programs 
+that are used in computer are called 
+software. This software can be divided 
+into two types.
+1.	 Operating software
+2.	 Application software.
+Nancy: What is Operating Software?
+Teacher: Software that is used to 
+operate the computer is called operating 
+software. I think you are familiar with 
+Windows and Linux
+Siva: Then, what is application software?
+Teacher: Application software is a 
+software that is used to run a particular 
+Generations of Computer
+1956-1963 Transistor
+1964-1971 Integrated Circuit
+1971-2k
+Micro Processor
+ cial 
+Intelligence
+1940-1956 Vacuum tubes
+1
+2
+5
+4
+3
+ENIAC 
+(Electronic 
+Numerical Integrator 
+and Computer) was 
+the 
+first 
+Computer 
+introduced in the year 1946. This is 
+the first General purpose computer.
+6th Science_EM_Unit 7.indd   99
+12/9/2022   11:07:25 AM

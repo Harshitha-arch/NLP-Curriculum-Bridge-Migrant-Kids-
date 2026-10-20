@@ -1,0 +1,2289 @@
+{
+  "source_file": "data\\NCERT\\fecu105.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu105",
+  "num_pages": 22,
+  "extraction_method": "native",
+  "native_page_count": 22,
+  "ocr_page_count": 0,
+  "total_images": 97,
+  "images_with_text": 6,
+  "total_tables": 7,
+  "total_vector_figures": 21,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Measurement of Length  \nand Motion\n5\nChapter\nDeepa, a curious eleven-year old girl, lives in a \ntown in the state of Haryana. The new school \nyear has started. Deepa needs a new uniform \nsince she has grown taller. Her mother takes \nher to a cloth shop. She asks for a two-metre \ncloth piece. The shopkeeper measures the \ncloth using a metal measuring rod.\nThen, the tailor takes her measurements \nusing a flexible measuring tape. Her mother \ninstructs the tailor to increase the length of her \nuniform by char angula (four fingers width).\nAre \nthe tape and rod \nsimilar to the scale that the \nelder sister has in her geometry \nbox? What did mother mean \nby char angula?\nDeepa shares her experience with her school friends \nAnish, Hardeep, Padma, Tasneem and this leads to a \ndiscussion amongst them. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 818,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0001_img01",
+          "file": "images/NCERT_fecu105_page0001_img01.png",
+          "bbox": [
+            -18.600038528442383,
+            -18.599990844726562,
+            611.3999633789062,
+            190.0941162109375
+          ],
+          "width_px": 1315,
+          "height_px": 436,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0001_img02",
+          "file": "images/NCERT_fecu105_page0001_img02.png",
+          "bbox": [
+            348.9859619140625,
+            191.48272705078125,
+            528.2139892578125,
+            437.11492919921875
+          ],
+          "width_px": 973,
+          "height_px": 456,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0001_img03",
+          "file": "images/NCERT_fecu105_page0001_img03.png",
+          "bbox": [
+            57.222198486328125,
+            200.0161895751953,
+            142.65402221679688,
+            393.1649475097656
+          ],
+          "width_px": 178,
+          "height_px": 403,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0001_img04",
+          "file": "images/NCERT_fecu105_page0001_img04.png",
+          "bbox": [
+            249.36654663085938,
+            381.3999938964844,
+            433.0145263671875,
+            434.3919982910156
+          ],
+          "width_px": 383,
+          "height_px": 111,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0001_img05",
+          "file": "images/NCERT_fecu105_page0001_img05.png",
+          "bbox": [
+            66.39006042480469,
+            570.2510375976562,
+            359.83416748046875,
+            625.0726318359375
+          ],
+          "width_px": 612,
+          "height_px": 115,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "Oe al ar Naar ST es TART\ncm) a 9 12 8 4\n\nsi vl gt a HO 6 8 é 9 S v £ 4 1\nARAM EA NMUMTMMM MUAMMT  MT UMTUMM N EM e T"
+        },
+        {
+          "image_id": "NCERT_fecu105_page0001_img06",
+          "file": "images/NCERT_fecu105_page0001_img06.png",
+          "bbox": [
+            376.4351501464844,
+            494.56646728515625,
+            438.85028076171875,
+            626.0343627929688
+          ],
+          "width_px": 131,
+          "height_px": 274,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0001_img07",
+          "file": "images/NCERT_fecu105_page0001_img07.png",
+          "bbox": [
+            465.44000244140625,
+            202.80007934570312,
+            550.4000244140625,
+            287.76007080078125
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0001_img08",
+          "file": "images/NCERT_fecu105_page0001_img08.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0001_img09",
+          "file": "images/NCERT_fecu105_page0001_img09.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0001_vecfig01",
+          "file": "images/NCERT_fecu105_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Measurement of Length\n\nand Motion\n\nDeepa, a curious eleven-year old girl, livesina\ntown in the state of Haryana. The new school\nyear has started. Deepa needs a new uniform\nsince she has grown taller. Her mother takes\nher to a cloth shop. She asks for a two-metre .\ncloth piece. The shopkeeper measures the “ues\ncloth using a metal measuring rod.\nThen, the tailor takes her measurements\nusing a flexible measuring tape. Her mother\ninstructs the tailor to increase the length ofher\nuniform by char angula (four fingers width).\n\nRW AL\n\nAre\nthe tape and rod\nsimilar to the scale that the\nelder sister has in her geometry\nbox? What did mother mean\nby char angula?\n\nDeepa shares her experience with her school friends\nAnish, Hardeep, Padma, Tasneem and this leads to a\ndiscussion amongst them.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Curiosity | Textbook of Science | Grade 6\n80\n5.1 How do we Measure?\nHardeep says, “I have seen my grandmother measuring \ncloth by the length of her arm.”\n“Have you ever seen how a farmer measures length to \ndivide his field into beds? He walks and counts the number \nof his strides,” says Padma.\n“Oh, not just the length of the strides—sometimes they \nalso use the length of their feet to measure,” adds Anish.\nDeepa says excitedly, “Measuring length using body parts \nmust be so much fun! Let us also measure something using \na body part.” \n“What should we measure? Okay, let us \nmeasure the length of the table in our classroom,” \nsays Tasneem.\nPadma adds, “And which body part should \nwe use to measure it?”\nDeepa says, “Let us use our handspan. I will \nshow you how to use it (Fig. 5.1). I have seen my \nmother using it. She calls it balisht.”\nHardeep adds, “Okay. Let us also note down \nour measurements.” \nFig. 5.1: Use of handspan \nfor measuring\nDeepa\nPadma\nTasneem\nAnish\nHardeep\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1003,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0002_img01",
+          "file": "images/NCERT_fecu105_page0002_img01.png",
+          "bbox": [
+            87.74380493164062,
+            513.0218505859375,
+            219.0526580810547,
+            628.0244140625
+          ],
+          "width_px": 274,
+          "height_px": 240,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0002_img02",
+          "file": "images/NCERT_fecu105_page0002_img02.png",
+          "bbox": [
+            153.90902709960938,
+            63.1177978515625,
+            521.4000244140625,
+            271.954345703125
+          ],
+          "width_px": 765,
+          "height_px": 435,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0002_img03",
+          "file": "images/NCERT_fecu105_page0002_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0002_img04",
+          "file": "images/NCERT_fecu105_page0002_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0002_vecfig01",
+          "file": "images/NCERT_fecu105_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Hardeep Padma\n\nDeepa Tasneem\n\nes 5 | HOW do we Measure?\n\nHardeep says, “I have seen my grandmother measuring\ncloth by the length of her arm.”\n\n“Have you ever seen how a farmer measures length to\ndivide his field into beds? He walks and counts the number\nof his strides,” says Padma.\n\n“Oh, not just the length of the strides—sometimes they\nalso use the length of their feet to measure,” adds Anish.\n\nDeepa says excitedly, “Measuring length using body parts\nmust be so much fun! Let us also measure something using\na body part.”\n\n“What should we measure? Okay, let us\nmeasure the length ofthe tablein our classroom,”\nsays Tasneem.\n\nPadma adds, “And which body part should\nwe use to measure it?”\n\nDeepa says, “Let us use our handspan. I will\nshow you how to use it (Fig. 5.1). Ihave seen my\nmother using it. She calls it balisht.”\n\nHardeep adds, “Okay. Let us also note down\n\nFig. 5.1: Use ofhandspan our measurements.”\nfor measuring\n\nCuriosity | Textbook of Science | Grade 6\n\no\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Measurement of Length and Motion\n81\nPadma says, “Oh, the number of handspans is different for \nall of us. So, what can we say about the length of the table?”\n“But why should the number be different?” Hardeep \nasked thoughtfully.\nTasneem says, “I can guess. Our handspans are of \ndifferent sizes.”\nAnish gives an idea, “Let us check this.”\nSo, all five of them put their handspans along each \nother and arrive at the conclusion that the lengths of their \nhandspans are different.\nDeepa says thoughtfully, “No wonder people use scales \nand measuring tapes.”\nDeepa and her friends compare the length of the table \nwith the length of their handspans. The length of the table is \nexpressed in terms of their handspans. Here, the handspan \nused for measurement is an example of a unit. And the length \nis expressed in two parts, a number and a unit. For example, \nif the length of the table is found to be 13 handspans, then \n13 is the number and ‘handspan’ is the unit selected for the \nmeasurement.\nHowever, handspans and other similar units, such as \nlength of hand, foot, fist or fingers, differ from person to \nperson. Thus, there is a need for such a unit for which \nmeasurements of the same length made by different people \ndo not differ.\nTable 5.1: Measuring the length of the table\nName of the Student\nNumber of Handspans\nAnish\nSlightly more than 13\nPadma\n13\nTasneem\nSlightly less than 13\nDeepa\nBetween 13 and 14\nHardeep\n14\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1443,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0003_img01",
+          "file": "images/NCERT_fecu105_page0003_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0003_img02",
+          "file": "images/NCERT_fecu105_page0003_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0003_table01",
+          "bbox": [
+            72.5446284901012,
+            130.62692260742188,
+            438.90865325927734,
+            284.8500061035156
+          ],
+          "rows": [
+            [
+              "Anish",
+              "Slightly more than 13"
+            ],
+            [
+              "Padma",
+              "13"
+            ],
+            [
+              "Tasneem",
+              "Slightly less than 13"
+            ],
+            [
+              "Deepa",
+              "Between 13 and 14"
+            ],
+            [
+              "Hardeep",
+              "14"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0003_vecfig01",
+          "file": "images/NCERT_fecu105_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Table 5.1: Measuring the length of the table\n\nName of the Student Number of Handspans\nAnish Slightly more than 13\nPadma 13\nTasneem Slightly less than 13\nDeepa Between 13 and 14\nHardeep 14\n\nPadma says, “Oh, the number of handspans is different for\nall of us. So, what can we say about the length of the table?”\n\n“But why should the number be different?” Hardeep\nasked thoughtfully.\n\nTasneem says, “I can guess. Our handspans are of\ndifferent sizes.”\n\nAnish gives an idea, “Let us check this.”\n\nSo, all five of them put their handspans along each\nother and arrive at the conclusion that the lengths of their\nhandspans are different.\n\nDeepa says thoughtfully, “No wonder people use scales\nand measuring tapes.”\n\nDeepa and her friends compare the length of the table\nwith the length of their handspans. The length of the table is\nexpressed in terms of their handspans. Here, the handspan\nused for measurement is an example ofa unit. And the length\nis expressed in two parts, anumber and a unit. For example,\nif the length of the table is found to be 13 handspans, then\n13 is the number and ‘handspan’ is the unit selected for the\nmeasurement.\n\nHowever, handspans and other similar units, such as\nlength of hand, foot, fist or fingers, differ from person to\nperson. Thus, there is a need for such a unit for which\nmeasurements of the same length made by different people\ndo not differ.\n\nReprint 2026-27\n\nMeasurement of Length and Motion\n\n®"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Curiosity | Textbook of Science | Grade 6\n82\nIndia has a rich history of measurement \nsystems dating back to ancient times. Angula \n(finger width), multiples of angula, dhanusa, \nand yojana are some of the units mentioned \nin ancient Indian literature, and used in \nmeasuring artefacts, architecture, and \ntown planning. The angula is still used by \ntraditional craftspeople like carpenters \nand tailors. Several objects with ruled \nmarkings which could be scales have been \nexcavated from sites of the Harappan \nCivilisation. \nMore to \nknow!\nFig. 5.2:  \nA metre scale\n5.2 Standard Units\nSeveral systems of units evolved with time in \ndifferent parts of the world. However, when \npeople started travelling from one place to \nanother, it created a lot of confusion. This led \nto the different countries coming together \nand adopting a set of standard units of \nmeasurement. The system of units now used is \nknown as the ‘International System of Units’ or \nSI units. \nThe SI unit of length is metre. Its symbol \nis  m. A metre scale is shown in Fig. 5.2. One \nmetre (m) is divided into 100 equal divisions. \nEach division is called a centimetre (cm). You \nmay be familiar with a smaller part of the \nmetre scale, typically 15 cm long, shown in \nFig. 5.3.\nLook carefully at the 15-cm scale. It has \nmarkings (in  cm) from 0 to 15. The length \nof any section between two consecutive big \nmarks, such as between 1 and 2 or between \n5 and 6, is 1  cm. Observe that these sections \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1491,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0004_img01",
+          "file": "images/NCERT_fecu105_page0004_img01.png",
+          "bbox": [
+            127.08987426757812,
+            61.94004821777344,
+            467.3999328613281,
+            310.780029296875
+          ],
+          "width_px": 709,
+          "height_px": 519,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0004_img02",
+          "file": "images/NCERT_fecu105_page0004_img02.png",
+          "bbox": [
+            481.6436462402344,
+            64.20001220703125,
+            497.3665466308594,
+            660.01513671875
+          ],
+          "width_px": 33,
+          "height_px": 1242,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0004_img03",
+          "file": "images/NCERT_fecu105_page0004_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0004_img04",
+          "file": "images/NCERT_fecu105_page0004_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0004_vecfig01",
+          "file": "images/NCERT_fecu105_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "More to\nknow! Civilisation.\n\nIndia has a rich history of measurement\nsystems dating back to ancient times. Angula\n(finger width), multiples of angula, dhanusa,\nand yojana are some of the units mentioned\nin ancient Indian literature, and used in\nmeasuring artefacts, architecture, and\ntown planning. The angula is still used by\ntraditional craftspeople like carpenters\nand tailors. Several objects with ruled\nmarkings which could be scales have been\nexcavated from sites of the Harappan\n\nns 5 2 Standard Units\n\nCuriosity | Textbook of Science | Grade 6\n\nSeveral systems of units evolved with time in\ndifferent parts of the world. However, when\npeople started travelling from one place to\nanother, it created a lot of confusion. This led\nto the different countries coming together\nand adopting a set of standard units of\nmeasurement. The system of units now used is\nknown as the ‘International System of Units’ or\nSI units.\n\nThe SI unit of length is metre. Its symbol\nis m. A metre scale is shown in Fig. 5.2. One\nmetre (m) is divided into 100 equal divisions.\nEach division is called a centimetre (cm). You\nmay be familiar with a smaller part of the\nmetre scale, typically 15 cm long, shown in\nFig. 5.3.\n\nLook carefully at the 15-cm scale. It has\nmarkings (in cm) from 0 to 15. The length\nof any section between two consecutive big\nmarks, such as between 1 and 2 or between\n5 and 6, is 1 cm. Observe that these sections\n\nReprint 2026-27\n\nos\n\nI\nms &\n\nFig. 5.2:\nA metre scale"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Measurement of Length and Motion\n83\nFig. 5.3: A 15-cm scale\nof 1  cm length are further divided \ninto 10 equal parts. The length of \none of these smaller parts is called \na millimetre (mm). 1 mm is the \nsmallest value of length that you \ncan measure using this scale. 1 mm \nis equal to one-tenth of a centimeter \n(1 mm = 0.1 cm).\nFor measuring larger lengths, we \nuse a larger unit called a kilometre \n(km) which is equal to 1000 metres. \nAnd for measuring smaller lengths, \nwe use units such as centimetre or \nmillimetre. \n1 km = 1000 m\n1 m = 100 cm\n1 cm = 10 mm\nWould it be convenient to use \nthe unit metre to measure \nlarger lengths, such as the \nlength of a railway track \nbetween two cities, or to \nmeasure smaller lengths, \nsuch as the thickness of a \npage of a book?\n?\nIn some scales, you might have noticed another scale \nmarking. This scale marking is in inches, where  \n1 inch = 2.54 cm. In earlier days, units, such as inch and foot, \nwere used to measure length. These units are still used by \nsome people.\nDo you \nknow?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1050,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0005_img01",
+          "file": "images/NCERT_fecu105_page0005_img01.png",
+          "bbox": [
+            70.39900207519531,
+            63.16893005371094,
+            463.90338134765625,
+            148.53857421875
+          ],
+          "width_px": 820,
+          "height_px": 178,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "ae eee ae TETANY\n9 Oo '2 8 4\n\nsi vl fh ‘i i Ol 6 wi Oo\n{itll hued"
+        },
+        {
+          "image_id": "NCERT_fecu105_page0005_img02",
+          "file": "images/NCERT_fecu105_page0005_img02.png",
+          "bbox": [
+            65.40005493164062,
+            443.4499816894531,
+            510.8200988769531,
+            683.4007568359375
+          ],
+          "width_px": 928,
+          "height_px": 500,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0005_img03",
+          "file": "images/NCERT_fecu105_page0005_img03.png",
+          "bbox": [
+            97.32042694091797,
+            580.3405151367188,
+            402.6616516113281,
+            634.2396850585938
+          ],
+          "width_px": 637,
+          "height_px": 113,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "Ha em am im oe a BT mo my HOTT apa TTT\na 1] 2) 3} 4 sl 6 7 al 204s 14 als\n\nI! vont\n\nMARRRRRA\nbbbbbbbbbbbbb bbb\n\n9 s\nbbbbbbbbb"
+        },
+        {
+          "image_id": "NCERT_fecu105_page0005_img04",
+          "file": "images/NCERT_fecu105_page0005_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0005_img05",
+          "file": "images/NCERT_fecu105_page0005_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0005_table01",
+          "bbox": [
+            71.4000015258789,
+            420.74200439453125,
+            438.5999755859375,
+            445.4389953613281
+          ],
+          "rows": [
+            [
+              "1 km = 1000 m",
+              "1 m = 100 cm",
+              "1 cm = 10 mm"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0005_vecfig01",
+          "file": "images/NCERT_fecu105_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "i Jednagennyennapeeepooeen aap vey AANT nape ace Aayse psp anaaa apap Tae aaa Type coa aN\n° lcm 2 3 4 5 6 7 8 9° © tt hk 8B 4M SB\n\nsi vi +4 | al ll oi 6 8 Z 9 s Aa | & Ww) °\nMMMM MT\n\nFig. 5.3: A 15-cm scale\n\n‘\n\nof 1 cm length are further divided\ninto 10 equal parts. The length of\none of these smaller parts is called\na millimetre (mm). 1 mm is the\nsmallest value of length that you\ncan measure using this scale. 1 mm\nis equal to one-tenth of a centimeter\n(1 mm = 0.1 cm).\n\nFor measuring larger lengths, we\nuse a larger unit called a kilometre\n(km) which is equal to 1000 metres.\nAnd for measuring smaller lengths,\nwe use units such as centimetre or\nmillimetre.\n\ntkm=1000m | 1m=100em\n\nWould it be convenient to use\nthe unit metre to measure\nlarger lengths, such as the\nlength of a railway track i |\nbetween two cities, orto, @\nmeasure smaller lengths,\n\nsuch as the thickness of a\n\npage of a book?\n\nIn some scales, you might have noticed another scale\nmarking. This scale marking is in inches, where\n\n1 inch = 2.54 cm. In earlier days, units, such as inch and foot,\nwere used to measure length. These units are still used by\nsome people.\n\nlo (1/1 «1/2 «93 «114 115\n\nReprint 2026-27\n\nMeasurement of Length and Motion\n\no"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Curiosity | Textbook of Science | Grade 6\n84\n5.3 Correct Way of Measuring Length\nFor measuring any length, we need an appropriate scale. \nFor example, if you want to measure the length of your \npencil, you may use a 15-cm scale. Similarly, if the height of \na room is to be measured, you may need a metre scale or a \nmeasuring tape. You cannot directly measure the girth of a \ntree or the size of your chest using a metre scale. For such \nmeasurements, flexible measuring tape, such as a tailor’s \ntape is more suitable. \nWhile measuring lengths, we need to take care of some \npoints. \nWhat is the correct way to place the scale?\nPlace the scale in contact with the object along its length as \nshown in Fig. 5.4.\nFig. 5.4: Method of placing the scale\n(b) Incorrect\n(a) Correct\nWhat is the correct position of the eye while reading \nthe scale?\nFor example, if you are trying to measure the length of a \npencil by aligning it with a scale, the position of your eye \nshould be directly above the tip of the pencil (Fig. 5.5).\nNo, but we should \nfirst learn the correct \nway of using a scale \nto measure length.\nSuppose we all measure \nthe length of the table \nagain, but this time using \na metre scale. Will our \nresults still be different?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1254,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0006_img01",
+          "file": "images/NCERT_fecu105_page0006_img01.png",
+          "bbox": [
+            301.5650329589844,
+            484.6646728515625,
+            533.308837890625,
+            558.7081298828125
+          ],
+          "width_px": 483,
+          "height_px": 155,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "MT\nopine ®\n\nay Eee\ntuto"
+        },
+        {
+          "image_id": "NCERT_fecu105_page0006_img02",
+          "file": "images/NCERT_fecu105_page0006_img02.png",
+          "bbox": [
+            66.30874633789062,
+            487.67926025390625,
+            295.16473388671875,
+            551.3329467773438
+          ],
+          "width_px": 477,
+          "height_px": 133,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "ng ENN\nore ou 6\n\nLake?"
+        },
+        {
+          "image_id": "NCERT_fecu105_page0006_img03",
+          "file": "images/NCERT_fecu105_page0006_img03.png",
+          "bbox": [
+            245.3163604736328,
+            97.59989166259766,
+            326.9780578613281,
+            221.7796630859375
+          ],
+          "width_px": 170,
+          "height_px": 259,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0006_img04",
+          "file": "images/NCERT_fecu105_page0006_img04.png",
+          "bbox": [
+            343.1645812988281,
+            98.69249725341797,
+            400.1301574707031,
+            220.74688720703125
+          ],
+          "width_px": 119,
+          "height_px": 255,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0006_img05",
+          "file": "images/NCERT_fecu105_page0006_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0006_img06",
+          "file": "images/NCERT_fecu105_page0006_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0006_vecfig01",
+          "file": "images/NCERT_fecu105_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "es 5.3 Correct Way of Measuring Length\n\nFor measuring any length, we need an appropriate scale.\nFor example, if you want to measure the length of your\npencil, you may use a 15-cm scale. Similarly, if the height of\na room is to be measured, you may need a metre scale or a\nmeasuring tape. You cannot directly measure the girth ofa\ntree or the size of your chest using a metre scale. For such\nmeasurements, flexible measuring tape, such as a tailor’s\ntape is more suitable.\n\nWhile measuring lengths, we need to take care of some\npoints.\n\nWhat is the correct way to place the scale?\n\nPlace the scale in contact with the object along its length as\nshown in Fig. 5.4.\n\nTATU]\n4 «6\n\na ep a ge ape xm re vm me \" Pee a o un 2\n= a twtr °°\neR. 3 + © put oO ———_ ene st * 7 ul ki i mn\nnut Piet ohn “\n\n(a) Correct (b) Incorrect\n\nFig. 5.4: Method of placing the scale\n\nWhat is the correct position of the eye while reading\nthe scale?\n\nFor example, if you are trying to measure the length of a\npencil by aligning it with a scale, the position of your eye\nshould be directly above the tip of the pencil (Fig. 5.5).\n\nCuriosity | Textbook of Science | Grade 6\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Measurement of Length and Motion\n85\nHow to measure the length if the ends of the scale \nare broken?\nIf the ends of the scale are broken or the zero marking \nis not clear, it can still be used for measurement. With \nsuch a scale, use any other full mark of the scale, say, 1.0 \ncm (Fig. 5.6). Then you must subtract the reading of this \nmark from the reading at the other end. For example, in \nFig. 5.6, the reading at one end is 1.0 cm and at the other \nend, it is 10.4 cm. Therefore, the length of the object is \n10.4 cm–1.0 cm = 9.4 cm. \nFig. 5.6: Correct method of placing the scale with broken end\nHow do visually challenged students measure lengths? \nThey use scales with raised markings that can be felt by \ntouching them. \nFig. 5.5: Correct position of the eye is ‘B’\nB\nC\nA\nDo you \nknow?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 811,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0007_img01",
+          "file": "images/NCERT_fecu105_page0007_img01.png",
+          "bbox": [
+            102.8623275756836,
+            430.0798034667969,
+            428.8152160644531,
+            555.428466796875
+          ],
+          "width_px": 680,
+          "height_px": 262,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0007_img02",
+          "file": "images/NCERT_fecu105_page0007_img02.png",
+          "bbox": [
+            44.66046142578125,
+            569.1700439453125,
+            508.4000549316406,
+            718.5330810546875
+          ],
+          "width_px": 967,
+          "height_px": 312,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0007_img03",
+          "file": "images/NCERT_fecu105_page0007_img03.png",
+          "bbox": [
+            86.9851303100586,
+            654.6011962890625,
+            428.34161376953125,
+            694.5938720703125
+          ],
+          "width_px": 712,
+          "height_px": 84,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0007_img04",
+          "file": "images/NCERT_fecu105_page0007_img04.png",
+          "bbox": [
+            53.978302001953125,
+            125.07356262207031,
+            483.6405029296875,
+            226.405029296875
+          ],
+          "width_px": 896,
+          "height_px": 211,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "7 —————\na Te a iy ag ae UGTUTpTNyA ApH\n\nOo Icm 9 Oo UW k 8B 4\n\nsi vi a a u ol & wo! °\nUU en"
+        },
+        {
+          "image_id": "NCERT_fecu105_page0007_img05",
+          "file": "images/NCERT_fecu105_page0007_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0007_img06",
+          "file": "images/NCERT_fecu105_page0007_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0007_vecfig01",
+          "file": "images/NCERT_fecu105_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "— PMenngeneayenaergreseaepayryvegecearepnay sneer yeaa erage a\n/- © tm2 3 4 § 6 7 8 § 0 tt & 8B 4 OB\n\n\\ 2\" a at Oo 6 © tf Oo § et 5\nLuvsuvelievdceLarntvvlovctvulinatvilarivuvelgatiiaevedoilanadaedvitovtivadvedeitaisevednlaanuedvadgitl\nFig. 5.5: Correct position of the eye is ‘B’\n\nHow to measure the length if the ends of the scale\nare broken?\n\nIf the ends of the scale are broken or the zero marking\nis not clear, it can still be used for measurement. With\nsuch a scale, use any other full mark of the scale, say, 1.0\ncm (Fig. 5.6). Then you must subtract the reading of this\nmark from the reading at the other end. For example, in\nFig. 5.6, the reading at one end is 1.0 cm and at the other\nend, it is 10.4 cm. Therefore, the length of the object is\n10.4 cm—1.0 cm = 9.4 cm.\n\nMO MUL WN TUN UU LC\nim? 3° ANS/J/6 7 9 oe to 08 2 os Ola lll\n\n£ & wl °\n\n“ 6. 8 £m S. Oe Cs\nuu tdamlagainelaalannielcilaeticadnadgetnilanaaonaetnelcndril giclee lela\n\nFig. 5.6: Correct method of placing the scale with broken end\n\nHow do visually challenged students measure lengths?\nThey use scales with raised markings that can be felt by\ntouching them.\n\nReprint 2026-27\n\nMeasurement of Length and Motion"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Curiosity | Textbook of Science | Grade 6\n86\nObject\nLength of the object\nWhile writing the length, do not forget \nto write the unit also. Thus, your result \nwill consist of two parts—one part is a \nnumber and the other part is the unit of \nmeasurement.\nSome of your friends in the class \nwould have measured the length of the same \nobjects. Compare the lengths measured by you with that of \nyour friends. Are the measured lengths the same or slightly \ndifferent? If not the same, discuss the possible reasons for \nthe differences.\nWhy are some \nlength measuring \ndevices made \nup of flexible \nmaterials?\nUnits of length, such as kilometre, metre, centimetre and \nmillimetre, begin with a lowercase letter, except at the \nbeginning of a sentence. Their symbols km, m, cm and \nmm are also written in lowercase letters, and are never \nfollowed by ‘s’ for the plural. Note that a full stop is not \nwritten after the symbol, except at the end of a sentence. \nWhile writing the length, always leave a space between the \nnumber and the unit.\nActivity 5.1: Let us measure \n\n\nSelect some objects around you, such as a comb, a pen, \na pencil, and an eraser to measure their lengths. \n\n\nMeasure their lengths one by one using a metre scale \nand note down the measurements in Table 5.2.\nTable 5.2: Measuring lengths \nDo you \nknow?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1339,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0008_img01",
+          "file": "images/NCERT_fecu105_page0008_img01.png",
+          "bbox": [
+            65.74588775634766,
+            407.66387939453125,
+            147.45797729492188,
+            501.9534912109375
+          ],
+          "width_px": 171,
+          "height_px": 197,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0008_img02",
+          "file": "images/NCERT_fecu105_page0008_img02.png",
+          "bbox": [
+            75.24249267578125,
+            523.229736328125,
+            540.7766723632812,
+            709.0342407226562
+          ],
+          "width_px": 970,
+          "height_px": 388,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0008_img03",
+          "file": "images/NCERT_fecu105_page0008_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0008_img04",
+          "file": "images/NCERT_fecu105_page0008_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0008_vecfig01",
+          "file": "images/NCERT_fecu105_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Activity 5.1: Let us measure ~~\n\n@ Select some objects around you, such as a comb, a pen,\na pencil, and an eraser to measure their lengths.\n\nMeasure their lengths one by one using a metre scale\nand note down the measurements in Table 5.2.\n\nTable 5.2: Measuring lengths\n\nObject Length of the object\n\nWhy are some While writing the length, do not forget\n\nlength measur; to write the unit also. Thus, your result\ndevices \"eet will consist of two parts—one part is a\nUp of flexible number and the other part is the unit of\n\nCuriosity | Textbook of Science | Grade 6\n\nDo you\nknow?\n\nMaterials? measurement.\n\nSome of your friends in the class\n\nwould have measured the length of the same\n\nobjects. Compare the lengths measured by you with that of\n\nyour friends. Are the measured lengths the same or slightly\n\ndifferent? If not the same, discuss the possible reasons for\nthe differences.\n\nUnits of length, such as kilometre, metre, centimetre and\nmillimetre, begin with a lowercase letter, except at the\nbeginning of a sentence. Their symbols km, m, cm and\nmm are also written in lowercase letters, and are never\nfollowed by ‘s’ for the plural. Note that a full stop is not\nwritten after the symbol, except at the end of a sentence.\nWhile writing the length, always leave a space between the\nnumber and the unit.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Measurement of Length and Motion\n87\n5.4 Measuring the length of a curved line\nAnish and his parents fixed electric string lights on the \narches  of the verandah of their \nhouse, as shown in Fig. 5.7, for a \ncelebration at home. How would \nthey have measured the required \nlength of string lights?\nIn the case of a curved line, \nmeasurements can be made with \nthe help of a flexible measuring \ntape or by using a thread as \nshown in Fig. 5.8. \nFig. 5.7: House decorated with string lights\nFig. 5.8: Measuring the length of a curved line\n5.5 Describing Position\nOne day the teacher informs her students that she has \nplanned an educational visit to a nearby garden. She asks \nthe students to reach there directly in the morning. Deepa \nand her friends start discussing whether the garden would \nbe closer than their school or farther. Tasneem and Padma \nsay that the garden would be closer, while Deepa and Anish \nfeel that the school would be closer, Hardeep thinks that \nboth would be almost at an equal distance (Fig. 5.9).\nThe thread can then \nbe straightened and its \nlength can be measured \nusing a metre scale. \nFig. 5.9: Location of bus stand, school, garden and houses of Deepa and her friends\nBus stand\nSchool\nDeepa’s \nhouse \nAnish’s \nhouse\nHardeep’s \nhouse\nTasneem’s \nhouse\nPadma’s \nhouse\nGarden\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1321,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0009_img01",
+          "file": "images/NCERT_fecu105_page0009_img01.png",
+          "bbox": [
+            287.431396484375,
+            124.43869018554688,
+            509.27374267578125,
+            274.38116455078125
+          ],
+          "width_px": 463,
+          "height_px": 313,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0009_img02",
+          "file": "images/NCERT_fecu105_page0009_img02.png",
+          "bbox": [
+            70.87205505371094,
+            300.0169677734375,
+            273.933349609375,
+            384.7010498046875
+          ],
+          "width_px": 424,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0009_img03",
+          "file": "images/NCERT_fecu105_page0009_img03.png",
+          "bbox": [
+            55.16588592529297,
+            627.560546875,
+            489.3131408691406,
+            683.833984375
+          ],
+          "width_px": 905,
+          "height_px": 118,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0009_img04",
+          "file": "images/NCERT_fecu105_page0009_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0009_img05",
+          "file": "images/NCERT_fecu105_page0009_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0009_vecfig01",
+          "file": "images/NCERT_fecu105_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "ques 25.4 Measuring the Length of a Curved Line\n\nAnish and his parents fixed electric string lights on the\narches of the verandah of their\nhouse, as shown in Fig. 5.7, for a\ncelebration at home. How would\nthey have measured the required\nlength of string lights?\n\nIn the case of a curved line,\nmeasurements can be made with\nthe help of a flexible measuring\ntape or by using a thread as\nshown in Fig. 5.8.\n\nFig. 5.7: House decorated with string lights\n\nThe thread can then\nbe straightened and its\nlength can be measured\nusing a metre scale.\n\nFig. 5.8: Measuring the length of a curved line\n\nwu 5.5 Describing Position\n\nOne day the teacher informs her students that she has\nplanned an educational visit to a nearby garden. She asks\nthe students to reach there directly in the morning. Deepa\nand her friends start discussing whether the garden would\nbe closer than their school or farther. Tasneem and Padma\nsay that the garden would be closer, while Deepa and Anish\nfeel that the school would be closer, Hardeep thinks that\nboth would be almost at an equal distance (Fig. 5.9).\n\nDeepa’s Anish’s Hardeep’s Tasneem’s Padma’s\nhouse house house house house\n\nBus stand School Garden\n\nFig. 5.9: Location of bus stand, school, garden and houses of Deepa and her friends\n\nReprint 2026-27\n\nMeasurement of Length and Motion"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": "Curiosity | Textbook of Science | Grade 6\n88\nFig. 5.10:  \nA measuring tape\nWho do you think is correct? All of them are correct \n(Fig. 5.9). Then, why are their observations different? They \nare locating the distances of the school and garden from their \nhouses. If, instead, each of them had thought of distances \nfrom a same object or point, say, the bus stand, then their \nobservations would have been the same. \nWhen distance is stated with respect to a fixed object or \npoint, then this point is called a reference point.\nA few days later, Hardeep tells his friends excitedly, \n“Let us all go to the playground. The sports teacher wants \nus to help her to draw lines with chuna powder (limestone \npowder) for making the Kabaddi court for the sports day.” \nPadma: “We will need a longer measuring tape. Let us \ntake it from the sports room.” (Fig. 5.10)\nDeepa: “Let us first decide the point on the ground \nfrom which we will measure the distances to start \ndrawing the lines. Let us call this our reference \npoint.” (Fig. 5.11)\nFig. 5.11: Drawing lines for Kabaddi court\nReference \nPoint\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1109,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0010_img01",
+          "file": "images/NCERT_fecu105_page0010_img01.png",
+          "bbox": [
+            75.93302154541016,
+            234.24009704589844,
+            174.41700744628906,
+            344.95318603515625
+          ],
+          "width_px": 206,
+          "height_px": 231,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0010_img02",
+          "file": "images/NCERT_fecu105_page0010_img02.png",
+          "bbox": [
+            116.60881805419922,
+            380.5994873046875,
+            521.4000244140625,
+            680.4810791015625
+          ],
+          "width_px": 844,
+          "height_px": 626,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0010_img03",
+          "file": "images/NCERT_fecu105_page0010_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0010_img04",
+          "file": "images/NCERT_fecu105_page0010_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0010_vecfig01",
+          "file": "images/NCERT_fecu105_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Who do you think is correct? All of them are correct\n(Fig. 5.9). Then, why are their observations different? They\nare locating the distances of the school and garden from their\nhouses. If, instead, each of them had thought of distances\nfrom a same object or point, say, the bus stand, then their\nobservations would have been the same.\n\nWhen distance is stated with respect to a fixed object or\npoint, then this point is called a reference point.\n\nA few days later, Hardeep tells his friends excitedly,\n“Let us all go to the playground. The sports teacher wants\nus to help her to draw lines with chuna powder (limestone\npowder) for making the Kabaddi court for the sports day.”\n\nPadma: “We will need a longer measuring tape. Let us\ntake it from the sports room.” (Fig. 5.10)\nDeepa: “Let us first decide the point on the ground\nfrom which we will measure the distances to start\ndrawing the lines. Let us call this our reference\nFig. 5.10: point.” (Fig. 5.11)\n\nA measuring tape\n\nNe)\nis)\n3s\n~s\nS\nvo\nCo\n£\n&\noS\nio)\n>\nvw\nfo)\nlo)\nQ\n2\nOo\nBR\nFs)\nwn\nRs}\n=\n=}\n1S)\n\nFig. 5.11: Drawing lines for Kabaddi court\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Measurement of Length and Motion\n89\nAfter a few days, Padma was travelling \nby bus to visit her grandparents in Delhi. \nShe was eager to reach Delhi and was \nreading the kilometre stones on the side of \nthe road. On one of the kilometre stones, it \nwas written ‘Delhi 70 km’ (Fig. 5.12).\nFurther on, the next kilometre stone \nread ‘Delhi 60 km’. Each kilometre stone \nindicated that she was getting closer to her \ngrandparents’ house.\nThese kilometre stones indicated \nher distance from Delhi. So, Delhi is \nthe reference point in this situation.\nFig. 5.13: Positions of kilometre stones with respect to Delhi as a reference point\nIf the kilometre stone reads ‘Delhi 70 km’ as shown in \nFig. 5.13, we can say that the position of Padma is 70 km \nfrom Delhi. When the kilometre stone reads ‘Delhi 60 km’, \nthe position of Padma is 60 km from Delhi.\nWhat do such \nkilometre stones \nindicate? How could \nPadma conclude that \nshe was getting closer \nto her destination?\n?\nFig. 5.12: \nA kilometre stone\nDoes this mean that the position of \nPadma, with respect to the reference \npoint, is changing with time? When \ndoes the position of an object change \nwith respect to a reference point? Does \nit change when an object is moving? ?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1243,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0011_img01",
+          "file": "images/NCERT_fecu105_page0011_img01.png",
+          "bbox": [
+            57.400001525878906,
+            314.33184814453125,
+            535.0,
+            431.81378173828125
+          ],
+          "width_px": 996,
+          "height_px": 245,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0011_img02",
+          "file": "images/NCERT_fecu105_page0011_img02.png",
+          "bbox": [
+            71.58943176269531,
+            63.18988037109375,
+            162.1805877685547,
+            181.68206787109375
+          ],
+          "width_px": 189,
+          "height_px": 247,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0011_img03",
+          "file": "images/NCERT_fecu105_page0011_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0011_img04",
+          "file": "images/NCERT_fecu105_page0011_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0011_vecfig01",
+          "file": "images/NCERT_fecu105_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "After a few days, Padma was travelling\nby bus to visit her grandparents in Delhi.\nShe was eager to reach Delhi and was\nreading the kilometre stones on the side of\nthe road. On one of the kilometre stones, it\nwas written ‘Delhi 70 km’ (Fig. 5.12).\n\nFurther on, the next kilometre stone\nread ‘Delhi 60 km’. Each kilometre stone\nA ake B01 ve indicated that she was getting closer to her\n\ngrandparents’ house.\n\nThese kilometre stones indicated\nher distance from Delhi. So, Delhi is What do such ?\n\nthe reference point in this situation. kilometre stones s\nindicate? How could\n\nPadma conclude that\nshe was getting closer\nto her destination?\n\nFig. 5.13: Positions of kilometre stones with respect to Delhi as a reference point\n\nIf the kilometre stone reads ‘Delhi 70 km’ as shown in\nFig. 5.13, we can say that the position of Padma is 70 km\nfrom Delhi. When the kilometre stone reads ‘Delhi 60 km’,\nthe position of Padma is 60 km from Delhi.\n\nDoes this mean that the position of\n\nPadma, with respect to the reference\n\npoint, is changing with time? When i |\ndoes the position of an object change\n\nwith respect to a reference point? Does ®\nit change when an object is moving?\n\nReprint 2026-27\n\nMeasurement of Length and Motion\n\n2"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": "Curiosity | Textbook of Science | Grade 6\n90\n5.6 Moving Things\nActivity 5.2: Let us explore\n\n\nLook around and prepare a list of five objects that are \nin motion and five objects that are at rest. \n\n\nRecord your observations in Table 5.3.\n\n\nThink about how you decided whether an object was in \nmotion or at rest. Write your explanation (justification) \nin Table 5.3. \nTable 5.3: Observing things around you\nObjects in \nmotion\nJustification\nObjects at \nrest\nJustification\nCow grazing \nin the field\nTree\nCompare and analyse your justifications. How can one \ndecide if an object is in motion or at rest?\nAn object is said to be in motion if its position changes \nwith respect to the reference point with time. If an object is \nnot changing its position with respect to the reference point \nwith time, it is said to be at rest.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 846,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0012_img01",
+          "file": "images/NCERT_fecu105_page0012_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0012_img02",
+          "file": "images/NCERT_fecu105_page0012_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0012_table01",
+          "bbox": [
+            155.26262723482571,
+            314.5757598876953,
+            522.3215637207031,
+            584.6399230957031
+          ],
+          "rows": [
+            [
+              "Cow grazing\nin the field",
+              "",
+              "Tree",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0012_vecfig01",
+          "file": "images/NCERT_fecu105_page0012_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "es 5.6 Voving Things\n\nActivity 5.2: Let us explore a\n¢ Look around and prepare a list of five objects that are\n\nin motion and five objects that are at rest.\n@ Record your observations in Table 5.3.\n\n@ Think about how you decided whether an object was in\nmotion or at rest. Write your explanation (justification)\nin Table 5.3.\n\nTable 5.3: Observing things around you\n\nj in woe Objects at Y Ae\nObjects Justification J Justification\nmotion rest\nCow grazing Tree\n\nin the field\n\nCompare and analyse your justifications. How can one\ndecide if an object is in motion or at rest?\n\nAn object is said to be in motion if its position changes\nwith respect to the reference point with time. If an object is\nnot changing its position with respect to the reference point\nwith time, it is said to be at rest.\n\nCuriosity | Textbook of Science | Grade 6\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Measurement of Length and Motion\n91\nDeepa looked around her in the bus and noticed that all \nthe passengers were seated. She looked around again after \na minute and found them still occupying their seats. She \nwondered, ‘Are they moving?’ She concluded that the position \nof the passengers was not changing with time. Therefore, they \nwere certainly at rest. However, when she looked outside, she \nfelt they were in motion as their positions were changing with \nrespect to things outside.\nThe reference point is important in deciding whether an object \nis at rest or in motion. If Deepa considered herself (or \nthe bus) as the reference point, then the passengers \nwere at rest. However, if she considered any object \noutside the bus (say a building) as the reference point, \nthen the passengers (and the bus) were in motion.\nSuppose you are travelling on a ship which is \nmoving at a constant speed along a straight \nline on a calm sea. Suppose there is no window \non the ship. Is there any way that you can \ndetermine whether the ship is moving or is \nstationary?\n5.7 Types of Motion\nActivity 5.3: Let us explore\n\n\nTake an eraser and drop it from a certain height.\n\n\nObserve its motion. \nDoes it move along a straight line? When an orange drops \nfrom the tree, does it move in a straight line? Have you seen \nthe Republic Day parade? Recall the march-past of students \nduring the parade. Do they move on a straight-line path? \nWhen a heavy box is pushed, it may also move along a \nstraight line (Fig. 5.14).\nMore to \nknow!\nThink it \nover!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1561,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0013_img01",
+          "file": "images/NCERT_fecu105_page0013_img01.png",
+          "bbox": [
+            17.1529541015625,
+            38.76873779296875,
+            473.3222961425781,
+            351.98931884765625
+          ],
+          "width_px": 952,
+          "height_px": 653,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0013_img02",
+          "file": "images/NCERT_fecu105_page0013_img02.png",
+          "bbox": [
+            116.24047088623047,
+            332.9599914550781,
+            494.4000549316406,
+            480.5599670410156
+          ],
+          "width_px": 788,
+          "height_px": 308,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0013_img03",
+          "file": "images/NCERT_fecu105_page0013_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0013_img04",
+          "file": "images/NCERT_fecu105_page0013_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0013_vecfig01",
+          "file": "images/NCERT_fecu105_page0013_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Deepa looked around her in the bus and noticed that all\n\nthe passengers were seated. She looked around again after\n\na minute and found them still occupying their seats. She\nwondered, ‘Are they moving?’ She concluded that the position\nof the passengers was not changing with time. Therefore, they\nwere certainly at rest. However, when she looked outside, she\nfelt they were in motion as their positions were changing with\nrespect to things outside.\n\nThe reference point is important in deciding whether an object\n\nis at rest or in motion. If Deepa considered herself (or\n\nthe bus) as the reference point, then the passengers\n\nwere at rest. However, if she considered any object @\n\noutside the bus (say a building) as the reference point,\n\nthen the passengers (and the bus) were in motion. More to\nknow!\n\nmoving at a constant speed along a straight\n\nline on a calm sea. Suppose there is no window\nThink it onthe ship. Is there any way that you can\ndetermine whether the ship is moving or is\nstationary?\n\nQ Suppose you are travelling on a ship which is\n\nover!\n\nmus 5.7 Types of Motion\nActivity 5.3: Let us explore\n\n¢ Take an eraser and drop it from a certain height.\n@ Observe its motion.\n\nDoes it move along a straight line? When an orange drops\nfrom the tree, does it move in a straight line? Have you seen\nthe Republic Day parade? Recall the march-past of students\nduring the parade. Do they move on a straight-line path?\nWhen a heavy box is pushed, it may also move along a\nstraight line (Fig. 5.14).\n\nReprint 2026-27\n\nMeasurement of Length and Motion\n\n@"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": "Curiosity | Textbook of Science | Grade 6\n92\nBut do things always move along a straight line? You \nmight have enjoyed playing on swings and merry-go-rounds. \nAre these types of motion also linear motion? \nActivity 5.4: Let us investigate\n\n\nTie an eraser (or a potato) to one end of a thread.\n\n\nHold the other end of the thread with your hand and \nwhirl it (Fig. 5.15). \n\n\nObserve its motion. \nIs the motion of the eraser the same as that of a merry-go-\nround? \nWhen an object moves along a circular path, its motion is \ncalled circular motion. \nFig. 5.14: Linear motion\nWhen an object moves along a straight line, its motion is \ncalled linear motion. Identify such linear motion in your \nsurroundings.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 724,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0014_img01",
+          "file": "images/NCERT_fecu105_page0014_img01.png",
+          "bbox": [
+            117.4000015258789,
+            239.98033142089844,
+            314.2711181640625,
+            409.03271484375
+          ],
+          "width_px": 411,
+          "height_px": 353,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0014_img02",
+          "file": "images/NCERT_fecu105_page0014_img02.png",
+          "bbox": [
+            319.5085754394531,
+            250.1199493408203,
+            522.4160766601562,
+            409.9599304199219
+          ],
+          "width_px": 423,
+          "height_px": 333,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0014_img03",
+          "file": "images/NCERT_fecu105_page0014_img03.png",
+          "bbox": [
+            166.83099365234375,
+            136.4352569580078,
+            251.87924194335938,
+            242.353271484375
+          ],
+          "width_px": 177,
+          "height_px": 221,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0014_img04",
+          "file": "images/NCERT_fecu105_page0014_img04.png",
+          "bbox": [
+            320.51995849609375,
+            115.64728546142578,
+            520.679931640625,
+            241.33135986328125
+          ],
+          "width_px": 418,
+          "height_px": 262,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0014_img05",
+          "file": "images/NCERT_fecu105_page0014_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0014_img06",
+          "file": "images/NCERT_fecu105_page0014_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0014_vecfig01",
+          "file": "images/NCERT_fecu105_page0014_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nWhen an object moves along a straight line, its motion is\ncalled linear motion. Identify such linear motion in your\nsurroundings.\n\nFig. 5.14: Linear motion\n\nBut do things always move along a straight line? You\nmight have enjoyed playing on swings and merry-go-rounds.\nAre these types of motion also linear motion?\n\nActivity 5.4: Let us investigate a\n\n¢ Tie an eraser (or a potato) to one end of a thread.\n\n¢ Hold the other end of the thread with your hand and\nwhirl it (Fig. 5.15).\n\n@ Observe its motion.\n\nIs the motion of the eraser the same as that of a merry-go-\nround?\n\nWhen an object moves along a circular path, its motion is\ncalled circular motion.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Measurement of Length and Motion\n93\nActivity 5.5: Let us investigate\n\n\nTie an eraser (or a potato) to one end of a thread.\n\n\nHang the eraser by holding the other end of the thread \n(Fig. 5.16). Keep your hand steady.\n\n\nUsing the other hand, take the eraser slightly to one \nside and then release (Fig. 5.16). \nDoes it start moving to and fro? Is its motion similar to the \nmotion of a swing? \nWhen an object moves to and fro about some fixed \nposition, its motion is called oscillatory motion.\nFig. 5.16: Oscillatory motion\nFig. 5.15: Circular motion\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 573,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0015_img01",
+          "file": "images/NCERT_fecu105_page0015_img01.png",
+          "bbox": [
+            66.53083801269531,
+            490.0530700683594,
+            242.45556640625,
+            651.2296142578125
+          ],
+          "width_px": 367,
+          "height_px": 336,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0015_img02",
+          "file": "images/NCERT_fecu105_page0015_img02.png",
+          "bbox": [
+            250.83233642578125,
+            488.4197082519531,
+            460.2493591308594,
+            652.829833984375
+          ],
+          "width_px": 437,
+          "height_px": 343,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0015_img03",
+          "file": "images/NCERT_fecu105_page0015_img03.png",
+          "bbox": [
+            63.05647277832031,
+            58.08546447753906,
+            378.60443115234375,
+            250.44744873046875
+          ],
+          "width_px": 658,
+          "height_px": 401,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0015_img04",
+          "file": "images/NCERT_fecu105_page0015_img04.png",
+          "bbox": [
+            313.0854797363281,
+            58.48271179199219,
+            492.44378662109375,
+            246.29302978515625
+          ],
+          "width_px": 374,
+          "height_px": 392,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0015_img05",
+          "file": "images/NCERT_fecu105_page0015_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0015_img06",
+          "file": "images/NCERT_fecu105_page0015_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0015_vecfig01",
+          "file": "images/NCERT_fecu105_page0015_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Fig. 5.15: Circular motion\n\nActivity 5.5: Let us investigate\n\n@ Tie an eraser (or a potato) to one end of a thread.\n\n@ Hang the eraser by holding the other end of the thread\n(Fig. 5.16). Keep your hand steady.\n\n@ Using the other hand, take the eraser slightly to one\nside and then release (Fig. 5.16).\n\nDoes it start moving to and fro? Is its motion similar to the\n\nmotion of a swing?\n\nWhen an object moves to and fro about some fixed\nposition, its motion is called oscillatory motion.\n\nFig. 5.16: Oscillatory motion\n\nReprint 2026-27\n\nMeasurement of Length and Motion\n\nFs"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": "Curiosity | Textbook of Science | Grade 6\n94\nActivity 5.6: Let us investigate\n\n\nTake a thin metal strip of about 50 cm long. \n\n\nHold its one end pressed to a table. You may use a few \nbooks or a brick to hold it (Fig. 5.17). \n\n\nPress the free end of the strip slightly and let it go. \n\n\nObserve the motion of this end of the strip. \nDoes it move up and down? This is also an example of \noscillatory motion. \nFig. 5.17: Oscillatory motion of a metal strip\nActivity 5.7: Let us identify\n\n\nLook at the picture of a children’s park (Fig. 5.18) or \nvisit a children’s park. \n\n\nObserve different kinds of motions. Classify them as \nlinear, circular or oscillatory motion.\nList them in Table 5.4. Give your justification for why you \nput each in a certain category.\nIf an object repeats its path after a fixed interval of time, its \nmotion is said to be periodic. When an object is in circular \nmotion, it moves along the circular path again and again. \nAn object in oscillatory motion also repeats its motion while \nmoving to and fro. Both circular and oscillatory motion are \nperiodic in nature.\nMore to \nknow!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1134,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0016_img01",
+          "file": "images/NCERT_fecu105_page0016_img01.png",
+          "bbox": [
+            223.4637451171875,
+            230.80743408203125,
+            452.12945556640625,
+            383.58148193359375
+          ],
+          "width_px": 477,
+          "height_px": 319,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0016_img02",
+          "file": "images/NCERT_fecu105_page0016_img02.png",
+          "bbox": [
+            122.29676055908203,
+            412.01318359375,
+            557.8446655273438,
+            559.1173706054688
+          ],
+          "width_px": 908,
+          "height_px": 307,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0016_img03",
+          "file": "images/NCERT_fecu105_page0016_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0016_img04",
+          "file": "images/NCERT_fecu105_page0016_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0016_vecfig01",
+          "file": "images/NCERT_fecu105_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nMore to\nknow!\n\nActivity 5.6: Let us investigate SS\n\n®\n®\n\n®\n®\n\nTake a thin metal strip of about 50 cm long.\n\nHold its one end pressed to a table. You may use a few\nbooks or a brick to hold it (Fig. 5.17).\n\nPress the free end of the strip slightly and let it go.\nObserve the motion of this end of the strip.\n\nDoes it move up and down? This is also an example of\noscillatory motion.\n\nFig. 5.17: Oscillatory motion of a metal strip\n\nIf an object repeats its path after a fixed interval of time, its\nmotion is said to be periodic. When an object is in circular\nmotion, it moves along the circular path again and again.\nAn object in oscillatory motion also repeats its motion while\nmoving to and fro. Both circular and oscillatory motion are\nperiodic in nature.\n\nActivity 5.7: Let us identify a\n\n¢\n\nSd\n\nLook at the picture of a children’s park (Fig. 5.18) or\nvisit a children’s park.\n\nObserve different kinds of motions. Classify them as\nlinear, circular or oscillatory motion.\n\nList them in Table 5.4. Give your justification for why you\nput each in a certain category.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Measurement of Length and Motion\n95\nFig. 5.18: Types of motion observed in a children’s park\nTable 5.4: Types of Motion\nObject\nLinear \nmotion\nCircular  \nmotion\nOscillatory \nmotion\nSwing\nMoving to and fro\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 220,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0017_img01",
+          "file": "images/NCERT_fecu105_page0017_img01.png",
+          "bbox": [
+            71.4000015258789,
+            63.102691650390625,
+            503.3999938964844,
+            461.9611511230469
+          ],
+          "width_px": 899,
+          "height_px": 832,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0017_img02",
+          "file": "images/NCERT_fecu105_page0017_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0017_img03",
+          "file": "images/NCERT_fecu105_page0017_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0017_table01",
+          "bbox": [
+            71.27999877929688,
+            568.5369873046875,
+            438.4800059000651,
+            695.6690063476562
+          ],
+          "rows": [
+            [
+              "Swing",
+              "",
+              "",
+              "Moving to and fro"
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              "",
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0017_vecfig01",
+          "file": "images/NCERT_fecu105_page0017_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Object\n\nSwing\n\nFig. 5.18: Types of motion observed in a children’s park\n\nTable 5.4: Types of Motion\n\nLinear Circular Oscillatory\nmotion motion motion\n\nMoving to and fro\n\nReprint 2026-27\n\nMeasurement of Length and Motion\n\n4"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": "Curiosity | Textbook of Science | Grade 6\n96\n\n\nThe International System of Units (SI units) has been \nadopted by countries as standard units of measurement.\n\n\nThe SI unit of length is metre. Its symbol is m.\n\n\n1 km = 1000 m, 1 m = 100 cm, 1 cm = 10 mm.\n\n\nWhen distance is stated with respect to a fixed object or \npoint, then this point is called a reference point.\n\n\nAn object is said to be in motion if its position changes \nwith respect to a reference point with time.\n\n\nWhen an object moves along a straight line, its motion \nis called linear motion.\n\n\nWhen an object moves along a circular path, its motion \nis called circular motion. \n\n\nWhen any object moves to and fro about any fixed \nposition, its motion is called oscillatory motion. \nClassify\nJustification\nIdentify\nExplore\nInvestigate\nObserve\nLinear motion\nLength\nkilometre\nDistance\nCircular motion\ncentimetre\nMeasurement\nSI Unit of Length\nReference point\nOscillatory motion\nMotion\nmillimetre\nmetre\nKeywords\nSummary\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1010,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0018_img01",
+          "file": "images/NCERT_fecu105_page0018_img01.png",
+          "bbox": [
+            235.73995971679688,
+            67.19998168945312,
+            439.8599853515625,
+            115.446533203125
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0018_img02",
+          "file": "images/NCERT_fecu105_page0018_img02.png",
+          "bbox": [
+            235.73995971679688,
+            386.52001953125,
+            439.8599548339844,
+            434.8495788574219
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0018_img03",
+          "file": "images/NCERT_fecu105_page0018_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0018_img04",
+          "file": "images/NCERT_fecu105_page0018_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 19,
+      "text": "Measurement of Length and Motion\n97\n1. \t Some lengths are given in Column I of Table 5.5. Some units \nare given in Column II. Match the lengths with the units \nsuitable for measuring those lengths.\nTable 5.5\nColumn I\nColumn II\nDistance between Delhi and \nLucknow\ncentimetre\nThickness of a coin\nkilometre\nLength of an eraser\nmetre\nLength of school ground\nmillimetre\n2. \t Read the following statements and mark True (T) or False \n(F) against each.\n (i) \t\nThe motion of a car moving on a straight road is an \nexample of linear motion.\b\n[   ]\n (ii)\t\nAny object which is changing its position with respect \nto a reference point with time is said to be in motion.\n\b\n[   ]\n(iii)\t\n1 km = 100 cm\b\n[   ] \n3. \t Which of the following is not a standard unit of measuring \nlength? \n\t\n(i) millimetre (ii) centimetre (iii) kilometre (iv) handspan\n4. \t Search for the different scales or measuring tapes at \nyour home and school. Find out the smallest value that \ncan be measured using each of these scales. Record your \nobservations in a tabular form.\n5. \t Suppose the distance between your school and home is \n1.5 km. Express it in metres.\nLet us enhance our learning \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1171,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0019_img01",
+          "file": "images/NCERT_fecu105_page0019_img01.png",
+          "bbox": [
+            82.77796936035156,
+            38.53571319580078,
+            429.6407470703125,
+            117.8367919921875
+          ],
+          "width_px": 723,
+          "height_px": 165,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0019_img02",
+          "file": "images/NCERT_fecu105_page0019_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0019_img03",
+          "file": "images/NCERT_fecu105_page0019_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0019_table01",
+          "bbox": [
+            72.28889041476779,
+            239.2110595703125,
+            439.4888916015625,
+            389.1689758300781
+          ],
+          "rows": [
+            [
+              "Distance between Delhi and\nLucknow",
+              "centimetre"
+            ],
+            [
+              "Thickness of a coin",
+              "kilometre"
+            ],
+            [
+              "Length of an eraser",
+              "metre"
+            ],
+            [
+              "Length of school ground",
+              "millimetre"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0019_vecfig01",
+          "file": "images/NCERT_fecu105_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Let us enhance our learning\n\nSome lengths are given in Column I of Table 5.5. Some units\nare given in Column II. Match the lengths with the units\nsuitable for measuring those lengths.\n\nTable 5.5\n\nColumn I Column II\n\nDistance between Delhi and\n\nLucknow centimetre\nThickness of a coin kilometre\nLength of an eraser metre\n\nLength of school ground millimetre\n\nRead the following statements and mark True (T) or False\n(F) against each.\n(i) The motion of a car moving on a straight road is an\nexample of linear motion. [ ]\n(ii) Any object which is changing its position with respect\nto a reference point with time is said to be in motion.\n[ ]\n(iii) 1km=100cm [ ]\nWhich of the following is not a standard unit of measuring\nlength?\n(i) millimetre (ii) centimetre (iii) kilometre (iv) handspan\nSearch for the different scales or measuring tapes at\nyour home and school. Find out the smallest value that\n\ncan be measured using each of these scales. Record your\nobservations in a tabular form.\n\nSuppose the distance between your school and home is\n1.5 km. Express it in metres.\n\nReprint 2026-27\n\nMeasurement of Length and Motion"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": "Curiosity | Textbook of Science | Grade 6\n98\n6. \t Take a tumbler or a bottle. Measure the length of the curved \npart of the base of glass or bottle and record it.\n7. \t Measure the height of your friend and express it in (i) metres \n(ii) centimetres and (iii) millimetres.\n8. \t You are given a coin. Estimate how many coins are required \nto be placed one after the other lengthwise, without \nleaving any gap between them, to cover the whole length \nof the chosen side of a notebook. Verify your estimate by \nmeasuring the same side of the notebook and the size of the \ncoin using a 15-cm scale.\n9. \t Give two examples each for linear, circular and oscillatory \nmotion.\n10. \t Observe different objects around you. It is easier to express \nthe lengths of some objects in mm, some in cm and some in \nm. Make a list of three objects in each category and enter \nthem in the Table 5.6. \n11.\t A rollercoaster track \nis made in the shape \nshown in Fig. 5.19. \nA ball starts from \npoint A and escapes \nthrough point F. \nIdentify the types of \nmotion of the ball \non the rollercoaster \nand corresponding \nportions of the track. \n Fig. 5.19: Rollercoaster track\nA\nB\nC\nD\nE\nF\nSize\nObjects\nmm\ncm\nm\nTable 5.6: Sizes of objects around us\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1237,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0020_img01",
+          "file": "images/NCERT_fecu105_page0020_img01.png",
+          "bbox": [
+            308.1486511230469,
+            501.4427490234375,
+            544.2064208984375,
+            695.3611450195312
+          ],
+          "width_px": 492,
+          "height_px": 404,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0020_img02",
+          "file": "images/NCERT_fecu105_page0020_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0020_img03",
+          "file": "images/NCERT_fecu105_page0020_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0020_table01",
+          "bbox": [
+            155.1257062639509,
+            432.6321716308594,
+            522.020866394043,
+            517.4060668945312
+          ],
+          "rows": [
+            [
+              "mm",
+              ""
+            ],
+            [
+              "cm",
+              ""
+            ],
+            [
+              "m",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0020_vecfig01",
+          "file": "images/NCERT_fecu105_page0020_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n10.\n\n11.\n\nTake a tumbler or a bottle. Measure the length of the curved\npart of the base of glass or bottle and record it.\n\nMeasure the height of your friend and express it in (i) metres\n(ii) centimetres and (iii) millimetres.\n\nYou are given a coin. Estimate how many coins are required\nto be placed one after the other lengthwise, without\nleaving any gap between them, to cover the whole length\nof the chosen side of a notebook. Verify your estimate by\nmeasuring the same side of the notebook and the size of the\ncoin using a 15-cm scale.\n\nGive two examples each for linear, circular and oscillatory\nmotion.\n\nObserve different objects around you. It is easier to express\nthe lengths of some objects in mm, some in cm and some in\nm. Make a list of three objects in each category and enter\nthem in the Table 5.6.\n\nTable 5.6: Sizes of objects around us\nSize Objects\n\nmm\ncm.\n\nm\n\nA rollercoaster track\nis made in the shape\nshown in Fig. 5.19.\nA ball starts from\npoint A and escapes\nthrough point F.\nIdentify the types of\nmotion of the ball\non the rollercoaster\nand corresponding\nportions of the track. Fig. 5.19: Rollercoaster track\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "Measurement of Length and Motion\n99\nFig. 5.20: Measuring a leaf\n\n\nCan you find the thickness of a single page of your notebook \nor textbook using a scale? Think of a way and write it. Carry \nout the activity and report your result.\n\n\nCollect fallen leaves from the same tree. Identify the name of \nthe tree whose leaves you have taken. Measure length and \nbreadth of all these leaves using a 15-cm scale, as shown in \nFig. 5.20. Record your observations in the Table 5.7.\nLearning further \nTable 5.7: Length and breadth of leaves\nS. no.\nName of tree\nLength  \nof leaf\nBreadth  \nof leaf\n1.\nDiscuss why the leaves of the same tree vary in length \nand breadth.\n12.\t Tasneem wants to make a metre scale by herself. She \nconsiders the following materials for it—plywood, paper, \ncloth, stretchable rubber and steel. Which of these should \nshe not use and why?\n13.\t Think, design and develop a card game on conversion of \nunits of length to play with your friends. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 979,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0021_img01",
+          "file": "images/NCERT_fecu105_page0021_img01.png",
+          "bbox": [
+            246.1439666748047,
+            357.9020080566406,
+            438.5999755859375,
+            479.1242980957031
+          ],
+          "width_px": 401,
+          "height_px": 253,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0021_img02",
+          "file": "images/NCERT_fecu105_page0021_img02.png",
+          "bbox": [
+            70.39417266845703,
+            357.8826599121094,
+            240.1331787109375,
+            481.4190673828125
+          ],
+          "width_px": 354,
+          "height_px": 258,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0021_img03",
+          "file": "images/NCERT_fecu105_page0021_img03.png",
+          "bbox": [
+            83.3907241821289,
+            159.72247314453125,
+            428.4111328125,
+            224.112060546875
+          ],
+          "width_px": 719,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0021_img04",
+          "file": "images/NCERT_fecu105_page0021_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0021_img05",
+          "file": "images/NCERT_fecu105_page0021_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0021_table01",
+          "bbox": [
+            72.56571633475167,
+            579.6210327148438,
+            439.4571446010045,
+            654.7898254394531
+          ],
+          "rows": [
+            [
+              "1.",
+              "",
+              "",
+              ""
+            ],
+            [
+              "",
+              null,
+              "",
+              ""
+            ],
+            [
+              "",
+              null,
+              "",
+              ""
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0021_vecfig01",
+          "file": "images/NCERT_fecu105_page0021_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "12.\n\n13.\n\nTasneem wants to make a metre scale by herself. She\nconsiders the following materials for it—plywood, paper,\ncloth, stretchable rubber and steel. Which of these should\nshe not use and why?\n\nThink, design and develop a card game on conversion of\nunits of length to play with your friends.\n\nCan you find the thickness of a single page of your notebook\nor textbook using a scale? Think of a way and write it. Carry\nout the activity and report your result.\n\nCollect fallen leaves from the same tree. Identify the name of\nthe tree whose leaves you have taken. Measure length and\nbreadth of all these leaves using a 15-cm scale, as shown in\nFig. 5.20. Record your observations in the Table 5.7.\n\nFig. 5.20: Measuring a leaf\n\nTable 5.7: Length and breadth of leaves\n\nLength Breadth\n\nS. no. Name of tree of leaf of leaf\n\nDiscuss why the leaves of the same tree vary in length\nand breadth.\n\nReprint 2026-27\n\nMeasurement of Length and Motion"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": "Curiosity | Textbook of Science | Grade 6\n100\n\n\nDiscuss with elders in your community what units were \nused for measurement of length in the olden days. Also, \nusing the internet, try to find out about the length scales \nfound in excavations of archaeological sites in India. \n\n\nCreate a maze using lines of 1 cm, 2 cm and their combination. \nPart of it has been made for you in Fig. 5.21. Now use your \nimagination and expand it to a size as big as you want.\n\n\nHow tall am I? Stand along \na wall and with the help of \nan adult, mark your height \n(Fig. 5.22). Repeat it every \nthree months to maintain a \nheight record for yourself \nand your siblings.\n\n\nLet us design a fun method \nfor measuring the distance \nbetween two places by using \na bicycle. Attach a flexible \nmetal strip to the spoke of \nthe front wheel in such a \nmanner that it hits the frame \nof the bicycle holding the \nwheel, every time it crosses it \nand produces a sound (Fig. 5.23). \n\t\nNow ride the bicycle slowly and count the number of times \nin which sound occurred. The number will give you the \nnumber of turns of your wheel made. Now measure the \nlength of the outer boundary of \nthe wheel using a string as done in \nFig. 5.8. Multiply this length by the \nnumber of turns of the wheel. This \nis the distance you travelled.\n\t\n Such methods are actually used \nto measure the distance for road-\nrunning races. Try to find out about \na ‘Jones Counter’ which is attached \nto a bicycle wheel and is used for \nmeasuring distances.\nFig. 5.23: Measuring distance\nFig. 5.22: Measuring height\nFig. 5.21: A maze \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1599,
+      "images": [
+        {
+          "image_id": "NCERT_fecu105_page0022_img01",
+          "file": "images/NCERT_fecu105_page0022_img01.png",
+          "bbox": [
+            107.08921813964844,
+            489.903076171875,
+            311.1062316894531,
+            665.9327392578125
+          ],
+          "width_px": 426,
+          "height_px": 367,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0022_img02",
+          "file": "images/NCERT_fecu105_page0022_img02.png",
+          "bbox": [
+            358.2781982421875,
+            190.57960510253906,
+            522.9739990234375,
+            371.8250732421875
+          ],
+          "width_px": 344,
+          "height_px": 378,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0022_img03",
+          "file": "images/NCERT_fecu105_page0022_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu105_page0022_img04",
+          "file": "images/NCERT_fecu105_page0022_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu105_page0022_vecfig01",
+          "file": "images/NCERT_fecu105_page0022_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Discuss with elders in your community what units were\nused for measurement of length in the olden days. Also,\n\nusing the internet, try to find out about the length scales\nfound in excavations of archaeological sites in India.\n\n— @ Createamazeusing lines of1cm,2cmandtheir combination.\n\nFig. 5.21: A maze\n\nCuriosity | Textbook of Science | Grade 6\n\nPart of it has been made for you in Fig. 5.21. Now use your\nimagination and expand it to a size as big as you want.\n\nHow tall am I? Stand along\na wall and with the help of\nan adult, mark your height\n(Fig. 5.22). Repeat it every\nthree months to maintain a\nheight record for yourself\nand your siblings.\n\n¢ Let us design a fun method\nfor measuring the distance\nbetween two places by using\na bicycle. Attach a flexible\nmetal strip to the spoke of\nthe front wheel in such a\nmanner that it hits the frame\nof the bicycle holding the\nwheel, every time it crosses it\nand produces a sound (Fig. 5.23).\n\nFig. 5.22: Measuring height\n\nNow ride the bicycle slowly and count the number of times\nin which sound occurred. The number will give you the\nnumber of turns of your wheel made. Now measure the\nlength of the outer boundary of\nthe wheel using a string as done in\nFig. 5.8. Multiply this length by the\nnumber of turns of the wheel. This\nis the distance you travelled.\n\nSuch methods are actually used\nto measure the distance for road-\nrunning races. Try to find out about\na Jones Counter’ which is attached\nto a bicycle wheel and is used for\nmeasuring distances.\n\nFig. 5.23: Measuring distance\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+33
+Force and motion
+Play with force  
+and motion.
+URL:
+https://phet.colorado.edu/en/simulation/forces-and-motion-basics
+ICT CORNER
+Step3
+Step2
+Step1
+Steps:
+• Lets learn force and motion on PhET in Google browser. Download and install.
+• Drag any one side and place him in the knot portion of the rope. Now click go.
+• If placed on the right side then the load will move in that direction. The place of 
+the man and the number of man can be changed. The direction of force and the 
+unit of force will display on the screen.
+• If we place equal number of men on both the sides the load will not move.
+• By changing the number of men the strength of force can be changed.
+*Pictures are indicative only

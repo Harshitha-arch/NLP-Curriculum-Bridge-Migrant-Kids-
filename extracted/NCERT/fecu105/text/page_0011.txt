@@ -1,0 +1,36 @@
+Measurement of Length and Motion
+89
+After a few days, Padma was travelling 
+by bus to visit her grandparents in Delhi. 
+She was eager to reach Delhi and was 
+reading the kilometre stones on the side of 
+the road. On one of the kilometre stones, it 
+was written ‘Delhi 70 km’ (Fig. 5.12).
+Further on, the next kilometre stone 
+read ‘Delhi 60 km’. Each kilometre stone 
+indicated that she was getting closer to her 
+grandparents’ house.
+These kilometre stones indicated 
+her distance from Delhi. So, Delhi is 
+the reference point in this situation.
+Fig. 5.13: Positions of kilometre stones with respect to Delhi as a reference point
+If the kilometre stone reads ‘Delhi 70 km’ as shown in 
+Fig. 5.13, we can say that the position of Padma is 70 km 
+from Delhi. When the kilometre stone reads ‘Delhi 60 km’, 
+the position of Padma is 60 km from Delhi.
+What do such 
+kilometre stones 
+indicate? How could 
+Padma conclude that 
+she was getting closer 
+to her destination?
+?
+Fig. 5.12: 
+A kilometre stone
+Does this mean that the position of 
+Padma, with respect to the reference 
+point, is changing with time? When 
+does the position of an object change 
+with respect to a reference point? Does 
+it change when an object is moving? ?
+Reprint 2026-27

@@ -1,0 +1,2312 @@
+{
+  "source_file": "data\\NCERT\\fecu112.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu112",
+  "num_pages": 24,
+  "extraction_method": "native",
+  "native_page_count": 24,
+  "ocr_page_count": 0,
+  "total_images": 107,
+  "images_with_text": 2,
+  "total_tables": 2,
+  "total_vector_figures": 23,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "Beyond Earth\n12\nChapter\nNubra is a beautiful region in Ladakh. An eleven-year old \ngirl Yangdol and her twin brother Dorjay live in one of the \nvillages of this region. \nThey \nlove \ntheir \nsurroundings—the majestic \nmountain \npeaks, \nand \nthe \nglaciers, \nbut \ntheir \nfavourite is the night sky \nwhen the entire sky is lit \nup with thousands of stars \n(Fig. 12.1). The weather in \nNubra is almost cloudless. \nWith almost no air or \nlight pollution, the night \nsky is very clearly visible. \nNight after night, Yangdol \nand Dorjay observe the \nstars and experience an \nimmense sense of awe.\nFig. 12.1: The beauty of night sky from a very dark \nlocation in Ladakh, India\nNubra in Ladakh, India\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 706,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0001_img01",
+          "file": "images/NCERT_fecu112_page0001_img01.png",
+          "bbox": [
+            -17.879974365234375,
+            -18.599960327148438,
+            612.1199951171875,
+            196.48004150390625
+          ],
+          "width_px": 1315,
+          "height_px": 448,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0001_img02",
+          "file": "images/NCERT_fecu112_page0001_img02.png",
+          "bbox": [
+            252.9759521484375,
+            459.6162109375,
+            503.68157958984375,
+            684.0101928710938
+          ],
+          "width_px": 523,
+          "height_px": 468,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0001_img03",
+          "file": "images/NCERT_fecu112_page0001_img03.png",
+          "bbox": [
+            70.31761932373047,
+            254.77227783203125,
+            503.3999938964844,
+            428.9305419921875
+          ],
+          "width_px": 902,
+          "height_px": 363,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0001_img04",
+          "file": "images/NCERT_fecu112_page0001_img04.png",
+          "bbox": [
+            457.39996337890625,
+            124.99959564208984,
+            542.3599853515625,
+            209.9595947265625
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0001_img05",
+          "file": "images/NCERT_fecu112_page0001_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0001_img06",
+          "file": "images/NCERT_fecu112_page0001_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0001_vecfig01",
+          "file": "images/NCERT_fecu112_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Nubra is a beautiful region in Ladakh. An eleven-year old\n\ngirl Yangdol and her twin brother Dorjay live in one of the\n\nvillages of this region.\n\nx xj 5 ie 7\n\nNubra in Ladakh, India\n\nThey love their\nsurroundings—the majestic\nmountain peaks, and\nthe glaciers, but their\nfavourite is the night sky\nwhen the entire sky is lit\nup with thousands of stars\n(Fig. 12.1). The weather in\nNubra is almost cloudless.\nWith almost no air or\nlight pollution, the night\nsky is very clearly visible.\nNight after night, Yangdol\nand Dorjay observe the\nstars and experience an\nimmense sense of awe.\n\nFig. 12.1: The beauty of night sky from a very dark\nlocation in Ladakh, India\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": " Curiosity | Textbook of Science | Grade 6\n232\nGrowing up, Yangdol and Dorjay have been hearing \ninteresting stories about stars from their elders. They have \nheard how some particular stars in the clear skies helped \nthe caravans passing through Nubra in finding direction in \nthe ancient days. They wonder how far away and how big \nthe stars are. They also enjoy trying to find some patterns \namong the stars that remind them of familiar objects. Have \nyou ever looked at the stars in the night sky and tried to \nconnect them with imaginary lines, just like dots and lines \nin a drawing? \nActivity 12.1: Let us draw\n\n\nFig. 12.2 shows bright stars in one part of the night sky. \n\n\nLook at it carefully and try to imagine a pattern formed \nby a group of stars.\n\n\nDraw lines to connect the stars and make the pattern.\n\n\nThink of an animal or an object that is similar to the \npattern drawn by you. Write its name near your pattern.\nFig. 12.2: A part of the night sky\n\n Repeat the above \nsteps and make some \nmore patterns.\n\n Now think of an \ninteresting story \nabout your patterns.\nCompare \nyour \npatterns \nwith \nthe \npatterns drawn by your \nfriends. Are the patterns \nsame \nor \ndifferent? \nNarrate your story to \nothers and listen to their \nstories. Do you notice \nthat everyone’s patterns, \nnames and stories are \ndifferent? Is it not fun?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1369,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0002_img01",
+          "file": "images/NCERT_fecu112_page0002_img01.png",
+          "bbox": [
+            114.4922866821289,
+            391.4263610839844,
+            351.6000061035156,
+            674.94384765625
+          ],
+          "width_px": 495,
+          "height_px": 592,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0002_img02",
+          "file": "images/NCERT_fecu112_page0002_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0002_img03",
+          "file": "images/NCERT_fecu112_page0002_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0002_vecfig01",
+          "file": "images/NCERT_fecu112_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nGrowing up, Yangdol and Dorjay have been hearing\ninteresting stories about stars from their elders. They have\nheard how some particular stars in the clear skies helped\nthe caravans passing through Nubra in finding direction in\nthe ancient days. They wonder how far away and how big\nthe stars are. They also enjoy trying to find some patterns\namong the stars that remind them of familiar objects. Have\nyou ever looked at the stars in the night sky and tried to\nconnect them with imaginary lines, just like dots and lines\n\nin a drawing?\n\nFig. 12.2 shows bright stars in one part of the night sky.\n\nLook at it carefully and try to imagine a pattern formed\n\nby a group of stars.\n\nDraw lines to connect the stars and make the pattern.\n\nThink of an animal or an object that is similar to the\npattern drawn by you. Write its name near your pattern.\n\nFig. 12.2: A part of the night sky\n\nReprint 2026-27\n\nRepeat the above\nsteps and make some\nmore patterns.\n\nNow think of an\ninteresting story\nabout your patterns.\n\nCompare your\npatterns with the\npatterns drawn by your\nfriends. Are the patterns\nsame or _ different?\nNarrate your story to\nothers and listen to their\nstories. Do you notice\nthat everyone’s patterns,\nnames and stories are\ndifferent? Is it not fun?"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "Beyond Earth\n233\n12.1 Stars and Constellations\nAt night, when we look up at the sky, we see \nmany stars. Some stars are bright and others \nare dim. Stars shine with their own light. \nSome groups of stars appear to form \npatterns which are like shapes of familiar \nthings. Long ago, when watching stars in \nthe night sky was a favourite pastime of our \nancestors, they identified these star patterns with animals, \nthings or characters in stories. Many cultures had names \nfor patterns based on their own stories. These imaginary \nshapes helped them in recognising stars in the sky. \nRecognising stars and their patterns was a useful skill \nfor navigation in the olden times. Before the arrival of \nmodern technology or even before the invention of the \nmagnetic compass, it helped people, particularly sailors \nand travellers, in finding directions at sea or on land. It is \nstill used in emergencies as a backup method.  \nIn earlier times, groups of stars forming patterns were \ncalled constellations. Currently, the term constellation \nrefers to defined regions of the sky that often include these \npatterns of stars. However, as the patterns of stars are often \nthe most noticeable feature, the term constellation is still \ncommonly used for these groups of stars.\nDo we find patterns \namong the stars just \nfor fun or is there \nsome use of these \npatterns?\nSince different cultures denoted the constellation \nboundaries in different ways, an internationally agreed \nset of constellation boundaries were defined by the \nInternational Astronomical Union (IAU) in the early \ntwentieth century. 88 constellations were officially \nlisted, thus, dividing the entire sky into 88 regions. \nThese regions of sky are now defined as constellations.\nMore to \nknow!\nSome constellations are shown in Fig. 12.3. The stars \nare joined by imaginary lines, drawn for easy identification. \nThe constellation Orion is often represented as a hunter. \nThere are three stars in the middle, which represent the belt \nof the hunter. Some people imagine that the hunter Orion, \nfollowed by his dog (constellation Canis Major), is battling \na bull (constellation Taurus). Canis Major contains a star \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2194,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0003_img01",
+          "file": "images/NCERT_fecu112_page0003_img01.png",
+          "bbox": [
+            432.33319091796875,
+            193.14849853515625,
+            541.9066162109375,
+            317.83148193359375
+          ],
+          "width_px": 229,
+          "height_px": 260,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0003_img02",
+          "file": "images/NCERT_fecu112_page0003_img02.png",
+          "bbox": [
+            67.21371459960938,
+            460.0,
+            494.1297302246094,
+            603.4000244140625
+          ],
+          "width_px": 890,
+          "height_px": 299,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0003_img03",
+          "file": "images/NCERT_fecu112_page0003_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0003_img04",
+          "file": "images/NCERT_fecu112_page0003_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0003_vecfig01",
+          "file": "images/NCERT_fecu112_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "mu «12.1 Stars and Constellations\n\nAt night, when we look up at the sky, we see\n\nmany stars. Some stars are bright and others Do we find patterns\n\nare dim. Stars shine with their own light. among the stars just\nSome groups of stars appear to form for fun or is there\n\npatterns which are like shapes of familiar some use of these\n\nthings. Long ago, when watching stars in\nthe night sky was a favourite pastime of our\nancestors, they identified these star patterns with animals,\nthings or characters in stories. Many cultures had names\nfor patterns based on their own stories. These imaginary\nshapes helped them in recognising stars in the sky.\n\nRecognising stars and their patterns was a useful skill\nfor navigation in the olden times. Before the arrival of\nmodern technology or even before the invention of the\nmagnetic compass, it helped people, particularly sailors\nand travellers, in finding directions at sea or on land. It is\nstill used in emergencies as a backup method.\n\nIn earlier times, groups of stars forming patterns were\ncalled constellations. Currently, the term constellation\nrefers to defined regions of the sky that often include these\npatterns of stars. However, as the patterns of stars are often\nthe most noticeable feature, the term constellation is still\ncommonly used for these groups of stars.\n\nSince different cultures denoted the constellation\nboundaries in different ways, an internationally agreed\nset of constellation boundaries were defined by the\nInternational Astronomical Union (IAU) in the early\ntwentieth century. 88 constellations were officially\nlisted, thus, dividing the entire sky into 88 regions.\nThese regions of sky are now defined as constellations.\n\nSome constellations are shown in Fig. 12.3. The stars\nare joined by imaginary lines, drawn for easy identification.\nThe constellation Orion is often represented as a hunter.\nThere are three stars in the middle, which represent the belt\nof the hunter. Some people imagine that the hunter Orion,\nfollowed by his dog (constellation Canis Major), is battling\na bull (constellation Taurus). Canis Major contains a star\n\nReprint 2026-27\n\npatterns?\n\nMore to\nknow!\n\nBeyond Earth\n\n©"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": " Curiosity | Textbook of Science | Grade 6\n234\nFig. 12.3: Some constellations and stars\n(The red lines indicate the patterns of stars while the green lines indicate the \nregions of the sky. The lines are not seen in the sky and have been drawn only \nfor easy identification) \nSirius\nCanis \nMajor\nOrion\nTaurus\nIn Indian astronomy, the term nakṣhatra is used to denote \neither a certain star or a group of stars, such as Ārdrā \n(a star called Betelgeuse in the Orion constellation) and \nKṛittikā (a group of stars called Pleiades in the Taurus \nconstellation). Aldebaran, a star in the constellation \nTaurus, is known as Rohiṇī.\nMore to \nknow!\nBetelguese \n(Ārdrā)\nAldebaran \n(Rohiṇī)\nPleiades \n(Kṛittikā)\nSirius\nCanis \nMajor\nOrion\nTaurus\ncalled Sirius, which is the brightest star in the night  sky \n(Fig. 12.3).\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 827,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0004_img01",
+          "file": "images/NCERT_fecu112_page0004_img01.png",
+          "bbox": [
+            127.9000473022461,
+            114.21531677246094,
+            521.4000244140625,
+            307.0560302734375
+          ],
+          "width_px": 820,
+          "height_px": 402,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": "‘ 4\nx {\na PbS \\/ oa\na pa “<< °- 5\n."
+        },
+        {
+          "image_id": "NCERT_fecu112_page0004_img02",
+          "file": "images/NCERT_fecu112_page0004_img02.png",
+          "bbox": [
+            98.39995574951172,
+            362.5243225097656,
+            540.6133422851562,
+            746.89697265625
+          ],
+          "width_px": 922,
+          "height_px": 801,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0004_img03",
+          "file": "images/NCERT_fecu112_page0004_img03.png",
+          "bbox": [
+            122.1999740600586,
+            396.3422546386719,
+            513.5154418945312,
+            596.8406982421875
+          ],
+          "width_px": 815,
+          "height_px": 418,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0004_img04",
+          "file": "images/NCERT_fecu112_page0004_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0004_img05",
+          "file": "images/NCERT_fecu112_page0004_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0004_vecfig01",
+          "file": "images/NCERT_fecu112_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\ncalled Sirius, which is the brightest star in the night sky\n(Fig. 12.3).\n\nSirius\n\nTaurus\n\nFig. 12.3: Some constellations and stars\n\n(The red lines indicate the patterns of stars while the green lines indicate the\nregions of the sky. The lines are not seen in the sky and have been drawn only\nfor easy identification)\n\nBete Iguese\n\na\na ee) Pp ~ Aldebaran , Pleiades\nfou: | (Rohini) (Krittika)\n\nTaurus\n\nIn Indian astronomy, the term nakshatra is used to denote\neither a certain star or a group of stars, such as Ardra\n(a star called Betelgeuse in the Orion constellation) and\nkrittika (a group of stars called Pleiades in the Taurus\nconstellation). Aldebaran, a star in the constellation\nMore to = Taurus, is known as Rohini.\nknow!\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "Beyond Earth\n235\nTwo distinct patterns of stars, the Big Dipper and the \nLittle Dipper, are shown in Fig. 12.4. The Pole Star or Polaris, \nwhich is part of the Little Dipper is also shown (Fig. 12.4).\nThe Pole Star appears nearly stationary in the North \ndirection. This helps to locate the North direction in the \nNorthern hemisphere.\nThe Big Dipper lies in the \nconstellation Ursa Major \nwhile the Little Dipper \nlies in the constellation \nUrsa Minor. In India, the \nBig Dipper is known \nas Saptaṛiṣhi, and the \nPole Star is known as \nDhruva tārā.  \nMore to \nknow!\nApart from common regional stories associated \nwith stars in the constellations, many forest \ndwelling communities or tribes of India also have \ntheir own stories about them. For example, the \nfour stars in the Big Dipper that approximately \nform a rectangle, are viewed by tribes in Central \nIndia as the “grandmother’s cot” with \nthe three thieves (other three stars) \nstealing it. Fishermen along the \nKonkan coast imagine the four \nstars as a boat, with the last three \nstars as the neck of the boat.\nDo you \nknow?\nHow can \nwe identify \nsome of these \nconstellations in \nthe night sky?\nFig. 12.4: Big Dipper, Little Dipper \nand Pole Star (The lines are not seen \nin the sky and have been drawn \nonly for easy identification)\nPole star\nBig Dipper\nLittle \nDipper\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1348,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0005_img01",
+          "file": "images/NCERT_fecu112_page0005_img01.png",
+          "bbox": [
+            259.43994140625,
+            187.7368927001953,
+            459.4201354980469,
+            393.9200744628906
+          ],
+          "width_px": 417,
+          "height_px": 430,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0005_img02",
+          "file": "images/NCERT_fecu112_page0005_img02.png",
+          "bbox": [
+            45.84637451171875,
+            443.86883544921875,
+            390.1609802246094,
+            726.0311279296875
+          ],
+          "width_px": 717,
+          "height_px": 589,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0005_img03",
+          "file": "images/NCERT_fecu112_page0005_img03.png",
+          "bbox": [
+            395.7588195800781,
+            516.39990234375,
+            516.2205200195312,
+            653.9349365234375
+          ],
+          "width_px": 251,
+          "height_px": 287,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0005_img04",
+          "file": "images/NCERT_fecu112_page0005_img04.png",
+          "bbox": [
+            72.5405044555664,
+            182.73681640625,
+            248.63320922851562,
+            395.4568176269531
+          ],
+          "width_px": 367,
+          "height_px": 443,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0005_img05",
+          "file": "images/NCERT_fecu112_page0005_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0005_img06",
+          "file": "images/NCERT_fecu112_page0005_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0005_vecfig01",
+          "file": "images/NCERT_fecu112_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Two distinct patterns of stars, the Big Dipper and the\nLittle Dipper, are shown in Fig. 12.4. The Pole Star or Polaris,\nwhich is part of the Little Dipper is also shown (Fig. 12.4).\n\nThe Pole Star appears nearly stationary in the North\n\ndirection. This helps to locate the North direction in the\nNorthern hemisphere.\n\nThe Big Dipper lies in the\nconstellation Ursa Major\nwhile the Little Dipper\nlies in the constellation\nUrsa Minor. In India, the\nBig Dipper is known\nas Saptarishi, and the\nPole Star is known as\nDhruva tarda.\n\nMore to\n: know!\nPole star —* *\nFig. 12.4: Big Dipper, Little Dipper How can\nand Pole Star (The lines are not seen we identi\nin the sky and have been drawn fy\nonly for easy identification) some of these\nconstellations in\nthe night sky?\n\n: “eh\nApart from common regional stories associat\n\ni 1\nwith stars in the constellations, many ee\ndwelling communities or tribes of India a Ae\ntheir own stories about them. For examp S\n\nfour stars in the Big Dipper that approximately\n\nar al\nform a rectangle, are viewed by tribes in Centr\n\nIndia as the “srandmother’s cot” with\nthe three thieves (other three stars)\nstealing it. Fishermen along the\nKonkan coast imagine the four\nstars as a boat, with the last three\n\nReprint 2026-27\n\nBeyond Earth"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": " Curiosity | Textbook of Science | Grade 6\n236\n12.2 Night Sky Watching\nIf it is a clear cloudless night, a large number of stars may be \nvisible in the sky. If you stay in a big city, you may find that \nthe sky is rarely clear and only a few stars are seen in the \nnight sky. This is due to light pollution, smoke and dust. The \npresence of excessive artificial light at night time is referred \nto as light pollution. In villages or areas where there is less \nlight pollution, a larger number of stars can be seen. Also, \nyour house may be surrounded by tall buildings and trees, \nwhich may block your view. The night sky is best viewed \nfrom open dark areas. \nLight pollution is growing sharply globally. This is reducing our \nability to enjoy and study objects in the night sky. Some \ndark sky reserves and parks have been established \naround the world. Light pollution in the reserves is \ncontrolled to preserve dark skies for research. There \nare organisations which are working to educate people \nabout reducing light pollution.\nDo you \nknow?\nNot all stars and constellations are visible from \nall places on Earth and on all nights in a year. \nFor example, the Pole Star is not visible from \nthe southern hemisphere of Earth. To identify \na star or a constellation, you need to know \nhow a particular constellation looks like \nand where to look for it in the night sky. To \nget familiar with the pattern of a constellation \nyou may use images such as Fig. 12.3 and Fig. 12.4. \nTo find out when and in which portion of the sky a star or \na constellation will be visible from your location, you may \ntake the help of sky mapping apps that can be downloaded \non a mobile phone, or other online resources.\nSky Map is a very handy app for identification \nof stars, constellations and planets from mobile \nphones. Stellarium is another such app. The \ncomputer version of Stellarium is free for \ndownload and has many features.\nMore to \nknow!\nCan we try to find \nany constellation \nor star of our \nchoice on any \nnight from our \nlocation?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 2053,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0006_img01",
+          "file": "images/NCERT_fecu112_page0006_img01.png",
+          "bbox": [
+            106.68002319335938,
+            255.5728302001953,
+            545.8800048828125,
+            409.65283203125
+          ],
+          "width_px": 915,
+          "height_px": 322,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0006_img02",
+          "file": "images/NCERT_fecu112_page0006_img02.png",
+          "bbox": [
+            123.96002197265625,
+            621.7495727539062,
+            503.2814636230469,
+            731.6295776367188
+          ],
+          "width_px": 791,
+          "height_px": 229,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0006_img03",
+          "file": "images/NCERT_fecu112_page0006_img03.png",
+          "bbox": [
+            40.160011291503906,
+            465.8898010253906,
+            150.65611267089844,
+            591.6226196289062
+          ],
+          "width_px": 231,
+          "height_px": 262,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0006_img04",
+          "file": "images/NCERT_fecu112_page0006_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0006_img05",
+          "file": "images/NCERT_fecu112_page0006_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0006_vecfig01",
+          "file": "images/NCERT_fecu112_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "i | 2.2 Night Sky Watching\n\nIf it is a clear cloudless night, a large number of stars may be\nvisible in the sky. If you stay in a big city, you may find that\nthe sky is rarely clear and only a few stars are seen in the\nnight sky. This is due to light pollution, smoke and dust. The\npresence of excessive artificial light at night time is referred\nto as light pollution. In villages or areas where there is less\nlight pollution, a larger number of stars can be seen. Also,\nyour house may be surrounded by tall buildings and trees,\nwhich may block your view. The night sky is best viewed\nfrom open dark areas.\n\nLight pollution is growing sharply globally. This is reducing our\nability to enjoy and study objects in the night sky. Some\ndark sky reserves and parks have been established\naround the world. Light pollution in the reserves is\ncontrolled to preserve dark skies for research. There\nare organisations which are working to educate people\nDo you about reducing light pollution.\nknow?\n\nNot all stars and constellations are visible from\nall places on Earth and on all nights in a year.\nCan we try to find \\. For example, the Pole Star is not visible from\nany constellation the southern hemisphere of Earth. To identify\nor star of our ;\n; a star or a constellation, you need to know\nchoice on any ; . .\nnight from our how a particular constellation looks like\nlocation? and where to look for it in the night sky. To\nget familiar with the pattern of a constellation\nyou may use images such as Fig. 12.3 and Fig. 12.4.\n» To find out when and in which portion of the sky a star or\na constellation will be visible from your location, you may\ntake the help of sky mapping apps that can be downloaded\non a mobile phone, or other online resources.\n\nSky Map is a very handy app for identification\n\nof stars, constellations and planets from mobile\n\nphones. Stellarium is another such app. The More to\ncomputer version of Stellarium is free for know!\ndownload and has many features.\n\nCuriosity | Textbook of Science | Grade 6\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "Beyond Earth\n237\nPreparation for night sky watching\n\n\nUnder the guidance of adults, identify a dark open area \nfor night sky watching. This should be away from lights, \ntall buildings and trees. \n\n\nWith the help of an app, choose the date and time based \nupon what you plan to identify in the night sky. \n\n\nChoose a night where neither the Moon nor the clouds \nare visible particularly for identifying the Pole Star \nwhich is not very bright.\n\n\nIt may be useful to have access to a mobile app with a \nmap of the sky, or print out images of the constellations \nyou plan to view. You may also carry a magnetic compass \nto find directions and a notebook to note or draw your \nobservations.\n\n\nOn the particular day and time selected, go to the \nidentified place with an adult, where the night sky \nwatching is to be done.\n\n\nAfter reaching there, wait for about half an hour for \nyour eyes to get adjusted to the darkness. This will \nhelp you to see the night sky better (Fig. 12.5).\nFig. 12.5: Night sky watching\nCaution  \nDo not go to a \ndark open place \nat night time \nwithout adults \naccompanying you.\nYou may easily identify the Big Dipper and the Pole Star in the \nnight sky.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1205,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0007_img01",
+          "file": "images/NCERT_fecu112_page0007_img01.png",
+          "bbox": [
+            71.4000015258789,
+            429.841552734375,
+            481.7999572753906,
+            656.7175903320312
+          ],
+          "width_px": 852,
+          "height_px": 471,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0007_img02",
+          "file": "images/NCERT_fecu112_page0007_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0007_img03",
+          "file": "images/NCERT_fecu112_page0007_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0007_table01",
+          "bbox": [
+            426.4949951171875,
+            303.5220031738281,
+            539.5350341796875,
+            414.7619934082031
+          ],
+          "rows": [
+            [
+              "Caution\nDo not go to a\ndark open place\nat night time\nwithout adults\naccompanying you",
+              "."
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0007_vecfig01",
+          "file": "images/NCERT_fecu112_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Preparation for night sky watching\n\nUnder the guidance of adults, identify a dark open area\nfor night sky watching. This should be away from lights,\ntall buildings and trees.\n\nWith the help of an app, choose the date and time based\nupon what you plan to identify in the night sky.\n\nChoose a night where neither the Moon nor the clouds\nare visible particularly for identifying the Pole Star\nwhich is not very bright.\n\nIt may be useful to have access to a mobile app with a\nmap of the sky, or print out images of the constellations\nyou plan to view. You may also carry a magnetic compass\nto find directions and a notebook to note or draw your\nobservations. A\n\nOn the particular day and time selected, go to the maton\n\nidentified place with an adult, where the night sky Do not go toa\n\nwatching is to be done. dark open place\nat night time\n\nAfter reaching there, wait for about half an hour for without adults\n\nyour eyes to get adjusted to the darkness. This will Seo ON\n\nhelp you to see the night sky better (Fig. 12.5).\n\nBeyond Earth\n\nFig. 12.5: Night sky watching\n\nYou may easily identify the Big Dipper and the Pole Star in the\nnight sky.\n\n©\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": " Curiosity | Textbook of Science | Grade 6\n238\nActivity 12.2: Let us try to locate\n\n\nLook for the Big Dipper during summer time in the \nearly part of the night, say, around 9 p.m. View the sky \ntowards the northern part of the sky and identify the \nBig Dipper. \n\n\nOnce you identify the Big Dipper, try to locate the Pole \nStar. Look at the two stars present at the end of the \nBig Dipper’s cup and imagine a straight line passing \nthrough these towards the north. At about five times \nthe distance between these two stars, the imaginary \nline will lead to another star which is not very bright. \nThis star is the Pole Star. \nYou may also locate the bright constellation Orion and the \nstar Sirius in the night sky. \nActivity 12.3: Let us try to identify \n\n\nIn India, Orion is best viewed during the months of \nDecember to April after sunset. So, look for it during \nthat period. \n\n\nThree bright stars in a short straight line \nare located around the middle of Orion \n(imagined to be the belt of a hunter). \nIdentify these three stars first, as this is \nthe easiest way to find Orion.  \n\n\nOnce you identify Orion, it is easy to \nlocate the very bright star Sirius which is \nlocated close to Orion. Imagine a straight \nline passing through the three middle \nstars of Orion and look along this line \ntowards the east. This will lead to Sirius.  \n12.3 Our Solar System\nThe Sun\nThe Sun is a star. It is the star closest to us. It is an extremely \nhot spherical ball of gases. The Sun gives out a huge \namount of energy, and that is why it glows so brightly. \nWhich \nstar is \nclosest to \nus?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1612,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0008_img01",
+          "file": "images/NCERT_fecu112_page0008_img01.png",
+          "bbox": [
+            75.74384307861328,
+            461.51385498046875,
+            186.23995971679688,
+            586.260009765625
+          ],
+          "width_px": 231,
+          "height_px": 260,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0008_img02",
+          "file": "images/NCERT_fecu112_page0008_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0008_img03",
+          "file": "images/NCERT_fecu112_page0008_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0008_vecfig01",
+          "file": "images/NCERT_fecu112_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nActivity 12.2: Letustry tolocate) [—_—__——ee\n\n¢ Look for the Big Dipper during summer time in the\nearly part of the night, say, around 9 p.m. View the sky\ntowards the northern part of the sky and identify the\nBig Dipper.\n\n@ Once you identify the Big Dipper, try to locate the Pole\nStar. Look at the two stars present at the end of the\nBig Dipper’s cup and imagine a straight line passing\nthrough these towards the north. At about five times\nthe distance between these two stars, the imaginary\nline will lead to another star which is not very bright.\nThis star is the Pole Star.\n\nYou may also locate the bright constellation Orion and the\nstar Sirius in the night sky.\n\nActivity 12.3: Let us try to identify i\n\n¢ In India, Orion is best viewed during the months of\nDecember to April after sunset. So, look for it during\nthat period.\n\n¢ Three bright stars in a short straight line\nare located around the middle of Orion\n\nWhich re 1G\n\nstar is (imagined to be the belt of a hunter).\n\nclosest to Identify these three stars first, as this is\nus? the easiest way to find Orion.\n\nOnce you identify Orion, it is easy to\nlocate the very bright star Sirius which is\nlocated close to Orion. Imagine a straight\nline passing through the three middle\nstars of Orion and look along this line\ntowards the east. This will lead to Sirius.\n\nmum 12.3 Our Solar System\nThe Sun\n\nThe Sun is a star. It is the star closest to us. It is an extremely\nhot spherical ball of gases. The Sun gives out a huge\namount of energy, and that is why it glows so brightly.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 9,
+      "text": "Beyond Earth\n239\nFig. 12.6: The rising Sun\nThe Sun, being the brightest \nobject and the source of light \nand heat on Earth, was elevated in most \nancient civilizations to the status of a deity. \nIn India, the Sun is worshipped as Sūrya. The \nheat provided by the Sun keeps the Earth \nat a temperature that makes life possible. \nSunlight is essential for plants to grow, \nwhich provide food and oxygen to animals, \nincluding humans. The Sun is responsible for \nclimate, seasons, weather, water cycle, \nwinds—all of which are important for \nsustaining life on the Earth. \nThe distance of the Sun from the Earth is about 150 million km. \nA useful unit for expressing distances within the solar system \nis ‘astronomical unit’ (au) which is approximately the \ndistance between the Sun and the Earth.\nThe Sun produces heat and \nlight, and is the main source \nof energy on the Earth \n(Fig. 12.6).\nHow big is the Sun? It is \nabout 100 times bigger than \nthe Earth in diameter. And \nstill, it looks so small because \nit is very far from the Earth.\nHowever, the Sun is much closer to us than the other stars \nhence it appears much bigger than the stars. As the stars \n(other than the Sun) are much farther away, they appear \nlike points, even though some of those stars are much bigger \nOur \nSun is also a \nstar. So how is it that \nthe Sun appears big and \nlights up the sky while the \nother stars look like bright \ndots in the night sky and \nare not even visible \nduring the day time?\nMore to \nknow!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1507,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0009_img01",
+          "file": "images/NCERT_fecu112_page0009_img01.png",
+          "bbox": [
+            258.987060546875,
+            71.37254333496094,
+            533.2998046875,
+            214.4886474609375
+          ],
+          "width_px": 572,
+          "height_px": 299,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0009_img02",
+          "file": "images/NCERT_fecu112_page0009_img02.png",
+          "bbox": [
+            46.70856475830078,
+            326.606689453125,
+            382.07708740234375,
+            628.994384765625
+          ],
+          "width_px": 698,
+          "height_px": 631,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0009_img03",
+          "file": "images/NCERT_fecu112_page0009_img03.png",
+          "bbox": [
+            57.52299499511719,
+            238.93463134765625,
+            485.8746337890625,
+            355.0193786621094
+          ],
+          "width_px": 894,
+          "height_px": 242,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0009_img04",
+          "file": "images/NCERT_fecu112_page0009_img04.png",
+          "bbox": [
+            324.8399353027344,
+            501.79180908203125,
+            474.6419677734375,
+            625.8941650390625
+          ],
+          "width_px": 313,
+          "height_px": 259,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0009_img05",
+          "file": "images/NCERT_fecu112_page0009_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0009_img06",
+          "file": "images/NCERT_fecu112_page0009_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0009_vecfig01",
+          "file": "images/NCERT_fecu112_page0009_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "The Sun produces heat and\nlight, and is the main source\nof energy on the Earth\n(Fig. 12.6).\n\nHow big is the Sun? It is\nabout 100 times bigger than\nthe Earth in diameter. And\nstill, it looks so small because\nit is very far from the Earth.\n\nFig. 12.6: The rising Sun\n\nThe distance of the Sun from the Earth is about 150 million km.\nA useful unit for expressing distances within the solar system\nis ‘astronomical unit’ (au) which is approximately the\ndistance between the Sun and the Earth.\n\nMore to\nKnow! The Sun, being the brightest . om ;\nj d the source of light un is also”\nce ade levated in most star. So how is it that\nev\n\nand heat on Earth, was €\n\nthe Sun appears big and\nncient civilizations to the status of a deity.\na\n\nlights up the sky while the\n\nrshipped as Surya other stars look like brig\nIn India, ee oe ae Me ee ce the Earth dots in the night sky and\nrea aaeees that makes life possible. are not even visible\nat a temperature tial for plants to grow, during the day time?\nSunlight is essentia\n\nimals,\nwhich provide food and oxygen to ae a\nincluding humans. The Sunis resp on\nj weather, water cycle,\nclimate, seasons,\nwinds—all of which are important for\nsustaining life on the Earth.\n\nHowever, the Sun is much closer to us than the other stars\nhence it appears much bigger than the stars. As the stars\n(other than the Sun) are much farther away, they appear\nlike points, even though some of those stars are much bigger\n\n8\n\nReprint 2026-27\n\nBeyond Earth"
+        }
+      ]
+    },
+    {
+      "page_number": 10,
+      "text": " Curiosity | Textbook of Science | Grade 6\n240\nthan our Sun. During daytime, due to the extreme brightness \nof the Sun, it is not possible to view other stars from Earth.\nWhile revolving around the Sun, the Earth is also \nrotating about its axis. For one full rotation, the \nEarth takes about 24 hours which is called a day. \nLike the Earth, other planets also rotate about \ntheir axes while revolving around the Sun.  You \nwill learn more about this in the next Grade.\nMore to \nknow!\nPlanets\nA planet is a large, nearly spherical object that revolves \naround the Sun. Our Earth is a planet as it revolves around \nthe Sun as shown in Fig. 12.7. The Earth takes nearly one \nyear to complete one revolution. Like the Earth, there are \nother planets that revolve around the Sun.\nThe star nearest to us after the Sun is Proxima \nCentauri which lies at a distance of about \n269000 au. This means that its distance is about \n269000 times our distance to the Sun.\nMore to \nknow!\nThere are many more objects \nin the sky.  Our Earth, along \nwith some of these objects, \nand the Sun together form \nour Solar System (Fig. 12.7). \nMost of these objects move \naround \nthe \nSun. \nThe \nmovement of an object around \nthe Sun is called revolution.\nAre stars the only \nobjects in the sky? \nOr, are there more \nobjects which \nwe may not have \nnoticed? \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1350,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0010_img01",
+          "file": "images/NCERT_fecu112_page0010_img01.png",
+          "bbox": [
+            126.83999633789062,
+            535.3599853515625,
+            530.0799560546875,
+            683.679931640625
+          ],
+          "width_px": 841,
+          "height_px": 309,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0010_img02",
+          "file": "images/NCERT_fecu112_page0010_img02.png",
+          "bbox": [
+            145.39999389648438,
+            122.29680633544922,
+            510.6399841308594,
+            226.29681396484375
+          ],
+          "width_px": 761,
+          "height_px": 217,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0010_img03",
+          "file": "images/NCERT_fecu112_page0010_img03.png",
+          "bbox": [
+            126.1199722290039,
+            281.260498046875,
+            236.61607360839844,
+            400.0326232910156
+          ],
+          "width_px": 231,
+          "height_px": 248,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0010_img04",
+          "file": "images/NCERT_fecu112_page0010_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0010_img05",
+          "file": "images/NCERT_fecu112_page0010_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0010_vecfig01",
+          "file": "images/NCERT_fecu112_page0010_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nthan our Sun. During daytime, due to the extreme brightness\nof the Sun, it is not possible to view other stars from Earth.\n\nThe star nearest to us after the Sun is Proxima\n\nCentauri which lies at a distance of about\n\n269000 au. This means that its distanceisabout More to\n269000 times our distance to the Sun. know!\n\nThere are many more objects\nAre stars the only in the sky. Our Earth, along\nobjects in the sky? with some of these objects,\nOr, are there more and the Sun together form\nobjects which our Solar System (Fig. 12.7).\n\nwe may not have .\nnoticed? Most of these objects move\naround the Sun. The\nmovement of an object around\n\nthe Sun is called revolution.\n\nPlanets\n\nA planet is a large, nearly spherical object that revolves\naround the Sun. Our Earth is a planet as it revolves around\nthe Sun as shown in Fig. 12.7. The Earth takes nearly one\nyear to complete one revolution. Like the Earth, there are\nother planets that revolve around the Sun.\n\nWhile revolving around the Sun, the Earth is also\n\nrotating about its axis. For one full rotation, the\nEarth takes about 24 hours which is called a day.\nLike the Earth, other planets also rotate about\ntheir axes while revolving around the Sun. You\n\nMore to will learn more about this in the next Grade.\n\nknow!\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 11,
+      "text": "Beyond Earth\n241\nFig. 12.7: An artist’s representation of the Solar System \n(To fit this figure within the page, the sizes and distances of various objects are not as per their \nactual sizes and distances in relation to each other, that is, the sizes and distances are not to \nscale in the figure)\nEarth\nVenus\nMercury\nAsteroid \nBelt\nSun\nMars\nJupiter\nSaturn\nUranus\nNeptune\nFrom ancient times, various names have been used \nacross India for the planets visible to the naked eye. \nFor example, Budha (Mercury), Śhukra (Venus), \nPṛithvī (Earth), Mangala (Mars), Bṛihaspati or Guru \n(Jupiter) and Śhani (Saturn). \nMore to \nknow!\nThe eight planets, in order of their increasing distance \nfrom the Sun, are Mercury, Venus, Earth, Mars, Jupiter, \nSaturn, Uranus, and Neptune (Fig. 12.7). \nThe inner four planets nearest to the Sun—Mercury, \nVenus, Earth and Mars—are smaller in size. They have solid \nsurfaces with rocks on them. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 939,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0011_img01",
+          "file": "images/NCERT_fecu112_page0011_img01.png",
+          "bbox": [
+            67.40001678466797,
+            70.24166870117188,
+            516.6461181640625,
+            319.50079345703125
+          ],
+          "width_px": 938,
+          "height_px": 520,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0011_img02",
+          "file": "images/NCERT_fecu112_page0011_img02.png",
+          "bbox": [
+            57.685707092285156,
+            561.4593505859375,
+            484.97637939453125,
+            692.0499877929688
+          ],
+          "width_px": 891,
+          "height_px": 273,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0011_img03",
+          "file": "images/NCERT_fecu112_page0011_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0011_img04",
+          "file": "images/NCERT_fecu112_page0011_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0011_vecfig01",
+          "file": "images/NCERT_fecu112_page0011_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Asteroid Mercury | Earth Jupiter | Uranus\nBelt\n\nsun Venus Mars Saturn Neptune\n\nFig. 12.7: An artist’s representation of the Solar System\n\n(To fit this figure within the page, the sizes and distances of various objects are not as per their\nactual sizes and distances in relation to each other, that is, the sizes and distances are not to\nscale in the figure)\n\nThe eight planets, in order of their increasing distance\nfrom the Sun, are Mercury, Venus, Earth, Mars, Jupiter,\nSaturn, Uranus, and Neptune (Fig. 12.7).\n\nThe inner four planets nearest to the Sun—Mercury,\nVenus, Earth and Mars—are smaller in size. They have solid\nsurfaces with rocks on them.\n\nFrom ancient times, various names have been used\n\nacross India for the planets visible to the naked eye.\n\nFor example, Budha (Mercury), Shukra (Venus),\n\nPrithvi (Earth), Mangala (Mars), Brihaspati or Guru\n\n(Jupiter) and Shani (Saturn). More to\n\nBeyond Earth\n\nknow!\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 12,
+      "text": " Curiosity | Textbook of Science | Grade 6\n242\nVenus is usually seen shining brightly at dawn and dusk, \nand is commonly called the Morning Star or the Evening \nStar, even though it is not a star. Mars is called the Red Planet \nbecause it appears red. This is because the soil on Mars is \nreddish in colour.\nA large portion of the Earth’s surface is covered with \nwater and thus, it appears blue from the space. Due to this, \nthe Earth is also called the Blue Planet. \nThe four outermost planets—Jupiter, Saturn, Uranus and \nNeptune—are much larger compared to the Earth, and are \nmostly made of gas and ice. These giant planets have large \nflat ring-like structures around them which are made of \ndust particles and rocky material. \nPlanets get most of their energy from the Sun. So, \nthe farther they are, the colder they are in general. The \npresence of an atmosphere on a planet can trap heat which \ncan significantly change the temperature of a planet. That is \nwhy Venus, for example, is hotter than Mercury, although it \nis farther from the Sun. \nThere is another object called Pluto that lies farther than Neptune, \nand revolves around the Sun. It is smaller than the Earth’s \nMoon. When it was discovered, it was called a planet of the Solar \nSystem. But later, when similar more small objects \nwere discovered, the International Astronomical \nUnion (IAU) in 2006 redefined the requirements of \nan object to be called a planet. As per this definition, \nthese smaller objects, including Pluto, are now called \ndwarf planets. \nMore to \nknow!\nCan we identify \na planet also, \nthe way we \nidentified the \nconstellations?\nAmong the planets, it is \neasiest to identify Venus \nwhich is very bright. After \nthe Sun and the Moon, Venus \nis the brightest object in the \nsky. Mercury, Mars, Jupiter \nand Saturn can also be seen \nwith the naked eye. They are \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1873,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0012_img01",
+          "file": "images/NCERT_fecu112_page0012_img01.png",
+          "bbox": [
+            94.39993286132812,
+            381.0968017578125,
+            522.7598876953125,
+            572.2000122070312
+          ],
+          "width_px": 893,
+          "height_px": 399,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0012_img02",
+          "file": "images/NCERT_fecu112_page0012_img02.png",
+          "bbox": [
+            123.09530639648438,
+            568.1199951171875,
+            211.27188110351562,
+            701.53076171875
+          ],
+          "width_px": 184,
+          "height_px": 278,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0012_img03",
+          "file": "images/NCERT_fecu112_page0012_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0012_img04",
+          "file": "images/NCERT_fecu112_page0012_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0012_vecfig01",
+          "file": "images/NCERT_fecu112_page0012_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nVenus is usually seen shining brightly at dawn and dusk,\nand is commonly called the Morning Star or the Evening\nStar, even though it is not a star. Mars is called the Red Planet\nbecause it appears red. This is because the soil on Mars is\nreddish in colour.\n\nA large portion of the Earth’s surface is covered with\nwater and thus, it appears blue from the space. Due to this,\nthe Earth is also called the Blue Planet.\n\nThe four outermost planets—Jupiter, Saturn, Uranus and\nNeptune—are much larger compared to the Earth, and are\nmostly made of gas and ice. These giant planets have large\nflat ring-like structures around them which are made of\ndust particles and rocky material.\n\nPlanets get most of their energy from the Sun. So,\nthe farther they are, the colder they are in general. The\npresence of an atmosphere on a planet can trap heat which\ncan significantly change the temperature of a planet. That is\nwhy Venus, for example, is hotter than Mercury, although it\nis farther from the Sun.\n\nThere is another object called Pluto that lies farther than Neptune,\nand revolves around the Sun. It is smaller than the Earth’s\nMoon. When it was discovered, it was called a planet of the Solar\nSystem. But later, when similar more small objects\nwere discovered, the International Astronomical\nUnion (IAU) in 2006 redefined the requirements of\nan object to be called a planet. As per this definition,\nthese smaller objects, including Pluto, are now called\ndwarf planets.\n\nMore to\nknow!\n\nAmong the planets, it is\neasiest to identify Venus\nwhich is very bright. After\nthe Sun and the Moon, Venus\nis the brightest object in the\nsky. Mercury, Mars, Jupiter\nand Saturn can also be seen\nwith the naked eye. They are\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 13,
+      "text": "Beyond Earth\n243\nso far away that they look like shining dots, just like stars. \nSo how can we distinguish between planets and the stars? \nUnlike planets, the stars appear to twinkle a lot. \nActivity 12.4: Let us try to identify \n\n\nWith the help of an app, Venus can be \nlocated either at dawn or at dusk. \n\n\nWhen you are viewing at dawn, \nlook for it near the Eastern \ndirection before sunrise. \n\n\nWhen you are viewing at dusk, look \nfor it near the Western direction after \nsunset.\nWhile many of the objects in the sky can be seen \nwith our naked eyes directly, we can see them brighter \nand larger using a pair of binoculars or an instrument \ncalled a telescope (Fig. 12.8). A telescope also helps us \nview many dim objects not visible by our naked eyes \ndirectly.\nYou may get an opportunity to view the sky through \na telescope whenever a night sky watching event is \norganised in your region.\nMany Higher Education \nInstitutions conduct night \nsky watching activities for \nschool students. There are \nmany Amateur Astronomy \nClubs all over the \ncountry which \norganise sky \nwatching events \nperiodically. Museums \nand Planetariums \nalso organise similar \nevents.\nDo you \nknow?\nHow can we \nsee the planets \nwhich are not \nvisible to the \nnaked eye?\nWe know that \nplanets move \naround the Sun. \nAre there any \nobjects that move \naround planets?\nFig. 12.8: A telescope\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1393,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0013_img01",
+          "file": "images/NCERT_fecu112_page0013_img01.png",
+          "bbox": [
+            80.40003967285156,
+            448.04010009765625,
+            313.3200378417969,
+            711.4000854492188
+          ],
+          "width_px": 486,
+          "height_px": 549,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0013_img02",
+          "file": "images/NCERT_fecu112_page0013_img02.png",
+          "bbox": [
+            406.75994873046875,
+            195.23831176757812,
+            524.4007568359375,
+            318.9888916015625
+          ],
+          "width_px": 245,
+          "height_px": 258,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0013_img03",
+          "file": "images/NCERT_fecu112_page0013_img03.png",
+          "bbox": [
+            366.7137451171875,
+            580.8724365234375,
+            485.0860595703125,
+            713.2315673828125
+          ],
+          "width_px": 247,
+          "height_px": 276,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0013_img04",
+          "file": "images/NCERT_fecu112_page0013_img04.png",
+          "bbox": [
+            420.85345458984375,
+            323.66717529296875,
+            524.4934692382812,
+            488.67608642578125
+          ],
+          "width_px": 216,
+          "height_px": 344,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0013_img05",
+          "file": "images/NCERT_fecu112_page0013_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0013_img06",
+          "file": "images/NCERT_fecu112_page0013_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0013_vecfig01",
+          "file": "images/NCERT_fecu112_page0013_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "so far away that they look like shining dots, just like stars.\nSo how can we distinguish between planets and the stars?\nUnlike planets, the stars appear to twinkle a lot.\n\nActivity 12.4: Let us try to identify\n\n@ With the help ofan app, Venus can be\n\nlocated either at dawn ora\n\n@ When you are viewing at dawn,\nlook for it near the Eastern\n\ndirection before sunrise.\n\n@ When you are viewing at dusk, look\nfor it near the Western direction after\n\nsunset.\n\nWhile many of the objects in the sky can be seen\nwith our naked eyes directly, we can see them brighter\n\nt dusk. How can we\n\nwhich are not\nvisible to the\nnaked eye?\n\nand larger using a pair of binoculars or an instrument\ncalled a telescope (Fig. 12.8). A telescope also helps us\nview many dim objects not visible by our naked eyes\n\ndirectly.\n\nYou may get an opportunity to view the sky through\na telescope whenever a night sky watching event is\n\norganised in your region.\n\nMany Higher Education\nInstitutions conduct night\nsky watching activities for\nschool students. There are\nmany Amateur Astronomy\nClubs all over the\ncountry which\norganise sky\nwatching events\n\nDo you\n\nknow? and Planetariums\n\nalso organise similar\n\nevents.\n\nperiodically. Museums\n\nWe know that\nplanets move\naround the Sun.\nAre there any\nobjects that move\naround planets?\n\nReprint 2026-27\n\nsee the planets\n\nFig. 12.8: A telescope\n\nBeyond Earth\n\nSE"
+        }
+      ]
+    },
+    {
+      "page_number": 14,
+      "text": " Curiosity | Textbook of Science | Grade 6\n244\nNatural Satellites\nObjects that move around planets are commonly called \nsatellites. They are smaller in size than planets. Moons are \nnatural satellites of planets. The Earth has one Moon, while \nMars has two moons. Jupiter, Saturn, Uranus and Neptune \nhave a large number of moons. \n(a)\n(b)\nFig. 12.9: The Moon  \n(a) Image taken by Cartosat, ISRO.  \n(b) Close-up image by cameras onboard Chandrayaan-3, ISRO.\nThe Moon\nEarth’s natural satellite, the Moon, \ntakes about 27 days to complete \none revolution around the Earth. \nIt is our nearest neighbour in the \nspace. Unlike on the Earth, there \nis hardly any atmosphere on \nthe Moon. How big is the Moon \nas compared to the Earth? The \nMoon is about a quarter the size \nof the Earth in diameter. The \nMoon’s surface shows circular \nbowl-like structures called craters \n(Fig. 12.9). Most of these craters \nhave been formed due to the \nimpact of asteroids or rocks \nfrom \nthe \nspace \nhitting \nthe \nMoon’s surface. Since there is no \nIn general, any object \nthat moves around a \nmuch larger object can \nalso be called a satellite. \nFor example, Earth can \nbe considered \na satellite of \nthe Sun.\nThe Moon \nis about 3,84,000 km \naway from the Earth.\nMore to \nknow!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1275,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0014_img01",
+          "file": "images/NCERT_fecu112_page0014_img01.png",
+          "bbox": [
+            92.40025329589844,
+            494.981201171875,
+            300.0125732421875,
+            660.0052490234375
+          ],
+          "width_px": 433,
+          "height_px": 344,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0014_img02",
+          "file": "images/NCERT_fecu112_page0014_img02.png",
+          "bbox": [
+            311.7920837402344,
+            494.9951171875,
+            521.4000244140625,
+            660.2304077148438
+          ],
+          "width_px": 437,
+          "height_px": 344,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0014_img03",
+          "file": "images/NCERT_fecu112_page0014_img03.png",
+          "bbox": [
+            113.4001235961914,
+            185.9151153564453,
+            301.8001403808594,
+            360.8751220703125
+          ],
+          "width_px": 393,
+          "height_px": 365,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0014_img04",
+          "file": "images/NCERT_fecu112_page0014_img04.png",
+          "bbox": [
+            110.39993286132812,
+            367.1601257324219,
+            298.1999206542969,
+            469.875
+          ],
+          "width_px": 392,
+          "height_px": 214,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0014_img05",
+          "file": "images/NCERT_fecu112_page0014_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0014_img06",
+          "file": "images/NCERT_fecu112_page0014_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0014_vecfig01",
+          "file": "images/NCERT_fecu112_page0014_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nNatural Satellites\n\nObjects that move around planets are commonly called\nsatellites. They are smaller in size than planets. Moons are\nnatural satellites of planets. The Earth has one Moon, while\nMars has two moons. Jupiter, Saturn, Uranus and Neptune\nhave a large number of moons.\n\nIn general, any object\nthat moves around a\nmuch larger object can\nalso be called a satellite.\nFor example, Earth can\nbe considered\n\na satellite of\n\nthe Sun.\nMore to\nknow!\nThe Moon\nis about 3,84,000 km\n\naway from the Earth.\n\n(a)\n\nThe Moon\n\nEarth’s natural satellite, the Moon,\ntakes about 27 days to complete\none revolution around the Earth.\nIt is our nearest neighbour in the\nspace. Unlike on the Earth, there\nis hardly any atmosphere on\nthe Moon. How big is the Moon\nas compared to the Earth? The\nMoon is about a quarter the size\nof the Earth in diameter. The\nMoon’s surface shows circular\nbowl-like structures called craters\n(Fig. 12.9). Most of these craters\nhave been formed due to the\nimpact of asteroids or rocks\nfrom the space hitting the\nMoon’s surface. Since there is no\n\n(b)\n\nFig. 12.9: The Moon\n(a) Image taken by Cartosat, ISRO.\n(b) Close-up image by cameras onboard Chandrayaan-3, ISRO.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 15,
+      "text": "Beyond Earth\n245\nTo improve our understanding of the Moon, India’s first mission to \nthe Moon, Chandrayaan-1, was launched in 2008 and the second \nmission, Chandrayaan-2, in 2019. The third mission, Chandrayaan-3, \nwas launched in July 2023 and its Vikram lander carrying the Pragyan \nrover successfully soft-landed on the Moon on 23 August 2023. With \nthis mission, India became the first country in the world to \nachieve a landing near the little explored Moon’s south pole. \nTo mark this success, the Government of India declared  \n23 August to be celebrated as ‘National Space Day’ in India.  \nA fourth mission, Chandrayaan-4, is being planned which \naims to bring back soil and rock samples from the Moon.\nDo you \nknow?\nAsteroids\nThe Sun and the planets are nearly spherical in shape. There \nare many small objects in the Solar System which are rocky \nand irregular in shape. These are called asteroids. Many of \nthese asteroids revolve around the Sun in paths that \nlie between those of Mars and Jupiter. \nThis region is called the asteroid belt \n(Fig. 12.7). Occasionally, some asteroids \npass very close to the Earth. \nComets\nSometimes we have visitors from the \nouter regions of the Solar System! These objects with long \ntails are called comets (Fig. 12.10). They are made up of dust, \ngases, rocks and ice. As a comet approaches close to the Sun, \nthe frozen material in it starts evaporating. This evaporating \nThe sizes of \nasteroids are \nfrom 10 m to \nabout 500 km.\nMore to \nknow!\natmosphere, water or life on the Moon, these features stay \non the Moon’s surface for a very long time.\nAlthough the Moon is very far, humans have sent \nspacecrafts to explore and understand more about the \nMoon. India has also launched three Chandrayaan missions \nto study the Moon, and a further mission is being planned. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1836,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0015_img01",
+          "file": "images/NCERT_fecu112_page0015_img01.png",
+          "bbox": [
+            62.9892578125,
+            178.98004150390625,
+            527.8799438476562,
+            413.6650085449219
+          ],
+          "width_px": 969,
+          "height_px": 489,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0015_img02",
+          "file": "images/NCERT_fecu112_page0015_img02.png",
+          "bbox": [
+            330.4000549316406,
+            514.8875732421875,
+            523.0400390625,
+            604.8875732421875
+          ],
+          "width_px": 402,
+          "height_px": 188,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0015_img03",
+          "file": "images/NCERT_fecu112_page0015_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0015_img04",
+          "file": "images/NCERT_fecu112_page0015_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0015_vecfig01",
+          "file": "images/NCERT_fecu112_page0015_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "atmosphere, water or life on the Moon, these features stay\non the Moon’s surface for a very long time.\n\nAlthough the Moon is very far, humans have sent\nspacecrafts to explore and understand more about the\nMoon. India has also launched three Chandrayaan missions\nto study the Moon, and a further mission is being planned.\n\nTo improve our understanding of the Moon, India’s first mission to\nthe Moon, Chandrayaan-1, was launched in 2008 and the second\nmission, Chandrayaan-2, in 2019. The third mission, Chandrayaan-3,\nwas launched in July 2023 and its Vikram lander carrying the Pragyan\nrover successfully soft-landed on the Moon on 23 August 2023. With\nthis mission, India became the first country in the world to\nachieve a landing near the little explored Moon’s south pole.\nTo mark this success, the Government of India declared\n23 August to be celebrated as ‘National Space Day’ in India.\nDo you _ A fourth mission, Chandrayaan-4, is being planned which\nknow? aims to bring back soil and rock samples from the Moon.\n\nAsteroids\n\nThe Sun and the planets are nearly spherical in shape. There\nare many small objects in the Solar System which are rocky\nand irregular in shape. These are called asteroids. Many of\nthese asteroids revolve around the Sun in paths that\n\nlie between those of Mars and Jupiter.\n\nThis region is called the asteroid belt The sizes of\n(Fig. 12.7). Occasionally, some asteroids asteroids are\npass very close to the Earth. Boome a7\nComets about 500 km.\n\nSometimes we have visitors from the\n\nouter regions of the Solar System! These objects with long\ntails are called comets (Fig. 12.10). They are made up of dust,\ngases, rocks and ice. As a comet approaches close to the Sun,\nthe frozen material in it starts evaporating. This evaporating\n\nReprint 2026-27\n\nMore to\nknow!\n\nBeyond Earth"
+        }
+      ]
+    },
+    {
+      "page_number": 16,
+      "text": " Curiosity | Textbook of Science | Grade 6\n246\nmaterial forms the tail of the comet. Comets appear dim as \nthey move away from the Sun and then, it is not possible to \nsee them with the naked eye. \nMany comets have been \nfound that revolve around \nthe \nSun. \nThese \ncomets \napproach close to the Sun \nperiodically. However, there \nare a few comets that escape \nand move out of the Solar \nSystem. Few other comets \nget broken up, or fall into the \nSun or other planets when \nthey approach them.\nFig. 12.10: A Comet\nWe have learnt about the \nobjects which form the Solar \nSystem. Which are these objects? \nThe Sun, eight planets, their \nmoons, \nand \nmany \nsmaller \nobjects \nincluding \nasteroids, \nand comets, together form the \nSolar System.\nThe Sun—our star—is the \nlargest and the heaviest object \nin the Solar System. The Sun \nproduces almost all the energy in \nthe Solar System. All other objects \nin our Solar System shine due to \nthe sunlight that they reflect from \ntheir surfaces. \nIn Sanskrit and a \nfew other Indian \nlanguages, a comet \nis called Dhūmaketu. \nVarious tribes in \nIndia also call it Pucchya-Taro \n(star with a tail) or Zendya-\nTaro (star like a flag). \nIn many cultures, comets have \nbeen feared and it was earlier \nbelieved that comets bring \nbad luck. However, thanks to \nscientists, we now know that \nthese are just icy-rocky visitors \nmaking a trip close to the Sun!  \nOne famous comet is the \nHalley’s Comet which appears \nevery 76 years. Its last \nappearance was in 1986.\nMore to \nknow!\nWhat is \nbeyond the \nSolar System?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1566,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0016_img01",
+          "file": "images/NCERT_fecu112_page0016_img01.png",
+          "bbox": [
+            81.1199722290039,
+            128.6866455078125,
+            332.39996337890625,
+            265.3892822265625
+          ],
+          "width_px": 636,
+          "height_px": 346,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0016_img02",
+          "file": "images/NCERT_fecu112_page0016_img02.png",
+          "bbox": [
+            80.11103820800781,
+            393.2400207519531,
+            302.6199645996094,
+            694.1717529296875
+          ],
+          "width_px": 464,
+          "height_px": 627,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0016_img03",
+          "file": "images/NCERT_fecu112_page0016_img03.png",
+          "bbox": [
+            81.11997985839844,
+            294.08251953125,
+            295.7799987792969,
+            410.29119873046875
+          ],
+          "width_px": 448,
+          "height_px": 243,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0016_img04",
+          "file": "images/NCERT_fecu112_page0016_img04.png",
+          "bbox": [
+            323.75115966796875,
+            578.1292114257812,
+            393.9273986816406,
+            688.989501953125
+          ],
+          "width_px": 147,
+          "height_px": 231,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0016_img05",
+          "file": "images/NCERT_fecu112_page0016_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0016_img06",
+          "file": "images/NCERT_fecu112_page0016_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0016_vecfig01",
+          "file": "images/NCERT_fecu112_page0016_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n6\n\nmaterial forms the tail of the comet. Comets appear dim as\nthey move away from the Sun and then, it is not possible to\nsee them with the naked eye.\n\nFig. 12.10: A Comet\n\nOne famous comet is the\nHalley’s Comet which appears\nevery 76 years. Its last\nappearance was in 1986.\n\nIn Sanskrit and a\nfew other Indian\nlanguages, a comet\nis called Dhimaketu.\nVarious tribes in\nIndia also call it Pucchya-Taro\n(star with a tail) or Zendya-\nTaro (star like a flag).\n\nMore to\nknow!\n\nIn many cultures, comets have\nbeen feared and it was earlier\nbelieved that comets bring\nbad luck. However, thanks to\nscientists, we now know that\nthese are just icy-rocky visitors\nmaking a trip close to the Sun!\n\nMany comets have been\nfound that revolve around\nthe Sun. These comets\napproach close to the Sun\nperiodically. However, there\nare a few comets that escape\nand move out of the Solar\nSystem. Few other comets\nget broken up, or fall into the\nSun or other planets when\nthey approach them.\n\nWe have learnt about the\nobjects which form the Solar\nSystem. Which are these objects?\nThe Sun, eight planets, their\nmoons, and many smaller\nobjects including asteroids,\nand comets, together form the\nSolar System.\n\nThe Sun—our star—is the\nlargest and the heaviest object\nin the Solar System. The Sun\nproduces almost all the energy in\nthe Solar System. All other objects\nin our Solar System shine due to\nthe sunlight that they reflect from\ntheir surfaces.\n\nWhat is\nbeyond the\nSolar System?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 17,
+      "text": "Beyond Earth\n247\n12.4 The Milky Way Galaxy\nIn the moonless night sky, viewed from dark locations away \nfrom city lights, one can see an extended faint band of light \nfrom near north to south across the sky (Fig. 12.11). This \nis our home galaxy called the Milky Way Galaxy or Ākāśha \nGangā. A galaxy has millions to billions of stars. Our Solar \nSystem is part of the Milky Way Galaxy.  \nFig. 12.11: Milky Way Galaxy as seen from a very dark location in Ladakh, India\n12.5 The Universe\nThere are many galaxies in the \nouter space beyond the Milky \nWay Galaxy. Scientists study \nthem to understand the stars, \ngalaxies and the Universe.\nWhat is \nbeyond the \nMilky Way \nGalaxy?\nIs there life \nanywhere \nelse in the \nUniverse?\nWe do not know yet if life exists \nelsewhere in the Universe. The search \nfor life has been directed mostly towards \nexoplanets—the \nplanets \ndiscovered \nrevolving around other stars in our \ngalaxy. Till now, scientists have not found \nany evidence of life but this search is on \nand continuing.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1036,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0017_img01",
+          "file": "images/NCERT_fecu112_page0017_img01.png",
+          "bbox": [
+            70.31483459472656,
+            206.8828887939453,
+            524.6452026367188,
+            412.630126953125
+          ],
+          "width_px": 947,
+          "height_px": 429,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0017_img02",
+          "file": "images/NCERT_fecu112_page0017_img02.png",
+          "bbox": [
+            273.9359436035156,
+            447.9002380371094,
+            335.5194091796875,
+            566.3490600585938
+          ],
+          "width_px": 129,
+          "height_px": 247,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0017_img03",
+          "file": "images/NCERT_fecu112_page0017_img03.png",
+          "bbox": [
+            438.5999450683594,
+            554.6133422851562,
+            511.6605224609375,
+            676.7926635742188
+          ],
+          "width_px": 152,
+          "height_px": 255,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": ">=\n\nAw"
+        },
+        {
+          "image_id": "NCERT_fecu112_page0017_img04",
+          "file": "images/NCERT_fecu112_page0017_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0017_img05",
+          "file": "images/NCERT_fecu112_page0017_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0017_vecfig01",
+          "file": "images/NCERT_fecu112_page0017_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "mee | 2.4 The Milky Way Galaxy\n\nIn the moonless night sky, viewed from dark locations away\nfrom city lights, one can see an extended faint band of light\nfrom near north to south across the sky (Fig. 12.11). This\nis our home galaxy called the Milky Way Galaxy or Akdsha\nGanga. A galaxy has millions to billions of stars. Our Solar\nSystem is part of the Milky Way Galaxy.\n\nmu 12.5 The Universe\n\nWhat is\nbeyond the\nMilky Way\nGalaxy?\n\nThere are many galaxies in the\nouter space beyond the Milky\nWay Galaxy. Scientists study\nthem to understand the stars,\ngalaxies and the Universe.\n\nWe do not know yet if life exists\nelsewhere in the Universe. The search\nfor life has been directed mostly towards\nexoplanets—the planets discovered\nrevolving around other stars in our\ngalaxy. Till now, scientists have not found\nany evidence of life but this search is on\nand continuing.\n\nReprint 2026-27\n\nBeyond Earth\n\n9"
+        }
+      ]
+    },
+    {
+      "page_number": 18,
+      "text": " Curiosity | Textbook of Science | Grade 6\n248\nKeywords\nDraw\nIdentify\nExplore\nObserve\nAsteroid\nMoon\nSolar System\nConstellation\nComet\nMilky Way Galaxy\nPlanet\nStars\nRevolution\nSatellite\nSun\nSummary\n\n\nThe sky is divided into regions called constellations, which \ninclude groups of stars that appear to form patterns.\n\n\nThe Pole Star appears nearly stationary in the North \ndirection. This helps in locating the North direction in \nthe Northern hemisphere.\n\n\nThe Sun is a star which produces heat and light.\n\n\nA planet is a large, nearly spherical object that revolves \naround the Sun.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 606,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0018_img01",
+          "file": "images/NCERT_fecu112_page0018_img01.png",
+          "bbox": [
+            235.73995971679688,
+            71.39997863769531,
+            439.8599548339844,
+            119.68499755859375
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0018_img02",
+          "file": "images/NCERT_fecu112_page0018_img02.png",
+          "bbox": [
+            235.73995971679688,
+            519.4000244140625,
+            439.8599548339844,
+            567.68505859375
+          ],
+          "width_px": 426,
+          "height_px": 101,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0018_img03",
+          "file": "images/NCERT_fecu112_page0018_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0018_img04",
+          "file": "images/NCERT_fecu112_page0018_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": []
+    },
+    {
+      "page_number": 19,
+      "text": "Beyond Earth\n249\n\n\nThe eight planets, in order of their increasing distance \nfrom the Sun, are Mercury, Venus, Earth, Mars, Jupiter, \nSaturn, Uranus, and Neptune.\n\n\nThe Earth revolves around the Sun in nearly one year. \n\n\nObjects that move around planets are commonly called \nsatellites.\n\n\nThe Moon is Earth’s natural satellite. \n\n\nThe Moon revolves around the Earth in nearly 27 days. \n\n\nThe Sun, eight planets, their moons, and many smaller \nobjects including asteroids and comets, together form \nthe Solar System.\n\n\nOur Solar System is part of the Milky Way Galaxy.\nLet us enhance our learning \n1. \t Match the column:\t\n2.\t\n(i)\t Solve the following riddle.\n\t\n\t\nMy first alphabet is in MAN but not in CAN\n\t\n\t\nMy second alphabet is in ACE and also in FAN\n\t\n\t\nMy third alphabet is in RAT and not in CAT\n\t\n\t\nMy fourth alphabet is in SUN but not in FUN\n\t\n\t\nI am a planet that moves around the Sun. \n    \t (ii) \tMake two similar riddles by yourself.\n3.\t\nWhich of the following is not a member of our Solar System?\n  (i)\t\tSirius\n(iii)\t\tAsteroids\n (ii)\t\tComets\n(iv)\t\tPluto\nColumn I\nColumn II\n  (i) \t Satellite of Earth\n(a) \t Orion\n (ii) \t Red planet\n(b) \t Venus\n(iii) \tConstellation\n(c)\t\nMars\n (iv) \tPlanet which is commonly \ncalled an evening star\n(d) \t Moon\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1284,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0019_img01",
+          "file": "images/NCERT_fecu112_page0019_img01.png",
+          "bbox": [
+            91.56004333496094,
+            292.49920654296875,
+            434.760009765625,
+            362.24798583984375
+          ],
+          "width_px": 715,
+          "height_px": 146,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0019_img02",
+          "file": "images/NCERT_fecu112_page0019_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0019_img03",
+          "file": "images/NCERT_fecu112_page0019_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [
+        {
+          "table_id": "page0019_table01",
+          "bbox": [
+            71.4000015258789,
+            404.760009765625,
+            438.6000061035156,
+            508.3030090332031
+          ],
+          "rows": [
+            [
+              "(i) Satellite of Earth",
+              "(a) Orion"
+            ],
+            [
+              "(ii) Red planet",
+              "(b) Venus"
+            ],
+            [
+              "(iii) Constellation",
+              "(c) Mars"
+            ],
+            [
+              "(iv) Planet which is commonly\ncalled an evening star",
+              "(d) Moon"
+            ]
+          ]
+        }
+      ],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0019_vecfig01",
+          "file": "images/NCERT_fecu112_page0019_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "¢ The eight planets, in order of their increasing distance\nfrom the Sun, are Mercury, Venus, Earth, Mars, Jupiter,\nSaturn, Uranus, and Neptune.\n@ The Earth revolves around the Sun in nearly one year.\n@ Objects that move around planets are commonly called\nsatellites.\n@ The Moon is Earth’s natural satellite.\n@ The Moon revolves around the Earth in nearly 27 days.\n¢ The Sun, eight planets, their moons, and many smaller\nobjects including asteroids and comets, together form\nthe Solar System.\n¢ Our Solar System is part of the Milky Way Galaxy.\nSole\nLet us enhance our learning\n1. Match the column:\nColumn I Column II\n(i) Satellite of Earth (a) Orion\n(ii) Red planet (b) Venus\n(iii) Constellation (c) Mars\n\n(iv) Planet which is commonly (d) Moon\n\n2.\n\ncalled an evening star\n\n(i) Solve the following riddle.\nMy first alphabet is in MAN but not in CAN\nMy second alphabet is in ACE and also in FAN\nMy third alphabet is in RAT and not in CAT\nMy fourth alphabet is in SUN but not in FUN\nIam a planet that moves around the Sun.\n\n(ii) Make two similar riddles by yourself.\nWhich of the following is not a member of our Solar System?\n\n(i) Sirius (ii) Comets\n(iii) Asteroids (iv) Pluto\n\nReprint 2026-27\n\nBeyond Earth"
+        }
+      ]
+    },
+    {
+      "page_number": 20,
+      "text": " Curiosity | Textbook of Science | Grade 6\n250\n4.\t\nWhich of the following is not a planet of the Sun?\n  (i)\t\tJupiter\n(iii)\t\tNeptune\n (ii)\t\tPluto\n(iv)\t\tSaturn\n5.\t\nWhich is the brighter star, the Pole Star or Sirius? \n6.\t\nAn artist’s representation of the Solar System is given in \nFig. 12.12. Is the order of the planets correct? If not, write \nthe correct order in the boxes in the figure.\nFig. 12.12\nFig. 12.13\n7.\t\nA portion of night \nsky with stars is \nshown in Fig. 12.13. \nLook carefully and \nidentify the groups \nof stars that form \nthe patterns—the \nBig Dipper and the \nLittle Dipper. Draw \nlines to connect \nthe stars for these \npatterns and label \nthem. Also, identify \nand label the Pole \nStar. You may refer \nto Fig. 12.4 for help. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 759,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0020_img01",
+          "file": "images/NCERT_fecu112_page0020_img01.png",
+          "bbox": [
+            89.4000015258789,
+            214.31265258789062,
+            521.4000244140625,
+            411.6739501953125
+          ],
+          "width_px": 901,
+          "height_px": 412,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0020_img02",
+          "file": "images/NCERT_fecu112_page0020_img02.png",
+          "bbox": [
+            311.58099365234375,
+            452.6310729980469,
+            522.5826416015625,
+            699.622314453125
+          ],
+          "width_px": 440,
+          "height_px": 515,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0020_img03",
+          "file": "images/NCERT_fecu112_page0020_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0020_img04",
+          "file": "images/NCERT_fecu112_page0020_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0020_vecfig01",
+          "file": "images/NCERT_fecu112_page0020_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n6\n\n4. Which of the following is not a planet of the Sun?\n\n(i) Jupiter (ii) Pluto\n(iii) Neptune (iv) Saturn\n\n5. Which is the brighter star, the Pole Star or Sirius?\n\n6. An artist’s representation of the Solar System is given in\nFig. 12.12. Is the order of the planets correct? If not, write\nthe correct order in the boxes in the figure.\n\nFig. 12.12\n\n7. Aportion of night\nsky with stars is\nshown in Fig. 12.13.\nLook carefully and\nidentify the groups\nof stars that form\nthe patterns—the\nBig Dipper and the\nLittle Dipper. Draw\nlines to connect\nthe stars for these\npatterns and label\nthem. Also, identify\nand label the Pole\nStar. You may refer\n\nto Fig. 12.4 for help.\n\nFig. 12.13\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 21,
+      "text": "Beyond Earth\n251\n8.\t\nA portion of the night sky is shown in Fig. 12.14. Draw lines \nto connect the stars for Orion and label the star Sirius. You \nmay refer to Fig. 12.3. \nFig. 12.14\nLearning further \n\n\nTry to find out the names of planets in your local language. \nAlso, find out the stories associated with stars and \nconstellations in your region. Present these stories in a \npictorial form. \n\n\nIf there is a planetarium or a science museum nearby, then \nyou can visit it, especially if a night sky observation session \nis scheduled by them. You will get to see the Moon, the \nplanets and the stars through a telescope. If you visit the \nplanetarium during daytime, you can also see their models, \npictures and sky shows.\n9.\t\nFrom Earth, you can see stars fading away at dawn and \nappearing at dusk. During the day we do not see the stars. \nExplain why.\n10.\t During a clear night, try to observe the Big Dipper 3–4 \ntimes at an interval of 2 to 3 hours. Also try to locate the \nPole Star each time. Does the Big Dipper appear to move? \nDraw a rough sketch to illustrate this, mentioning the time \nin each case.\n11.\t Think about the night sky and write a poem or a story on it.\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1199,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0021_img01",
+          "file": "images/NCERT_fecu112_page0021_img01.png",
+          "bbox": [
+            70.2826919555664,
+            123.02783203125,
+            478.91998291015625,
+            325.8441467285156
+          ],
+          "width_px": 853,
+          "height_px": 424,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0021_img02",
+          "file": "images/NCERT_fecu112_page0021_img02.png",
+          "bbox": [
+            94.44004821777344,
+            502.024169921875,
+            439.22137451171875,
+            566.4137573242188
+          ],
+          "width_px": 719,
+          "height_px": 135,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0021_img03",
+          "file": "images/NCERT_fecu112_page0021_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0021_img04",
+          "file": "images/NCERT_fecu112_page0021_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0021_vecfig01",
+          "file": "images/NCERT_fecu112_page0021_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "8.\n\n10.\n\n11.\n\nA portion of the night sky is shown in Fig. 12.14. Draw lines\nto connect the stars for Orion and label the star Sirius. You\nmay refer to Fig. 12.3.\n\nFig. 12.14\n\nFrom Earth, you can see stars fading away at dawn and\nappearing at dusk. During the day we do not see the stars.\nExplain why.\n\nDuring a clear night, try to observe the Big Dipper 3-4\ntimes at an interval of 2 to 3 hours. Also try to locate the\nPole Star each time. Does the Big Dipper appear to move?\nDraw a rough sketch to illustrate this, mentioning the time\nin each case.\n\nThink about the night sky and write a poem or a story on it.\n\nzs a\n\\ |\n\noe\n~Lo-\n7\nTry to find out the names of planets in your local language.\nAlso, find out the stories associated with stars and\nconstellations in your region. Present these stories in a\n\npictorial form.\n\nIf there is a planetarium or a science museum nearby, then\nyou can visit it, especially if a night sky observation session\nis scheduled by them. You will get to see the Moon, the\nplanets and the stars through a telescope. If you visit the\nplanetarium during daytime, you can also see their models,\npictures and sky shows.\n\nReprint 2026-27\n\nBeyond Earth"
+        }
+      ]
+    },
+    {
+      "page_number": 22,
+      "text": " Curiosity | Textbook of Science | Grade 6\n252\n\n\nFind out if the increasing light pollution is \ncausing problems for humans, wildlife and the \nenvironment. Write an action that you would \ntake at the personal level to control light \npollution. \n\n\nFind out the weather conditions due to which \nthe Indian Institute of Astrophysics (IIA) found \nHanle, Ladakh a suitable place to set up an \nobservatory.\n\n\nIf you enjoy doing embroidery, try to embroider \non a dark coloured cloth the constellations that \nyou have seen (Fig. 12.15). Otherwise, you may \nuse your creativity and depict constellations \nin multiple other ways using various art and \ncraft ideas.\nFig. 12.15: Embroidery \nof constellations\nIndian Astronomical Observatory, Hanle, \nis situated atop the highest peak of Digpa-\nratsa-Ri mountain range in Hanle. This \npeak has been renamed Mount Saraswati. \nIt has several telescopes. One of them is \ncalled the Himalayan Chandra Telescope, \nwhich has been named after the Nobel \nPrize winning scientist Subrahmanyan Chandrasekhar. It is an \nobservatory at one of the highest locations in the world. \nThe area surrounding this observatory was notified as the Hanle \nDark Sky Reserve (HDSR) in December 2022. The reserve is \nopen to the public throughout the year. Local people have been \nprovided with small telescopes and are trained to be Astronomy \nMore to \nknow!\nAmbassadors for visitors \nby the Indian Institute of \nAstrophysics. It is expected \nto promote astro-tourism \nin the region. \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1520,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0022_img01",
+          "file": "images/NCERT_fecu112_page0022_img01.png",
+          "bbox": [
+            65.9156265258789,
+            85.49995422363281,
+            224.39996337890625,
+            249.65325927734375
+          ],
+          "width_px": 331,
+          "height_px": 342,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0022_img02",
+          "file": "images/NCERT_fecu112_page0022_img02.png",
+          "bbox": [
+            97.75296020507812,
+            308.38006591796875,
+            566.8800659179688,
+            696.5458984375
+          ],
+          "width_px": 978,
+          "height_px": 809,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0022_img03",
+          "file": "images/NCERT_fecu112_page0022_img03.png",
+          "bbox": [
+            68.14507293701172,
+            318.8314514160156,
+            258.7200622558594,
+            447.9955139160156
+          ],
+          "width_px": 398,
+          "height_px": 270,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0022_img04",
+          "file": "images/NCERT_fecu112_page0022_img04.png",
+          "bbox": [
+            285.7286682128906,
+            570.1170043945312,
+            528.991455078125,
+            695.7210693359375
+          ],
+          "width_px": 507,
+          "height_px": 262,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0022_img05",
+          "file": "images/NCERT_fecu112_page0022_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0022_img06",
+          "file": "images/NCERT_fecu112_page0022_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0022_vecfig01",
+          "file": "images/NCERT_fecu112_page0022_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\nFig. 12.15: Embroidery\nof constellations\n\nFind out if the increasing light pollution is\ncausing problems for humans, wildlife and the\nenvironment. Write an action that you would\ntake at the personal level to control light\npollution.\n\nFind out the weather conditions due to which\nthe Indian Institute of Astrophysics (IIA) found\nHanle, Ladakh a suitable place to set up an\nobservatory.\n\nIf you enjoy doing embroidery, try to embroider\non a dark coloured cloth the constellations that\nyou have seen (Fig. 12.15). Otherwise, you may\nuse your creativity and depict constellations\nin multiple other ways using various art and\ncraft ideas.\n\nIndian Astronomical Observatory, Hanle,\nis situated atop the highest peak of Digpa-\nratsa-Ri mountain range in Hanle. This\npeak has been renamed Mount Saraswati.\n\nIt has several telescopes. One of them is\ncalled the Himalayan Chandra Telescope,\nwhich has been named after the Nobel\n\nPrize winning scientist Subrahmanyan Chandrasekhar. It is an\n\nMore to\nknow!\n\nobservatory at one of the highest locations in the world.\nThe area surrounding this observatory was notified as the Hanle\n\nDark Sky Reserve (HDSR) in December 2022. The reserve is\nopen to the public throughout the year. Local people have been\nprovided with small telescopes and are trained to be Astronomy\n\nAmbassadors for visitors\nby the Indian Institute of\nAstrophysics. It is expected\nto promote astro-tourism\nin the region.\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 23,
+      "text": "It is not the end, my friend! \nThis might be the last page of this book, but it is certainly \nnot the end of our ‘Curiosity’. The title of this book not only \ndrives our journey through the amazing world of science, \nbut also defines what it means to be human. As a species, \nwe are curious. We want to find out more about the world \nwe live in and worlds beyond. By now, you have perhaps \nread a little bit about the world of plants and animals, \ndone some fun activities, learnt about how we measure, \nwondered about the stars that shine in the night sky, and \nso on. But remember, this is just the beginning. Science is \na never-ending adventure, with new discoveries coming \nup all the time. And as you progress through the Middle \nStage, the things you come across will help you find out \neven more about the world around you. The key lies in that \ncuriosity you have nurtured throughout this journey.  Keep \nobserving the world around you, keep asking questions, \nand do not be afraid to experiment. Remember, even \nthe most groundbreaking discoveries often begin with a \nsimple “Why?”. There are countless questions waiting to be \nanswered, and countless answers waiting to be questioned. \nYou, my young scientist, can find them out. So, go forth and \nexplore! And see you again in the next Grade for more \nadventures in science!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1353,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0023_img01",
+          "file": "images/NCERT_fecu112_page0023_img01.png",
+          "bbox": [
+            47.360267639160156,
+            -19.7762451171875,
+            575.4397583007812,
+            798.2700805664062
+          ],
+          "width_px": 1099,
+          "height_px": 1702,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0023_img02",
+          "file": "images/NCERT_fecu112_page0023_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0023_img03",
+          "file": "images/NCERT_fecu112_page0023_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0023_vecfig01",
+          "file": "images/NCERT_fecu112_page0023_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "It is not the end, my friend!\n\nThis might be the last page of this book, but it is certainly\nnot the end of our ‘Curiosity’. The title of this book not only\ndrives our journey through the amazing world of science,\nbut also defines what it means to be human. As a species,\nwe are curious. We want to find out more about the world\nwe live in and worlds beyond. By now, you have perhaps\nread a little bit about the world of plants and animals,\ndone some fun activities, learnt about how we measure,\nwondered about the stars that shine in the night sky, and\nso on. But remember, this is just the beginning. Science is\na never-ending adventure, with new discoveries coming\nup all the time. And as you progress through the Middle\nStage, the things you come across will help you find out\neven more about the world around you. The Key lies in that\ncuriosity you have nurtured throughout this journey. Keep\nobserving the world around you, keep asking questions,\nand do not be afraid to experiment. Remember, even\nthe most groundbreaking discoveries often begin with a\nsimple “Why?”. There are countless questions waiting to be\nanswered, and countless answers waiting to be questioned.\nYou, my young scientist, can find them out. So, go forth and\nexplore! And see you again in the next Grade for more\nadventures in science!"
+        }
+      ]
+    },
+    {
+      "page_number": 24,
+      "text": " Curiosity | Textbook of Science | Grade 6\n254\nNotes\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 69,
+      "images": [
+        {
+          "image_id": "NCERT_fecu112_page0024_img01",
+          "file": "images/NCERT_fecu112_page0024_img01.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu112_page0024_img02",
+          "file": "images/NCERT_fecu112_page0024_img02.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu112_page0024_vecfig01",
+          "file": "images/NCERT_fecu112_page0024_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Notes\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+29
+A bipedal humanoid robot.
+The term 'robot' comes from a czech 
+word, ‘robota’ meaning ‘forced labour’. 
+Robotics is the science and study of robots.
+What can Robots do?
+Robots can sense and respond to their 
+surroundings. They can handle delicate 
+objects or apply great force. For example, 
+they can perform eye operations guided 
+by a human surgeon, or assemble a car. 
+With artificial intelligence, robots 
+will also be able to make decisions for 
+themselves.
+How do Robots sense?
+Electronic sensors function as robot’s 
+eyes and ears. Twin video cameras 
+give the robot a 3-D view of the world. 
+Microphones detect sounds. Pressure 
+The quadrupedal  
+military robot
+Linear Motion
+Rotational Motion
+Multiple motion in a sewing 
+machine
+•	 Motion of the needle
+	
+_______________________
+•	 Motion of the wheel
+	
+_______________________
+•	 Motion of footrest 
+	
+_______________________
+2.3 Science Today - ­Robot
+Robots 
+are 
+automatic 
+machines. 
+Some robots can perform mechanical and 
+repetitive jobs faster and more accurately 
+than people. Robots can also handle 
+dangerous materials and explore distant 
+planets. 

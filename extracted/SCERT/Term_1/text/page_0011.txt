@@ -1,0 +1,69 @@
+7
+A
+B
+C
+1. 2 Mass
+Mass is the measure of the amount 
+of matter in an object. The SI unit of 
+mass is kilogram. It is represented by 
+‘kg’. Weight is the gravitational pull 
+experienced by matter. The weight is 
+directly proportional to the mass on the 
+Earth's surface. 
+Hold a sheet of paper in one hand 
+and a book in other hand. Which hand 
+feels the heaviness? The mass of the 
+book is more than that of a single sheet 
+of paper. Therefore, the pull on the book 
+is more than that is on the paper. Hence, 
+our hand needs more force to hold a book 
+than a piece of paper. The force what we 
+experience is called as ‘heaviness’.
+On the moon where 
+the gravitational force is 
+less than that is on the 
+earth, the weight will 
+reduce but the mass will remain same. 
+The moon’s gravitational pull is one 
+sixth of the earth’s pull. Thus objects 
+weigh six times lighter on the Moon 
+than on the Earth.
+What is your mass? If you measure it 
+in grams, that would be a huge number. 
+Is it not? So, it is expressed in kilogram. 
+Bigger weights are measured in tonne or 
+metric tonne.
+1000 milligram	 =	 1 gram
+1000 gram	
+=	 1 kilogram
+1000 kilogram	
+=	 1 tonne
+Activity 3 
+Aim: 
+Measuring 
+the 
+length 
+of 
+a curved line using a divider.
+A
+B
+Draw a curved line AB on a piece of paper.
+Separate the legs of the divider by 0.5 cm 
+or 1 cm using a ruler.
+Place it on the curved line starting 
+from one end. Mark the position of 
+the other end. Move it along the line 
+again and again cutting the line into 
+number of segments of equal lengths. 
+The remaining parts of the line can 
+be measured using a scale. Count the 
+number of segments.
+Therefore, the length of the line = 
+(Number of segments × Length of each 
+segment) + Length of the left over part.
+taken. In the above representation, to 
+avoid parallax error, reading from B will 
+be correct. From positions ‘A’ and ‘C’, the 
+readings will be different and erroneous.
+6th Science_EM_Unit 1.indd   7
+12/2/2022   4:40:04 PM

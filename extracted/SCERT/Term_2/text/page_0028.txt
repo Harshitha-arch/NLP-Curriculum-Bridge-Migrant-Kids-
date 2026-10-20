@@ -1,0 +1,66 @@
+2 2
+Symbols of Electric Components 
+In the circuits discussed above, we used the figures of electric components. Using 
+electric components in complicated circuits is difficult. So, symbols of the components are 
+used instead of figures. If these symbols used in electric circuits, even complicated circuits 
+can be easily understood.
+is damaged or disconnected, the entire 
+circuit will not work.
+3. Parallel Circuit
+If  two or more bulbs are connected in 
+parallel in a circuit, then that type of circuit 
+is called parallel circuit.
+Sl.no.
+Electric component
++
+-
++
+-
+Open
+Closed
+Symbol
+Remarks
+1
+Electric cell
+2
+Battery
+3
+Switch-open
+4
+Switch-closed
+5
+6
+Electric bulb
+Connecting wires
+Longer terminal
+refers positive and
+shorter terminal
+refers negative.
+Two or more
+cells connected
+in series  
+Switch is in off 
+position
+Switch is in on
+position 
+The bulb does
+not glow 
+The bulb glows
+Used to connect
+devices. 
+Figure
+OFF
+ON
+OFF
+ON
+Cell
+Battery
++
+–
+C1
+If any one of the bulb is damaged or 
+disconnected the other part of the circuit 
+will work. So parallel circuits are used in 
+homes.
+6th Science_IInd Term English Book_Unit_2.indd   22
+08/07/2022   17:22:52

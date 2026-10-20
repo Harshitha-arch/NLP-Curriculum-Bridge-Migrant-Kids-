@@ -1,0 +1,59 @@
+30
+sensors give the robot a sense of touch, 
+to judge how to grip an egg or heavy 
+luggage. Built-in computers send and 
+receive information with radio waves. 
+Artificial Intelligence
+Artificial 
+intelligence 
+attempts 
+to 
+create computer programs that think like 
+human brains. Current research has not 
+achieved this, but some computers can be 
+programmed to recognize faces in a crowd.
+Can Robots think?
+Robots can think. They can play 
+complex games, such as chess, better 
+than human beings. But will a robot ever 
+know that it is thinking? Humans are 
+conscious - we know we are thinking. 
+But we do not know how consciousness 
+works. We do not know if Robots can 
+ever be conscious.
+Articulated welding robots  
+(industrial)
+Nanorobotics
+Nanobots are robots scaled down to 
+microscopic size in order to put them into 
+very small spaces to perform a function. 
+Future nanobots could be placed in the blood 
+stream to perform surgical procedures that 
+are too delicate or too difficult for standard 
+surgery. Imagine if a nanobot could target 
+cancer cells and destroy them without 
+touching healthy cells nearby. 
+Future of Nanorobotics
+Points to Remember
+•	 Motion and rest are relative.
+•	 All things that are at rest may seem to 
+be in motion from a different point of 
+view, and all motion may seem to be 
+at rest from a different perspective. 
+•	 Application of forces is implemented by 
+a push or pull. Forces can be applied by 
+animate as well as inanimate agency. 
+•	 Application of forces result in motion of 
+an object at rest, increase or decrease 
+its speed, change its direction, and 
+distortion of the shape. 
+•	 Some forces act only when they are in 
+contact. There are some forces which 
+can even have effect at a distance.
+•	 Speed = Distance travelled / Time 
+taken (s= d/t)
+•	 The motion can be classified according 
+to the path (periodic or non-periodic) 
+or according to speed (uniform or 
+non-uniform).
+•	 Unit of speed is m/s.

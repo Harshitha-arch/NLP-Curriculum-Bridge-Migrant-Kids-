@@ -1,0 +1,1145 @@
+{
+  "source_file": "data\\NCERT\\fecu101.pdf",
+  "board": "NCERT",
+  "class_level": null,
+  "chapter_id": "fecu101",
+  "num_pages": 8,
+  "extraction_method": "native",
+  "native_page_count": 8,
+  "ocr_page_count": 0,
+  "total_images": 59,
+  "images_with_text": 1,
+  "total_tables": 0,
+  "total_vector_figures": 8,
+  "total_phantom_images_skipped": 0,
+  "pages": [
+    {
+      "page_number": 1,
+      "text": "The Wonderful World of Science\n1\nChapter\nAs human beings, we have always been curious about our \nsurroundings. We start exploring our surroundings and \nasking questions right from our childhood. Did you enjoy \ndiscovering and exploring the world around you in the \nPreparatory Stage of school? As you enter the Middle Stage, \nwe will continue this fascinating journey, trying to explore \nand understand the beautiful world we live in. And for that, \nwe have a new subject, Science. Welcome to the \nwonderful world of Science! \nScience is a way of thinking, observing and \ndoing things to understand the world we live in \nand to uncover the secrets of the universe. Think \nof it as a big adventure—we ask questions, \nexplore the world and try to understand how \nthings work. For this, the most important thing is to have \n‘Curiosity’, which is where the title of this book comes \nfrom.\nWhether it is studying tiny grains of sand or massive \nmountains, a leaf of grass or a vast forest, there is always \nsomething new and exciting to discover. Have you ever \nlooked up at the night sky \nand wondered why the stars \nshine? Or watched a flower \nbloom and wondered how \nit knows when to open? \nThese are just a few of \nthe many mysteries that \nscience helps us unravel. \nThe most wonderful thing \nabout science is that it \nis everywhere. From the \ndepths of the ocean to the \nWhat is \nScience? ?\nA mountainous region\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1428,
+      "images": [
+        {
+          "image_id": "NCERT_fecu101_page0001_img01",
+          "file": "images/NCERT_fecu101_page0001_img01.png",
+          "bbox": [
+            -18.600038528442383,
+            -18.599990844726562,
+            611.3999633789062,
+            190.0941162109375
+          ],
+          "width_px": 1315,
+          "height_px": 436,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0001_img02",
+          "file": "images/NCERT_fecu101_page0001_img02.png",
+          "bbox": [
+            473.8800048828125,
+            203.88009643554688,
+            558.8400268554688,
+            288.840087890625
+          ],
+          "width_px": 177,
+          "height_px": 177,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pillow_fallback",
+          "ocr_text": "0677CHO1"
+        },
+        {
+          "image_id": "NCERT_fecu101_page0001_img03",
+          "file": "images/NCERT_fecu101_page0001_img03.png",
+          "bbox": [
+            253.95162963867188,
+            514.3522338867188,
+            512.6468505859375,
+            680.2835693359375
+          ],
+          "width_px": 539,
+          "height_px": 346,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0001_img04",
+          "file": "images/NCERT_fecu101_page0001_img04.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0001_img05",
+          "file": "images/NCERT_fecu101_page0001_img05.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu101_page0001_vecfig01",
+          "file": "images/NCERT_fecu101_page0001_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "The Wonderful World of Science\n\nAs human beings, we have always been curious about our\nsurroundings. We start exploring our surroundings and\nasking questions right from our childhood. Did you enjoy\ndiscovering and exploring the world around you in the\nPreparatory Stage of school? As you enter the Middle Stage, [a]¥\nwe will continue this fascinating journey, trying to explore 0677CHO01\nand understand the beautiful world we live in. And for that,\nwe have a new subject, Science. Welcome to the\n\nwonderful world of Science!\n\nScience is a way of thinking, observing and What is\ndoing things to understand the world we live in Science?\nand to uncover the secrets of the universe. Think\nof it as a big adventure—we ask questions,\nexplore the world and try to understand how\nthings work. For this, the most important thing is to have\n‘Curiosity’, which is where the title of this book comes\nfrom.\n\nWhether it is studying tiny grains of sand or massive\nmountains, a leaf of grass or a vast forest, there is always\nsomething new and exciting to discover. Have you ever\nlooked up at the night sky\nand wondered why thestars\nshine? Or watched a flower\nbloom and wondered how\nit knows when to open?\n\nThese are just a few of\nthe many mysteries that\nscience helps us unravel.\nThe most wonderful thing\nabout science is that it & —\nis everywhere. From the - ===\"\n\ndepths of the ocean to the A mountainous region\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 2,
+      "text": "Curiosity | Textbook of Science | Grade 6\n2\nScience is like a giant and unending jigsaw puzzle. Every \nnew discovery we make adds another piece to that puzzle. \nAnd you know the best thing about this puzzle? There is \nno limit to what we can discover, since every new piece \nof knowledge leads to more questions and more things to \nfind out. Sometimes, we find that a piece of this puzzle has \nbeen put  in the wrong place and needs to be moved. New \ndiscoveries often change our understanding of the world. \nAs you go through this book, you will encounter \ninteresting ideas, do some thought-provoking experiments, \nand see how some of what we will find out is useful in our \nvastness of outer space, from what is cooking in the kitchen \nto what is happening on the playground, some of the \nmost groundbreaking discoveries have often come from \nunexpected places. \nA Desert\nA Coast\nAn underwater view of an Ocean\nA Galaxy\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 939,
+      "images": [
+        {
+          "image_id": "NCERT_fecu101_page0002_img01",
+          "file": "images/NCERT_fecu101_page0002_img01.png",
+          "bbox": [
+            69.9599838256836,
+            63.71379089355469,
+            291.8901672363281,
+            226.85040283203125
+          ],
+          "width_px": 463,
+          "height_px": 340,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0002_img02",
+          "file": "images/NCERT_fecu101_page0002_img02.png",
+          "bbox": [
+            298.409912109375,
+            64.20002746582031,
+            522.4599609375,
+            227.9642333984375
+          ],
+          "width_px": 467,
+          "height_px": 342,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0002_img03",
+          "file": "images/NCERT_fecu101_page0002_img03.png",
+          "bbox": [
+            68.94404602050781,
+            341.44915771484375,
+            292.9061279296875,
+            505.21331787109375
+          ],
+          "width_px": 467,
+          "height_px": 342,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0002_img04",
+          "file": "images/NCERT_fecu101_page0002_img04.png",
+          "bbox": [
+            298.409912109375,
+            341.4491882324219,
+            522.4599609375,
+            506.2242736816406
+          ],
+          "width_px": 467,
+          "height_px": 344,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0002_img05",
+          "file": "images/NCERT_fecu101_page0002_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0002_img06",
+          "file": "images/NCERT_fecu101_page0002_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu101_page0002_vecfig01",
+          "file": "images/NCERT_fecu101_page0002_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n©\n\nA Desert A Coast\n\nvastness of outer space, from what is cooking in the kitchen\nto what is happening on the playground, some of the\nmost groundbreaking discoveries have often come from\nunexpected places.\n\nAn underwater view of an Ocean A Galaxy\n\nScience is like a giant and unending jigsaw puzzle. Every\nnew discovery we make adds another piece to that puzzle.\nAnd you know the best thing about this puzzle? There is\nno limit to what we can discover, since every new piece\nof knowledge leads to more questions and more things to\nfind out. Sometimes, we find that a piece of this puzzle has\nbeen put in the wrong place and needs to be moved. New\ndiscoveries often change our understanding of the world.\n\nAs you go through this book, you will encounter\ninteresting ideas, do some thought-provoking experiments,\nand see how some of what we will find out is useful in our\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 3,
+      "text": "The Wonderful World of Science\n3\ndaily lives. And guess what happens as we \ndiscover more and more? We start realising \nthat these ideas are all connected.\nWe will start off by looking at our \nhome, planet Earth. It is the only planet \nwe know that supports life, and it has an \nenvironment that we must protect. There \nis an amazing variety of life on Earth—plants \nand animals that have managed to survive and thrive in \ndifferent regions on this planet. You might have seen a seed \ngrow into a plant, a caterpillar transform into a beautiful \nbutterfly and many more such observations. How do these \nplants and animals grow?\nWhat will we \nexplore with \nthe help of this \nbook?\n?\nOf course, to grow, we need food to eat, and especially in \na large and diverse country like India, food is so fascinating. \nAcross the country, we have different cuisines with their many \ntasty dishes. What are they made of? How do we find out? \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 945,
+      "images": [
+        {
+          "image_id": "NCERT_fecu101_page0003_img01",
+          "file": "images/NCERT_fecu101_page0003_img01.png",
+          "bbox": [
+            248.91696166992188,
+            296.44354248046875,
+            504.48760986328125,
+            476.11737060546875
+          ],
+          "width_px": 533,
+          "height_px": 375,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0003_img02",
+          "file": "images/NCERT_fecu101_page0003_img02.png",
+          "bbox": [
+            70.38396453857422,
+            293.13079833984375,
+            240.915771484375,
+            363.79315185546875
+          ],
+          "width_px": 356,
+          "height_px": 148,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0003_img03",
+          "file": "images/NCERT_fecu101_page0003_img03.png",
+          "bbox": [
+            94.24057006835938,
+            371.4918212890625,
+            217.0592041015625,
+            478.4271545410156
+          ],
+          "width_px": 256,
+          "height_px": 223,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0003_img04",
+          "file": "images/NCERT_fecu101_page0003_img04.png",
+          "bbox": [
+            71.4000015258789,
+            607.068115234375,
+            190.855224609375,
+            684.935302734375
+          ],
+          "width_px": 249,
+          "height_px": 162,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0003_img05",
+          "file": "images/NCERT_fecu101_page0003_img05.png",
+          "bbox": [
+            192.58428955078125,
+            598.495361328125,
+            279.1046447753906,
+            684.9354248046875
+          ],
+          "width_px": 181,
+          "height_px": 180,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0003_img06",
+          "file": "images/NCERT_fecu101_page0003_img06.png",
+          "bbox": [
+            279.7601623535156,
+            597.4932861328125,
+            371.88568115234375,
+            685.981201171875
+          ],
+          "width_px": 192,
+          "height_px": 185,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0003_img07",
+          "file": "images/NCERT_fecu101_page0003_img07.png",
+          "bbox": [
+            369.7996520996094,
+            597.4598388671875,
+            461.82769775390625,
+            685.9483642578125
+          ],
+          "width_px": 192,
+          "height_px": 185,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0003_img08",
+          "file": "images/NCERT_fecu101_page0003_img08.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0003_img09",
+          "file": "images/NCERT_fecu101_page0003_img09.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu101_page0003_vecfig01",
+          "file": "images/NCERT_fecu101_page0003_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "daily lives. And guess what happens as we\n\ndiscover more and more? We start realising What will we\n\nthat these ideas are all connected. explore with\nWe will start off by looking at our the help ofthis @\n\nhome, planet Earth. It is the only planet book?\n\nwe know that supports life, and it has an\n\nenvironment that we must protect. There\n\nis an amazing variety of life on Earth—plants\n\nand animals that have managed to survive and thrive in\n\ndifferent regions on this planet. You might have seen a seed\n\ngrow into a plant, a caterpillar transform into a beautiful\n\nbutterfly and many more such observations. How do these\n\nplants and animals grow?\n\nOf course, to grow, we need food to eat, and especially in\na large and diverse country like India, food is so fascinating.\nAcross the country, we have different cuisines with their many\ntasty dishes. What are they made of? How do we find out?\n\nThe Wonderful World of Science\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 4,
+      "text": "Curiosity | Textbook of Science | Grade 6\n4\nThen again, there are so many different things around \nus—the paper we write on, the metal key, the plastic ruler \nand the rubber eraser in our box, the magnet that keeps the \nbox closed, the clothes we wear, the cup we drink milk in \nand so many other things. What are they made of? Are they \nmade of different materials? How do we separate different \nmaterials from one another?\nAlong with food, we need water to survive. Water is such a \ndelightful substance. Have you ever jumped in a puddle when \nit rained? Do you ever wonder why and how it rains?\nHave you noticed that water freezes and becomes ice \nwhen we cool it and boils and becomes steam when we \nheat it? Do you enjoy drinking cool water in the summer \nor showering with warm water in the winter? How do we \nunderstand hot and cold? Whether it is water, or our own \nbody when we have fever, finding out how hot something is \ncan be important!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 967,
+      "images": [
+        {
+          "image_id": "NCERT_fecu101_page0004_img01",
+          "file": "images/NCERT_fecu101_page0004_img01.png",
+          "bbox": [
+            153.09239196777344,
+            223.7616424560547,
+            517.3341674804688,
+            430.2785339355469
+          ],
+          "width_px": 759,
+          "height_px": 431,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0004_img02",
+          "file": "images/NCERT_fecu101_page0004_img02.png",
+          "bbox": [
+            154.19998168945312,
+            549.9185180664062,
+            521.3999633789062,
+            713.2105712890625
+          ],
+          "width_px": 765,
+          "height_px": 341,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0004_img03",
+          "file": "images/NCERT_fecu101_page0004_img03.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0004_img04",
+          "file": "images/NCERT_fecu101_page0004_img04.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu101_page0004_vecfig01",
+          "file": "images/NCERT_fecu101_page0004_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n6\n\nAlong with food, we need water to survive. Water is such a\ndelightful substance. Have you ever jumped in a puddle when\nit rained? Do you ever wonder why and how it rains?\n\nHave you noticed that water freezes and becomes ice\nwhen we cool it and boils and becomes steam when we\nheat it? Do you enjoy drinking cool water in the summer\nor showering with warm water in the winter? How do we\nunderstand hot and cold? Whether it is water, or our own\nbody when we have fever, finding out how hot something is\ncan be important!\n\nThen again, there are so many different things around\nus—the paper we write on, the metal key, the plastic ruler\nand the rubber eraser in our box, the magnet that keeps the\nbox closed, the clothes we wear, the cup we drink milk in\nand so many other things. What are they made of? Are they\nmade of different materials? How do we separate different\nmaterials from one another?\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 5,
+      "text": "The Wonderful World of Science\n5\nWe will have an almost unending list of questions about \neverything on Earth as we further explore this book. But \nwhy limit our questions to the Earth alone? We can ask \nquestions on things beyond—the Sun, the Moon, and the \nmillions of stars that shine in the sky!\nWhether you are learning about the \nstructure of a leaf, discovering how things \nmove, or separating the skin of a peanut seed, \nwe hope each chapter of this book will ignite \nyour spirit of inquiry. And hopefully you will \nhave lots of questions on your mind!\nEven though you may have not realised, \nyou have already been fi nding answers to \nmany of your questions. Suppose your pen stops \nwriting. What would you do? You would ask yourself the \nquestion, “Why did my pen stop writing?” You might guess \nthat the ink fi nished. \nYou would then test this guess by opening the \npen and checking the ink refi ll. If it is empty, \nyou would know that your guess was \ncorrect. But suppose you found that the \nink was not fi nished. Now what would \nyou do? You would make another \nguess—perhaps the ink might have \ndried up. To test if this guess is correct \nor not, you will try something else. \nThis is exactly how Science \nworks! The way you tried to fi nd \nout why your pen stopped writing \nis an example of the scientiﬁ c \nmethod. \nActivity 1.1: Let us think and write\n \n\nWrite about a similar problem that you tried to solve. \n \n\nWhat steps did you take?\nScience is not just about memorising facts and fi gures or \ndoing experiments. It is about following a step-by-step \nprocess that helps us fi nd answers to our questions. So what \nare the steps that we can follow?\nHow can we try \nto ﬁ nd answers \nto our questions \non our own? ?\nempty, \nwas\nhe \nld \ner \nve \nct \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1786,
+      "images": [
+        {
+          "image_id": "NCERT_fecu101_page0005_img01",
+          "file": "images/NCERT_fecu101_page0005_img01.png",
+          "bbox": [
+            305.591064453125,
+            363.83197021484375,
+            507.478271484375,
+            481.90557861328125
+          ],
+          "width_px": 421,
+          "height_px": 246,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img02",
+          "file": "images/NCERT_fecu101_page0005_img02.png",
+          "bbox": [
+            305.591064453125,
+            481.6024169921875,
+            507.478271484375,
+            540.8665771484375
+          ],
+          "width_px": 421,
+          "height_px": 124,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img03",
+          "file": "images/NCERT_fecu101_page0005_img03.png",
+          "bbox": [
+            305.7455139160156,
+            421.1257019042969,
+            316.5581359863281,
+            434.3123474121094
+          ],
+          "width_px": 23,
+          "height_px": 28,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img04",
+          "file": "images/NCERT_fecu101_page0005_img04.png",
+          "bbox": [
+            305.7455139160156,
+            421.1257019042969,
+            316.5581359863281,
+            434.3123474121094
+          ],
+          "width_px": 23,
+          "height_px": 28,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img05",
+          "file": "images/NCERT_fecu101_page0005_img05.png",
+          "bbox": [
+            305.7455139160156,
+            437.0406188964844,
+            317.48492431640625,
+            450.37884521484375
+          ],
+          "width_px": 25,
+          "height_px": 28,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img06",
+          "file": "images/NCERT_fecu101_page0005_img06.png",
+          "bbox": [
+            305.7455139160156,
+            437.0406188964844,
+            317.48492431640625,
+            450.37884521484375
+          ],
+          "width_px": 25,
+          "height_px": 28,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img07",
+          "file": "images/NCERT_fecu101_page0005_img07.png",
+          "bbox": [
+            305.7455139160156,
+            452.9555358886719,
+            316.5581359863281,
+            466.4453430175781
+          ],
+          "width_px": 23,
+          "height_px": 29,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img08",
+          "file": "images/NCERT_fecu101_page0005_img08.png",
+          "bbox": [
+            305.7455139160156,
+            452.9555358886719,
+            316.5581359863281,
+            466.4453430175781
+          ],
+          "width_px": 23,
+          "height_px": 29,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img09",
+          "file": "images/NCERT_fecu101_page0005_img09.png",
+          "bbox": [
+            305.7455139160156,
+            363.9835205078125,
+            343.5897216796875,
+            370.1979064941406
+          ],
+          "width_px": 79,
+          "height_px": 13,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img10",
+          "file": "images/NCERT_fecu101_page0005_img10.png",
+          "bbox": [
+            305.7455139160156,
+            363.9835510253906,
+            343.5897216796875,
+            370.19793701171875
+          ],
+          "width_px": 79,
+          "height_px": 13,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img11",
+          "file": "images/NCERT_fecu101_page0005_img11.png",
+          "bbox": [
+            305.7455139160156,
+            372.92620849609375,
+            332.62261962890625,
+            386.2644348144531
+          ],
+          "width_px": 56,
+          "height_px": 28,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img12",
+          "file": "images/NCERT_fecu101_page0005_img12.png",
+          "bbox": [
+            305.7455139160156,
+            372.92620849609375,
+            332.62261962890625,
+            386.2644348144531
+          ],
+          "width_px": 57,
+          "height_px": 28,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img13",
+          "file": "images/NCERT_fecu101_page0005_img13.png",
+          "bbox": [
+            305.7455139160156,
+            388.84112548828125,
+            318.5661926269531,
+            402.3309326171875
+          ],
+          "width_px": 27,
+          "height_px": 29,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img14",
+          "file": "images/NCERT_fecu101_page0005_img14.png",
+          "bbox": [
+            305.7455139160156,
+            388.84112548828125,
+            318.5661926269531,
+            402.3309326171875
+          ],
+          "width_px": 27,
+          "height_px": 29,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img15",
+          "file": "images/NCERT_fecu101_page0005_img15.png",
+          "bbox": [
+            305.7455139160156,
+            404.75604248046875,
+            315.63134765625,
+            415.3659973144531
+          ],
+          "width_px": 21,
+          "height_px": 23,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img16",
+          "file": "images/NCERT_fecu101_page0005_img16.png",
+          "bbox": [
+            305.7455139160156,
+            404.75604248046875,
+            315.63134765625,
+            415.3659973144531
+          ],
+          "width_px": 21,
+          "height_px": 23,
+          "ocr_attempted": false,
+          "likely_decorative": true,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img17",
+          "file": "images/NCERT_fecu101_page0005_img17.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0005_img18",
+          "file": "images/NCERT_fecu101_page0005_img18.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu101_page0005_vecfig01",
+          "file": "images/NCERT_fecu101_page0005_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "We will have an almost unending list of questions about\neverything on Earth as we further explore this book. But\nwhy limit our questions to the Earth alone? We can ask\nquestions on things beyond—the Sun, the Moon, and the\nmillions of stars that shine in the sky!\n\nWhether you are learning about the\nstructure of a leaf, discovering how things\nmove, or separating the skin of a peanut seed,\nwe hope each chapter of this book will ignite\nyour spirit of inquiry. And hopefully you will\nhave lots of questions on your mind!\n\nEven though you may have not realised,\nyou have already been finding answers to\nmany of your questions. Suppose your pen stops\nwriting. What would you do? You would ask yourself the\nquestion, “Why did my pen stop writing?” You might guess\nthat the ink finished.\n\nYou would then test this guess by opening the\npen and checking the ink refill. If it is empty,\nyou would know that your guess was\ncorrect. But suppose you found that the\nink was not finished. Now what would\nyou do? You would make another\nguess—perhaps the ink might have\ndried up. To test if this guess is correct\nor not, you will try something else.\n\nThis is exactly how Science\nworks! The way you tried to find\nout why your pen stopped writing\nis an example of the scientific\nmethod.\n\nHow can we try\nto find answers\nto our questions\non our own?\n\nActivity 1.1: Let us think and write\n\n¢ Write about a similar problem that you tried to solve.\n@ What steps did you take?\n\nScience is not just about memorising facts and figures or\ndoing experiments. It is about following a step-by-step\nprocess that helps us find answers to our questions. So what\nare the steps that we can follow?\n\nReprint 2026-27\n\nThe Wonderful World of Science"
+        }
+      ]
+    },
+    {
+      "page_number": 6,
+      "text": "Curiosity | Textbook of Science | Grade 6\n6\nFirst, we observe something that we fi nd interesting \nor we do not understand.\nThis makes us wonder and perhaps think of a question \nabout it.\nThen, we guess a possible answer to that question.\nWe test this guess through experiments or more \nobservations.\nWe then try to analyse the results to see if it actually answers \nour question.\nScientists are people who \nfollow the scientifi c method to \nsolve problems or to discover \nnew things. But anyone who \nfollows the scientifi c method is \nworking like a scientist. Someone \ncooking food may be wondering \nwhy the dal has spilled out of \nthe cooker—was there too much \nwater?\nThink of a bicycle repair \nperson trying to fi nd out why a \ntyre is fl at—from where did the \nair leak out? Or an electrician \ntrying to fi nd why a light bulb \nis not working—is there some \nproblem with the bulb or the \nswitch? When we try to ask \nquestions and fi nd out answers, \nwe are all, in a way, scientists!\nActivity 1.2: Let us think and write\n \n\nDescribe a daily life situation where you think someone \nwas following a scientifi c method.\nDo you now realise that there are several daily-life situations \nwhere we knowingly or unknowingly apply the scientifi c \nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1262,
+      "images": [
+        {
+          "image_id": "NCERT_fecu101_page0006_img01",
+          "file": "images/NCERT_fecu101_page0006_img01.png",
+          "bbox": [
+            84.07274627685547,
+            296.50830078125,
+            302.0179748535156,
+            413.96954345703125
+          ],
+          "width_px": 455,
+          "height_px": 245,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0006_img02",
+          "file": "images/NCERT_fecu101_page0006_img02.png",
+          "bbox": [
+            71.21031951904297,
+            428.5992126464844,
+            202.95370483398438,
+            495.466796875
+          ],
+          "width_px": 275,
+          "height_px": 140,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0006_img03",
+          "file": "images/NCERT_fecu101_page0006_img03.png",
+          "bbox": [
+            202.7639923095703,
+            428.5992126464844,
+            301.6900939941406,
+            495.466796875
+          ],
+          "width_px": 206,
+          "height_px": 140,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0006_img04",
+          "file": "images/NCERT_fecu101_page0006_img04.png",
+          "bbox": [
+            71.21031951904297,
+            495.2770690917969,
+            202.95370483398438,
+            562.1446533203125
+          ],
+          "width_px": 275,
+          "height_px": 140,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0006_img05",
+          "file": "images/NCERT_fecu101_page0006_img05.png",
+          "bbox": [
+            202.7639923095703,
+            495.2770690917969,
+            301.6900939941406,
+            562.1446533203125
+          ],
+          "width_px": 206,
+          "height_px": 140,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0006_img06",
+          "file": "images/NCERT_fecu101_page0006_img06.png",
+          "bbox": [
+            71.21031951904297,
+            561.9550170898438,
+            301.6900939941406,
+            595.5310668945312
+          ],
+          "width_px": 481,
+          "height_px": 70,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0006_img07",
+          "file": "images/NCERT_fecu101_page0006_img07.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0006_img08",
+          "file": "images/NCERT_fecu101_page0006_img08.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu101_page0006_vecfig01",
+          "file": "images/NCERT_fecu101_page0006_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Curiosity | Textbook of Science | Grade 6\n\n©\n\nFirst, we observe something that we find interesting\nor we do not understand.\n\nThis makes us wonder and perhaps think of a question\nabout it.\n\nThen, we guess a possible answer to that question.\n\nWe test this guess through experiments or more\nobservations.\n\nWe then try to analyse the results to see if it actually answers\nour question.\n\nScientists are people who\nfollow the scientific method to\nsolve problems or to discover\nnew things. But anyone who\nfollows the scientific method is\nworking like a scientist. Someone\ncooking food may be wondering\nwhy the dal has spilled out of\nthe cooker—was there too much\nwater?\n\nThink of a bicycle repair\nperson trying to find out why a\ntyre is flat—from where did the\nair leak out? Or an electrician\ntrying to find why a light bulb\nis not working—is there some\nproblem with the bulb or the\nswitch? When we try to ask\nquestions and find out answers,\nwe are all, in a way, scientists!\n\nActivity 1.2: Letusthink and write ee\n\n@ Describe a daily life situation where you think someone\nwas following a scientific method.\n\nDo you now realise that there are several daily-life situations\nwhere we knowingly or unknowingly apply the scientific\n\nReprint 2026-27"
+        }
+      ]
+    },
+    {
+      "page_number": 7,
+      "text": "The Wonderful World of Science\n7\nmethod? Though we all apply the scientific method to \nsome extent, learning science will develop our capabilities \nfor finding solutions to bigger problems and solving \nmore mysteries of the universe. And to be able to learn \nscience well, the first and foremost thing is to be curious \nand observe your surroundings keenly. And when we are \ncurious, we start posing questions, asking how and why? \nJust remember, the world is full of things we do not know, \nthings that are waiting to be explored.\nActivity 1.3: Let us think and write\n\n\nIf you have to ask “Why?” about something, what would \nyou ask about?\n\n\nTry to write down how you would attempt to find an \nanswer to your question.\nScience is rarely done alone. Scientists across the world \nwork together, often in large teams. So, if you cannot find \nan answer yourself, ask your friends to help you out! It is \nalways more fun to discover things together.\nOf course, remember that you will not find answers to \nall your questions in Grade 6. Do not worry, you are \nembarking upon a journey of science for the next five years \nor even beyond!\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 1152,
+      "images": [
+        {
+          "image_id": "NCERT_fecu101_page0007_img01",
+          "file": "images/NCERT_fecu101_page0007_img01.png",
+          "bbox": [
+            70.37873840332031,
+            399.39959716796875,
+            439.67694091796875,
+            612.5445556640625
+          ],
+          "width_px": 770,
+          "height_px": 444,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0007_img02",
+          "file": "images/NCERT_fecu101_page0007_img02.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0007_img03",
+          "file": "images/NCERT_fecu101_page0007_img03.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu101_page0007_vecfig01",
+          "file": "images/NCERT_fecu101_page0007_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "method? Though we all apply the scientific method to\nsome extent, learning science will develop our capabilities\nfor finding solutions to bigger problems and _ solving\nmore mysteries of the universe. And to be able to learn\nscience well, the first and foremost thing is to be curious\nand observe your surroundings keenly. And when we are\ncurious, we start posing questions, asking how and why?\nJust remember, the world is full of things we do not know,\nthings that are waiting to be explored.\n\nActivity 1.3: Let us think and write Se\n\n¢ Ifyou have to ask “Why?” about something, what would\nyou ask about?\n\n¢ Try to write down how you would attempt to find an\nanswer to your question.\n\nScience is rarely done alone. Scientists across the world\nwork together, often in large teams. So, if you cannot find\nan answer yourself, ask your friends to help you out! It is\nalways more fun to discover things together.\n\nOf course, remember that you will not find answers to\nall your questions in Grade 6. Do not worry, you are\nembarking upon a journey of science for the next five years\nor even beyond!\n\nReprint 2026-27\n\nThe Wonderful World of Science"
+        }
+      ]
+    },
+    {
+      "page_number": 8,
+      "text": "Curiosity | Textbook of Science | Grade 6\n8\nMuch \nlike \nchildren \nenjoying \nthe rain, science is all about joyful \nexploration. Enjoy your scientifi c \njourney, keep exploring and never \nstop wondering about the amazing \nmysteries of the universe and asking \nquestions.\nAre you ready to embark upon the exciting journey of \nscience? Let us get started!!\nAfter all, to be \na wise person, \nyou must be a \n“whys” person! ?\nReprint 2026-27\n",
+      "text_source": "native",
+      "char_count": 436,
+      "images": [
+        {
+          "image_id": "NCERT_fecu101_page0008_img01",
+          "file": "images/NCERT_fecu101_page0008_img01.png",
+          "bbox": [
+            126.96509552001953,
+            63.81187438964844,
+            337.4443359375,
+            206.21978759765625
+          ],
+          "width_px": 439,
+          "height_px": 297,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0008_img02",
+          "file": "images/NCERT_fecu101_page0008_img02.png",
+          "bbox": [
+            337.10565185546875,
+            63.81187438964844,
+            547.5848999023438,
+            206.21978759765625
+          ],
+          "width_px": 439,
+          "height_px": 297,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0008_img03",
+          "file": "images/NCERT_fecu101_page0008_img03.png",
+          "bbox": [
+            126.96509552001953,
+            205.88111877441406,
+            407.547607421875,
+            312.8987121582031
+          ],
+          "width_px": 585,
+          "height_px": 224,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0008_img04",
+          "file": "images/NCERT_fecu101_page0008_img04.png",
+          "bbox": [
+            407.2089538574219,
+            205.88111877441406,
+            547.5848999023438,
+            312.8987121582031
+          ],
+          "width_px": 293,
+          "height_px": 224,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0008_img05",
+          "file": "images/NCERT_fecu101_page0008_img05.png",
+          "bbox": [
+            -8.283655166625977,
+            -39.1807861328125,
+            601.0843505859375,
+            822.780029296875
+          ],
+          "width_px": 2480,
+          "height_px": 3508,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        },
+        {
+          "image_id": "NCERT_fecu101_page0008_img06",
+          "file": "images/NCERT_fecu101_page0008_img06.png",
+          "bbox": [
+            55.847412109375,
+            192.52645874023438,
+            521.2276611328125,
+            657.9066772460938
+          ],
+          "width_px": 1894,
+          "height_px": 1894,
+          "ocr_attempted": true,
+          "likely_decorative": false,
+          "conversion_status": "pixmap",
+          "ocr_text": null
+        }
+      ],
+      "tables": [],
+      "vector_figures": [
+        {
+          "figure_id": "NCERT_fecu101_page0008_vecfig01",
+          "file": "images/NCERT_fecu101_page0008_vecfig01.png",
+          "bbox": [
+            0.0,
+            0.0,
+            592.800048828125,
+            783.6000366210938
+          ],
+          "ocr_attempted": true,
+          "ocr_text": "Much like children enjoying After all, to be >\n\nthe rain, science is all about joyful a wise person,\nexploration. Enjoy your scientific  youmustbea @\njourney, keep exploring and never — “whys” person!\nstop wondering about the amazing\nmysteries of the universe and asking\nquestions.\n\nAre you ready to embark upon the exciting journey of\nscience? Let us get started!!\n\nCuriosity | Textbook of Science | Grade 6\n\n6 d\n\nReprint 2026-27"
+        }
+      ]
+    }
+  ]
+}
