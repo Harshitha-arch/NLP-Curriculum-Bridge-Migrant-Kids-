@@ -1,0 +1,27 @@
+[project]
+name = "curriculum-bridge"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=13.0.0",
+    "pymupdf>=2.0",
+    "pytesseract>=0.3.13",
+    "pyyaml>=6.0.3",
+]
+
+[dependency-groups]
+dev = [
+    "hypothesis>=6.170.5",
+    "pytest>=9.1.1",
+    "ruff>=0.17.1",
+]
+
+[tool.ruff]
+line-length = 100
+extend-exclude = ["extract_textbooks.py"]  # teammate's script, not linted with this config
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "UP", "B"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
