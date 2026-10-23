@@ -4,7 +4,7 @@
 paths:
   input_root: data            # <input_root>/<BOARD>/[Class<N>/]<file>.pdf
   page_cache: cache/pages     # per-PDF page extraction (incl. OCR), reused between runs
-  output_dir: processed       # topics.jsonl, dropped_topics.jsonl, summary.csv
+  output_dir: processed       # chunks.jsonl, topics.jsonl, dropped_topics.jsonl, summary.csv
   exclude_stems: "1ps$"       # regex on file name; NCERT *1ps.pdf = prelims (cover, foreword, contents)
   default_grade: 6            # class of PDFs with no Class<N> folder and no NCERT code (SCERT Term_*.pdf)
 
@@ -21,7 +21,7 @@ segmentation:
   min_topic_chars: 300        # shorter topics are merged into their neighbour
 
 cleaning:
-  max_topic_chars: 1200       # length cap per topic, cut at a sentence boundary
+  max_chunk_chars: 1200       # long topics are split into chunks of at most this size
   min_kept_chars: 150         # after cleaning, shorter topics are dropped
   min_alpha_ratio: 0.55       # letters / non-space characters
   min_word_quality: 0.70      # share of tokens that look like real words

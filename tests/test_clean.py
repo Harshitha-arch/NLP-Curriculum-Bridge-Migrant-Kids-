@@ -175,3 +175,61 @@ def test_ncert_side_label_removed():
     assert clean_text("Curiosity\nTextbook of Science\nGrade 6\nMagnets attract iron.") == (
         "Magnets attract iron."
     )
+
+
+# --- chunking -----------------------------------------------------------------------
+
+from preprocessing.clean import split_chunks  # noqa: E402
+
+
+def test_short_topic_is_one_chunk():
+    assert split_chunks("They attract iron.", "Magnets", 1200) == ["Magnets. They attract iron."]
+    assert split_chunks("Magnets attract iron.", "Magnets", 1200) == ["Magnets attract iron."]
+
+
+def test_long_topic_split_at_sentences_evenly():
+    body = " ".join(f"Sentence number {i} is about how water evaporates." for i in range(120))
+    chunks = split_chunks(body, "Evaporation", 1200)
+    assert len(chunks) == 6  # ceil(~6,200 / ~1,187) chunks
+    assert all(c.startswith("Evaporation. ") and len(c) <= 1200 for c in chunks)
+    assert all(c.endswith(".") for c in chunks)  # cut at sentence ends
+    sizes = [len(c) for c in chunks]
+    assert max(sizes) - min(sizes) < 200  # no tiny leftover chunk
+
+
+@given(
+    st.lists(
+        st.text(alphabet="abcde fgh.?!XYZ", min_size=1, max_size=300), min_size=1, max_size=40
+    ),
+    st.integers(min_value=60, max_value=1500),
+)
+def test_chunks_fit_and_lose_nothing(parts, limit):
+    body = " ".join(" ".join(parts).split())
+    title = "Topic"
+    chunks = split_chunks(body, title, limit)
+    assert all(len(c) <= limit for c in chunks)
+    prefix = f"{title}. "
+    first_bare = body.startswith(title)  # a first chunk already starting with the title
+    assert all(c.startswith(prefix) for i, c in enumerate(chunks) if i or not first_bare)
+    rebuilt = " ".join(
+        c if i == 0 and first_bare else c[len(prefix) :] for i, c in enumerate(chunks)
+    )
+    assert rebuilt.split() == body.split()
+
+
+def test_later_chunks_get_title_even_if_text_starts_with_it():
+    body = "Mass is the measure of matter. " + "The SI unit of mass is kilogram. " * 60
+    chunks = split_chunks(body.strip(), "Mass", 1200)
+    assert len(chunks) > 1
+    assert chunks[0].startswith("Mass is the measure")  # title not repeated
+    assert all(c.startswith("Mass. ") for c in chunks[1:])
+
+
+def test_shifted_font_labels_decoded_only_when_known():
+    from preprocessing.clean import build_vocab
+
+    vocab = build_vocab(["All water on earth. The skull and ribs. All water, earth, skull."])
+    raw = "6NXOO\n$OO\x03ZDWHU\x03RQ\x03HDUWK\nWATER"
+    assert clean_text(raw, vocab) == "Skull All water on earth WATER"
+    assert clean_text("6NXOO", None) == "6NXOO"  # no vocabulary: left alone
+    assert clean_text("XQNQRZQ", vocab) == "XQNQRZQ"  # decodes to an unknown word: left alone

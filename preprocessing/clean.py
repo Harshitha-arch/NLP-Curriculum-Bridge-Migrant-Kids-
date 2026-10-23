@@ -1,10 +1,11 @@
-"""Stage 3: clean topic text, normalise Hindi, cap length, and flag empty/noisy topics.
+"""Stage 3: clean topic text, normalise Hindi, split it into chunks, flag empty/noisy topics.
 
 Everything here is a pure function on strings so it can be unit-tested without PDFs.
 """
 
 from __future__ import annotations
 
+import math
 import re
 import unicodedata
 
@@ -108,6 +109,65 @@ FILL_IN = re.compile(r"_{2,}|\.{3,}|…+|(\.\s){3,}")
 RUPEE_OCR = re.compile(r"(?<![\w%])[%~](?=\s?\d)")  # Tesseract reads ₹ as % or ~
 
 
+# Some SCERT diagram labels use a font whose characters are mapped 29 code points too
+# low in the PDF: "6NXOO" is printed as "Skull" and "$OOZDWHU" as "All water" (the
+# space becomes the control character ).
+FONT_SHIFT = 29
+SHIFTABLE = range(3, 94)  # code points that land on printable ASCII after the shift
+
+
+def build_vocab(texts: list[str], min_count: int = 2) -> set[str]:
+    """Lowercase words (3+ letters) that occur at least ``min_count`` times in the texts:
+    the corpus's own vocabulary, used to recognise words decoded by ``unshift_line``.
+
+    Only texts containing lowercase letters count, so all-capital lines (headings, and
+    the shifted-font labels themselves, which repeat) do not enter the vocabulary.
+    """
+    counts: dict[str, int] = {}
+    for text in texts:
+        if not re.search("[a-z]", text):
+            continue
+        for word in re.findall(r"[a-z]{3,}", text.lower()):
+            counts[word] = counts.get(word, 0) + 1
+    return {word for word, n in counts.items() if n >= min_count}
+
+
+def unshift_line(line: str, vocab: set[str]) -> str:
+    """Decode a line printed in the shifted font, or return it unchanged.
+
+    Only lines with no lowercase ASCII letters and every character in the shiftable
+    range are considered (the shifted font turns lowercase into capitals and symbols).
+    Such a line is decoded when either
+      * at least half of its decoded words (3+ letters) are words of the corpus, a
+        larger share than for the line as it stands, or
+      * it contains a shifted capital (a digit or symbol from "$" to "=", e.g. "+" for
+        "H") and every decoded word is a well-formed word ("+HWHURJHQHRXV" ->
+        "Heterogeneous", a word the books never spell out in normal text).
+    Real capitals decode to symbols ("WATER" -> "t^qbo"), so they are left alone.
+    ``vocab`` holds lowercase words seen in the books (see ``build_vocab``).
+    """
+    text = line.strip()
+    if not text or re.search("[a-z]", text) or len(re.findall(r"[D-\]]", text)) < 2:
+        return line
+    if any(ord(ch) not in SHIFTABLE for ch in text):
+        return line
+
+    def known(value: str) -> float:
+        words = re.findall("[a-z]{3,}", value.lower())
+        return sum(w in vocab for w in words) / len(words) if words else 0.0
+
+    decoded = "".join(chr(ord(ch) + FONT_SHIFT) for ch in text)
+    if known(decoded) >= 0.5 and known(decoded) > known(text):
+        return decoded
+    words = decoded.split()
+    well_formed = re.fullmatch(r"[A-Za-z ,.()'-]+", decoded) and all(
+        looks_like_word(w) and len(w.strip(TOKEN_STRIP)) >= 2 for w in words
+    )
+    if re.search(r"[$-=]", text) and well_formed:
+        return decoded
+    return line
+
+
 def clean_title(raw: str) -> str:
     """Normalise a heading for display: the same character fixes as ``clean_text``, but
     without dropping lines, so titles such as "ICT Corner" survive."""
@@ -143,13 +203,16 @@ def join_lines(lines: list[str]) -> str:
     return out
 
 
-def clean_text(raw: str) -> str:
+def clean_text(raw: str, vocab: set[str] | None = None) -> str:
     """Turn raw extracted text (newline-separated lines) into clean single-paragraph text.
 
     Order: Unicode/Hindi normalisation -> per-character mapping -> drop noise lines ->
     remove fill-in blanks, bullets, table rules -> join lines -> fix OCR rupee sign ->
-    collapse whitespace and repeated punctuation.
+    collapse whitespace and repeated punctuation. With ``vocab``, lines printed in the
+    shifted font are decoded first (see ``unshift_line``).
     """
+    if vocab:
+        raw = "\n".join(unshift_line(line, vocab) for line in raw.splitlines())
     text = normalize_hindi(raw).translate(CHAR_MAP)
     text = CONTROL.sub("", PRIVATE_USE.sub(" ", BULLETS.sub(" ", text)))
     text = TAMIL_WORD.sub(" ", text)
@@ -193,6 +256,72 @@ def cap_length(text: str, max_chars: int) -> tuple[str, bool]:
     cut = window.rfind(" ", 0, max_chars + 1)
     cut = cut if cut > 0 else max_chars
     return window[:cut].strip(), True
+
+
+def split_sentences(text: str, max_chars: int) -> list[str]:
+    """Split text after each sentence end; any piece still longer than ``max_chars``
+    is broken further with ``cap_length`` (at a word boundary)."""
+    pieces, start = [], 0
+    for match in SENTENCE_END.finditer(text):
+        pieces.append(text[start : match.end()].strip())
+        start = match.end()
+    pieces.append(text[start:].strip())
+    out = []
+    for piece in filter(None, pieces):
+        while len(piece) > max_chars:
+            head, _ = cap_length(piece, max_chars)
+            out.append(head)
+            piece = piece[len(head) :].strip()
+        if piece:
+            out.append(piece)
+    return out
+
+
+def split_chunks(body: str, title: str, max_chars: int) -> list[str]:
+    """Split a topic's text into chunks of at most ``max_chars`` characters each.
+
+    Every chunk starts with the topic title ("Balanced Diet. ...") so it still says
+    what it is about on its own; the title counts towards the limit. The only exception
+    is a first chunk whose text already begins with the title ("Mass is the measure ...").
+    Chunks end at sentence ends and are sized evenly: before each chunk, with R
+    characters left and n = ceil(R / budget) chunks still needed, the chunk is closed
+    once it reaches R / n characters, so the last one is not a small leftover. Joining
+    the chunks without their titles gives back the body.
+    """
+    if not body:
+        return []
+    prefix = f"{title}. " if title else ""
+    budget = max_chars - len(prefix)
+    starts_with_title = bool(title) and body.startswith(title)
+    if len(body) <= (max_chars if starts_with_title else budget):
+        return [body if starts_with_title else prefix + body]
+
+    def target(remaining: int) -> float:  # even share of what is left
+        return remaining / math.ceil(remaining / budget)
+
+    chunks: list[str] = []
+    current = ""
+    remaining = len(body)
+    goal = target(remaining)
+    for sentence in split_sentences(body, budget):
+        joined = f"{current} {sentence}" if current else sentence
+        if current and len(joined) > budget:
+            chunks.append(current)
+            remaining -= len(current) + 1
+            goal = target(max(remaining, 1))
+            current = sentence
+        else:
+            current = joined
+        if len(current) >= goal:
+            chunks.append(current)
+            remaining -= len(current) + 1
+            goal = target(max(remaining, 1))
+            current = ""
+    if current:
+        chunks.append(current)
+    return [
+        chunk if i == 0 and starts_with_title else prefix + chunk for i, chunk in enumerate(chunks)
+    ]
 
 
 # --- language and quality -----------------------------------------------------------
