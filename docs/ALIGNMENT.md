@@ -62,6 +62,7 @@ uv run python -m alignment.run --model bge      # primary (default)
 uv run python -m alignment.run --model e5
 uv run python -m alignment.run --model tfidf
 uv run python -m alignment.make_gold            # after all three runs
+uv run python -m alignment.evaluate             # after eval/gold_pairs.csv is labelled
 uv run pytest
 ```
 
@@ -95,6 +96,12 @@ Rows and columns follow the order of `processed/topics.jsonl`.
 | `gold_pairs_template.csv` | 252 unlabelled (SCERT topic, NCERT candidate) pairs for human labelling |
 | `gold_topics.csv` | the 40 sampled SCERT topics, how each was picked, its tercile, number of candidates |
 | `LABELLING_GUIDE.md` | label definitions with one real example of each |
+| `gold_pairs.csv` | the template with labels (**AI-labelled, not human-reviewed**; see §6) |
+| `results.md` | models × retrieval metrics, thresholds with CIs, annotator agreement |
+| `score_by_label_<model>.png` | `best_coverage_any` per topic-level gold label, with the thresholds |
+
+`processed/alignment/thresholds.json`: thresholds for Phase 4 (bge primary, e5 and tfidf too),
+with CIs, macro-F1, label source and date.
 
 ## 5. First results (before evaluation)
 
@@ -121,7 +128,7 @@ Score ranges of `best_coverage_any` over the 132 SCERT topics:
   8 SCERT topics (coverage) vs 3 and 8 (centroid), so the max-over-chunks measure does not make
   them a strong catch-all.
 
-## 6. Evaluation (pending)
+## 6. Evaluation (provisional: AI labels)
 
 **Gold-set sampling** (`alignment/make_gold.py`, seed 42):
 
@@ -141,13 +148,58 @@ a second annotator. Because of the stratification, the label distribution in the
 **not** the distribution over all SCERT topics, so proportions from it must not be reported as
 corpus-wide gap rates.
 
-Metrics, thresholds and agreement are added here after the labelled `eval/gold_pairs.csv`
-comes back (`alignment/evaluate.py`).
+**Labels.** `eval/gold_pairs.csv` was labelled by an AI model (an LLM) reading the texts in
+the template, following `eval/LABELLING_GUIDE.md`, without seeing model scores. It has **not
+been reviewed by people**, there is no second annotator (`label_2` is empty, so Cohen's kappa
+is not available), and the reason for every non-`none` label is in `notes`. Everything below
+is provisional until people label or review the gold set; then set `gold.label_source:
+human` in `configs/alignment.yaml` and re-run `uv run python -m alignment.evaluate` (about 6
+minutes, mostly the bootstrap).
+
+Pair labels: 2 `same`, 21 `partial`, 13 `prerequisite`, 216 `none`. Topic labels: 20 Not
+Covered, 18 Partially Covered, 2 Covered.
+
+**Retrieval** (relevant = `same` or `partial`; 15 SCERT topics have a relevant pair):
+
+| Ranking | Hit@1 | Hit@3 | MRR@3 |
+|---|---|---|---|
+| bge coverage | 0.733 | **1.000** | 0.856 |
+| e5 coverage | 0.467 | 0.867 | 0.633 |
+| tfidf coverage | 0.733 | 0.933 | 0.822 |
+| bge centroid | 0.600 | 1.000 | 0.800 |
+
+All rankings meet the proposal's criterion Hit@3 ≥ 0.80 on these labels. bge is best and
+directional coverage ranks better than whole-topic centroids at Hit@1. Dropping the
+multilingual model costs nothing: e5 is the weakest, below the TF-IDF baseline.
+
+**Thresholds for Phase 4** (`processed/alignment/thresholds.json`), on `best_coverage_any`:
+
+| Model | t_partial (95% CI) | t_covered (95% CI) | macro-F1 in-sample (95% CI) | macro-F1 leave-one-out |
+|---|---|---|---|---|
+| **bge (primary)** | **0.692** (0.609–0.694) | **0.770** (0.743–0.812) | 0.890 (0.544–0.964) | 0.737 |
+| e5 | 0.887 (0.881–0.905) | 0.939 (0.911–0.939) | 0.742 (0.504–0.923) | 0.614 |
+| tfidf | 0.110 (0.093–0.171) | 0.259 (0.241–0.439) | 0.851 (0.567–0.982) | 0.707 |
+
+Covered if score ≥ t_covered, Partially Covered if t_partial ≤ score < t_covered, otherwise
+Not Covered. The thresholds maximise macro-F1 over midpoints between observed scores; the
+bootstrap refits them on 1,000 resamples of the 40 topics. The leave-one-out macro-F1 is the
+honest estimate; the in-sample value is optimistic.
+
+**Read with care:**
+- **t_covered rests on 2 topics.** Only 2 sampled SCERT topics have a `same` pair (Separation
+  of Mixtures, Magnetic Poles), so t_covered just sits between them and the highest Partially
+  Covered topic. With human labels that are less strict about `same`, it will move.
+- **Not Covered vs Partially Covered overlap** between about 0.61 and 0.69 under bge
+  (`eval/score_by_label_bge.png`), so topics near t_partial need a human look in Phase 4.
+- The gold sample is stratified (§6 sampling), so its label proportions are not corpus-wide
+  gap rates.
 
 ## 7. Known limitations
 
-1. **Gold set is small.** 40 topics (5 of them computer topics) is enough to compare models
-   and calibrate two thresholds roughly; bootstrap confidence intervals will be wide.
+1. **Gold set is small and not yet human-labelled.** 40 topics (5 of them computer topics),
+   labelled by an AI model with no second annotator. It is enough to compare models and
+   calibrate two thresholds roughly; the bootstrap intervals are wide, and t_covered rests on
+   2 Covered topics.
 2. **Narrow score bands.** Dense cosines differ by a few hundredths between a real match and
    an unrelated topic, so small threshold changes move many topics between labels.
 3. **Shared vocabulary.** Word overlap can outrank meaning: the SCERT electric "Cell" matches

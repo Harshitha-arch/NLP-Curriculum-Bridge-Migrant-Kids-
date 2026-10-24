@@ -55,4 +55,5 @@ comparison. Full documentation: [`docs/ALIGNMENT.md`](docs/ALIGNMENT.md).
 ```
 uv run python -m alignment.run --model bge     # also: e5, tfidf -> processed/alignment/<model>/
 uv run python -m alignment.make_gold           # eval/gold_pairs_template.csv for human labelling
+uv run python -m alignment.evaluate            # metrics + Phase 4 thresholds from eval/gold_pairs.csv
 ```
