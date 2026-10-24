@@ -1,0 +1,44 @@
+# Settings for the embedding and alignment stage (python -m alignment.run).
+# Paths are relative to the repository root.
+
+paths:
+  chunks: processed/chunks.jsonl     # embedding input; only section == "content" is used
+  topics: processed/topics.jsonl     # full topic text (gold-set template)
+  embedding_cache: cache/embeddings  # <slug>/<sha256>.npy + .ids.json, reused between runs
+  output_dir: processed/alignment    # <slug>/ per model
+  eval_dir: eval                     # gold-set template and labelling guide
+
+boards:
+  origin: NCERT       # pivot curriculum
+  destination: SCERT  # Tamil Nadu; main question: how well does NCERT cover each SCERT topic?
+
+models:
+  bge:                # primary: English, no instruction prefix for symmetric passage similarity
+    name: BAAI/bge-large-en-v1.5
+    slug: bge-large-en-v1.5
+    prefix: ""
+  e5:                 # model named in the RTM (REQ-03); needs a prefix, "query: " on both sides
+    name: intfloat/multilingual-e5-large
+    slug: multilingual-e5-large
+    prefix: "query: "
+  tfidf:              # lexical baseline, fit on all content chunks
+    name: tfidf
+    slug: tfidf
+    prefix: ""
+
+embedding:
+  batch_size: 16
+  device: auto        # auto = cuda, then mps, then cpu
+
+alignment:
+  top_k: 5            # ranked NCERT matches per SCERT topic in topic_matches.csv
+  evidence_chars: 200 # characters of each evidence chunk in topic_matches.csv
+
+gold:
+  seed: 42
+  per_unit: 1               # first pass: one topic from every SCERT unit
+  tercile_draws: [7, 7, 6]  # second pass: low / mid / high bge best_coverage_any
+  candidates_per_model: 3   # top-3 NCERT topics pooled from each ranking
+  double_label: 40          # pairs marked for a second annotator (Cohen's kappa)
+  max_text_chars: 1500
+  computer_units: ["Computer - An Introduction", "Hardware and Software", "Parts of Computer"]
