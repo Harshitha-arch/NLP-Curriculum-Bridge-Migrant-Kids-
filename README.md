@@ -45,3 +45,15 @@ minutes. Pages with no selectable text are OCR'd with Tesseract, which must be i
 - `dropped_topics.jsonl`: removed topics with the reason.
 - `summary.csv`: topics and chunks per PDF.
 - `verification.csv`: every PDF line not in the output, with the reason (from `verify`).
+
+## Embedding & alignment (`alignment/`)
+
+Measures how well each SCERT topic is covered by NCERT (directional, chunk-level cosine),
+with `bge-large-en-v1.5` as the primary model and `multilingual-e5-large` and TF-IDF for
+comparison. Full documentation: [`docs/ALIGNMENT.md`](docs/ALIGNMENT.md).
+
+```
+uv run python -m alignment.run --model bge     # also: e5, tfidf -> processed/alignment/<model>/
+uv run python -m alignment.make_gold           # eval/gold_pairs_template.csv for human labelling
+uv run python -m alignment.evaluate            # metrics + Phase 4 thresholds from eval/gold_pairs.csv
+```

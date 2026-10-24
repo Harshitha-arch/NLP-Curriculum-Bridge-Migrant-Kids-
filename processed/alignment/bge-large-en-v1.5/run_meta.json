@@ -1,0 +1,17 @@
+{
+  "model_key": "bge",
+  "model": "BAAI/bge-large-en-v1.5",
+  "prefix": "",
+  "dims": 1024,
+  "chunks": {
+    "SCERT": 294,
+    "NCERT": 251
+  },
+  "topics": {
+    "SCERT": 132,
+    "NCERT": 82
+  },
+  "runtime_s": 0.7,
+  "git_commit": "08bc13919cbf0f6007998600b6363beffc776472",
+  "timestamp": "2026-10-24T06:08:29+00:00"
+}
