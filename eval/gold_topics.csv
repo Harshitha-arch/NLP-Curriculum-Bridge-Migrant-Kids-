@@ -1,0 +1,41 @@
+scert_topic_id,picked_by,unit,cov_tercile,n_candidates
+SCERT_c6_Term_1_01,unit,Measurements,high,4
+SCERT_c6_Term_1_11,unit,Force and Motion,low,7
+SCERT_c6_Term_1_18,unit,Matter Around Us,high,5
+SCERT_c6_Term_1_24,unit,The World of Plants,mid,5
+SCERT_c6_Term_1_31,unit,The World of Animals,mid,4
+SCERT_c6_Term_1_38,unit,Health and Hygiene,low,5
+SCERT_c6_Term_1_42,unit,Computer - An Introduction,low,8
+SCERT_c6_Term_2_02,unit,Heat,mid,6
+SCERT_c6_Term_2_19,unit,Electricity,low,7
+SCERT_c6_Term_2_25,unit,Changes Around Us,mid,7
+SCERT_c6_Term_2_34,unit,Air,high,6
+SCERT_c6_Term_2_48,unit,The Cell,low,7
+SCERT_c6_Term_2_65,unit,Human Organ systems,mid,6
+SCERT_c6_Term_2_72,unit,Parts of Computer,low,8
+SCERT_c6_Term_3_08,unit,Magnetism,mid,4
+SCERT_c6_Term_3_19,unit,Water,high,6
+SCERT_c6_Term_3_31,unit,Chemistry in Everyday life,low,7
+SCERT_c6_Term_3_41,unit,Our Environment,mid,5
+SCERT_c6_Term_3_50,unit,Plants in Daily Life,mid,6
+SCERT_c6_Term_3_65,unit,Hardware and Software,low,10
+SCERT_c6_Term_3_32,tercile_low,Chemistry in Everyday life,low,8
+SCERT_c6_Term_2_57,tercile_low,Human Organ systems,low,7
+SCERT_c6_Term_2_29,tercile_low,Changes Around Us,low,9
+SCERT_c6_Term_2_59,tercile_low,Human Organ systems,low,8
+SCERT_c6_Term_2_73,tercile_low,Parts of Computer,low,9
+SCERT_c6_Term_3_60,tercile_low,Hardware and Software,low,7
+SCERT_c6_Term_2_51,tercile_low,The Cell,low,6
+SCERT_c6_Term_2_24,tercile_mid,Changes Around Us,mid,8
+SCERT_c6_Term_3_55,tercile_mid,Plants in Daily Life,mid,7
+SCERT_c6_Term_2_44,tercile_mid,The Cell,mid,7
+SCERT_c6_Term_3_40,tercile_mid,Our Environment,mid,7
+SCERT_c6_Term_3_51,tercile_mid,Plants in Daily Life,mid,6
+SCERT_c6_Term_2_01,tercile_mid,Heat,mid,8
+SCERT_c6_Term_3_42,tercile_mid,Our Environment,mid,7
+SCERT_c6_Term_3_18,tercile_high,Water,high,6
+SCERT_c6_Term_3_15,tercile_high,Water,high,4
+SCERT_c6_Term_3_04,tercile_high,Magnetism,high,3
+SCERT_c6_Term_3_12,tercile_high,Water,high,4
+SCERT_c6_Term_3_43,tercile_high,Our Environment,high,4
+SCERT_c6_Term_2_05,tercile_high,Heat,high,4
