@@ -42,3 +42,6 @@ gold:
   double_label: 40          # pairs marked for a second annotator (Cohen's kappa)
   max_text_chars: 1500
   computer_units: ["Computer - An Introduction", "Hardware and Software", "Parts of Computer"]
+  # Who labelled eval/gold_pairs.csv. Set to "human" once people have labelled it; anything
+  # else marks results.md and thresholds.json as provisional.
+  label_source: "AI-labelled (LLM), not human-reviewed"
