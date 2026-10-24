@@ -1,0 +1,41 @@
+Top-1 NCERT chapter per SCERT unit (max topic coverage):
+  Measurements                     -> Measurement of Length and Motion              0.918
+  Force and Motion                 -> Measurement of Length and Motion              0.911
+  Matter Around Us                 -> Methods of Separation in Everyday Life        0.916
+  The World of Plants              -> Diversity in the Living World                 0.902
+  The World of Animals             -> Diversity in the Living World                 0.910
+  Health and Hygiene               -> Mindful Eating: A Path to a Healthy Body      0.934
+  Computer - An Introduction       -> Measurement of Length and Motion              0.863
+  Heat                             -> Temperature and its Measurement               0.928
+  Electricity                      -> Nature's Treasures                            0.889
+  Changes Around Us                -> A Journey through States of Water             0.925
+  Air                              -> A Journey through States of Water             0.905
+  The Cell                         -> Mindful Eating: A Path to a Healthy Body      0.904
+  Human Organ systems              -> Living Creatures: Exploring their Characteristics 0.897
+  Parts of Computer                -> The Wonderful World of Science                0.892
+  Magnetism                        -> Exploring Magnets                             0.950
+  Water                            -> Nature's Treasures                            0.923
+  Chemistry in Everyday life       -> Nature's Treasures                            0.900
+  Our Environment                  -> Nature's Treasures                            0.904
+  Plants in Daily Life             -> Diversity in the Living World                 0.909
+  Hardware and Software            -> Materials Around Us                           0.872
+
+best_coverage_any over 132 SCERT topics: min 0.832, p10 0.868, median 0.895, p90 0.914, max 0.950
+Computer units (no NCERT counterpart; expected lowest), rank 1 = lowest:
+  Computer - An Introduction   Computer - An Introduction               0.867  rank 14/132
+  Hardware and Software        Hardware and Software                    0.860  rank 7/132
+  Hardware and Software        Hardware                                 0.872  rank 18/132
+  Hardware and Software        System Software                          0.832  rank 1/132
+  Hardware and Software        Application Software                     0.852  rank 4/132
+  Hardware and Software        Free and Open source                     0.856  rank 5/132
+  Hardware and Software        Paid and Proprietary                     0.848  rank 3/132
+  Parts of Computer            Parts of Computer                        0.892  rank 59/132
+  Parts of Computer            Parts of a Computer                      0.863  rank 10/132
+  Parts of Computer            Memory Units                             0.867  rank 12/132
+  Parts of Computer            Connecting the Computer                  0.874  rank 20/132
+  Parts of Computer            Wireless Connections                     0.860  rank 8/132
+  mean computer 0.862 vs other topics 0.896; 47 non-computer topics score below the highest computer topic
+
+SCERT topics whose top-1 NCERT topic is a single-topic chapter (catch-all):
+  The Wonderful World of Science                coverage   2   centroid   5   (of 132)
+  Methods of Separation in Everyday Life        coverage   3   centroid   8   (of 132)

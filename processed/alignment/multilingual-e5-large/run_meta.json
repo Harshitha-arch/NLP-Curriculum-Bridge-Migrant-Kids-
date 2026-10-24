@@ -1,0 +1,17 @@
+{
+  "model_key": "e5",
+  "model": "intfloat/multilingual-e5-large",
+  "prefix": "query: ",
+  "dims": 1024,
+  "chunks": {
+    "SCERT": 294,
+    "NCERT": 251
+  },
+  "topics": {
+    "SCERT": 132,
+    "NCERT": 82
+  },
+  "runtime_s": 85.4,
+  "git_commit": "a68e7bf575f048f05bae0715e9c8d85e769187de",
+  "timestamp": "2026-10-24T06:10:01+00:00"
+}

@@ -1,0 +1,17 @@
+{
+  "model_key": "tfidf",
+  "model": "tfidf",
+  "prefix": "",
+  "dims": 6582,
+  "chunks": {
+    "SCERT": 294,
+    "NCERT": 251
+  },
+  "topics": {
+    "SCERT": 132,
+    "NCERT": 82
+  },
+  "runtime_s": 1.9,
+  "git_commit": "a68e7bf575f048f05bae0715e9c8d85e769187de",
+  "timestamp": "2026-10-24T06:10:04+00:00"
+}
