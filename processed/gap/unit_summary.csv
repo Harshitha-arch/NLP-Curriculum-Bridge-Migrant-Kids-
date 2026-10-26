@@ -1,0 +1,21 @@
+scert_unit,Not Covered,Partially Covered,Covered,topics,pct_not_covered,mean_score
+Measurements,0,2,2,4,0.0,0.7411
+Force and Motion,1,1,2,4,25.0,0.6818
+Matter Around Us,1,3,1,5,20.0,0.7156
+The World of Plants,0,1,3,4,0.0,0.735
+The World of Animals,0,1,2,3,0.0,0.7509
+Health and Hygiene,2,1,1,4,50.0,0.6961
+Computer - An Introduction,1,0,0,1,100.0,0.6058
+Heat,2,8,2,12,16.7,0.6845
+Electricity,3,2,0,5,60.0,0.6386
+Changes Around Us,1,5,1,7,14.3,0.6763
+Air,0,6,1,7,0.0,0.6976
+The Cell,6,3,0,9,66.7,0.629
+Human Organ systems,8,2,0,10,80.0,0.6307
+Parts of Computer,5,0,0,5,100.0,0.5634
+Magnetism,0,4,6,10,0.0,0.7597
+Water,0,5,5,10,0.0,0.7324
+Chemistry in Everyday life,4,4,0,8,50.0,0.6369
+Our Environment,1,9,0,10,10.0,0.6749
+Plants in Daily Life,1,7,0,8,12.5,0.6695
+Hardware and Software,6,0,0,6,100.0,0.551

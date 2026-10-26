@@ -57,3 +57,13 @@ uv run python -m alignment.run --model bge     # also: e5, tfidf -> processed/al
 uv run python -m alignment.make_gold           # eval/gold_pairs_template.csv for human labelling
 uv run python -m alignment.evaluate            # metrics + Phase 4 thresholds from eval/gold_pairs.csv
 ```
+
+## Gap classification (`classification/`)
+
+Turns the alignment scores into the curriculum gap matrix (Covered / Partially Covered / Not
+Covered per SCERT topic) using the thresholds in `processed/alignment/thresholds.json`. Full
+documentation: [`docs/CLASSIFICATION.md`](docs/CLASSIFICATION.md).
+
+```
+uv run python -m classification.run     # writes processed/gap/
+```

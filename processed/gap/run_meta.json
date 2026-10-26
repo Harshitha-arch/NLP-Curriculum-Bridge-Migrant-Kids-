@@ -1,0 +1,17 @@
+{
+  "model": "bge",
+  "model_name": "BAAI/bge-large-en-v1.5",
+  "t_partial": 0.64,
+  "t_covered": 0.735,
+  "label_source": "Researcher-reviewed (AI-assisted); 29 topics hand-labelled, remainder AI-assisted then reviewed",
+  "provisional": true,
+  "thresholds_date": "2026-10-26",
+  "topics": 132,
+  "label_counts": {
+    "Not Covered": 42,
+    "Partially Covered": 64,
+    "Covered": 26
+  },
+  "uncertain": 60,
+  "created": "2026-10-26T06:30:56+00:00"
+}
