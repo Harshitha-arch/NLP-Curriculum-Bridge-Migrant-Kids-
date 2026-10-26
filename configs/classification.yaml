@@ -1,0 +1,10 @@
+# Settings for the gap classification stage (python -m classification.run).
+# Paths are relative to the repository root.
+
+paths:
+  alignment_config: configs/alignment.yaml          # model slugs and alignment output folder
+  thresholds: processed/alignment/thresholds.json   # t_partial / t_covered per model, with CIs
+  output_dir: processed/gap                         # gap_matrix.csv, unit_summary.csv, ...
+
+model: bge          # primary model (bge | e5 | tfidf)
+top_n_matches: 3    # NCERT topics listed per SCERT topic in gap_matrix.csv

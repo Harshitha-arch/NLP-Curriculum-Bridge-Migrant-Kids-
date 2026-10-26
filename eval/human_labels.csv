@@ -1,0 +1,132 @@
+scert_topic_id,scert_topic_title,label,label_source
+SCERT_c6_Term_1_01,Measurements,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_02,Length,Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_03,Mass,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_04,Time,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_08,Force and Motion,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_09,Motion and Rest,Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_11,Science Today - Robot,Not Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_15,Matter Around Us,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_16,Physical Nature of Matter,Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_17,Diffusion,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_18,Separation of Mixtures,Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_19,Food Adulteration,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_23,The World of Plants,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_24,Plant forms and functions,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_25,Habitat,Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_26,Plant,Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_30,The World of Animals,Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_31,Biodiversity,Partially Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_32,Adatptation in Animals,Covered,"researcher (read, rows 1-20)"
+SCERT_c6_Term_1_35,Health and Hygiene,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_1_36,Components of Food,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_1_37,Health and Nutrients,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_1_38,Introduction to Microbes,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_1_42,Computer - An Introduction,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_01,Heat,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_02,Heat,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_03,Sources of heat,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_04,Hot and cold objects,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_05,Temperature,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_06,Heat and Temperature,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_07,Flow of Heat,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_08,Expansion in solids,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_09,Linear and Cubical Expansion,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_10,Uses of Thermal Expansion,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_11,Thermal Expansion Examples,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_12,Numerical problems,Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_16,Electricity,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_17,Sources of Electricity,Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_18,Cell,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_19,Electric Circuits,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_20,Conductors and Insulators,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_24,Changes Around Us,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_25,Classification of Changes,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_26,Slow and Fast changes,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_27,Reversible and Irreversible changes,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_28,Physical and Chemical,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_29,Desirable and Undesirable,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_30,Natural and human made changes,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_34,Air,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_35,"Experimental verification of presence of Oxygen, Carbon-di-oxide and Nitrogen in Air",Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_36,Atmosphere,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_37,Composition of Air,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_38,Burning and Combustion,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_39,Importance of air for survival of plants and animals,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_40,Uses of Air,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_44,The Cell,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_45,Discovery of the cell,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_46,The Cell,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_47,The Structural Organization,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_48,Size of the cell,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_49,Number,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_50,Prokaryotic cell,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_51,Plant cell and Animal cell,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_52,Cell components and their functions,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_56,Human Organ systems,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_57,Skeletal System,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_58,Muscular System,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_59,Digestive System,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_60,Respiratory System,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_61,Circulatory system,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_62,Nervous System,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_63,Sense organs,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_64,Endocrine System,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_65,Excretory System,Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_69,Parts of Computer,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_2_70,Parts of a Computer,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_71,Memory Units,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_72,Connecting the Computer,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_2_73,Wireless Connections,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_01,Magnetism,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_02,Discovery of Magnets,Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_03,Magnet of different shapes,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_04,Magnetic Poles,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_05,Magnetic compass,Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_06,Properties of Magnets,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_07,Do magnets lose their properties ?,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_08,Storage of Magnets,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_09,Usage of Magnets,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_10,Science Today - Bullet Trains,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_12,Water,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_13,Availability of water,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_14,Where do we get water from?,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_15,Where and how water is found on the earth?,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_16,Composition of water,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_17,Water cycle,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_18,Natural Sources of fresh water,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_19,Conservation of water,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_20,Importance of water,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_21,Water distribution and treatment system,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_25,Chemistry in Everyday life,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_26,Soaps and Detergents,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_27,Fertilizers,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_28,Cement,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_29,Gypsum,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_30,Phenol,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_31,Plaster of Paris,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_32,Adhesives,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_36,Our Environment,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_37,The Ecosystem,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_38,Food Chain and Food Web,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_39,Waste Management and Recycling,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_40,Biodegradable and Non-biodegradable Waste,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_41,Solid Waste Management,Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_42,Pollution,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_43,Air pollution,Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_44,Land (soil) pollution,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_45,Noise pollution,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_49,Plants in Daily Life,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_50,Plants as Food,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_51,Spices,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_52,Fibre yielding plants,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_53,Medicinal plants,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_54,Timber yielding plants,Partially Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_55,Ornamental plants,Partially Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_56,Interrelationship between plants and animals,Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_60,Hardware and Software,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_61,Hardware,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_62,System Software,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_63,Application Software,Not Covered,"AI-assisted, researcher-reviewed"
+SCERT_c6_Term_3_64,Free and Open source,Not Covered,hand-labelled (blind spot-check)
+SCERT_c6_Term_3_65,Paid and Proprietary,Not Covered,"AI-assisted, researcher-reviewed"
