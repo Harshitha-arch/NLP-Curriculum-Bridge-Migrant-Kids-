@@ -1,0 +1,34 @@
+# Settings for bridge content generation (streamlit run streamlit_app.py).
+# Paths are relative to the repository root.
+
+paths:
+  gap_matrix: processed/gap/gap_matrix.csv                             # Phase 4 output
+  topic_matches: processed/alignment/bge-large-en-v1.5/topic_matches.csv  # NCERT matches per topic
+  topics: processed/topics.jsonl                                       # full text of every topic
+  output_dir: processed/bridge                                         # approved packs
+
+sources:
+  ncert_matches: 2        # closest NCERT topics shown to the model as "what the child knows"
+  max_scert_chars: 6000   # SCERT topic text is cut at a sentence end past this length
+  max_ncert_chars: 2500   # same, per NCERT topic
+
+generation:
+  temperature: 0.4
+  max_tokens: 8192        # thinking/reasoning models count their reasoning against this
+  timeout_s: 180
+
+# Default model per provider. Model IDs change often: use "List models" in the app to pick
+# another one available to your key.
+providers:
+  gemini:
+    label: Google Gemini
+    model: gemini-3.8-flash
+    env: GEMINI_API_KEY
+  openai:
+    label: OpenAI
+    model: gpt-6-luna
+    env: OPENAI_API_KEY
+  anthropic:
+    label: Anthropic Claude
+    model: claude-haiku-5-5
+    env: ANTHROPIC_API_KEY

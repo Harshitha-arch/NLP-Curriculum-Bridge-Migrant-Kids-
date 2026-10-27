@@ -67,3 +67,15 @@ documentation: [`docs/CLASSIFICATION.md`](docs/CLASSIFICATION.md).
 ```
 uv run python -m classification.run     # writes processed/gap/
 ```
+
+## Bridge content app (`bridge/`, `streamlit_app.py`)
+
+A Streamlit app that writes a bridge pack (short lesson, key words, five practice questions with
+answers) for a Not Covered or Partially Covered SCERT topic, using the SCERT and closest NCERT
+passages and an LLM API key (Gemini, OpenAI or Anthropic). A teacher edits and approves each
+pack before it can be downloaded or saved to `processed/bridge/`. Full documentation:
+[`docs/BRIDGE.md`](docs/BRIDGE.md).
+
+```
+uv run streamlit run streamlit_app.py   # key: sidebar, env var or .streamlit/secrets.toml
+```
