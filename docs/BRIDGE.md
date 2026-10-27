@@ -16,10 +16,10 @@ Each pack has six sections, in this order:
 | Section | Content |
 |---|---|
 | What you already know | 1-3 sentences linking the topic to NCERT or daily life |
-| Lesson | about 10 minutes read aloud, 250-400 words, one everyday example from the passage |
-| Key words | 8-10 words with simple meanings |
-| Practice questions | 5 questions: 2 recall, 2 understanding, 1 applied to daily life |
-| Answers | the 5 answers |
+| Lesson | at most 10 minutes read aloud (up to 400 words), one everyday example from the passage |
+| Key words | up to 10 words from the SCERT passage, with simple meanings |
+| Practice questions | up to 5 questions: recall, then understanding, then one applied to daily life |
+| Answers | one answer per question |
 | Note for the teacher | what the pack is based on and anything missing or unclear |
 
 Packs can be written in simple English or in Hindi (Devanagari, with the English science word in
@@ -42,7 +42,9 @@ gap_matrix.csv ──► pick topic ──► SCERT topic text + 2 closest NCERT
 
 **Grounding.** The model gets only the SCERT passage (what the child must learn) and the two closest
 NCERT passages (what the child probably knows). The system prompt tells it to use only facts in
-the SCERT passage and to name anything missing in the note for the teacher. Long passages are cut
+the SCERT passage (NCERT facts only under "What you already know") and to name anything missing
+in the note for the teacher. Every length and count in the pack format is a maximum, so a short
+passage gives a short pack instead of padding. Long passages are cut
 at a sentence end (6,000 characters for SCERT, 2,500 per NCERT topic).
 
 **The gap label changes the lesson.** Not Covered: teach from the start, linking only to daily
@@ -78,9 +80,14 @@ GEMINI_API_KEY = "..."
 ```
 
 The key is sent only in request headers. It never appears in URLs, error messages, saved packs or
-logs, and it is not written to disk by the app. If a model rejects the `temperature` setting, the
-call is retried once without it. OpenAI is called without a temperature, since its current models
-do not accept one.
+logs, and it is not written to disk by the app.
+
+**Temperature is not sent by default** (`generation.temperature: null`). The current default
+models ignore or reject it: Gemini 3.6+ ignores custom values, the Claude Haiku 5.5 docs say to
+omit it, and OpenAI's reasoning models reject it. If a number is set, it is sent to Gemini and
+Anthropic, and the call is retried once without it if the model rejects it; OpenAI never gets one.
+Thinking models count their reasoning against `max_tokens` (8,192), and the reasoning tokens are
+recorded separately as `usage.thinking_tokens` (Gemini, OpenAI).
 
 ## 4. How to run
 
@@ -99,15 +106,32 @@ uv run pytest tests/test_bridge.py
 
 ## 6. Verification
 
-- `tests/test_bridge.py` (20 tests) covers source selection and rank order, sentence-end truncation,
+- `tests/test_bridge.py` (29 tests) covers source selection and rank order, sentence-end truncation,
   the prompt for each label and language, the request and response format of each provider (with a
-  mocked HTTP transport), error messages that never contain the key, the temperature retry,
-  saving only with a named reviewer, and the app itself (Streamlit `AppTest` with the LLM patched
-  out: generate is disabled without a key, and save is disabled before approval).
+  mocked HTTP transport), temperature omitted by default, thinking-token usage, error messages
+  that never contain the key, the temperature retry, heading-line checks, saving only with a
+  named reviewer, and the app itself (Streamlit `AppTest` with the LLM patched out: generate is
+  disabled without a key, save is disabled before approval, edits survive switching topics,
+  regenerating replaces the edit and clears the approval, and the key is not in the pack record).
 - The app was run in a browser with a stubbed model: generate, edit, approve, download and save
   all work.
 - A call with an invalid key returns the provider's own error (for example
   `anthropic API error 401: invalid x-api-key`) without the key.
+
+### Code review (prompt v2)
+
+A review against the current provider docs and the app's state handling found and fixed:
+
+| Severity | Finding | Fix |
+|---|---|---|
+| High | Regenerating kept the earlier approval, so an unreviewed draft could be saved at once | regenerating clears the approval |
+| High | `temperature` 0.4 was sent to models that ignore it (Gemini 3.6+) or say to omit it (Claude Haiku 5.5) | not sent by default (§3) |
+| Medium | Prompt v1 required 250-400 words and 8-10 key words even for very short passages, which invites invented content, and mixed "SCERT facts only" with NCERT links | prompt v2: all lengths are maxima, NCERT facts only under "What you already know", exercise questions in passages ignored |
+| Low | The missing-sections check matched `## Heading` anywhere, including `###` headings | only a level-2 heading line counts |
+| Low | Thinking tokens, which count against the output limit, were not recorded | `usage.thinking_tokens` |
+
+**Not yet done:** prompt v2 has only been checked with tests, not on a real model, and no sample
+packs have been generated. Both need an API key in `.streamlit/secrets.toml`.
 
 ## 7. Known limitations
 
