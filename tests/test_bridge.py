@@ -18,6 +18,7 @@ from bridge.data import (
     truncate,
 )
 from bridge.prompts import (
+    PROMPT_VERSION,
     SECTIONS,
     build_prompt,
     missing_sections,
@@ -138,6 +139,29 @@ def test_prompt_contains_passages_rules_and_headings(corpus, language):
     assert "Cells are small." in user and "Living things grow." in user
     assert "teach it from the start" in user  # Not Covered guidance
     assert ("Devanagari" in user) == (language == "Hindi")
+
+
+def test_prompt_v2_never_asks_for_padding(corpus):
+    system, _ = build_prompt(get_sources("S1", *corpus))
+    assert PROMPT_VERSION == "v2"
+    assert "every length and count below is a maximum" in system
+    assert 'Facts from them may appear only under "What you already know"' in system
+    assert "250-400" not in system and "8-10" not in system
+
+
+@pytest.mark.parametrize(
+    ("label", "phrase"),
+    [
+        ("Not Covered", "teach it from the start"),
+        ("Partially Covered", "spend most of the lesson on what the SCERT passage adds"),
+        ("Covered", "short revision lesson"),
+    ],
+)
+def test_prompt_follows_gap_label(corpus, label, phrase):
+    gap, topics, matches = corpus
+    gap = gap.assign(label=label)
+    _, user = build_prompt(get_sources("S1", gap, topics, matches))
+    assert phrase in user and f"Gap label: {label}" in user
 
 
 def test_prompt_rejects_unknown_language(corpus):

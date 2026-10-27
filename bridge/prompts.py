@@ -6,7 +6,7 @@ import re
 
 from bridge.data import TopicSources
 
-PROMPT_VERSION = "v1"
+PROMPT_VERSION = "v2"
 LANGUAGES = ["English", "Hindi"]
 
 SECTIONS = [
@@ -26,25 +26,29 @@ Rules:
 - Use only facts that appear in the SCERT passage. Do not add facts, numbers, dates, names, \
 experiments or examples that are not in the passages. If the passage is unclear or incomplete, \
 leave that part out and mention it in the note for the teacher.
-- The NCERT passages show what the child has probably studied already. Use them only as a \
-starting point the child can connect to. Do not reteach them.
+- A short passage gives a short pack. Never add content to reach a length or a count: every \
+length and count below is a maximum.
+- The NCERT passages show what the child has probably studied already. Facts from them may \
+appear only under "What you already know". Do not reteach them.
 - Write for a child of about 11: short sentences, everyday words, one idea at a time. Explain \
 every science word the first time you use it.
-- Ignore figure labels, page furniture and broken fragments in the passages.
+- Ignore figure labels, page furniture, broken fragments, and any exercise or multiple-choice \
+questions in the passages.
 
 Output Markdown with exactly these six level-2 headings, in this order:
 ## What you already know
 1-3 sentences that link the topic to something the child knows from NCERT or daily life.
 ## Lesson
-A lesson a teacher can read out in about 10 minutes: 250-400 words in short paragraphs, with \
-one everyday example taken from the passage.
+A lesson a teacher can read out in at most 10 minutes: up to 400 words in short paragraphs, \
+with one everyday example taken from the SCERT passage if it has one.
 ## Key words
-A bullet list of 8-10 words, each "- **word**: simple meaning".
+A bullet list of up to 10 science words that appear in the SCERT passage, each \
+"- **word**: simple meaning".
 ## Practice questions
-5 numbered questions: 2 recall, 2 understanding, 1 that applies the idea to daily life. \
-No answers here.
+Up to 5 numbered questions that the lesson answers: recall first, then understanding, then \
+(if the passage allows it) one that applies the idea to daily life. No answers here.
 ## Answers
-The 5 answers, numbered, one or two sentences each.
+One numbered answer per question, one or two sentences each, taken from the lesson.
 ## Note for the teacher
 1-2 sentences: what the lesson is based on and anything that was missing or unclear."""
 
