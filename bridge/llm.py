@@ -112,6 +112,8 @@ def parse_response(provider: str, model: str, data: dict) -> Generation:
         usage = {
             "input_tokens": u.get("promptTokenCount"),
             "output_tokens": u.get("candidatesTokenCount"),
+            # Thinking counts against maxOutputTokens but is reported separately.
+            "thinking_tokens": u.get("thoughtsTokenCount"),
         }
         gen = Generation(text, data.get("modelVersion", model), c.get("finishReason"), usage)
     elif provider == "openai":
@@ -122,7 +124,8 @@ def parse_response(provider: str, model: str, data: dict) -> Generation:
         u = data.get("usage") or {}
         usage = {
             "input_tokens": u.get("prompt_tokens"),
-            "output_tokens": u.get("completion_tokens"),
+            "output_tokens": u.get("completion_tokens"),  # includes reasoning tokens
+            "thinking_tokens": (u.get("completion_tokens_details") or {}).get("reasoning_tokens"),
         }
         text = (ch.get("message") or {}).get("content") or ""
         gen = Generation(text, data.get("model", model), ch.get("finish_reason"), usage)
@@ -155,7 +158,7 @@ def generate(
     model: str,
     system: str,
     user: str,
-    temperature: float | None = 0.4,
+    temperature: float | None = None,
     max_tokens: int = 8192,
     timeout: float = 180,
     client: httpx.Client | None = None,

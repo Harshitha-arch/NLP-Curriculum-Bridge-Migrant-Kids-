@@ -13,7 +13,10 @@ sources:
   max_ncert_chars: 2500   # same, per NCERT topic
 
 generation:
-  temperature: 0.4
+  # null = not sent. Current defaults ignore or reject it: Gemini 3.6+ ignores custom values,
+  # Claude Haiku 5.5 says to omit it, OpenAI reasoning models reject it. A number is sent to
+  # Gemini and Anthropic only (retried once without it if the model rejects it).
+  temperature: null
   max_tokens: 8192        # thinking/reasoning models count their reasoning against this
   timeout_s: 180
 

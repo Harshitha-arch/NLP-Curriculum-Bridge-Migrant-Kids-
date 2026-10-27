@@ -17,7 +17,12 @@ from bridge.data import (
     save_pack,
     truncate,
 )
-from bridge.prompts import SECTIONS, build_prompt, missing_sections, pack_markdown
+from bridge.prompts import (
+    SECTIONS,
+    build_prompt,
+    missing_sections,
+    pack_markdown,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 KEY = "sk-test-secret-123"
@@ -144,6 +149,11 @@ def test_missing_sections():
     full = "\n".join(f"## {s}\ntext" for s in SECTIONS)
     assert missing_sections(full) == []
     assert missing_sections(full.replace("## Answers", "Answers")) == ["Answers"]
+    # Only a heading line counts, not "## Answers" mid-line or a level-3 heading.
+    assert missing_sections(full.replace("## Answers", "See ## Answers")) == ["Answers"]
+    assert missing_sections(full.replace("## Answers", "### Answers")) == ["Answers"]
+    # A translation after the English heading is fine (Hindi packs).
+    assert missing_sections(full.replace("## Lesson", "## Lesson (पाठ)")) == []
 
 
 def test_pack_markdown_has_title_and_reviewer(corpus):
@@ -195,9 +205,11 @@ def test_generate_request_and_parse(provider):
         seen["body"] = json.loads(request.content)
         return httpx.Response(200, json=RESPONSES[provider])
 
-    gen = llm.generate(provider, KEY, "m", "SYS", "USER", client=mock_client(handler))
+    gen = llm.generate(
+        provider, KEY, "m", "SYS", "USER", temperature=0.4, client=mock_client(handler)
+    )
     assert gen.text == "## Lesson\nHello"  # Gemini thought parts are dropped
-    assert gen.usage == {"input_tokens": 10, "output_tokens": 5}
+    assert gen.usage["input_tokens"] == 10 and gen.usage["output_tokens"] == 5
     assert KEY not in seen["url"]
     assert KEY in " ".join(seen["headers"].values())
     body = json.dumps(seen["body"])
@@ -207,6 +219,27 @@ def test_generate_request_and_parse(provider):
         assert seen["body"]["max_completion_tokens"] == 8192
     else:
         assert "temperature" in body
+
+
+@pytest.mark.parametrize("provider", llm.PROVIDERS)
+def test_generate_omits_temperature_by_default(provider):
+    bodies = []
+
+    def handler(request):
+        bodies.append(json.loads(request.content))
+        return httpx.Response(200, json=RESPONSES[provider])
+
+    llm.generate(provider, KEY, "m", "s", "u", client=mock_client(handler))
+    assert "temperature" not in json.dumps(bodies[0])
+
+
+def test_thinking_tokens_are_reported():
+    gemini = json.loads(json.dumps(RESPONSES["gemini"]))
+    gemini["usageMetadata"]["thoughtsTokenCount"] = 900
+    openai = json.loads(json.dumps(RESPONSES["openai"]))
+    openai["usage"]["completion_tokens_details"] = {"reasoning_tokens": 700}
+    assert llm.parse_response("gemini", "m", gemini).usage["thinking_tokens"] == 900
+    assert llm.parse_response("openai", "m", openai).usage["thinking_tokens"] == 700
 
 
 def test_generate_error_hides_key():
@@ -228,7 +261,9 @@ def test_generate_retries_without_temperature():
             return httpx.Response(400, json={"error": {"message": "temperature is not supported"}})
         return httpx.Response(200, json=RESPONSES["anthropic"])
 
-    gen = llm.generate("anthropic", KEY, "m", "s", "u", client=mock_client(handler))
+    gen = llm.generate(
+        "anthropic", KEY, "m", "s", "u", temperature=0.4, client=mock_client(handler)
+    )
     assert gen.text and len(bodies) == 2 and "temperature" not in bodies[1]
 
 
@@ -310,3 +345,44 @@ def test_app_generate_review_flow(monkeypatch):
     assert not at.warning  # all sections present
     save = next(b for b in at.button if b.label == "Save to processed/bridge")
     assert save.disabled  # not approved yet
+
+
+def test_app_keeps_edits_and_resets_approval_on_regenerate(monkeypatch):
+    """Edits survive switching topics; a regenerated draft must be approved again."""
+    from streamlit.testing.v1 import AppTest
+
+    n = []
+
+    def fake_generate(provider, api_key, model, system, user, **kw):
+        n.append(1)
+        return llm.Generation("\n".join(f"## {s}\nv{len(n)}" for s in SECTIONS), model, "STOP", {})
+
+    monkeypatch.setattr(llm, "generate", fake_generate)
+    gap = load_gap_matrix(ROOT / "processed/gap/gap_matrix.csv")
+    a, b = gap.loc[gap["label"] == "Not Covered", "scert_topic_id"].iloc[:2]
+    at = AppTest.from_file(str(ROOT / "streamlit_app.py"), default_timeout=60).run()
+
+    def topic():
+        return next(s for s in at.selectbox if s.label.startswith("Topic"))
+
+    def generate():
+        next(x for x in at.button if x.label == "Generate bridge pack").click().run()
+
+    at.text_input(key="key::gemini").set_value(KEY).run()
+    topic().set_value(a).run()
+    generate()
+    edit, approved = f"edit::{a}::English", f"approved::{a}::English"
+    at.text_area(key=edit).set_value("my edit").run()
+    topic().set_value(b).run()
+    topic().set_value(a).run()
+    assert at.text_area(key=edit).value == "my edit"
+    assert not at.checkbox(key=approved).value  # approval does not carry over
+
+    at.text_input(key=f"reviewer::{a}::English").set_value("Ms Rao").run()
+    at.checkbox(key=approved).check().run()
+    generate()
+    assert "v2" in at.text_area(key=edit).value  # regenerating replaces the edit
+    assert not at.checkbox(key=approved).value
+    assert next(x for x in at.button if x.label == "Save to processed/bridge").disabled
+    assert not at.exception
+    assert KEY not in json.dumps(at.session_state["packs"], default=str)  # never in the record

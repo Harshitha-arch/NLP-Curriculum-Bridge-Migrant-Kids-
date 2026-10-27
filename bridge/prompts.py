@@ -2,6 +2,8 @@
 
 from __future__ import annotations
 
+import re
+
 from bridge.data import TopicSources
 
 PROMPT_VERSION = "v1"
@@ -111,6 +113,7 @@ def pack_markdown(src: TopicSources, body: str, language: str, reviewer: str) ->
 
 
 def missing_sections(text: str) -> list[str]:
-    """Headings from SECTIONS that the model's output does not contain."""
-    lowered = text.lower()
-    return [s for s in SECTIONS if f"## {s.lower()}" not in lowered]
+    """Headings from SECTIONS with no level-2 heading line starting with that name in `text`
+    (a translation after the name, as in "## Lesson (पाठ)", is allowed)."""
+    found = [m.group(1).strip().lower() for m in re.finditer(r"^##[ \t]+(.+)$", text, re.M)]
+    return [s for s in SECTIONS if not any(h.startswith(s.lower()) for h in found)]

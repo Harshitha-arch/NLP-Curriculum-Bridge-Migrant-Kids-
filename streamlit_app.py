@@ -207,6 +207,8 @@ if st.button(
                 },
             }
             st.session_state[edit_key] = gen.text
+            # A new draft has not been reviewed: clear any earlier approval of this pack.
+            st.session_state.pop(f"approved::{key}", None)
 
 # ---------------------------------------------------------------- review and export
 pack = st.session_state["packs"].get(key)
