@@ -8,3 +8,10 @@ paths:
 
 model: bge          # primary model (bge | e5 | tfidf)
 top_n_matches: 3    # NCERT topics listed per SCERT topic in gap_matrix.csv
+
+# Settings for python -m classification.calibrate (refits the thresholds from labels).
+calibration:
+  labels: eval/human_labels.csv        # one label per SCERT topic; blank rows are skipped
+  label_source: "Researcher-reviewed (AI-assisted); 49 topics read and labelled by the researcher (19 in order, 30 in a blind spot-check), 82 AI-assisted then reviewed"
+  bootstrap: 1000                      # resamples for the 95% intervals
+  seed: 42

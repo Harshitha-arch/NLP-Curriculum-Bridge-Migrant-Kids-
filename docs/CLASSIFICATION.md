@@ -2,7 +2,7 @@
 
 Author: Harshitha
 Stage: Phase 4, REQ-04 (after embedding and alignment, before bridge content)
-Code: `classification/`  ·  Settings: `configs/classification.yaml`  ·  Tests: `tests/test_classify.py`
+Code: `classification/` (`classify.py`, `run.py`, `calibrate.py`)  ·  Settings: `configs/classification.yaml`  ·  Tests: `tests/test_classify.py`, `tests/test_calibrate.py`
 
 ## 1. What this stage answers
 
@@ -17,8 +17,9 @@ Input is the alignment output, not the raw text:
 - `processed/alignment/<model>/topic_matches.csv`: the top 5 NCERT topics per SCERT topic, with
   `best_coverage_any` and the best evidence chunk pair (see `docs/ALIGNMENT.md` §2, §4).
 - `processed/alignment/thresholds.json`: `t_partial` and `t_covered` per model, with 95%
-  intervals. The current file was fitted on researcher-reviewed labels (§7); the original AI-labelled
-  fit (`docs/ALIGNMENT.md` §6) is kept as `thresholds_ai_labelled.json`.
+  intervals. It is written by `classification/calibrate.py` from the researcher-reviewed labels in
+  `eval/human_labels.csv` (§3, §7); the original AI-labelled fit (`docs/ALIGNMENT.md` §6) is kept
+  as `thresholds_ai_labelled.json`.
 
 ```
 Covered            score >= t_covered
@@ -40,14 +41,21 @@ can check it; they do not change the label.
 ## 3. How to run
 
 ```
-uv run python -m classification.run                # primary model (bge)
+uv run python -m classification.calibrate          # refit thresholds from eval/human_labels.csv
+uv run python -m classification.run                # label every topic (primary model: bge)
 uv run python -m classification.run --model e5     # also: tfidf
-uv run pytest tests/test_classify.py
+uv run pytest tests/test_classify.py tests/test_calibrate.py
 ```
 
-To recalibrate, put new labels in `eval/human_labels.csv`, refit the two cut-offs, update
-`processed/alignment/thresholds.json` and run the classification again. Only the thresholds
-change; no code does.
+**Recalibrating.** Put new labels in `eval/human_labels.csv` (one label per SCERT topic; blank
+rows are skipped), then run `classification.calibrate` followed by `classification.run`. Only
+the labels change; no code does. `calibrate` finds the two cut-offs `t_partial < t_covered`
+that maximise macro-F1 on `best_coverage_any`, with 95% bootstrap intervals (1,000 resamples,
+seed 42, both set in `configs/classification.yaml`) and a leave-one-topic-out macro-F1. The fit is
+deterministic: the same labels and scores give a byte-identical `thresholds.json` (apart from its
+date) and `gap_matrix.csv`. `--dry-run` prints the result without writing. `calibrate` writes
+only the model it fitted (bge by default), so `thresholds.json` has no e5 or TF-IDF cut-offs and
+`classification.run --model e5` fails until you fit that model, which replaces the bge entry.
 
 ## 4. Output files (`processed/gap/`)
 
@@ -62,23 +70,30 @@ Phase 5 takes the rows of `gap_matrix.csv` whose `label` is not `Covered`.
 
 ## 5. Results with the current thresholds
 
-bge, thresholds 0.640 / 0.735, 132 SCERT topics: 26 Covered, 64 Partially Covered, 42 Not
-Covered. 72 labels are stable and 60 are uncertain (44 of them Partially Covered). All 12
-computer-unit topics, which have no NCERT counterpart, are Not Covered.
+bge, thresholds 0.6619 / 0.7267, 132 SCERT topics: 28 Covered, 54 Partially Covered, 50 Not
+Covered. 69 labels are stable and 63 are uncertain (34 of them Partially Covered, 16 Not Covered,
+13 Covered). All 12 computer-unit topics, which have no NCERT counterpart, are Not Covered.
+Against the 131 researcher-reviewed labels the thresholds agree on 96 topics (73%, macro-F1
+0.739). That is measured on the same labels they were fitted on; the leave-one-topic-out
+macro-F1 is 0.638, which is the better guide to how they would do on new topics.
 
 These counts are a calibration result, not a finding about the curricula. With the original AI-fitted
-thresholds (0.692 / 0.770) the split was 14 / 37 / 81, and the 75 uncertain topics became 60 after
+thresholds (0.692 / 0.770) the split was 14 / 37 / 81, and the 75 uncertain topics became 63 after
 recalibration. The split also depends on the model: e5 and TF-IDF gave very different splits
 under the original thresholds, and the three models agreed on only 73 of 132 topics. Report the
 Not Covered count as a range, not a single figure.
 
 ## 6. Known limitations
 
-1. **Provisional thresholds.** They rest on 131 researcher-reviewed labels, of which only 29 were
-   hand-labelled after reading the text; the rest were AI-assisted. On those 29 topics the
-   pipeline matches the researcher on 59% and the AI-assisted labels on 66%. Even the best cut-offs
-   agree with the researcher on about 62-73% of topics.
-2. **Wide intervals.** 60 of 132 topics lie inside a threshold interval (`t_partial` 0.63-0.69,
+1. **Provisional thresholds.** They rest on 131 researcher-reviewed labels. 49 were labelled by
+   the researcher after reading the text (19 read in order, rows 1-20, and 30 in a blind
+   spot-check, one of which, topic 25, rests on 1 of its 6 chunk pairs); the other 82 were
+   AI-assisted and then reviewed. Only the blind spot-check is independent of the AI labels: on its
+   29 complete topics the pipeline (v1 thresholds) matches the researcher on 59% and the
+   AI-assisted labels on 66%. The fitted cut-offs agree with the researcher on 73% of the 131
+   labelled topics, but 29 independent labels cannot show that they beat the first set, and the
+   leave-one-out macro-F1 is only 0.64.
+2. **Wide intervals.** 63 of 132 topics lie inside a threshold interval (`t_partial` 0.63-0.69,
    `t_covered` 0.72-0.76). Treat these as needing review.
 3. **One score.** `best_coverage_any` ignores NCERT topic boundaries and can reward shared
    vocabulary (`docs/ALIGNMENT.md` §7). Read the evidence text for topics that matter.
@@ -105,7 +120,18 @@ top-3 matches, and a reverse-coverage analysis, are left as future work.
 | Version | Labels used | t_partial | t_covered | Not Covered / Partial / Covered | Uncertain |
 |---|---|---|---|---|---|
 | v1 (2026-10-24) | 40 SCERT topics (252 pairs), AI-labelled, stricter reading, "prerequisite" = partial | 0.6923 | 0.7696 | 81 / 37 / 14 | 75 |
-| v2 (2026-10-26) | 131 topics, researcher's rubric: conceptual similarity = partial, near-identical = covered; 29 hand-labelled after reading, rest AI-assisted and reviewed | 0.640 | 0.735 | 42 / 64 / 26 | 60 |
+| v2, first report (2026-10-26) | 131 topics, researcher's rubric (below); 49 labelled after reading (19 in order, 30 blind spot-check), 82 AI-assisted and reviewed | 0.640 | 0.735 | 42 / 64 / 26 | 60 |
+| v2, reproducible refit (2026-10-28) | the same 131 labels, fitted by `classification/calibrate.py` | 0.6619 | 0.7267 | 50 / 54 / 28 | 63 |
+
+**Why there are two v2 rows.** The 0.640 / 0.735 values first reported for v2 were produced outside
+the repository, and no code here could regenerate them. Fitted on the committed
+`eval/human_labels.csv` they give a macro-F1 of 0.726, below the 0.739 that the best cut-offs
+reach, and the label counts recorded in the old `thresholds.json` (53 / 52 / 26) did not match
+the file (50 / 53 / 28). On 28 Oct the fit was moved into `classification/calibrate.py` and
+the thresholds regenerated from the committed labels; those are the values used now. Ten of the
+132 topics changed label (8 from Partially Covered to Not Covered, 2 from Partially Covered to
+Covered); all ten have scores between 0.640 and 0.735, close to a threshold. Any figure quoted
+from the first v2 report (42 / 64 / 26, 60 uncertain) is superseded.
 
 Rubric used for v2: **Covered** when the two chunks say almost the same thing; **Partially
 Covered** when they are conceptually similar but one is broader or leaves out key points; **Not
