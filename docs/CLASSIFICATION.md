@@ -137,3 +137,82 @@ Rubric used for v2: **Covered** when the two chunks say almost the same thing; *
 Covered** when they are conceptually similar but one is broader or leaves out key points; **Not
 Covered** when they are about unrelated topics. Labels are in `eval/human_labels.csv` with the
 source of each. Hand-labelling more topics is expected to narrow the threshold intervals.
+
+## 8. How the thresholds are calculated
+
+`classification/calibrate.py` does this, in order:
+
+1. **Read the labels.** `eval/human_labels.csv` has one row per SCERT topic: `scert_topic_id`,
+   `scert_topic_title`, `label`, `label_source`. Blank labels are skipped (131 of 132 topics are
+   labelled; "Types of Motion" is blank). Unknown label names and duplicate topics stop the run
+   with an error.
+2. **Look up each labelled topic's score.** The score is `best_coverage_any` from the rank-1 row
+   of `processed/alignment/bge/topic_matches.csv`: the mean, over the topic's chunks, of each
+   chunk's best cosine similarity to any NCERT chunk.
+3. **Try every possible pair of cut-offs.** Sort the distinct scores. Candidate cut-offs are the
+   midpoints between neighbouring scores, plus one value just below the lowest and one just above
+   the highest. For every pair `t_partial < t_covered`, label each topic by the rule in §2.
+4. **Score each pair with macro-F1.** For each class (Not Covered, Partially Covered, Covered),
+   compute F1 = 2 x hits / (predicted + actual), then average the three. Averaging by class
+   stops the large classes from outweighing the small one. The pair with the highest macro-F1
+   wins; if two pairs tie, the first in ascending order wins, so the result never changes.
+5. **Measure how stable the cut-offs are.** Resample the 131 labelled topics with replacement
+   1,000 times (seed 42), refit on each resample, and take the 2.5th and 97.5th percentiles of
+   each cut-off. These are the 95% intervals. A topic whose score lies inside either interval
+   is flagged `uncertain` in `gap_matrix.csv`.
+6. **Estimate how it would do on new topics.** Leave-one-out: remove one topic, refit, label the
+   removed topic, repeat for all 131, then compute macro-F1 over those 131 predictions (0.638).
+   This is lower than the fitted 0.739, which is measured on the same labels used for fitting.
+7. **Write `thresholds.json`.** `classification.run` reads it and labels all 132 topics.
+
+`fit_thresholds_fast` gives exactly the same answer as the earlier loop in
+`alignment.evaluate.fit_thresholds` (tests prove it on random data) but counts prefix sums
+instead of reclassifying for every pair, so the 1,000 resamples take seconds, not hours.
+
+## 9. Code guide
+
+| File | What it does |
+|---|---|
+| `classification/classify.py` | Pure functions, no file reading except `load_thresholds`. `label_score` applies the rule in §2; `label_confidence` returns `uncertain` inside either interval; `margin` is the distance to the nearest cut-off; `build_gap_matrix` joins labels to the best NCERT topic and evidence text; `unit_summary` and `review_queue` build the other two tables. `Thresholds.provisional` is `True` unless the label source is `human`. |
+| `classification/calibrate.py` | Section 8. Entry point `main`; helpers `fit_thresholds_fast`, `bootstrap_ci`, `loo_macro_f1`, `load_labelled_scores`, `calibrate`. |
+| `classification/run.py` | Reads `thresholds.json` and `topic_matches.csv`, calls `build_gap_matrix`, writes the four files in `processed/gap/`. Does no fitting. |
+| `configs/classification.yaml` | Paths, model, number of matches listed, and the `calibration` block (labels file, label-source text, bootstrap size, seed). |
+| `eval/human_labels.csv` | The 131 labels and where each came from. The only input a person edits. |
+| `tests/test_classify.py` | The labelling rule, confidence, margin and table builders. |
+| `tests/test_calibrate.py` | Fast fit equals the reference fit; F1 reported is the F1 of the thresholds reported; loader errors; `calibrate` is deterministic and writes a file `classify.load_thresholds` can read; and two checks that the committed `thresholds.json` and `gap_matrix.csv` match the committed labels. |
+
+**Data flow:** `human_labels.csv` + `topic_matches.csv` -> `calibrate` -> `thresholds.json` ->
+`run` (with `topic_matches.csv`) -> `processed/gap/*`.
+
+## 10. Worked example
+
+Thresholds 0.6619 / 0.7267, intervals [0.6266, 0.6908] and [0.7203, 0.7564]:
+
+| SCERT topic | Score | Label | Confidence | Why |
+|---|---|---|---|---|
+| Adatptation in Animals (typo is in the source) | 0.7613 | Covered | stable | above 0.7267 and above the whole upper interval; best match "Plants and Animals in Different Surroundings" |
+| Sources of heat | 0.7106 | Partially Covered | stable | between the cut-offs and outside both intervals; best match "Energy from the Sun" |
+| Linear and Cubical Expansion | 0.614 | Not Covered | stable | below 0.6619 and below the whole lower interval; the nearest NCERT topic ("Another Mystery") is unrelated |
+| The World of Plants ("Plant") | 0.7392 | Covered | uncertain | above 0.7267 but inside the upper interval [0.7203, 0.7564], so a refit on other labelled topics could make it Partially Covered |
+
+A topic scoring exactly 0.6619 is Partially Covered
+(`score >= t_partial`).
+
+## 11. Verification
+
+- `uv run pytest tests/test_calibrate.py tests/test_classify.py`: 28 tests pass. The full suite
+  (`uv run pytest`) has 86 on this branch.
+- `uv run python -m classification.calibrate --dry-run` prints 131 topics (50 / 53 / 28),
+  `t_partial 0.6619`, `t_covered 0.7267`, macro-F1 0.7388, leave-one-out 0.6377.
+- Running `calibrate` then `run` again changes nothing in the repository except the
+  timestamp in `run_meta.json` and the date in `thresholds.json`.
+- `uv run ruff check .` and `ruff format --check` are clean.
+
+## 12. Terms
+
+- **Cosine similarity:** how close the directions of two chunk embeddings are (1 = same meaning).
+- **F1:** for one class, 2 x hits / (predicted + actual). **Macro-F1:** the average of the three.
+- **Bootstrap:** refitting on many resamples of the labelled topics to see how much the cut-offs move.
+- **Leave-one-out:** fit without a topic, label it, and repeat for every topic.
+- **Provisional:** the thresholds rest on labels that were not all made independently by people.
+- **Stable / uncertain:** whether the score is outside or inside a cut-off's 95% interval.
