@@ -130,6 +130,13 @@ Score ranges of `best_coverage_any` over the 132 SCERT topics:
 
 ## 6. Evaluation (provisional: AI labels)
 
+> **Superseded for Phase 4.** This section and `eval/results.md` describe the first fit
+> (24 Oct): 40 AI-labelled topics, thresholds 0.6923 / 0.7696, kept as
+> `processed/alignment/thresholds_ai_labelled.json`. The thresholds Phase 4 uses now are fitted
+> on 131 researcher-reviewed labels by `classification/calibrate.py` and are documented in
+> `docs/CLASSIFICATION.md` §3 and §7. The model comparison below (bge vs e5 vs TF-IDF) still rests
+> on the 40 AI-labelled topics.
+
 **Gold-set sampling** (`alignment/make_gold.py`, seed 42):
 
 1. One random topic from each of the 20 SCERT units, so every unit is represented, including
