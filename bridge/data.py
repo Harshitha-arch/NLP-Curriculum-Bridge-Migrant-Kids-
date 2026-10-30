@@ -9,8 +9,11 @@ from pathlib import Path
 
 import pandas as pd
 
+from classification.classify import load_thresholds
+
 LABELS = ["Not Covered", "Partially Covered", "Covered"]
 SENTENCE_END = re.compile(r"(?<=[.!?])\s+")
+NO_NCERT = "No related NCERT section found"
 
 
 @dataclass
@@ -36,6 +39,9 @@ class TopicSources:
     confidence: str
     scert: Passage
     ncert: list[Passage] = field(default_factory=list)
+    ncert_rule: str = ""  # why these NCERT passages (or none) were chosen
+    t_partial: float | None = None  # cut-off the rule used
+    label_mismatch: bool = False  # score vs t_partial disagrees with the gap-matrix label
 
 
 def load_gap_matrix(path: str | Path) -> pd.DataFrame:
@@ -62,6 +68,12 @@ def filter_topics(gap: pd.DataFrame, labels: list[str], unit: str | None = None)
     return out
 
 
+def load_t_partial(path: str | Path) -> float:
+    """``t_partial`` of the primary model in thresholds.json (the Not Covered cut-off)."""
+    primary = json.loads(Path(path).read_text(encoding="utf-8"))["primary"]
+    return load_thresholds(path, primary).t_partial
+
+
 def truncate(text: str, max_chars: int) -> str:
     """Cut `text` at the last sentence end within `max_chars` (hard cut if there is none)."""
     if len(text) <= max_chars:
@@ -80,8 +92,14 @@ def get_sources(
     n_ncert: int = 2,
     max_scert_chars: int = 6000,
     max_ncert_chars: int = 2500,
+    t_partial: float | None = None,
 ) -> TopicSources:
-    """Collect the SCERT topic and its closest NCERT topics for one gap-matrix row."""
+    """Collect the SCERT topic and its closest NCERT topics for one gap-matrix row.
+
+    With ``t_partial``, a topic scoring below it (Not Covered) gets no NCERT passages: its
+    closest NCERT sections are not related enough to build on. ``label_mismatch`` flags a
+    gap-matrix label that disagrees with this rule (thresholds.json and gap_matrix.csv out of
+    sync)."""
     row = gap.loc[gap["scert_topic_id"] == topic_id]
     if row.empty:
         raise KeyError(f"{topic_id} is not in the gap matrix")
@@ -93,6 +111,13 @@ def get_sources(
         title=rec["topic_title"],
         text=truncate(rec["text"], max_scert_chars),
     )
+    score = float(row["score"])
+    below = t_partial is not None and score < t_partial
+    if below:
+        n_ncert, rule = 0, "none: score < t_partial (Not Covered)"
+    else:
+        rule = f"top {n_ncert} NCERT matches by coverage"
+    mismatch = t_partial is not None and below != (row["label"] == "Not Covered")
     ranked = matches[matches["scert_topic_id"] == topic_id].sort_values("rank").head(n_ncert)
     ncert = [
         Passage(
@@ -109,10 +134,13 @@ def get_sources(
         unit=row["scert_unit"],
         title=row["scert_topic_title"],
         label=row["label"],
-        score=float(row["score"]),
+        score=score,
         confidence=row["confidence"],
         scert=scert,
         ncert=ncert,
+        ncert_rule=rule,
+        t_partial=t_partial,
+        label_mismatch=mismatch,
     )
 
 

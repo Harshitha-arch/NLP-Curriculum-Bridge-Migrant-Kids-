@@ -9,10 +9,12 @@ import pytest
 
 from bridge import llm
 from bridge.data import (
+    NO_NCERT,
     filter_topics,
     get_sources,
     load_gap_matrix,
     load_matches,
+    load_t_partial,
     load_topics,
     save_pack,
     truncate,
@@ -101,6 +103,39 @@ def test_get_sources_unknown_topic(corpus):
         get_sources("nope", *corpus)
 
 
+def test_not_covered_gets_no_ncert_passages(corpus):
+    gap, topics, matches = corpus
+    src = get_sources("S1", gap, topics, matches, t_partial=0.65)  # score 0.61 < 0.65
+    assert src.ncert == [] and src.ncert_rule.startswith("none") and not src.label_mismatch
+    _, user = build_prompt(src)
+    assert "No related NCERT section was found" in user and "NCERT passage 1" not in user
+    src = get_sources("S1", gap, topics, matches, t_partial=0.60)  # now at/above the cut-off
+    assert len(src.ncert) == 2 and src.label_mismatch  # label still says Not Covered
+
+
+def test_load_t_partial_uses_primary_model(tmp_path):
+    t = {"t_partial": 0.5, "t_covered": 0.7, "model": "m", "ci95": {"t_partial": [0, 1]}}
+    t["ci95"]["t_covered"] = [0, 1]
+    data = {"primary": "bge", "label_source": "x", "date": "d"}
+    data["thresholds"] = {"bge": t, "e5": dict(t, t_partial=0.9)}
+    path = tmp_path / "thresholds.json"
+    path.write_text(json.dumps(data), encoding="utf-8")
+    assert load_t_partial(path) == 0.5
+
+
+def test_real_rule_agrees_with_gap_matrix():
+    """thresholds.json and gap_matrix.csv are in sync: Not Covered <=> score < t_partial."""
+    gap = load_gap_matrix(ROOT / "processed/gap/gap_matrix.csv")
+    topics = load_topics(ROOT / "processed/topics.jsonl")
+    matches = load_matches(ROOT / "processed/alignment/bge-large-en-v1.5/topic_matches.csv")
+    tp = load_t_partial(ROOT / "processed/alignment/thresholds.json")
+    for tid in gap["scert_topic_id"]:
+        src = get_sources(tid, gap, topics, matches, t_partial=tp)
+        assert not src.label_mismatch, tid
+        assert (src.ncert == []) == (src.label == "Not Covered"), tid
+    assert NO_NCERT == "No related NCERT section found"
+
+
 def test_truncate_cuts_at_sentence_end():
     text = "One two three. Four five six. Seven eight nine."
     out = truncate(text, 35)
@@ -140,9 +175,9 @@ def test_prompt_contains_passages_rules_and_headings(corpus):
     assert "simple English" in user
 
 
-def test_prompt_v2_never_asks_for_padding(corpus):
+def test_prompt_never_asks_for_padding(corpus):
     system, _ = build_prompt(get_sources("S1", *corpus))
-    assert PROMPT_VERSION == "v2"
+    assert PROMPT_VERSION == "v3"
     assert "every length and count below is a maximum" in system
     assert 'Facts from them may appear only under "What you already know"' in system
     assert "250-400" not in system and "8-10" not in system
@@ -386,6 +421,7 @@ def test_app_keeps_edits_and_resets_approval_on_regenerate(monkeypatch):
 
     at.text_input(key="key::gemini").set_value(KEY).run()
     topic().set_value(a).run()
+    assert any(NO_NCERT in m.value for m in at.markdown)  # Not Covered: no NCERT passages
     generate()
     edit, approved = f"edit::{a}", f"approved::{a}"
     at.text_area(key=edit).set_value("my edit").run()

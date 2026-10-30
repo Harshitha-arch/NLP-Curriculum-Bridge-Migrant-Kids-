@@ -5,6 +5,7 @@ paths:
   gap_matrix: processed/gap/gap_matrix.csv                             # Phase 4 output
   topic_matches: processed/alignment/bge-large-en-v1.5/topic_matches.csv  # NCERT matches per topic
   topics: processed/topics.jsonl                                       # full text of every topic
+  thresholds: processed/alignment/thresholds.json                       # t_partial: below it, no NCERT passages
   output_dir: processed/bridge                                         # approved packs
 
 sources:

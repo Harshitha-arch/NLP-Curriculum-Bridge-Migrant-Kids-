@@ -20,10 +20,12 @@ import yaml
 from bridge import llm
 from bridge.data import (
     LABELS,
+    NO_NCERT,
     filter_topics,
     get_sources,
     load_gap_matrix,
     load_matches,
+    load_t_partial,
     load_topics,
     pack_stem,
     save_pack,
@@ -48,6 +50,7 @@ def load_data():
         load_gap_matrix(PATHS["gap_matrix"]),
         load_topics(PATHS["topics"]),
         load_matches(PATHS["topic_matches"]),
+        load_t_partial(PATHS["thresholds"]),
     )
 
 
@@ -70,7 +73,7 @@ def keep_edit(key: str, edit_key: str) -> None:
     st.session_state["packs"][key]["edited"] = st.session_state[edit_key]
 
 
-gap, topics, matches = load_data()
+gap, topics, matches, t_partial = load_data()
 st.session_state.setdefault("packs", {})
 
 # ---------------------------------------------------------------- sidebar: model settings
@@ -141,14 +144,21 @@ src = get_sources(
     n_ncert=CFG["sources"]["ncert_matches"],
     max_scert_chars=CFG["sources"]["max_scert_chars"],
     max_ncert_chars=CFG["sources"]["max_ncert_chars"],
+    t_partial=t_partial,
 )
 
 color = {"Not Covered": "red", "Partially Covered": "orange", "Covered": "green"}[src.label]
-closest = f"{src.ncert[0].chapter} › {src.ncert[0].title}" if src.ncert else "none"
+closest = f"*{src.ncert[0].chapter} › {src.ncert[0].title}*" if src.ncert else NO_NCERT
 st.markdown(
     f":{color}-badge[{src.label}] &nbsp; coverage score **{src.score:.3f}** · "
-    f"label confidence **{src.confidence}** · closest NCERT section: *{closest}*"
+    f"label confidence **{src.confidence}** · closest NCERT section: {closest}"
 )
+if src.label_mismatch:
+    st.warning(
+        f"The gap matrix says {src.label}, but the score {src.score:.4f} is "
+        f"{'below' if src.score < t_partial else 'at or above'} t_partial {t_partial} in "
+        "thresholds.json. The two files are out of sync: re-run classification.run."
+    )
 
 with st.expander("Textbook passages sent to the model"):
     st.markdown(f"**SCERT · {src.scert.chapter} · {src.scert.title}**")
@@ -156,6 +166,8 @@ with st.expander("Textbook passages sent to the model"):
     for p in src.ncert:
         st.markdown(f"**NCERT · {p.chapter} · {p.title}** (coverage {p.coverage:.3f})")
         st.write(p.text)
+    if not src.ncert:
+        st.markdown(f"**NCERT:** {NO_NCERT} (score below t_partial {t_partial}).")
 
 # ---------------------------------------------------------------- generate
 key = topic_id
@@ -200,6 +212,9 @@ if st.button(
                     "usage": gen.usage,
                     "scert_source": src.scert.topic_id,
                     "ncert_sources": [p.topic_id for p in src.ncert],
+                    "ncert_rule": src.ncert_rule,
+                    "t_partial": src.t_partial,
+                    "thresholds_file": CFG["paths"]["thresholds"],
                     "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
                 },
             }

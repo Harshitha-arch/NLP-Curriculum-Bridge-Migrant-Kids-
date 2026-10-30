@@ -6,7 +6,7 @@ import re
 
 from bridge.data import TopicSources
 
-PROMPT_VERSION = "v2"
+PROMPT_VERSION = "v3"
 
 SECTIONS = [
     "What you already know",
@@ -80,6 +80,12 @@ def build_prompt(src: TopicSources) -> tuple[str, str]:
         src.scert.text,
         ">>>",
     ]
+    if not src.ncert:
+        parts += [
+            "",
+            "NCERT passages: No related NCERT section was found. Under 'What you already know', "
+            "link the topic to daily life only.",
+        ]
     for i, p in enumerate(src.ncert, 1):
         parts += [
             "",
