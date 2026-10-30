@@ -1,0 +1,27 @@
+{
+  "topic_id": "SCERT_c6_Term_3_56",
+  "unit": "Plants in Daily Life",
+  "title": "Interrelationship between plants and animals",
+  "label": "Partially Covered",
+  "score": 0.6886,
+  "confidence": "uncertain",
+  "provider": "anthropic",
+  "model": "claude-haiku-5-5",
+  "prompt_version": "v3",
+  "temperature": null,
+  "finish_reason": "end_turn",
+  "usage": {
+    "input_tokens": 3121,
+    "output_tokens": 3587
+  },
+  "scert_source": "SCERT_c6_Term_3_56",
+  "ncert_sources": [
+    "NCERT_c6_fecu102_02",
+    "NCERT_c6_fecu111_01"
+  ],
+  "ncert_rule": "top 2 NCERT matches by coverage",
+  "t_partial": 0.6619,
+  "thresholds_file": "processed/alignment/thresholds.json",
+  "generated_at": "2026-10-30T06:36:47+00:00",
+  "status": "draft"
+}

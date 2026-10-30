@@ -1,0 +1,27 @@
+{
+  "topic_id": "SCERT_c6_Term_3_08",
+  "unit": "Magnetism",
+  "title": "Storage of Magnets",
+  "label": "Partially Covered",
+  "score": 0.6966,
+  "confidence": "stable",
+  "provider": "anthropic",
+  "model": "claude-haiku-5-5",
+  "prompt_version": "v3",
+  "temperature": null,
+  "finish_reason": "end_turn",
+  "usage": {
+    "input_tokens": 2361,
+    "output_tokens": 1659
+  },
+  "scert_source": "SCERT_c6_Term_3_08",
+  "ncert_sources": [
+    "NCERT_c6_fecu104_03",
+    "NCERT_c6_fecu104_05"
+  ],
+  "ncert_rule": "top 2 NCERT matches by coverage",
+  "t_partial": 0.6619,
+  "thresholds_file": "processed/alignment/thresholds.json",
+  "generated_at": "2026-10-30T06:29:31+00:00",
+  "status": "draft"
+}

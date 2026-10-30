@@ -4,3 +4,4 @@ __pycache__/
 .hypothesis/
 .ruff_cache/
 cache/
+.streamlit/secrets.toml

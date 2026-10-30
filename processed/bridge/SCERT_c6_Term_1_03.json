@@ -1,0 +1,27 @@
+{
+  "topic_id": "SCERT_c6_Term_1_03",
+  "unit": "Measurements",
+  "title": "Mass",
+  "label": "Partially Covered",
+  "score": 0.7237,
+  "confidence": "uncertain",
+  "provider": "anthropic",
+  "model": "claude-haiku-5-5",
+  "prompt_version": "v1",
+  "temperature": 0.4,
+  "finish_reason": "end_turn",
+  "usage": {
+    "input_tokens": 2893,
+    "output_tokens": 2726
+  },
+  "scert_source": "SCERT_c6_Term_1_03",
+  "ncert_sources": [
+    "NCERT_c6_fecu106_09",
+    "NCERT_c6_fecu105_03"
+  ],
+  "generated_at": "2026-10-27T00:17:55+00:00",
+  "approved_by": "Aaryaveer Katoch",
+  "edited_by_reviewer": false,
+  "saved_at": "2026-10-27T00:28:42+00:00",
+  "status": "approved"
+}
