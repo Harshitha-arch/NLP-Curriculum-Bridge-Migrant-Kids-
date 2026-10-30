@@ -116,18 +116,18 @@ def get_sources(
     )
 
 
-def pack_stem(topic_id: str, language: str) -> str:
-    """File name stem for a saved pack, e.g. SCERT_c6_Term_2_45.english."""
-    return f"{topic_id}.{language.lower()}"
+def pack_stem(topic_id: str) -> str:
+    """File name stem for a saved pack, e.g. SCERT_c6_Term_2_45."""
+    return topic_id
 
 
-def save_pack(out_dir: str | Path, topic_id: str, language: str, text: str, meta: dict) -> Path:
+def save_pack(out_dir: str | Path, topic_id: str, text: str, meta: dict) -> Path:
     """Write an approved pack as <stem>.md plus <stem>.json metadata; returns the .md path."""
     if not str(meta.get("approved_by", "")).strip():
         raise ValueError("a pack is saved only after a named reviewer approves it")
     out = Path(out_dir)
     out.mkdir(parents=True, exist_ok=True)
-    stem = pack_stem(topic_id, language)
+    stem = pack_stem(topic_id)
     md = out / f"{stem}.md"
     md.write_text(text.rstrip() + "\n", encoding="utf-8", newline="\n")
     (out / f"{stem}.json").write_text(

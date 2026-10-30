@@ -7,7 +7,6 @@ import re
 from bridge.data import TopicSources
 
 PROMPT_VERSION = "v2"
-LANGUAGES = ["English", "Hindi"]
 
 SECTIONS = [
     "What you already know",
@@ -67,25 +66,14 @@ LABEL_GUIDANCE = {
     ),
 }
 
-LANGUAGE_GUIDANCE = {
-    "English": "Write the whole pack in simple English.",
-    "Hindi": (
-        "Write the whole pack in simple Hindi (Devanagari script), except the six headings, "
-        "which stay in English. After each science word, give the English word in brackets, "
-        "because the child's class is taught in English."
-    ),
-}
 
-
-def build_prompt(src: TopicSources, language: str = "English") -> tuple[str, str]:
+def build_prompt(src: TopicSources) -> tuple[str, str]:
     """Return (system, user) messages for one SCERT topic."""
-    if language not in LANGUAGE_GUIDANCE:
-        raise ValueError(f"language must be one of {LANGUAGES}")
     parts = [
         f"Topic: {src.title} (Tamil Nadu SCERT Class 6 Science, unit: {src.unit})",
         f"Gap label: {src.label} (coverage score {src.score:.3f})",
         LABEL_GUIDANCE.get(src.label, LABEL_GUIDANCE["Partially Covered"]),
-        LANGUAGE_GUIDANCE[language],
+        "Write the whole pack in simple English.",
         "",
         f'SCERT passage (what the child must learn): "{src.scert.title}"',
         "<<<",
@@ -104,20 +92,19 @@ def build_prompt(src: TopicSources, language: str = "English") -> tuple[str, str
     return SYSTEM, "\n".join(parts)
 
 
-def pack_markdown(src: TopicSources, body: str, language: str, reviewer: str) -> str:
+def pack_markdown(src: TopicSources, body: str, reviewer: str) -> str:
     """The exported pack: a title block followed by the reviewed lesson text."""
     head = [
         f"# {src.title}",
         "",
         f"*Bridge pack · Tamil Nadu SCERT Class 6 Science · unit: {src.unit} · "
-        f"gap label: {src.label} · language: {language} · reviewed by {reviewer}*",
+        f"gap label: {src.label} · reviewed by {reviewer}*",
         "",
     ]
     return "\n".join(head) + "\n" + body.strip() + "\n"
 
 
 def missing_sections(text: str) -> list[str]:
-    """Headings from SECTIONS with no level-2 heading line starting with that name in `text`
-    (a translation after the name, as in "## Lesson (पाठ)", is allowed)."""
-    found = [m.group(1).strip().lower() for m in re.finditer(r"^##[ \t]+(.+)$", text, re.M)]
-    return [s for s in SECTIONS if not any(h.startswith(s.lower()) for h in found)]
+    """Headings from SECTIONS that are not a level-2 heading line of their own in `text`."""
+    found = {m.group(1).strip().lower() for m in re.finditer(r"^##[ \t]+(.+?)[ \t#]*$", text, re.M)}
+    return [s for s in SECTIONS if s.lower() not in found]

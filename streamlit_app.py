@@ -29,7 +29,6 @@ from bridge.data import (
     save_pack,
 )
 from bridge.prompts import (
-    LANGUAGES,
     PROMPT_VERSION,
     build_prompt,
     missing_sections,
@@ -159,10 +158,9 @@ with st.expander("Textbook passages sent to the model"):
         st.write(p.text)
 
 # ---------------------------------------------------------------- generate
-language = st.radio("Language", LANGUAGES, horizontal=True)
-key = f"{topic_id}::{language}"
+key = topic_id
 edit_key = f"edit::{key}"
-system, user = build_prompt(src, language)
+system, user = build_prompt(src)
 
 if st.button(
     "Generate bridge pack",
@@ -194,7 +192,6 @@ if st.button(
                     "label": src.label,
                     "score": src.score,
                     "confidence": src.confidence,
-                    "language": language,
                     "provider": provider,
                     "model": gen.model,
                     "prompt_version": PROMPT_VERSION,
@@ -241,13 +238,13 @@ if pack:
         key=f"approved::{key}",
     )
     approved = bool(reviewer and checked)
-    final = pack_markdown(src, body, language, reviewer or "-")
+    final = pack_markdown(src, body, reviewer or "-")
 
     b1, b2, _ = st.columns([1, 1, 2])
     b1.download_button(
         "Download .md",
         final,
-        file_name=f"{pack_stem(topic_id, language)}.md",
+        file_name=f"{pack_stem(topic_id)}.md",
         mime="text/markdown",
         disabled=not approved,
     )
@@ -255,7 +252,6 @@ if pack:
         saved = save_pack(
             PATHS["output_dir"],
             topic_id,
-            language,
             final,
             meta
             | {

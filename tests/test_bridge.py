@@ -130,15 +130,14 @@ def test_real_outputs_fit_together():
 # ---------------------------------------------------------------- prompt
 
 
-@pytest.mark.parametrize("language", ["English", "Hindi"])
-def test_prompt_contains_passages_rules_and_headings(corpus, language):
+def test_prompt_contains_passages_rules_and_headings(corpus):
     src = get_sources("S1", *corpus)
-    system, user = build_prompt(src, language)
+    system, user = build_prompt(src)
     assert all(f"## {s}" in system for s in SECTIONS)
     assert "Use only facts that appear in the SCERT passage" in system
     assert "Cells are small." in user and "Living things grow." in user
     assert "teach it from the start" in user  # Not Covered guidance
-    assert ("Devanagari" in user) == (language == "Hindi")
+    assert "simple English" in user
 
 
 def test_prompt_v2_never_asks_for_padding(corpus):
@@ -164,11 +163,6 @@ def test_prompt_follows_gap_label(corpus, label, phrase):
     assert phrase in user and f"Gap label: {label}" in user
 
 
-def test_prompt_rejects_unknown_language(corpus):
-    with pytest.raises(ValueError):
-        build_prompt(get_sources("S1", *corpus), "French")
-
-
 def test_missing_sections():
     full = "\n".join(f"## {s}\ntext" for s in SECTIONS)
     assert missing_sections(full) == []
@@ -176,13 +170,11 @@ def test_missing_sections():
     # Only a heading line counts, not "## Answers" mid-line or a level-3 heading.
     assert missing_sections(full.replace("## Answers", "See ## Answers")) == ["Answers"]
     assert missing_sections(full.replace("## Answers", "### Answers")) == ["Answers"]
-    # A translation after the English heading is fine (Hindi packs).
-    assert missing_sections(full.replace("## Lesson", "## Lesson (पाठ)")) == []
 
 
 def test_pack_markdown_has_title_and_reviewer(corpus):
     src = get_sources("S1", *corpus)
-    md = pack_markdown(src, "## Lesson\nHi", "English", "Ms Rao")
+    md = pack_markdown(src, "## Lesson\nHi", "Ms Rao")
     assert md.startswith("# Cell\n") and "reviewed by Ms Rao" in md and md.endswith("Hi\n")
 
 
@@ -333,10 +325,10 @@ def test_list_models_filters_non_text():
 
 def test_save_pack_requires_reviewer(tmp_path):
     with pytest.raises(ValueError):
-        save_pack(tmp_path, "S1", "English", "text", {"approved_by": " "})
-    md = save_pack(tmp_path, "S1", "Hindi", "text", {"approved_by": "Ms Rao", "model": "m"})
-    assert md.name == "S1.hindi.md" and md.read_text(encoding="utf-8") == "text\n"
-    meta = json.loads((tmp_path / "S1.hindi.json").read_text(encoding="utf-8"))
+        save_pack(tmp_path, "S1", "text", {"approved_by": " "})
+    md = save_pack(tmp_path, "S1", "text", {"approved_by": "Ms Rao", "model": "m"})
+    assert md.name == "S1.md" and md.read_text(encoding="utf-8") == "text\n"
+    meta = json.loads((tmp_path / "S1.json").read_text(encoding="utf-8"))
     assert meta["approved_by"] == "Ms Rao"
 
 
@@ -395,14 +387,14 @@ def test_app_keeps_edits_and_resets_approval_on_regenerate(monkeypatch):
     at.text_input(key="key::gemini").set_value(KEY).run()
     topic().set_value(a).run()
     generate()
-    edit, approved = f"edit::{a}::English", f"approved::{a}::English"
+    edit, approved = f"edit::{a}", f"approved::{a}"
     at.text_area(key=edit).set_value("my edit").run()
     topic().set_value(b).run()
     topic().set_value(a).run()
     assert at.text_area(key=edit).value == "my edit"
     assert not at.checkbox(key=approved).value  # approval does not carry over
 
-    at.text_input(key=f"reviewer::{a}::English").set_value("Ms Rao").run()
+    at.text_input(key=f"reviewer::{a}").set_value("Ms Rao").run()
     at.checkbox(key=approved).check().run()
     generate()
     assert "v2" in at.text_area(key=edit).value  # regenerating replaces the edit

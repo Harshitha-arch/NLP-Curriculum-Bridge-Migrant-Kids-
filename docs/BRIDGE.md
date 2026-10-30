@@ -22,15 +22,14 @@ Each pack has six sections, in this order:
 | Answers | one answer per question |
 | Note for the teacher | what the pack is based on and anything missing or unclear |
 
-Packs can be written in simple English or in Hindi (Devanagari, with the English science word in
-brackets, because the class is taught in English).
+Packs are written in simple English, the language the Tamil Nadu class is taught in.
 
 ## 2. How it works
 
 ```
 gap_matrix.csv ──► pick topic ──► SCERT topic text + 2 closest NCERT topics ──► prompt ──► LLM
                                                                                              │
-       processed/bridge/<topic>.<language>.md + .json  ◄── teacher approves ◄── edit ◄──────┘
+       processed/bridge/<topic>.md + .json  ◄── teacher approves ◄── edit ◄─────────────────┘
 ```
 
 **Inputs** (all from earlier stages, nothing is re-computed):
@@ -55,7 +54,7 @@ adds. Covered: a short revision lesson using SCERT's terms.
 checked the facts against the passages. The full prompt is shown in the app, so the reviewer can
 compare.
 
-**Traceability.** Each saved pack has a `.json` record: topic, label, score, language, provider,
+**Traceability.** Each saved pack has a `.json` record: topic, label, score, provider,
 model, prompt version, temperature, token usage, NCERT sources, reviewer, whether the reviewer
 edited it, and timestamps.
 
@@ -101,13 +100,13 @@ uv run pytest tests/test_bridge.py
 
 | File | Content |
 |---|---|
-| `<scert_topic_id>.<language>.md` | the approved pack, with a title line naming the unit, label and reviewer |
-| `<scert_topic_id>.<language>.json` | the generation and review record (§2) |
+| `<scert_topic_id>.md` | the approved pack, with a title line naming the unit, label and reviewer |
+| `<scert_topic_id>.json` | the generation and review record (§2) |
 
 ## 6. Verification
 
 - `tests/test_bridge.py` (29 tests) covers source selection and rank order, sentence-end truncation,
-  the prompt for each label and language, the request and response format of each provider (with a
+  the prompt for each label, the request and response format of each provider (with a
   mocked HTTP transport), temperature omitted by default, thinking-token usage, error messages
   that never contain the key, the temperature retry, heading-line checks, saving only with a
   named reviewer, and the app itself (Streamlit `AppTest` with the LLM patched out: generate is
@@ -140,8 +139,8 @@ packs have been generated. Both need an API key in `.streamlit/secrets.toml`.
 2. **No automatic fact check.** The proposal's checker agent (back-translation, chrF++, reading
    level) is not built. The teacher's review is the only check, so packs must not be used
    unreviewed.
-3. **Hindi is written by the LLM**, not by IndicTrans2 as planned in REQ-06, and has not been
-   rated by a Hindi speaker or scored with BLEU/COMET.
+3. **English only.** Packs in the child's home language (REQ-06) were dropped at review: the
+   class is taught in English, and machine-translated lessons could not be checked by the team.
 4. **Diagrams are missing.** The passages are text only, and figure labels inside them are noisy
    (`docs/PREPROCESSING.md` §6).
 5. **One pack at a time.** There is no batch mode; generating the sample packs for the report
