@@ -1,17 +1,17 @@
 {
   "model": "bge",
   "model_name": "BAAI/bge-large-en-v1.5",
-  "t_partial": 0.64,
-  "t_covered": 0.735,
-  "label_source": "Researcher-reviewed (AI-assisted); 29 topics hand-labelled, remainder AI-assisted then reviewed",
+  "t_partial": 0.6619,
+  "t_covered": 0.7267,
+  "label_source": "Researcher-reviewed (AI-assisted); 49 topics read and labelled by the researcher (19 in order, 30 in a blind spot-check), 82 AI-assisted then reviewed",
   "provisional": true,
-  "thresholds_date": "2026-10-26",
+  "thresholds_date": "2026-10-28",
   "topics": 132,
   "label_counts": {
-    "Not Covered": 42,
-    "Partially Covered": 64,
-    "Covered": 26
+    "Not Covered": 50,
+    "Partially Covered": 54,
+    "Covered": 28
   },
-  "uncertain": 60,
-  "created": "2026-10-26T06:30:56+00:00"
+  "uncertain": 63,
+  "created": "2026-10-28T04:24:01+00:00"
 }

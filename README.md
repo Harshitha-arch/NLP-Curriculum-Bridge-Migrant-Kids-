@@ -65,8 +65,13 @@ Covered per SCERT topic) using the thresholds in `processed/alignment/thresholds
 documentation: [`docs/CLASSIFICATION.md`](docs/CLASSIFICATION.md).
 
 ```
-uv run python -m classification.run     # writes processed/gap/
+uv run python -m classification.calibrate   # refit thresholds from eval/human_labels.csv
+uv run python -m classification.run         # writes processed/gap/
 ```
+
+`calibrate` rewrites `processed/alignment/thresholds.json` from the researcher-reviewed labels
+in `eval/human_labels.csv`; it is deterministic, so the same labels give the same thresholds and
+the same gap matrix.
 
 ## Bridge content app (`bridge/`, `streamlit_app.py`)
 
