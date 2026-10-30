@@ -73,14 +73,20 @@ uv run python -m classification.run         # writes processed/gap/
 in `eval/human_labels.csv`; it is deterministic, so the same labels give the same thresholds and
 the same gap matrix.
 
-## Bridge content app (`bridge/`, `streamlit_app.py`)
+## Bridge content (`bridge/`, `streamlit_app.py`)
 
-A Streamlit app that writes a bridge pack (short lesson, key words, five practice questions with
-answers) for a Not Covered or Partially Covered SCERT topic, using the SCERT and closest NCERT
-passages and an LLM API key (Gemini, OpenAI or Anthropic). A teacher edits and approves each
-pack before it can be downloaded or saved to `processed/bridge/`. Full documentation:
-[`docs/BRIDGE.md`](docs/BRIDGE.md).
+Writes a **bridge pack** (short English lesson, key words, practice questions with answers) for
+each of the 104 Not Covered or Partially Covered SCERT topics, using the SCERT passage and, for
+Partially Covered topics, the two closest NCERT passages (Not Covered topics get none: the cut-off
+`t_partial` is read from `processed/alignment/thresholds.json`). `bridge.run` writes an LLM
+**draft** for every topic; a teacher checks, edits and **approves** each pack in the Streamlit
+app before it can be used. Full documentation: [`docs/BRIDGE.md`](docs/BRIDGE.md).
 
 ```
-uv run streamlit run streamlit_app.py   # key: sidebar, env var or .streamlit/secrets.toml
+uv run python -m bridge.run --dry-run --limit 3   # prompts only, no API calls
+uv run python -m bridge.run                       # drafts -> processed/bridge/ + index.csv
+uv run streamlit run streamlit_app.py             # review and approve
 ```
+
+API keys come from the environment or `.streamlit/secrets.toml` (git-ignored), e.g.
+`ANTHROPIC_API_KEY`. Drafts are unreviewed and must not be used with children.
