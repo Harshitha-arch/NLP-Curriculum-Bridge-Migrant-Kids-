@@ -5,6 +5,7 @@ from __future__ import annotations
 import json
 import re
 from dataclasses import dataclass, field
+from datetime import UTC, datetime
 from pathlib import Path
 
 import pandas as pd
@@ -149,10 +150,19 @@ def pack_stem(topic_id: str) -> str:
     return topic_id
 
 
-def save_pack(out_dir: str | Path, topic_id: str, text: str, meta: dict) -> Path:
-    """Write an approved pack as <stem>.md plus <stem>.json metadata; returns the .md path."""
-    if not str(meta.get("approved_by", "")).strip():
-        raise ValueError("a pack is saved only after a named reviewer approves it")
+DRAFT = "draft"
+APPROVED = "approved"
+
+
+def draft_banner(model: str) -> str:
+    """First line of every draft .md."""
+    return (
+        f"> **Unreviewed draft from {model}.** It must not be used with children before a "
+        "teacher has reviewed it."
+    )
+
+
+def _write(out_dir: str | Path, topic_id: str, text: str, meta: dict) -> Path:
     out = Path(out_dir)
     out.mkdir(parents=True, exist_ok=True)
     stem = pack_stem(topic_id)
@@ -162,3 +172,70 @@ def save_pack(out_dir: str | Path, topic_id: str, text: str, meta: dict) -> Path
         json.dumps(meta, ensure_ascii=False, indent=2) + "\n", encoding="utf-8", newline="\n"
     )
     return md
+
+
+def read_meta(out_dir: str | Path, topic_id: str) -> dict | None:
+    """The saved record of a pack, or None if there is none."""
+    path = Path(out_dir) / f"{pack_stem(topic_id)}.json"
+    return json.loads(path.read_text(encoding="utf-8")) if path.exists() else None
+
+
+def save_draft(out_dir: str | Path, topic_id: str, text: str, meta: dict) -> Path:
+    """Write a generated, unreviewed pack (status "draft"). Never replaces an approved pack."""
+    old = read_meta(out_dir, topic_id)
+    if old and old.get("status") == APPROVED:
+        raise FileExistsError(f"{topic_id} already has an approved pack; it is not overwritten")
+    banner = draft_banner(meta.get("model", "an LLM"))
+    return _write(out_dir, topic_id, f"{banner}\n\n{text.strip()}", meta | {"status": DRAFT})
+
+
+def save_pack(out_dir: str | Path, topic_id: str, text: str, meta: dict) -> Path:
+    """Write an approved pack (status "approved") as <stem>.md plus <stem>.json metadata;
+    replaces a draft of the same topic. Returns the .md path."""
+    if not str(meta.get("approved_by", "")).strip():
+        raise ValueError("a pack is saved only after a named reviewer approves it")
+    return _write(out_dir, topic_id, text, meta | {"status": APPROVED})
+
+
+def load_pack(out_dir: str | Path, topic_id: str) -> tuple[str, dict] | None:
+    """(body, record) of a saved pack, or None. The body starts at the first "## " heading,
+    so the draft banner or the approved title block is left out."""
+    meta = read_meta(out_dir, topic_id)
+    md = Path(out_dir) / f"{pack_stem(topic_id)}.md"
+    if meta is None or not md.exists():
+        return None
+    text = md.read_text(encoding="utf-8")
+    start = text.find("\n## ")
+    body = text[start + 1 :] if start >= 0 else text
+    return body.strip() + "\n", meta
+
+
+def generation_record(
+    src: TopicSources,
+    provider: str,
+    gen,
+    prompt_version: str,
+    temperature: float | None,
+    thresholds_file: str,
+) -> dict:
+    """The .json record of one generated pack (before review)."""
+    return {
+        "topic_id": src.topic_id,
+        "unit": src.unit,
+        "title": src.title,
+        "label": src.label,
+        "score": src.score,
+        "confidence": src.confidence,
+        "provider": provider,
+        "model": gen.model,
+        "prompt_version": prompt_version,
+        "temperature": temperature,
+        "finish_reason": gen.finish_reason,
+        "usage": gen.usage,
+        "scert_source": src.scert.topic_id,
+        "ncert_sources": [p.topic_id for p in src.ncert],
+        "ncert_rule": src.ncert_rule,
+        "t_partial": src.t_partial,
+        "thresholds_file": thresholds_file,
+        "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
+    }

@@ -1,12 +1,15 @@
-# Settings for bridge content generation (streamlit run streamlit_app.py).
+# Settings for bridge content generation (streamlit run streamlit_app.py and
+# python -m bridge.run).
 # Paths are relative to the repository root.
 
 paths:
   gap_matrix: processed/gap/gap_matrix.csv                             # Phase 4 output
   topic_matches: processed/alignment/bge-large-en-v1.5/topic_matches.csv  # NCERT matches per topic
   topics: processed/topics.jsonl                                       # full text of every topic
-  thresholds: processed/alignment/thresholds.json                       # t_partial: below it, no NCERT passages
-  output_dir: processed/bridge                                         # approved packs
+  thresholds: processed/alignment/thresholds.json                      # t_partial: below it, no NCERT passages
+  output_dir: processed/bridge                                         # drafts, approved packs, index.csv
+  secrets: .streamlit/secrets.toml                                     # API keys (git-ignored)
+  prompt_cache: cache/bridge_prompts                                   # bridge.run --dry-run prompts (git-ignored)
 
 sources:
   ncert_matches: 2        # closest NCERT topics shown to the model as "what the child knows"
@@ -20,6 +23,9 @@ generation:
   temperature: null
   max_tokens: 8192        # thinking/reasoning models count their reasoning against this
   timeout_s: 180
+  retries: 4              # bridge.run only: retries on 429 / 5xx / network errors, with backoff
+
+default_provider: anthropic   # bridge.run --provider default, and the app's first choice
 
 # Default model per provider. Model IDs change often: use "List models" in the app to pick
 # another one available to your key.

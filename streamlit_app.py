@@ -19,12 +19,16 @@ import yaml
 
 from bridge import llm
 from bridge.data import (
+    APPROVED,
+    DRAFT,
     LABELS,
     NO_NCERT,
     filter_topics,
+    generation_record,
     get_sources,
     load_gap_matrix,
     load_matches,
+    load_pack,
     load_t_partial,
     load_topics,
     pack_stem,
@@ -40,6 +44,8 @@ from bridge.prompts import (
 ROOT = Path(__file__).resolve().parent
 CFG = yaml.safe_load((ROOT / "configs" / "bridge.yaml").read_text(encoding="utf-8"))
 PATHS = {k: ROOT / v for k, v in CFG["paths"].items()}
+if os.environ.get("BRIDGE_OUTPUT_DIR"):  # tests save to a temporary folder
+    PATHS["output_dir"] = Path(os.environ["BRIDGE_OUTPUT_DIR"])
 
 st.set_page_config(page_title="Curriculum Bridge", page_icon="📘", layout="wide")
 
@@ -81,7 +87,10 @@ with st.sidebar:
     st.header("Model")
     providers = CFG["providers"]
     provider = st.selectbox(
-        "Provider", list(providers), format_func=lambda p: providers[p]["label"]
+        "Provider",
+        list(providers),
+        index=list(providers).index(CFG["default_provider"]),
+        format_func=lambda p: providers[p]["label"],
     )
     pcfg = providers[provider]
     saved_key = env_key(pcfg["env"])
@@ -195,41 +204,42 @@ if st.button(
         except llm.LLMError as e:
             st.error(str(e))
         else:
-            st.session_state["packs"][key] = {
-                "text": gen.text,
-                "meta": {
-                    "topic_id": src.topic_id,
-                    "unit": src.unit,
-                    "title": src.title,
-                    "label": src.label,
-                    "score": src.score,
-                    "confidence": src.confidence,
-                    "provider": provider,
-                    "model": gen.model,
-                    "prompt_version": PROMPT_VERSION,
-                    "temperature": CFG["generation"]["temperature"],
-                    "finish_reason": gen.finish_reason,
-                    "usage": gen.usage,
-                    "scert_source": src.scert.topic_id,
-                    "ncert_sources": [p.topic_id for p in src.ncert],
-                    "ncert_rule": src.ncert_rule,
-                    "t_partial": src.t_partial,
-                    "thresholds_file": CFG["paths"]["thresholds"],
-                    "generated_at": datetime.now(UTC).isoformat(timespec="seconds"),
-                },
-            }
+            meta = generation_record(
+                src,
+                provider,
+                gen,
+                PROMPT_VERSION,
+                CFG["generation"]["temperature"],
+                CFG["paths"]["thresholds"],
+            )
+            st.session_state["packs"][key] = {"text": gen.text, "meta": meta | {"status": DRAFT}}
             st.session_state[edit_key] = gen.text
             # A new draft has not been reviewed: clear any earlier approval of this pack.
             st.session_state.pop(f"approved::{key}", None)
 
 # ---------------------------------------------------------------- review and export
+if key not in st.session_state["packs"] and (saved := load_pack(PATHS["output_dir"], topic_id)):
+    body_on_disk, record = saved
+    st.session_state["packs"][key] = {"text": body_on_disk, "meta": record, "from_disk": True}
 pack = st.session_state["packs"].get(key)
 if pack:
     meta = pack["meta"]
+    if pack.get("from_disk"):
+        when = meta.get("saved_at") or meta.get("generated_at", "")
+        if meta.get("status") == APPROVED:
+            st.success(
+                f"Loaded the approved pack (reviewed by {meta.get('approved_by')}, {when}). "
+                "Saving again replaces it."
+            )
+        else:
+            st.info(
+                f"Loaded the saved draft from {meta.get('model')} ({when}). It is unreviewed: "
+                "check it against the passages before approving."
+            )
     st.session_state.setdefault(edit_key, pack.get("edited", pack["text"]))
     if gaps := missing_sections(st.session_state[edit_key]):
         st.warning("Missing sections: " + ", ".join(gaps) + ". Regenerate or add them.")
-    if str(meta["finish_reason"]).upper() in {"MAX_TOKENS", "LENGTH"}:
+    if str(meta.get("finish_reason")).upper() in {"MAX_TOKENS", "LENGTH"}:
         st.warning("The model hit its output limit, so the pack may be cut off.")
 
     preview, edit = st.tabs(["Preview", "Edit"])
@@ -264,24 +274,20 @@ if pack:
         disabled=not approved,
     )
     if b2.button("Save to processed/bridge", disabled=not approved):
-        saved = save_pack(
-            PATHS["output_dir"],
-            topic_id,
-            final,
-            meta
-            | {
-                "approved_by": reviewer,
-                "edited_by_reviewer": body.strip() != pack["text"].strip(),
-                "saved_at": datetime.now(UTC).isoformat(timespec="seconds"),
-            },
-        )
-        st.success(f"Saved {saved.relative_to(ROOT)}")
+        approved_meta = meta | {
+            "approved_by": reviewer,
+            "edited_by_reviewer": body.strip() != pack["text"].strip(),
+            "saved_at": datetime.now(UTC).isoformat(timespec="seconds"),
+        }
+        saved = save_pack(PATHS["output_dir"], topic_id, final, approved_meta)
+        pack["meta"] = approved_meta | {"status": APPROVED}
+        st.success(f"Saved {saved} as approved")
     if not approved:
         st.caption("Export unlocks once a reviewer is named and the check box is ticked.")
 
-    tokens = meta["usage"]
+    tokens = meta.get("usage") or {}
     st.caption(
-        f"{meta['provider']} · {meta['model']} · prompt {meta['prompt_version']} · "
+        f"{meta.get('provider')} · {meta.get('model')} · prompt {meta.get('prompt_version')} · "
         f"tokens in/out: {tokens.get('input_tokens')}/{tokens.get('output_tokens')}"
     )
 

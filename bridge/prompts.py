@@ -114,3 +114,25 @@ def missing_sections(text: str) -> list[str]:
     """Headings from SECTIONS that are not a level-2 heading line of their own in `text`."""
     found = {m.group(1).strip().lower() for m in re.finditer(r"^##[ \t]+(.+?)[ \t#]*$", text, re.M)}
     return [s for s in SECTIONS if s.lower() not in found]
+
+
+def split_sections(text: str) -> dict[str, str]:
+    """Content under each level-2 heading, keyed by the heading text (lower case)."""
+    parts = re.split(r"^##[ \t]+(.+?)[ \t#]*$", text, flags=re.M)
+    return {parts[i].strip().lower(): parts[i + 1].strip() for i in range(1, len(parts) - 1, 2)}
+
+
+def pack_checks(text: str) -> dict:
+    """Automated format checks of one pack (no judgement of the content)."""
+    sec = split_sections(text)
+
+    def body(name: str) -> str:
+        return sec.get(name.lower(), "")
+
+    return {
+        "missing_sections": "; ".join(missing_sections(text)),
+        "empty_sections": "; ".join(s for s in SECTIONS if s.lower() in sec and not body(s)),
+        "lesson_words": len(body("Lesson").split()),
+        "key_word_count": len(re.findall(r"^\s*[-*+]\s+\S", body("Key words"), re.M)),
+        "question_count": len(re.findall(r"^\s*\d+[.)]\s+\S", body("Practice questions"), re.M)),
+    }

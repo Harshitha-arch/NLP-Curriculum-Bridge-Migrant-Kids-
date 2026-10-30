@@ -5,6 +5,8 @@ Keys are sent only in request headers, never in URLs, logs or error messages.
 
 from __future__ import annotations
 
+import time
+from collections.abc import Callable
 from dataclasses import dataclass, field
 
 import httpx
@@ -38,6 +40,16 @@ NON_TEXT = (
 
 class LLMError(RuntimeError):
     """A provider call failed; the message is safe to show to the user."""
+
+    def __init__(self, message: str, status: int | None = None, retry_after: float | None = None):
+        super().__init__(message)
+        self.status = status  # HTTP status, or None for a network error / bad response
+        self.retry_after = retry_after  # seconds from a Retry-After header, if any
+
+    @property
+    def retryable(self) -> bool:
+        """Rate limits, server errors and network errors may succeed on a later try."""
+        return self.status is None or self.status == 429 or self.status >= 500
 
 
 @dataclass
@@ -152,6 +164,37 @@ def _error_message(provider: str, resp: httpx.Response) -> str:
     return f"{provider} API error {resp.status_code}: {msg or resp.reason_phrase}"
 
 
+def _retry_after(resp: httpx.Response) -> float | None:
+    """Seconds from a numeric Retry-After header (HTTP-date values are ignored)."""
+    try:
+        return max(0.0, float(resp.headers.get("retry-after", "")))
+    except ValueError:
+        return None
+
+
+def _call(client, provider, api_key, model, system, user, temperature, max_tokens) -> Generation:
+    """One generation; retried once without temperature if the model rejects it."""
+    for temp in (temperature, None) if temperature is not None else (None,):
+        url, body = build_request(provider, model, system, user, temp, max_tokens)
+        try:
+            resp = client.post(url, json=body, headers=_headers(provider, api_key))
+        except httpx.HTTPError as e:
+            raise LLMError(f"Could not reach the {provider} API: {type(e).__name__}") from None
+        if resp.status_code == 200:
+            try:
+                data = resp.json()
+            except ValueError:
+                raise LLMError(f"{provider} API returned a response that is not JSON") from None
+            try:
+                return parse_response(provider, model, data)
+            except LLMError as e:  # empty or blocked answer: retrying would not help
+                raise LLMError(str(e), resp.status_code) from None
+        msg = _error_message(provider, resp)
+        if not (resp.status_code == 400 and "temperature" in msg.lower() and temp is not None):
+            raise LLMError(msg, resp.status_code, _retry_after(resp))
+    raise LLMError(msg, resp.status_code)
+
+
 def generate(
     provider: str,
     api_key: str,
@@ -162,25 +205,28 @@ def generate(
     max_tokens: int = 8192,
     timeout: float = 180,
     client: httpx.Client | None = None,
+    retries: int = 0,
+    sleep: Callable[[float], None] = time.sleep,
 ) -> Generation:
-    """Generate text. Retries once without temperature if the model rejects it."""
+    """Generate text. With ``retries``, rate limits (429), server errors (5xx) and network
+    errors are retried with exponential backoff (2, 4, 8 ... s, at most 60 s), waiting for the
+    server's Retry-After instead when it sends one."""
     if not api_key:
         raise LLMError("No API key.")
     own = client is None
     client = client or httpx.Client(timeout=timeout)
     try:
-        for temp in (temperature, None) if temperature is not None else (None,):
-            url, body = build_request(provider, model, system, user, temp, max_tokens)
+        for attempt in range(retries + 1):
             try:
-                resp = client.post(url, json=body, headers=_headers(provider, api_key))
-            except httpx.HTTPError as e:
-                raise LLMError(f"Could not reach the {provider} API: {type(e).__name__}") from None
-            if resp.status_code == 200:
-                return parse_response(provider, model, resp.json())
-            msg = _error_message(provider, resp)
-            if not (resp.status_code == 400 and "temperature" in msg.lower() and temp is not None):
-                raise LLMError(msg)
-        raise LLMError(msg)
+                return _call(
+                    client, provider, api_key, model, system, user, temperature, max_tokens
+                )
+            except LLMError as e:
+                if not e.retryable or attempt == retries:
+                    raise
+                wait = e.retry_after if e.retry_after is not None else 2 ** (attempt + 1)
+                sleep(min(wait, 60.0))
+        raise AssertionError("unreachable")
     finally:
         if own:
             client.close()

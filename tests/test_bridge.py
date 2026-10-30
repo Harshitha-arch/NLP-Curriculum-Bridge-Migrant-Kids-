@@ -16,6 +16,7 @@ from bridge.data import (
     load_matches,
     load_t_partial,
     load_topics,
+    save_draft,
     save_pack,
     truncate,
 )
@@ -370,8 +371,18 @@ def test_save_pack_requires_reviewer(tmp_path):
 # ---------------------------------------------------------------- app (LLM patched out)
 
 
-def test_app_generate_review_flow(monkeypatch):
+def app_test():
+    """The app with an empty secrets store, so a developer's own keys are never read."""
     from streamlit.testing.v1 import AppTest
+
+    at = AppTest.from_file(str(ROOT / "streamlit_app.py"), default_timeout=60)
+    for name in ("GEMINI_API_KEY", "OPENAI_API_KEY", "ANTHROPIC_API_KEY"):
+        at.secrets[name] = ""
+    return at.run()
+
+
+def test_app_generate_review_flow(monkeypatch, tmp_path):
+    monkeypatch.setenv("BRIDGE_OUTPUT_DIR", str(tmp_path))
 
     calls = []
 
@@ -385,22 +396,23 @@ def test_app_generate_review_flow(monkeypatch):
         )
 
     monkeypatch.setattr(llm, "generate", fake_generate)
-    at = AppTest.from_file(str(ROOT / "streamlit_app.py"), default_timeout=60).run()
+    at = app_test()
     assert not at.exception
     generate = next(b for b in at.button if b.label == "Generate bridge pack")
     assert generate.disabled  # no key yet
 
-    at.text_input(key="key::gemini").set_value("k").run()
+    at.text_input(key="key::anthropic").set_value("k").run()
     next(b for b in at.button if b.label == "Generate bridge pack").click().run()
-    assert not at.exception and calls == [("gemini", "k", "gemini-3.8-flash")]
+    assert not at.exception and calls == [("anthropic", "k", "claude-haiku-5-5")]
     assert not at.warning  # all sections present
     save = next(b for b in at.button if b.label == "Save to processed/bridge")
     assert save.disabled  # not approved yet
 
 
-def test_app_keeps_edits_and_resets_approval_on_regenerate(monkeypatch):
+def test_app_keeps_edits_and_resets_approval_on_regenerate(monkeypatch, tmp_path):
     """Edits survive switching topics; a regenerated draft must be approved again."""
-    from streamlit.testing.v1 import AppTest
+
+    monkeypatch.setenv("BRIDGE_OUTPUT_DIR", str(tmp_path))
 
     n = []
 
@@ -411,7 +423,7 @@ def test_app_keeps_edits_and_resets_approval_on_regenerate(monkeypatch):
     monkeypatch.setattr(llm, "generate", fake_generate)
     gap = load_gap_matrix(ROOT / "processed/gap/gap_matrix.csv")
     a, b = gap.loc[gap["label"] == "Not Covered", "scert_topic_id"].iloc[:2]
-    at = AppTest.from_file(str(ROOT / "streamlit_app.py"), default_timeout=60).run()
+    at = app_test()
 
     def topic():
         return next(s for s in at.selectbox if s.label.startswith("Topic"))
@@ -419,7 +431,7 @@ def test_app_keeps_edits_and_resets_approval_on_regenerate(monkeypatch):
     def generate():
         next(x for x in at.button if x.label == "Generate bridge pack").click().run()
 
-    at.text_input(key="key::gemini").set_value(KEY).run()
+    at.text_input(key="key::anthropic").set_value(KEY).run()
     topic().set_value(a).run()
     assert any(NO_NCERT in m.value for m in at.markdown)  # Not Covered: no NCERT passages
     generate()
@@ -438,3 +450,42 @@ def test_app_keeps_edits_and_resets_approval_on_regenerate(monkeypatch):
     assert next(x for x in at.button if x.label == "Save to processed/bridge").disabled
     assert not at.exception
     assert KEY not in json.dumps(at.session_state["packs"], default=str)  # never in the record
+
+
+def test_app_loads_draft_and_approving_saves_it_as_approved(monkeypatch, tmp_path):
+
+    monkeypatch.setenv("BRIDGE_OUTPUT_DIR", str(tmp_path))
+    gap = load_gap_matrix(ROOT / "processed/gap/gap_matrix.csv")
+    tid = gap.loc[gap["label"] == "Not Covered", "scert_topic_id"].iloc[0]
+    body = "\n".join(f"## {s}\nfrom disk" for s in SECTIONS)
+    save_draft(tmp_path, tid, body, {"model": "m-1", "generated_at": "2026-10-30"})
+
+    at = app_test()
+    next(s for s in at.selectbox if s.label.startswith("Topic")).set_value(tid).run()
+    assert at.text_area(key=f"edit::{tid}").value.startswith("## What you already know")
+    assert "Unreviewed draft" not in at.text_area(key=f"edit::{tid}").value
+    assert any("saved draft from m-1" in i.value for i in at.info)
+    assert next(b for b in at.button if b.label == "Save to processed/bridge").disabled
+
+    at.text_input(key=f"reviewer::{tid}").set_value("Ms Rao").run()
+    at.checkbox(key=f"approved::{tid}").check().run()
+    next(b for b in at.button if b.label == "Save to processed/bridge").click().run()
+    assert not at.exception
+    meta = json.loads((tmp_path / f"{tid}.json").read_text(encoding="utf-8"))
+    assert meta["status"] == "approved" and meta["approved_by"] == "Ms Rao"
+    md = (tmp_path / f"{tid}.md").read_text(encoding="utf-8")
+    assert "Unreviewed draft" not in md and "reviewed by Ms Rao" in md
+
+
+def test_pack_checks_counts_and_empty_sections():
+    from bridge.prompts import pack_checks
+
+    text = (
+        "## What you already know\nYou know water.\n## Lesson\nWater boils when hot.\n"
+        "## Key words\n- **boil**: bubbles\n- **steam**: hot vapour\n"
+        "## Practice questions\n1. What is boiling?\n2) What is steam?\n"
+        "## Answers\n\n## Note for the teacher\nBased on the passage."
+    )
+    c = pack_checks(text)
+    assert c["lesson_words"] == 4 and c["key_word_count"] == 2 and c["question_count"] == 2
+    assert c["empty_sections"] == "Answers" and c["missing_sections"] == ""
