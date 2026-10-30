@@ -1,0 +1,27 @@
+{
+  "topic_id": "SCERT_c6_Term_3_18",
+  "unit": "Water",
+  "title": "Natural Sources of fresh water",
+  "label": "Partially Covered",
+  "score": 0.7026,
+  "confidence": "stable",
+  "provider": "anthropic",
+  "model": "claude-haiku-5-5",
+  "prompt_version": "v3",
+  "temperature": null,
+  "finish_reason": "end_turn",
+  "usage": {
+    "input_tokens": 3296,
+    "output_tokens": 2616
+  },
+  "scert_source": "SCERT_c6_Term_3_18",
+  "ncert_sources": [
+    "NCERT_c6_fecu111_03",
+    "NCERT_c6_fecu108_03"
+  ],
+  "ncert_rule": "top 2 NCERT matches by coverage",
+  "t_partial": 0.6619,
+  "thresholds_file": "processed/alignment/thresholds.json",
+  "generated_at": "2026-10-30T06:30:33+00:00",
+  "status": "draft"
+}
