@@ -1,0 +1,24 @@
+{
+  "topic_id": "SCERT_c6_Term_2_26",
+  "unit": "Changes Around Us",
+  "title": "Slow and Fast changes",
+  "label": "Not Covered",
+  "score": 0.6439,
+  "confidence": "uncertain",
+  "provider": "anthropic",
+  "model": "claude-haiku-5-5",
+  "prompt_version": "v3",
+  "temperature": null,
+  "finish_reason": "end_turn",
+  "usage": {
+    "input_tokens": 992,
+    "output_tokens": 1366
+  },
+  "scert_source": "SCERT_c6_Term_2_26",
+  "ncert_sources": [],
+  "ncert_rule": "none: score < t_partial (Not Covered)",
+  "t_partial": 0.6619,
+  "thresholds_file": "processed/alignment/thresholds.json",
+  "generated_at": "2026-10-30T06:22:29+00:00",
+  "status": "draft"
+}
